@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OW Analytics — Hero Pick Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" />
+</head>
+<body>
+
+<div class="layout">
+
+  <!-- ── Sidebar ─────────────────────────────────────── -->
+  <aside class="sidebar">
+    <div class="sidebar-logo">
+      <div class="title">OWCS Hero Statistics</div>
+      <div class="subtitle">Pick Rate / Win Rate</div>
+    </div>
+    <nav class="sidebar-nav">
+      <div class="nav-section">Main</div>
+      <button class="nav-item active" data-page="overview">
+        <span class="nav-icon">📊</span> Overview
+      </button>
+
+      <div class="nav-section">Meta</div>
+      <button class="nav-item" data-page="tournament">
+        <span class="nav-icon">🏆</span> Tournament
+      </button>
+      <button class="nav-item" data-page="map">
+        <span class="nav-icon">🗺</span> Map
+      </button>
+      <button class="nav-item" data-page="format">
+        <span class="nav-icon">📋</span> Match Format
+      </button>
+
+      <div class="nav-section">Analysis</div>
+      <button class="nav-item" data-page="team">
+        <span class="nav-icon">🛡</span> Team
+      </button>
+      <button class="nav-item" data-page="player">
+        <span class="nav-icon">👤</span> Player
+      </button>
+      <button class="nav-item" data-page="winrate">
+        <span class="nav-icon">📈</span> Win Rate
+      </button>
+      <button class="nav-item" data-page="position">
+        <span class="nav-icon">🎯</span> Position Picks
+      </button>
+
+      <div class="nav-section">Info</div>
+      <button class="nav-item" data-page="notes">
+        <span class="nav-icon">📝</span> Data Notes
+      </button>
+    </nav>
+  </aside>
+
+  <!-- ── Main content ────────────────────────────────── -->
+  <main class="main">
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Overview
+    ═══════════════════════════════════════════════ -->
+    <section id="page-overview" class="page active">
+      <div class="page-header">
+        <h1>Overview</h1>
+        <p>Global hero pick statistics across all tournaments and matches.</p>
+      </div>
+
+      <div class="card-grid" id="overview-cards">
+        <div class="card"><div class="card-label">Tournaments</div><div class="card-value accent" id="stat-tournaments">—</div></div>
+        <div class="card"><div class="card-label">Matches</div><div class="card-value" id="stat-matches">—</div></div>
+        <div class="card"><div class="card-label">Map Sets</div><div class="card-value" id="stat-mapsets">—</div></div>
+        <div class="card"><div class="card-label">Total Picks</div><div class="card-value accent2" id="stat-picks">—</div></div>
+        <div class="card"><div class="card-label">Unique Heroes</div><div class="card-value accent3" id="stat-heroes">—</div></div>
+      </div>
+
+      <div class="two-col">
+        <div class="section">
+          <div class="section-title">Top Heroes by Pick Count</div>
+          <div class="chart-wrap"><canvas id="chart-top-heroes"></canvas></div>
+        </div>
+        <div class="section">
+          <div class="section-title">Pick Rate by Position</div>
+          <div class="chart-wrap"><canvas id="chart-position"></canvas></div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">All Heroes — Overall Pick Stats</div>
+        <div class="controls">
+          <input class="search-input" id="ov-search" placeholder="Search hero…" />
+          <select class="filter-select" id="ov-role">
+            <option value="">All Roles</option>
+            <option>Tank</option><option>DPS</option><option>Support</option>
+          </select>
+          <select class="limit-select" id="ov-limit">
+            <option value="20">Top 20</option>
+            <option value="50">Top 50</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="table-wrap" id="ov-table-wrap"></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Tournament
+    ═══════════════════════════════════════════════ -->
+    <section id="page-tournament" class="page">
+      <div class="page-header">
+        <h1>Tournament Meta</h1>
+        <p>Hero pick counts and pick rates broken down by tournament.</p>
+      </div>
+      <div class="section">
+        <div class="section-title">Top Heroes per Tournament</div>
+        <div class="controls">
+          <select class="filter-select" id="tourn-filter">
+            <option value="">All Tournaments</option>
+          </select>
+          <select class="filter-select" id="tourn-role">
+            <option value="">All Roles</option>
+            <option>Tank</option><option>DPS</option><option>Support</option>
+          </select>
+          <input class="search-input" id="tourn-search" placeholder="Search hero…" />
+          <select class="limit-select" id="tourn-limit">
+            <option value="20">Top 20</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="chart-wrap tall" style="margin-bottom:20px"><canvas id="chart-tourn"></canvas></div>
+        <div class="table-wrap" id="tourn-table-wrap"></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Map
+    ═══════════════════════════════════════════════ -->
+    <section id="page-map" class="page">
+      <div class="page-header">
+        <h1>Map Meta</h1>
+        <p>Hero pick stats and team win rates per map.</p>
+      </div>
+      <div class="section">
+        <div class="section-title">Hero Picks by Map</div>
+        <div class="controls">
+          <select class="filter-select" id="map-filter">
+            <option value="">All Maps</option>
+          </select>
+          <select class="filter-select" id="map-role">
+            <option value="">All Roles</option>
+            <option>Tank</option><option>DPS</option><option>Support</option>
+          </select>
+          <input class="search-input" id="map-search" placeholder="Search hero…" />
+          <select class="limit-select" id="map-limit">
+            <option value="20">Top 20</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="table-wrap" id="map-table-wrap"></div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Map Win Rates by Team</div>
+        <div class="controls">
+          <select class="filter-select" id="mapwr-map">
+            <option value="">All Maps</option>
+          </select>
+          <select class="filter-select" id="mapwr-tourn">
+            <option value="">All Tournaments</option>
+          </select>
+          <input class="search-input" id="mapwr-search" placeholder="Search team…" />
+          <select class="limit-select" id="mapwr-limit">
+            <option value="20">Top 20</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="table-wrap" id="mapwr-table-wrap"></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Match Format
+    ═══════════════════════════════════════════════ -->
+    <section id="page-format" class="page">
+      <div class="page-header">
+        <h1>Match Format Analysis</h1>
+        <p>Hero pick counts by match format (Round Robin, Swiss Stage, Grand Final, etc.).</p>
+      </div>
+      <div class="section">
+        <div class="section-title">Hero Picks by Match Format</div>
+        <div class="controls">
+          <select class="filter-select" id="fmt-filter">
+            <option value="">All Formats</option>
+          </select>
+          <select class="filter-select" id="fmt-tourn">
+            <option value="">All Tournaments</option>
+          </select>
+          <input class="search-input" id="fmt-search" placeholder="Search hero…" />
+          <select class="limit-select" id="fmt-limit">
+            <option value="20">Top 20</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="chart-wrap" style="margin-bottom:20px"><canvas id="chart-fmt"></canvas></div>
+        <div class="table-wrap" id="fmt-table-wrap"></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Team
+    ═══════════════════════════════════════════════ -->
+    <section id="page-team" class="page">
+      <div class="page-header">
+        <h1>Team Analysis</h1>
+        <p>Hero picks and win rates per team.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Team Hero Picks</div>
+        <div class="controls">
+          <select class="filter-select" id="team-filter">
+            <option value="">All Teams</option>
+          </select>
+          <select class="filter-select" id="team-role">
+            <option value="">All Roles</option>
+            <option>Tank</option><option>DPS</option><option>Support</option>
+          </select>
+          <input class="search-input" id="team-search" placeholder="Search hero…" />
+          <select class="limit-select" id="team-limit">
+            <option value="20">Top 20</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="table-wrap" id="team-table-wrap"></div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Team Hero Win Rates</div>
+        <div class="controls">
+          <select class="filter-select" id="teamwr-filter">
+            <option value="">All Teams</option>
+          </select>
+          <input class="search-input" id="teamwr-search" placeholder="Search hero…" />
+          <select class="limit-select" id="teamwr-limit">
+            <option value="20">Top 20</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="table-wrap" id="teamwr-table-wrap"></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Player
+    ═══════════════════════════════════════════════ -->
+    <section id="page-player" class="page">
+      <div class="page-header">
+        <h1>Player Analysis</h1>
+        <p>Hero picks and win rates per player.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Player Hero Picks</div>
+        <div class="controls">
+          <input class="search-input" id="player-search" placeholder="Search player or hero…" />
+          <select class="filter-select" id="player-team">
+            <option value="">All Teams</option>
+          </select>
+          <select class="limit-select" id="player-limit">
+            <option value="30">Top 30</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="table-wrap" id="player-table-wrap"></div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Player Hero Win Rates</div>
+        <div class="info-note">
+          <strong>Note:</strong> Rows with fewer than 10 map sets played are flagged ⚠ as low sample size. Win rates may not be statistically meaningful.
+        </div>
+        <div class="controls">
+          <input class="search-input" id="playerwr-search" placeholder="Search player or hero…" />
+          <select class="limit-select" id="playerwr-limit">
+            <option value="30">Top 30</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="table-wrap" id="playerwr-table-wrap"></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Win Rate
+    ═══════════════════════════════════════════════ -->
+    <section id="page-winrate" class="page">
+      <div class="page-header">
+        <h1>Win Rate Analysis</h1>
+        <p>Hero win rates at global, player, and team level. UNKNOWN winners excluded.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Global Hero Win Rate</div>
+        <div class="info-note">
+          <strong>matches_played</strong> = map sets where this hero was picked.<br>
+          <strong>win_rate</strong> = wins / matches_played. Draws count as played, not as wins.
+        </div>
+        <div class="controls">
+          <input class="search-input" id="gwr-search" placeholder="Search hero…" />
+          <select class="limit-select" id="gwr-limit">
+            <option value="30">Top 30</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="two-col" style="margin-bottom:0">
+          <div><div class="chart-wrap"><canvas id="chart-gwr"></canvas></div></div>
+          <div><div class="table-wrap" id="gwr-table-wrap"></div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Position Picks
+    ═══════════════════════════════════════════════ -->
+    <section id="page-position" class="page">
+      <div class="page-header">
+        <h1>Position Pick Rates</h1>
+        <p>Pick rates by slot position: DPS (slots 0–1), Tank (slot 2), Support (slots 3–4).</p>
+      </div>
+
+      <div class="two-col">
+        <div class="section">
+          <div class="section-title">Top Picks — Tank</div>
+          <div class="chart-wrap"><canvas id="chart-tank"></canvas></div>
+        </div>
+        <div class="section">
+          <div class="section-title">Top Picks — DPS</div>
+          <div class="chart-wrap"><canvas id="chart-dps"></canvas></div>
+        </div>
+      </div>
+      <div class="section" style="max-width:600px">
+        <div class="section-title">Top Picks — Support</div>
+        <div class="chart-wrap"><canvas id="chart-supp"></canvas></div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Full Position Pick Rate Table</div>
+        <div class="controls">
+          <select class="filter-select" id="pos-filter">
+            <option value="">All Positions</option>
+            <option>Tank</option><option>DPS</option><option>Support</option>
+          </select>
+          <input class="search-input" id="pos-search" placeholder="Search hero…" />
+        </div>
+        <div class="table-wrap" id="pos-table-wrap"></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         PAGE: Data Notes
+    ═══════════════════════════════════════════════ -->
+    <section id="page-notes" class="page">
+      <div class="page-header">
+        <h1>Data Notes</h1>
+        <p>How this data was collected and what the metrics mean.</p>
+      </div>
+
+      <div class="notes-card">
+        <h3>Data Source</h3>
+        <p>Hero picks are extracted from tournament scoresheets stored as Excel (.xlsx) files. Each sheet represents one tournament. Match cards are laid out as fixed-geometry image grids — hero icons are detected via perceptual hash matching against a reference index, not via text recognition.</p>
+      </div>
+
+      <div class="notes-card">
+        <h3>What is a "pick"?</h3>
+        <p>A <strong>pick</strong> (pick_count) is a deduplicated hero presence per map set per team. If the same hero appears multiple times in the same map set for the same team — due to the hero image spanning multiple spreadsheet cells — it is still counted as <strong>one pick</strong>.</p>
+        <p style="margin-top:8px">Pick order and hero switch timing within a map set are <strong>not inferred</strong>. The data is a snapshot of which heroes were picked in each map set, not a time-ordered sequence.</p>
+      </div>
+
+      <div class="notes-card">
+        <h3>Metric Definitions</h3>
+        <table class="def-table">
+          <thead><tr><th>Metric</th><th>Definition</th></tr></thead>
+          <tbody>
+            <tr><td>pick_count</td><td>Deduplicated hero appearance count per (map_set, team). One hero = one pick per map_set per team.</td></tr>
+            <tr><td>pick_rate</td><td>pick_count / total picks in the same scope and role/position. Displayed as a percentage.</td></tr>
+            <tr><td>matches_played</td><td>Number of map sets where the hero was picked (for win-rate tables).</td></tr>
+            <tr><td>win_rate</td><td>wins / matches_played. Draws count as played but not as wins.</td></tr>
+            <tr><td>usage_count</td><td>Raw image-detection count in source CSVs. Automatically promoted to pick_count at load time — never shown in the UI.</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="notes-card">
+        <h3>Win Rate Exclusions</h3>
+        <ul>
+          <li>Map sets where the winner could not be determined from the score sheet are excluded (<code>UNKNOWN</code>).</li>
+          <li>Map sets with no win text recorded are excluded.</li>
+          <li>Draws are included in <code>matches_played</code> but not in <code>wins</code>.</li>
+          <li>Rows with fewer than 10 map sets played are flagged ⚠ as low sample size.</li>
+        </ul>
+      </div>
+
+      <div class="notes-card">
+        <h3>Slot → Position Mapping</h3>
+        <ul>
+          <li><span class="badge badge-dps">DPS</span> — Slots 0 and 1</li>
+          <li><span class="badge badge-tank">Tank</span> — Slot 2</li>
+          <li><span class="badge badge-support">Support</span> — Slots 3 and 4</li>
+        </ul>
+        <p style="margin-top:8px">Position is based on the spreadsheet slot column, not the hero's role label. A hero classified as "Support" in the hero index may appear in a DPS slot if the player was in that column — though this is rare in practice.</p>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<!-- CDN libraries -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

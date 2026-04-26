@@ -1,0 +1,489 @@
+/* ============================================================
+   OW Analytics Dashboard — Dark Esports Theme
+   ============================================================ */
+
+:root {
+  --bg-base:    #0b0e14;
+  --bg-card:    #12171f;
+  --bg-input:   #1a2030;
+  --bg-hover:   #1e2740;
+  --border:     #252d3d;
+  --accent:     #4d9ef7;
+  --accent-2:   #f7a84d;
+  --accent-3:   #6dd67b;
+  --danger:     #f75d5d;
+  --text-pri:   #e8edf5;
+  --text-sec:   #8b9ab5;
+  --text-mute:  #4a5568;
+  --tank-col:   #4d9ef7;
+  --dps-col:    #f75d5d;
+  --support-col:#6dd67b;
+  --font:       'Inter', 'Segoe UI', system-ui, sans-serif;
+  --radius:     8px;
+  --radius-lg:  14px;
+  --shadow:     0 2px 12px rgba(0,0,0,.4);
+  --transition: .15s ease;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg-base);
+  color: var(--text-pri);
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ── Layout ──────────────────────────────────────────────── */
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* ── Sidebar ─────────────────────────────────────────────── */
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  background: var(--bg-card);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0; left: 0; bottom: 0;
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.sidebar-logo {
+  padding: 22px 20px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.sidebar-logo .title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: .3px;
+}
+
+.sidebar-logo .subtitle {
+  font-size: 11px;
+  color: var(--text-mute);
+  margin-top: 3px;
+}
+
+.sidebar-nav {
+  padding: 12px 10px;
+  flex: 1;
+}
+
+.nav-section {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-mute);
+  padding: 12px 10px 6px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 12px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  color: var(--text-sec);
+  font-size: 13px;
+  font-weight: 500;
+  transition: background var(--transition), color var(--transition);
+  user-select: none;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+}
+
+.nav-item:hover  { background: var(--bg-hover); color: var(--text-pri); }
+.nav-item.active { background: rgba(77,158,247,.15); color: var(--accent); }
+
+.nav-icon {
+  font-size: 16px;
+  width: 20px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+/* ── Main content ────────────────────────────────────────── */
+.main {
+  margin-left: 220px;
+  flex: 1;
+  padding: 28px 32px;
+  max-width: 1400px;
+}
+
+/* ── Page sections ───────────────────────────────────────── */
+.page { display: none; }
+.page.active { display: block; }
+
+/* ── Page header ─────────────────────────────────────────── */
+.page-header {
+  margin-bottom: 24px;
+}
+
+.page-header h1 {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text-pri);
+}
+
+.page-header p {
+  color: var(--text-sec);
+  margin-top: 4px;
+  font-size: 13px;
+}
+
+/* ── Cards ───────────────────────────────────────────────── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 18px 20px;
+  box-shadow: var(--shadow);
+}
+
+.card-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .8px;
+  color: var(--text-mute);
+  margin-bottom: 8px;
+}
+
+.card-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text-pri);
+  line-height: 1.1;
+}
+
+.card-value.accent  { color: var(--accent); }
+.card-value.accent2 { color: var(--accent-2); }
+.card-value.accent3 { color: var(--accent-3); }
+
+/* ── Section blocks ──────────────────────────────────────── */
+.section {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 20px 22px;
+  margin-bottom: 24px;
+  box-shadow: var(--shadow);
+}
+
+.section-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-pri);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.section-title::before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 14px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+/* ── Controls bar ────────────────────────────────────────── */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 16px;
+  align-items: center;
+}
+
+.search-input, .filter-select, .limit-select {
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  color: var(--text-pri);
+  border-radius: var(--radius);
+  padding: 7px 12px;
+  font-size: 13px;
+  font-family: var(--font);
+  outline: none;
+  transition: border-color var(--transition);
+}
+
+.search-input:focus, .filter-select:focus {
+  border-color: var(--accent);
+}
+
+.search-input { min-width: 200px; }
+.filter-select { min-width: 170px; cursor: pointer; }
+.limit-select  { min-width: 110px; cursor: pointer; }
+
+.search-input::placeholder { color: var(--text-mute); }
+
+/* ── Tables ──────────────────────────────────────────────── */
+.table-wrap {
+  overflow-x: auto;
+  border-radius: var(--radius);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+thead th {
+  background: var(--bg-input);
+  color: var(--text-sec);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .6px;
+  padding: 10px 14px;
+  text-align: left;
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  transition: color var(--transition);
+}
+
+thead th:hover { color: var(--accent); }
+
+thead th .sort-arrow {
+  margin-left: 4px;
+  opacity: .4;
+  font-size: 10px;
+}
+
+thead th.sorted-asc .sort-arrow,
+thead th.sorted-desc .sort-arrow {
+  opacity: 1;
+  color: var(--accent);
+}
+
+tbody tr {
+  border-bottom: 1px solid rgba(37,45,61,.6);
+  transition: background var(--transition);
+}
+
+tbody tr:hover { background: rgba(30,39,64,.5); }
+tbody tr:last-child { border-bottom: none; }
+
+tbody td {
+  padding: 9px 14px;
+  color: var(--text-pri);
+  vertical-align: middle;
+}
+
+.td-mute { color: var(--text-sec); }
+
+/* ── Win rate / pick rate bar ────────────────────────────── */
+.rate-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 120px;
+}
+
+.rate-bar {
+  flex: 1;
+  height: 6px;
+  background: var(--border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.rate-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  background: var(--accent);
+  transition: width .3s ease;
+}
+
+.rate-bar-fill.wr   { background: var(--accent-3); }
+.rate-bar-fill.pr   { background: var(--accent); }
+.rate-bar-fill.low  { background: var(--danger); }
+
+.rate-label {
+  font-size: 12px;
+  font-weight: 600;
+  min-width: 44px;
+  text-align: right;
+  color: var(--text-pri);
+}
+
+/* ── Position badges ─────────────────────────────────────── */
+.badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: .4px;
+}
+
+.badge-tank    { background: rgba(77,158,247,.18); color: var(--tank-col); }
+.badge-dps     { background: rgba(247,93,93,.18);  color: var(--dps-col);  }
+.badge-support { background: rgba(109,214,123,.18);color: var(--support-col);}
+.badge-low     { background: rgba(247,93,93,.18);  color: var(--danger); }
+
+/* ── Charts ──────────────────────────────────────────────── */
+.chart-wrap {
+  position: relative;
+  width: 100%;
+  height: 300px;
+}
+
+.chart-wrap.tall { height: 380px; }
+
+/* ── Two-col grid ────────────────────────────────────────── */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 24px;
+}
+
+@media (max-width: 900px) {
+  .two-col { grid-template-columns: 1fr; }
+}
+
+/* ── Loading / empty states ──────────────────────────────── */
+.state-msg {
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--text-mute);
+  font-size: 13px;
+}
+
+.state-msg .icon { font-size: 32px; margin-bottom: 10px; }
+
+/* ── Tooltip / warn row ──────────────────────────────────── */
+.warn-row td { background: rgba(247,93,93,.06) !important; }
+
+.warn-icon {
+  color: var(--danger);
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+/* ── Info note ───────────────────────────────────────────── */
+.info-note {
+  background: rgba(77,158,247,.08);
+  border: 1px solid rgba(77,158,247,.2);
+  border-radius: var(--radius);
+  padding: 12px 16px;
+  color: var(--text-sec);
+  font-size: 12.5px;
+  margin-bottom: 18px;
+  line-height: 1.7;
+}
+
+.info-note strong { color: var(--accent); }
+
+/* ── Data Notes page ─────────────────────────────────────── */
+.notes-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 24px 28px;
+  margin-bottom: 20px;
+}
+
+.notes-card h3 {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+
+.notes-card p, .notes-card li {
+  font-size: 13px;
+  color: var(--text-sec);
+  line-height: 1.8;
+}
+
+.notes-card ul { padding-left: 20px; }
+
+.notes-card li { margin-bottom: 4px; }
+
+.def-table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+.def-table th {
+  text-align: left;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .6px;
+  color: var(--text-mute);
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+}
+.def-table td {
+  padding: 9px 12px;
+  font-size: 13px;
+  color: var(--text-sec);
+  border-bottom: 1px solid rgba(37,45,61,.4);
+}
+.def-table td:first-child { color: var(--accent); font-weight: 600; font-family: monospace; font-size: 13px; }
+
+/* ── Scrollbar ───────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-base); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-mute); }
+
+/* ── Responsive ──────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    flex-direction: row;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+  }
+
+  .sidebar-logo { display: none; }
+
+  .sidebar-nav {
+    display: flex;
+    flex-direction: row;
+    padding: 8px;
+    gap: 4px;
+  }
+
+  .nav-section { display: none; }
+
+  .nav-item { padding: 8px 12px; white-space: nowrap; }
+
+  .layout { flex-direction: column; }
+  .main { margin-left: 0; padding: 16px; }
+
+  .card-grid { grid-template-columns: repeat(2, 1fr); }
+}
