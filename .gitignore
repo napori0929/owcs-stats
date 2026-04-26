@@ -217,6 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# private
 *.py
 *.xlsx
 output/
@@ -224,5 +225,16 @@ output/
 *.log
 __pycache__/
 *.pyc
+
+# hide CSV/data folders
 *.csv
 data/
+site/data/
+
+# but allow website files
+!site/
+!site/index.html
+!site/style.css
+!site/script.js
+!site/data.js
+!site/README.md
