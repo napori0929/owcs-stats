@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.py
+*.xlsx
+output/
+*.json
+*.log
+__pycache__/
+*.pyc
+*.csv
+data/
