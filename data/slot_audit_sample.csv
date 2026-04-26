@@ -1,0 +1,51 @@
+tournament_sheet,match_id,team_name,side,slot_index,player_name,row_index,hero_names,anchor_positions
+China - Stage 1,China - Stage 1__match_0006,DEG,top,3,Saya,2,Brigitte,r134c58
+China - Stage 1,China - Stage 1__match_0010,Homie E,top,1,Lilko,1,Vendetta,r238c34
+China - Stage 1,China - Stage 1__match_0019,All Gamers,top,4,Recall,3,"Kiriko, Ana","r472c78, r472c80"
+China - Stage 1,China - Stage 1__match_0020,Weibo Gaming,top,1,Leave,1,"Vendetta, Symmetra","r498c34, r498c36"
+China - Stage 1,China - Stage 1__match_0026,All Gamers,top,0,Ezhan,3,"Sojourn, Emre","r654c65, r654c67"
+EMEA - Stage 1,EMEA - Stage 1__match_0003,Twisted Minds,top,0,Quartz,2,Emre,r56c48
+EMEA - Stage 1,EMEA - Stage 1__match_0005,Al Qadsiah,top,0,Ade,6,Vendetta,r109c67
+Japan - Stage 1,Japan - Stage 1__match_0008,99DIVINE,bottom,1,HRY,3,"Vendetta, Tracer","r203c68, r203c70"
+Japan - Stage 1,Japan - Stage 1__match_0014,ENTER FORCE.36,bottom,3,Ydot,2,"Lúcio, Juno","r359c58, r359c60"
+Japan - Stage 1,Japan - Stage 1__match_0015,Nyam Gaming,bottom,1,APDO,0,Vendetta,r385c17
+Japan - Stage 1,Japan - Stage 1__match_0020,VARREL,top,1,TOPDRAGON,2,Tracer,r498c51
+Japan - Stage 1,Japan - Stage 1__match_0023,Lazuli,top,2,DOX,3,"Ramattra, Reinhardt","r576c72, r576c74"
+Japan - Stage 1,Japan - Stage 1__match_0024,Telomere,bottom,4,Elysia,3,"Kiriko, Baptiste","r619c78, r619c80"
+Japan - Stage 1,Japan - Stage 1__match_0032,VARREL,top,2,KSG,4,Hazard,r810c89
+Korea - Stage 1,Korea - Stage 1__match_0002,ZETA DIVISION,bottom,0,Proper,3,"Tracer, Symmetra","r47c65, r47c67"
+Korea - Stage 1,Korea - Stage 1__match_0007,New Era,bottom,2,SoLA,0,D.Va,r177c21
+Korea - Stage 1,Korea - Stage 1__match_0019,RØDE ONSIDE GAMING,top,2,ATTACK,2,"D.Va, Zarya","r472c55, r472c57"
+Korea - Stage 1,Korea - Stage 1__match_0020,Team Falcons,top,4,ChiYo,0,"Juno, Brigitte","r498c27, r498c29"
+Korea - Stage 1,Korea - Stage 1__match_0023,ZETA DIVISION,top,1,Proper,1,Tracer,r576c34
+Korea - Stage 1,Korea - Stage 1__match_0023,ZETA DIVISION,top,2,Mealgaru,5,Zarya,r577c74
+Korea - Stage 1,Korea - Stage 1__match_0023,ZETA DIVISION,top,3,Viol2t,4,Lúcio,r576c92
+Korea - Stage 1,Korea - Stage 1__match_0029,ZETA DIVISION,bottom,0,knife,6,Venture,r751c67
+Korea - Stage 1,Korea - Stage 1__match_0033,Crazy Raccoon,bottom,0,HeeSang,0,"Tracer, Symmetra","r853c14, r853c16"
+Korea - Stage 1,Korea - Stage 1__match_0034,ZAN Esports,top,0,A1IEN,0,Emre,r862c14
+Korea - Stage 1,Korea - Stage 1__match_0040,Cheeseburger,bottom,2,SeungAn,2,D.Va,r1035c55
+Korea - Stage 1,Korea - Stage 1__match_0040,Poker Face,top,0,M1NUT2,3,Bastion,r1018c65
+Korea - Stage 1,Korea - Stage 1__match_0041,ZETA DIVISION,top,1,Proper,2,"Tracer, Echo","r1044c51, r1044c53"
+Non-Partner Team Index,Non-Partner Team Index__match_0001,Extinction,bottom,2,sniper,1,Winston,r21c38
+Non-Partner Team Index,Non-Partner Team Index__match_0004,99DIVINE,top,4,D4IJIN,2,Ana,r82c61
+Non-Partner Team Index,Non-Partner Team Index__match_0005,FURY,bottom,0,PKFishy,0,Tracer,r125c14
+North America - Stage 1,North America - Stage 1__match_0003,Team Liquid,top,2,Infekted,0,"Orisa, Winston","r56c21, r56c23"
+North America - Stage 1,North America - Stage 1__match_0006,Team Liquid,top,1,Zeruhh,1,"Tracer, Vendetta","r134c34, r134c36"
+North America - Stage 1,North America - Stage 1__match_0008,LuneX Gaming,bottom,4,zzz,2,Kiriko,r203c61
+North America - Stage 1,North America - Stage 1__match_0018,LuneX Gaming,top,3,NenWhy,2,Lúcio,r446c58
+North America - Stage 1,North America - Stage 1__match_0019,Spacestation Gaming,bottom,2,Hawk,6,Zarya,r491c40
+North America - Stage 1,North America - Stage 1__match_0021,Dallas Fuel,top,2,Kellan,2,"Winston, Zarya","r524c55, r524c57"
+Pacific - Stage 1,Pacific - Stage 1__match_0010,FURY,bottom,4,Exrai,0,Kiriko,r255c27
+Pacific - Stage 1,Pacific - Stage 1__match_0013,Team Secret,top,1,Yoshinori2k,2,Tracer,r316c51
+Pacific - Stage 1,Pacific - Stage 1__match_0015,Rankers,bottom,1,Zephyr,1,"Sojourn, Emre","r385c34, r385c36"
+Partner Team Index,Partner Team Index__match_0001,Dallas Fuel,top,2,Kellan,0,Winston,r4c21
+Partner Team Index,Partner Team Index__match_0002,Team Peps,top,4,Xerion,0,Ana,r30c27
+Partner Team Index,Partner Team Index__match_0003,Crazy Raccoon,bottom,0,HeeSang,0,Tracer,r73c14
+Partner Team Index,Partner Team Index__match_0004,All Gamers,bottom,0,Ezhan,2,Tracer,r99c48
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0001,Disguised,top,4,Lep,4,Lúcio,r4c95
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0005,Team Peps,bottom,4,Xerion,1,Kiriko,r125c44
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0006,Weibo Gaming,top,2,Guxue,0,Domina,r134c21
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0007,T1,bottom,0,Proud,0,Emre,r177c14
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0009,Team Falcons,bottom,2,Hanbin,3,"Winston, Domina","r229c72, r229c74"
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0009,Crazy Raccoon,top,3,Ch0r0ng,5,Illari,r213c77
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0010,Team Liquid,bottom,1,TR33,5,Widowmaker,r257c70

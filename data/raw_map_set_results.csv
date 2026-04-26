@@ -1,0 +1,702 @@
+tournament_sheet,match_id,match_title,map_set_index,map_name,team_top,team_bottom,winning_team,losing_team,detected_win_text,source_cell
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0001,Round 1 [Bo5],0,Ilios,Disguised,Team Peps,Disguised,Team Peps,Disguised Wins!,X16
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0001,Round 1 [Bo5],1,Shambali Monastery,Disguised,Team Peps,Disguised,Team Peps,Disguised Wins!,AO16
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0001,Round 1 [Bo5],2,Esperança,Disguised,Team Peps,Team Peps,Disguised,Team Peps Wins!,BF16
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0001,Round 1 [Bo5],3,Midtown,Disguised,Team Peps,,,Draw!,BW16
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0001,Round 1 [Bo5],4,New Junk City,Disguised,Team Peps,Team Peps,Disguised,Team Peps Wins!,CN16
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0001,Round 1 [Bo5],5,Watchpoint: Gibraltar,Disguised,Team Peps,Team Peps,Disguised,Team Peps Wins!,DE16
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0002,Round 1 [Bo5],0,Lijiang Tower,VARREL,Team Falcons,Team Falcons,VARREL,Team Falcons Wins!,X42
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0002,Round 1 [Bo5],1,Shambali Monastery,VARREL,Team Falcons,Team Falcons,VARREL,Team Falcons Wins!,AO42
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0002,Round 1 [Bo5],2,Midtown,VARREL,Team Falcons,Team Falcons,VARREL,Team Falcons Wins!,BF42
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0003,Round 1 [Bo5],0,Lijiang Tower,Dallas Fuel,T1,T1,Dallas Fuel,T1 Wins!,X68
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0003,Round 1 [Bo5],1,Midtown,Dallas Fuel,T1,T1,Dallas Fuel,T1 Wins!,AO68
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0003,Round 1 [Bo5],2,Havana,Dallas Fuel,T1,Dallas Fuel,T1,Dallas Fuel Wins!,BF68
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0003,Round 1 [Bo5],3,New Junk City,Dallas Fuel,T1,T1,Dallas Fuel,T1 Wins!,BW68
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0004,Round 1 [Bo5],0,Ilios,Virtus.pro,All Gamers,Virtus.pro,All Gamers,Virtus.pro Wins!,X94
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0004,Round 1 [Bo5],1,Eichenwalde,Virtus.pro,All Gamers,Virtus.pro,All Gamers,Virtus.pro Wins!,AO94
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0004,Round 1 [Bo5],2,Shambali Monastery,Virtus.pro,All Gamers,Virtus.pro,All Gamers,Virtus.pro Wins!,BF94
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0005,Quarterfinals [Bo5],0,Busan,Crazy Raccoon,Team Peps,Crazy Raccoon,Team Peps,Crazy Raccoon Wins!,X120
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0005,Quarterfinals [Bo5],1,Esperança,Crazy Raccoon,Team Peps,Team Peps,Crazy Raccoon,Team Peps Wins!,AO120
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0005,Quarterfinals [Bo5],2,Shambali Monastery,Crazy Raccoon,Team Peps,Crazy Raccoon,Team Peps,Crazy Raccoon Wins!,BF120
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0005,Quarterfinals [Bo5],3,Blizzard World,Crazy Raccoon,Team Peps,Crazy Raccoon,Team Peps,Crazy Raccoon Wins!,BW120
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0006,Quarterfinals [Bo5],0,Ilios,Weibo Gaming,Team Falcons,Team Falcons,Weibo Gaming,Team Falcons Wins!,X146
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0006,Quarterfinals [Bo5],1,Midtown,Weibo Gaming,Team Falcons,Weibo Gaming,Team Falcons,Weibo Gaming Wins!,AO146
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0006,Quarterfinals [Bo5],2,Esperança,Weibo Gaming,Team Falcons,Team Falcons,Weibo Gaming,Team Falcons Wins!,BF146
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0006,Quarterfinals [Bo5],3,Havana,Weibo Gaming,Team Falcons,Weibo Gaming,Team Falcons,Weibo Gaming Wins!,BW146
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0006,Quarterfinals [Bo5],4,Shambali Monastery,Weibo Gaming,Team Falcons,Team Falcons,Weibo Gaming,Team Falcons Wins!,CN146
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0007,Quarterfinals [Bo5],0,Busan,Twisted Minds,T1,Twisted Minds,T1,Twisted Minds Wins!,X172
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0007,Quarterfinals [Bo5],1,Blizzard World,Twisted Minds,T1,Twisted Minds,T1,Twisted Minds Wins!,AO172
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0007,Quarterfinals [Bo5],2,New Junk City,Twisted Minds,T1,Twisted Minds,T1,Twisted Minds Wins!,BF172
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0008,Quarterfinals [Bo5],0,Lijiang Tower,Team Liquid,Virtus.pro,Team Liquid,Virtus.pro,Team Liquid Wins!,X198
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0008,Quarterfinals [Bo5],1,Eichenwalde,Team Liquid,Virtus.pro,Team Liquid,Virtus.pro,Team Liquid Wins!,AO198
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0008,Quarterfinals [Bo5],2,New Junk City,Team Liquid,Virtus.pro,Virtus.pro,Team Liquid,Virtus.pro Wins!,BF198
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0008,Quarterfinals [Bo5],3,Havana,Team Liquid,Virtus.pro,Team Liquid,Virtus.pro,Team Liquid Wins!,BW198
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0009,Semifinals [Bo5],0,Busan,Crazy Raccoon,Team Falcons,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,X224
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0009,Semifinals [Bo5],1,Blizzard World,Crazy Raccoon,Team Falcons,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,AO224
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0009,Semifinals [Bo5],2,Esperança,Crazy Raccoon,Team Falcons,Team Falcons,Crazy Raccoon,Team Falcons Wins!,BF224
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0009,Semifinals [Bo5],3,Watchpoint: Gibraltar,Crazy Raccoon,Team Falcons,Team Falcons,Crazy Raccoon,Team Falcons Wins!,BW224
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0009,Semifinals [Bo5],4,Lijiang Tower,Crazy Raccoon,Team Falcons,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,CN224
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0010,Semifinals [Bo5],0,Lijiang Tower,Twisted Minds,Team Liquid,Team Liquid,Twisted Minds,Team Liquid Wins!,X250
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0010,Semifinals [Bo5],1,Esperança,Twisted Minds,Team Liquid,Team Liquid,Twisted Minds,Team Liquid Wins!,AO250
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0010,Semifinals [Bo5],2,Eichenwalde,Twisted Minds,Team Liquid,Twisted Minds,Team Liquid,Twisted Minds Wins!,BF250
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0010,Semifinals [Bo5],3,Havana,Twisted Minds,Team Liquid,Twisted Minds,Team Liquid,Twisted Minds Wins!,BW250
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0010,Semifinals [Bo5],4,Colosseo,Twisted Minds,Team Liquid,Twisted Minds,Team Liquid,Twisted Minds Wins!,CN250
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0011,Grand Finals [Bo7],0,Busan,Crazy Raccoon,Twisted Minds,Twisted Minds,Crazy Raccoon,Twisted Minds Wins!,X276
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0011,Grand Finals [Bo7],1,Blizzard World,Crazy Raccoon,Twisted Minds,Twisted Minds,Crazy Raccoon,Twisted Minds Wins!,AO276
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0011,Grand Finals [Bo7],2,Colosseo,Crazy Raccoon,Twisted Minds,Twisted Minds,Crazy Raccoon,Twisted Minds Wins!,BF276
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0011,Grand Finals [Bo7],3,Shambali Monastery,Crazy Raccoon,Twisted Minds,Crazy Raccoon,Twisted Minds,Crazy Raccoon Wins!,BW276
+Pre-Season Bootcamp,Pre-Season Bootcamp__match_0011,Grand Finals [Bo7],4,Esperança,Crazy Raccoon,Twisted Minds,Twisted Minds,Crazy Raccoon,Twisted Minds Wins!,CN276
+Japan - Stage 1,Japan - Stage 1__match_0001,Round Robin [Bo5],0,Oasis,Please Not Hero Ban,Telomere,Please Not Hero Ban,Telomere,Please Not Hero Ban Wins!,X16
+Japan - Stage 1,Japan - Stage 1__match_0001,Round Robin [Bo5],1,Watchpoint: Gibraltar,Please Not Hero Ban,Telomere,Please Not Hero Ban,Telomere,Please Not Hero Ban Wins!,AO16
+Japan - Stage 1,Japan - Stage 1__match_0001,Round Robin [Bo5],2,Aatlis,Please Not Hero Ban,Telomere,Telomere,Please Not Hero Ban,Telomere Wins!,BF16
+Japan - Stage 1,Japan - Stage 1__match_0001,Round Robin [Bo5],3,Blizzard World,Please Not Hero Ban,Telomere,Please Not Hero Ban,Telomere,Please Not Hero Ban Wins!,BW16
+Japan - Stage 1,Japan - Stage 1__match_0002,Round Robin [Bo5],0,Oasis,ENTER FORCE.36,Nyam Gaming,ENTER FORCE.36,Nyam Gaming,ENTER FORCE.36 Wins!,X42
+Japan - Stage 1,Japan - Stage 1__match_0002,Round Robin [Bo5],1,Aatlis,ENTER FORCE.36,Nyam Gaming,ENTER FORCE.36,Nyam Gaming,ENTER FORCE.36 Wins!,AO42
+Japan - Stage 1,Japan - Stage 1__match_0002,Round Robin [Bo5],2,Midtown,ENTER FORCE.36,Nyam Gaming,ENTER FORCE.36,Nyam Gaming,ENTER FORCE.36 Wins!,BF42
+Japan - Stage 1,Japan - Stage 1__match_0003,Round Robin [Bo5],0,Busan,TOKYO TAIYOs,VARREL,VARREL,TOKYO TAIYOs,VARREL Wins!,X68
+Japan - Stage 1,Japan - Stage 1__match_0003,Round Robin [Bo5],1,Runasapi,TOKYO TAIYOs,VARREL,VARREL,TOKYO TAIYOs,VARREL Wins!,AO68
+Japan - Stage 1,Japan - Stage 1__match_0003,Round Robin [Bo5],2,Watchpoint: Gibraltar,TOKYO TAIYOs,VARREL,VARREL,TOKYO TAIYOs,VARREL Wins!,BF68
+Japan - Stage 1,Japan - Stage 1__match_0004,Round Robin [Bo5],0,Lijiang Tower,Lazuli,99DIVINE,99DIVINE,Lazuli,99DIVINE Wins!,X94
+Japan - Stage 1,Japan - Stage 1__match_0004,Round Robin [Bo5],1,Esperança,Lazuli,99DIVINE,99DIVINE,Lazuli,99DIVINE Wins!,AO94
+Japan - Stage 1,Japan - Stage 1__match_0004,Round Robin [Bo5],2,Watchpoint: Gibraltar,Lazuli,99DIVINE,99DIVINE,Lazuli,99DIVINE Wins!,BF94
+Japan - Stage 1,Japan - Stage 1__match_0005,Round Robin [Bo5],0,Busan,Please Not Hero Ban,VARREL,VARREL,Please Not Hero Ban,VARREL Wins!,X120
+Japan - Stage 1,Japan - Stage 1__match_0005,Round Robin [Bo5],1,Esperança,Please Not Hero Ban,VARREL,VARREL,Please Not Hero Ban,VARREL Wins!,AO120
+Japan - Stage 1,Japan - Stage 1__match_0005,Round Robin [Bo5],2,Blizzard World,Please Not Hero Ban,VARREL,VARREL,Please Not Hero Ban,VARREL Wins!,BF120
+Japan - Stage 1,Japan - Stage 1__match_0006,Round Robin [Bo5],0,Lijiang Tower,TOKYO TAIYOs,Nyam Gaming,Nyam Gaming,TOKYO TAIYOs,Nyam Gaming Wins!,X146
+Japan - Stage 1,Japan - Stage 1__match_0006,Round Robin [Bo5],1,Havana,TOKYO TAIYOs,Nyam Gaming,Nyam Gaming,TOKYO TAIYOs,Nyam Gaming Wins!,AO146
+Japan - Stage 1,Japan - Stage 1__match_0006,Round Robin [Bo5],2,Aatlis,TOKYO TAIYOs,Nyam Gaming,UNKNOWN,,TOKYO TAIYOsWins!,BF146
+Japan - Stage 1,Japan - Stage 1__match_0006,Round Robin [Bo5],3,Numbani,TOKYO TAIYOs,Nyam Gaming,Nyam Gaming,TOKYO TAIYOs,Nyam Gaming Wins!,BW146
+Japan - Stage 1,Japan - Stage 1__match_0007,Round Robin [Bo5],0,Busan,Please Not Hero Ban,Lazuli,Please Not Hero Ban,Lazuli,Please Not Hero Ban Wins!,X172
+Japan - Stage 1,Japan - Stage 1__match_0007,Round Robin [Bo5],1,Runasapi,Please Not Hero Ban,Lazuli,Please Not Hero Ban,Lazuli,Please Not Hero Ban Wins!,AO172
+Japan - Stage 1,Japan - Stage 1__match_0007,Round Robin [Bo5],2,Rialto,Please Not Hero Ban,Lazuli,Please Not Hero Ban,Lazuli,Please Not Hero Ban Wins!,BF172
+Japan - Stage 1,Japan - Stage 1__match_0008,Round Robin [Bo5],0,Oasis,TOKYO TAIYOs,99DIVINE,99DIVINE,TOKYO TAIYOs,99DIVINE Wins!,X198
+Japan - Stage 1,Japan - Stage 1__match_0008,Round Robin [Bo5],1,Esperança,TOKYO TAIYOs,99DIVINE,99DIVINE,TOKYO TAIYOs,99DIVINE Wins!,AO198
+Japan - Stage 1,Japan - Stage 1__match_0008,Round Robin [Bo5],2,Blizzard World,TOKYO TAIYOs,99DIVINE,TOKYO TAIYOs,99DIVINE,TOKYO TAIYOs Wins!,BF198
+Japan - Stage 1,Japan - Stage 1__match_0008,Round Robin [Bo5],3,Watchpoint: Gibraltar,TOKYO TAIYOs,99DIVINE,99DIVINE,TOKYO TAIYOs,99DIVINE Wins!,BW198
+Japan - Stage 1,Japan - Stage 1__match_0009,Round Robin [Bo5],0,Lijiang Tower,VARREL,ENTER FORCE.36,VARREL,ENTER FORCE.36,VARREL Wins!,X224
+Japan - Stage 1,Japan - Stage 1__match_0009,Round Robin [Bo5],1,Esperança,VARREL,ENTER FORCE.36,ENTER FORCE.36,VARREL,ENTER FORCE.36 Wins!,AO224
+Japan - Stage 1,Japan - Stage 1__match_0009,Round Robin [Bo5],2,Rialto,VARREL,ENTER FORCE.36,VARREL,ENTER FORCE.36,VARREL Wins!,BF224
+Japan - Stage 1,Japan - Stage 1__match_0009,Round Robin [Bo5],3,Numbani,VARREL,ENTER FORCE.36,VARREL,ENTER FORCE.36,VARREL Wins!,BW224
+Japan - Stage 1,Japan - Stage 1__match_0010,Round Robin [Bo5],0,Lijiang Tower,Telomere,Lazuli,Lazuli,Telomere,Lazuli Wins!,X250
+Japan - Stage 1,Japan - Stage 1__match_0010,Round Robin [Bo5],1,Numbani,Telomere,Lazuli,Lazuli,Telomere,Lazuli Wins!,AO250
+Japan - Stage 1,Japan - Stage 1__match_0010,Round Robin [Bo5],2,Runasapi,Telomere,Lazuli,Lazuli,Telomere,Lazuli Wins!,BF250
+Japan - Stage 1,Japan - Stage 1__match_0011,Round Robin [Bo5],0,Oasis,TOKYO TAIYOs,Please Not Hero Ban,Please Not Hero Ban,TOKYO TAIYOs,Please Not Hero Ban Wins!,X276
+Japan - Stage 1,Japan - Stage 1__match_0011,Round Robin [Bo5],1,Suravasa,TOKYO TAIYOs,Please Not Hero Ban,TOKYO TAIYOs,Please Not Hero Ban,TOKYO TAIYOs Wins!,AO276
+Japan - Stage 1,Japan - Stage 1__match_0011,Round Robin [Bo5],2,Blizzard World,TOKYO TAIYOs,Please Not Hero Ban,TOKYO TAIYOs,Please Not Hero Ban,TOKYO TAIYOs Wins!,BF276
+Japan - Stage 1,Japan - Stage 1__match_0011,Round Robin [Bo5],3,Rialto,TOKYO TAIYOs,Please Not Hero Ban,Please Not Hero Ban,TOKYO TAIYOs,Please Not Hero Ban Wins!,BW276
+Japan - Stage 1,Japan - Stage 1__match_0011,Round Robin [Bo5],4,Esperança,TOKYO TAIYOs,Please Not Hero Ban,Please Not Hero Ban,TOKYO TAIYOs,Please Not Hero Ban Wins!,CN276
+Japan - Stage 1,Japan - Stage 1__match_0012,Round Robin [Bo5],0,Oasis,99DIVINE,ENTER FORCE.36,ENTER FORCE.36,99DIVINE,ENTER FORCE.36 Wins!,X302
+Japan - Stage 1,Japan - Stage 1__match_0012,Round Robin [Bo5],1,Esperança,99DIVINE,ENTER FORCE.36,ENTER FORCE.36,99DIVINE,ENTER FORCE.36 Wins!,AO302
+Japan - Stage 1,Japan - Stage 1__match_0012,Round Robin [Bo5],2,Watchpoint: Gibraltar,99DIVINE,ENTER FORCE.36,ENTER FORCE.36,99DIVINE,ENTER FORCE.36 Wins!,BF302
+Japan - Stage 1,Japan - Stage 1__match_0013,Round Robin [Bo5],0,Busan,99DIVINE,Please Not Hero Ban,Please Not Hero Ban,99DIVINE,Please Not Hero Ban Wins!,X328
+Japan - Stage 1,Japan - Stage 1__match_0013,Round Robin [Bo5],1,Rialto,99DIVINE,Please Not Hero Ban,99DIVINE,Please Not Hero Ban,99DIVINE Wins!,AO328
+Japan - Stage 1,Japan - Stage 1__match_0013,Round Robin [Bo5],2,Esperança,99DIVINE,Please Not Hero Ban,Please Not Hero Ban,99DIVINE,Please Not Hero Ban Wins!,BF328
+Japan - Stage 1,Japan - Stage 1__match_0013,Round Robin [Bo5],3,Midtown,99DIVINE,Please Not Hero Ban,Please Not Hero Ban,99DIVINE,Please Not Hero Ban Wins!,BW328
+Japan - Stage 1,Japan - Stage 1__match_0014,Round Robin [Bo5],0,Lijiang Tower,Telomere,ENTER FORCE.36,ENTER FORCE.36,Telomere,ENTER FORCE.36 Wins!,X354
+Japan - Stage 1,Japan - Stage 1__match_0014,Round Robin [Bo5],1,Aatlis,Telomere,ENTER FORCE.36,ENTER FORCE.36,Telomere,ENTER FORCE.36 Wins!,AO354
+Japan - Stage 1,Japan - Stage 1__match_0014,Round Robin [Bo5],2,Blizzard World,Telomere,ENTER FORCE.36,ENTER FORCE.36,Telomere,ENTER FORCE.36 Wins!,BF354
+Japan - Stage 1,Japan - Stage 1__match_0015,Round Robin [Bo5],0,Busan,VARREL,Nyam Gaming,VARREL,Nyam Gaming,VARREL Wins!,X380
+Japan - Stage 1,Japan - Stage 1__match_0015,Round Robin [Bo5],1,Aatlis,VARREL,Nyam Gaming,VARREL,Nyam Gaming,VARREL Wins!,AO380
+Japan - Stage 1,Japan - Stage 1__match_0015,Round Robin [Bo5],2,Havana,VARREL,Nyam Gaming,VARREL,Nyam Gaming,VARREL Wins!,BF380
+Japan - Stage 1,Japan - Stage 1__match_0016,Round Robin [Bo5],0,Oasis,VARREL,Lazuli,VARREL,Lazuli,VARREL Wins!,X406
+Japan - Stage 1,Japan - Stage 1__match_0016,Round Robin [Bo5],1,Numbani,VARREL,Lazuli,VARREL,Lazuli,VARREL Wins!,AO406
+Japan - Stage 1,Japan - Stage 1__match_0016,Round Robin [Bo5],2,Havana,VARREL,Lazuli,VARREL,Lazuli,VARREL Wins!,BF406
+Japan - Stage 1,Japan - Stage 1__match_0017,Round Robin [Bo5],0,Busan,Telomere,Nyam Gaming,Nyam Gaming,Telomere,Nyam Gaming Wins!,X432
+Japan - Stage 1,Japan - Stage 1__match_0017,Round Robin [Bo5],1,Watchpoint: Gibraltar,Telomere,Nyam Gaming,Nyam Gaming,Telomere,Nyam Gaming Wins!,AO432
+Japan - Stage 1,Japan - Stage 1__match_0017,Round Robin [Bo5],2,Aatlis,Telomere,Nyam Gaming,Telomere,Nyam Gaming,Telomere Wins!,BF432
+Japan - Stage 1,Japan - Stage 1__match_0017,Round Robin [Bo5],3,Numbani,Telomere,Nyam Gaming,Nyam Gaming,Telomere,Nyam Gaming Wins!,BW432
+Japan - Stage 1,Japan - Stage 1__match_0018,Round Robin [Bo5],0,Lijiang Tower,ENTER FORCE.36,TOKYO TAIYOs,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,X458
+Japan - Stage 1,Japan - Stage 1__match_0018,Round Robin [Bo5],1,Esperança,ENTER FORCE.36,TOKYO TAIYOs,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,AO458
+Japan - Stage 1,Japan - Stage 1__match_0018,Round Robin [Bo5],2,Watchpoint: Gibraltar,ENTER FORCE.36,TOKYO TAIYOs,ENTER FORCE.36,TOKYO TAIYOs,ENTER FORCE.36 Wins!,BF458
+Japan - Stage 1,Japan - Stage 1__match_0018,Round Robin [Bo5],3,Blizzard World,ENTER FORCE.36,TOKYO TAIYOs,ENTER FORCE.36,TOKYO TAIYOs,ENTER FORCE.36 Wins!,BW458
+Japan - Stage 1,Japan - Stage 1__match_0018,Round Robin [Bo5],4,Suravasa,ENTER FORCE.36,TOKYO TAIYOs,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,CN458
+Japan - Stage 1,Japan - Stage 1__match_0019,Round Robin [Bo5],0,Lijiang Tower,99DIVINE,Nyam Gaming,Nyam Gaming,99DIVINE,Nyam Gaming Wins!,X484
+Japan - Stage 1,Japan - Stage 1__match_0019,Round Robin [Bo5],1,Blizzard World,99DIVINE,Nyam Gaming,99DIVINE,Nyam Gaming,99DIVINE Wins!,AO484
+Japan - Stage 1,Japan - Stage 1__match_0019,Round Robin [Bo5],2,Suravasa,99DIVINE,Nyam Gaming,99DIVINE,Nyam Gaming,99DIVINE Wins!,BF484
+Japan - Stage 1,Japan - Stage 1__match_0019,Round Robin [Bo5],3,Rialto,99DIVINE,Nyam Gaming,99DIVINE,Nyam Gaming,99DIVINE Wins!,BW484
+Japan - Stage 1,Japan - Stage 1__match_0020,Round Robin [Bo5],0,Busan,VARREL,Telomere,VARREL,Telomere,VARREL Wins!,X510
+Japan - Stage 1,Japan - Stage 1__match_0020,Round Robin [Bo5],1,Rialto,VARREL,Telomere,VARREL,Telomere,VARREL Wins!,AO510
+Japan - Stage 1,Japan - Stage 1__match_0020,Round Robin [Bo5],2,Runasapi,VARREL,Telomere,VARREL,Telomere,VARREL Wins!,BF510
+Japan - Stage 1,Japan - Stage 1__match_0021,Round Robin [Bo5],0,Oasis,Lazuli,ENTER FORCE.36,ENTER FORCE.36,Lazuli,ENTER FORCE.36 Wins!,X536
+Japan - Stage 1,Japan - Stage 1__match_0021,Round Robin [Bo5],1,Runasapi,Lazuli,ENTER FORCE.36,ENTER FORCE.36,Lazuli,ENTER FORCE.36 Wins!,AO536
+Japan - Stage 1,Japan - Stage 1__match_0021,Round Robin [Bo5],2,Havana,Lazuli,ENTER FORCE.36,ENTER FORCE.36,Lazuli,ENTER FORCE.36 Wins!,BF536
+Japan - Stage 1,Japan - Stage 1__match_0022,Round Robin [Bo5],0,Oasis,Please Not Hero Ban,Nyam Gaming,Please Not Hero Ban,Nyam Gaming,Please Not Hero Ban Wins!,X562
+Japan - Stage 1,Japan - Stage 1__match_0022,Round Robin [Bo5],1,Aatlis,Please Not Hero Ban,Nyam Gaming,Please Not Hero Ban,Nyam Gaming,Please Not Hero Ban Wins!,AO562
+Japan - Stage 1,Japan - Stage 1__match_0022,Round Robin [Bo5],2,Rialto,Please Not Hero Ban,Nyam Gaming,Please Not Hero Ban,Nyam Gaming,Please Not Hero Ban Wins!,BF562
+Japan - Stage 1,Japan - Stage 1__match_0023,Round Robin [Bo5],0,Lijiang Tower,Lazuli,TOKYO TAIYOs,Lazuli,TOKYO TAIYOs,Lazuli Wins!,X588
+Japan - Stage 1,Japan - Stage 1__match_0023,Round Robin [Bo5],1,Suravasa,Lazuli,TOKYO TAIYOs,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,AO588
+Japan - Stage 1,Japan - Stage 1__match_0023,Round Robin [Bo5],2,Watchpoint: Gibraltar,Lazuli,TOKYO TAIYOs,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,BF588
+Japan - Stage 1,Japan - Stage 1__match_0023,Round Robin [Bo5],3,Numbani,Lazuli,TOKYO TAIYOs,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,BW588
+Japan - Stage 1,Japan - Stage 1__match_0024,Round Robin [Bo5],0,Busan,99DIVINE,Telomere,Telomere,99DIVINE,Telomere Wins!,X614
+Japan - Stage 1,Japan - Stage 1__match_0024,Round Robin [Bo5],1,Rialto,99DIVINE,Telomere,99DIVINE,Telomere,99DIVINE Wins!,AO614
+Japan - Stage 1,Japan - Stage 1__match_0024,Round Robin [Bo5],2,Aatlis,99DIVINE,Telomere,99DIVINE,Telomere,99DIVINE Wins!,BF614
+Japan - Stage 1,Japan - Stage 1__match_0024,Round Robin [Bo5],3,Numbani,99DIVINE,Telomere,99DIVINE,Telomere,99DIVINE Wins!,BW614
+Japan - Stage 1,Japan - Stage 1__match_0025,Round Robin [Bo5],0,Lijiang Tower,Please Not Hero Ban,ENTER FORCE.36,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36 Wins!,X640
+Japan - Stage 1,Japan - Stage 1__match_0025,Round Robin [Bo5],1,Esperança,Please Not Hero Ban,ENTER FORCE.36,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36 Wins!,AO640
+Japan - Stage 1,Japan - Stage 1__match_0025,Round Robin [Bo5],2,Blizzard World,Please Not Hero Ban,ENTER FORCE.36,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36 Wins!,BF640
+Japan - Stage 1,Japan - Stage 1__match_0026,Round Robin [Bo5],0,Oasis,Lazuli,Nyam Gaming,Nyam Gaming,Lazuli,Nyam Gaming Wins!,X666
+Japan - Stage 1,Japan - Stage 1__match_0026,Round Robin [Bo5],1,Suravasa,Lazuli,Nyam Gaming,Lazuli,Nyam Gaming,Lazuli Wins!,AO666
+Japan - Stage 1,Japan - Stage 1__match_0026,Round Robin [Bo5],2,Watchpoint: Gibraltar,Lazuli,Nyam Gaming,Nyam Gaming,Lazuli,Nyam Gaming Wins!,BF666
+Japan - Stage 1,Japan - Stage 1__match_0026,Round Robin [Bo5],3,Blizzard World,Lazuli,Nyam Gaming,Lazuli,Nyam Gaming,Lazuli Wins!,BW666
+Japan - Stage 1,Japan - Stage 1__match_0026,Round Robin [Bo5],4,Esperança,Lazuli,Nyam Gaming,Lazuli,Nyam Gaming,Lazuli Wins!,CN666
+Japan - Stage 1,Japan - Stage 1__match_0027,Round Robin [Bo5],0,Busan,VARREL,99DIVINE,VARREL,99DIVINE,VARREL Wins!,X692
+Japan - Stage 1,Japan - Stage 1__match_0027,Round Robin [Bo5],1,Rialto,VARREL,99DIVINE,VARREL,99DIVINE,VARREL Wins!,AO692
+Japan - Stage 1,Japan - Stage 1__match_0027,Round Robin [Bo5],2,Aatlis,VARREL,99DIVINE,VARREL,99DIVINE,VARREL Wins!,BF692
+Japan - Stage 1,Japan - Stage 1__match_0028,Round Robin [Bo5],0,Lijiang Tower,TOKYO TAIYOs,Telomere,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,X718
+Japan - Stage 1,Japan - Stage 1__match_0028,Round Robin [Bo5],1,Blizzard World,TOKYO TAIYOs,Telomere,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,AO718
+Japan - Stage 1,Japan - Stage 1__match_0028,Round Robin [Bo5],2,Aatlis,TOKYO TAIYOs,Telomere,TAKYO TA1YOs,,TAKYO TA1YOs Wins!,BF718
+Japan - Stage 1,Japan - Stage 1__match_0029,Semifinals [Bo7],0,Lijiang Tower,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36 Wins!,X744
+Japan - Stage 1,Japan - Stage 1__match_0029,Semifinals [Bo7],1,Esperança,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36 Wins!,AO744
+Japan - Stage 1,Japan - Stage 1__match_0029,Semifinals [Bo7],2,Blizzard World,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36 Wins!,BF744
+Japan - Stage 1,Japan - Stage 1__match_0029,Semifinals [Bo7],3,Watchpoint: Gibraltar,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36,Please Not Hero Ban,ENTER FORCE.36 Wins!,BW744
+Japan - Stage 1,Japan - Stage 1__match_0030,Semifinals [Bo7],0,Lijiang Tower,VARREL,99DIVINE,VARREL,99DIVINE,VARREL Wins!,X770
+Japan - Stage 1,Japan - Stage 1__match_0030,Semifinals [Bo7],1,Esperança,VARREL,99DIVINE,VARREL,99DIVINE,VARREL Wins!,AO770
+Japan - Stage 1,Japan - Stage 1__match_0030,Semifinals [Bo7],2,Rialto,VARREL,99DIVINE,VARREL,99DIVINE,VARREL Wins!,BF770
+Japan - Stage 1,Japan - Stage 1__match_0030,Semifinals [Bo7],3,Blizzard World,VARREL,99DIVINE,VARREL,99DIVINE,VARREL Wins!,BW770
+Japan - Stage 1,Japan - Stage 1__match_0031,Third Place Match [Bo7],0,Oasis,Please Not Hero Ban,99DIVINE,Please Not Hero Ban,99DIVINE,Please Not Hero Ban Wins!,X796
+Japan - Stage 1,Japan - Stage 1__match_0031,Third Place Match [Bo7],1,Blizzard World,Please Not Hero Ban,99DIVINE,Please Not Hero Ban,99DIVINE,Please Not Hero Ban Wins!,AO796
+Japan - Stage 1,Japan - Stage 1__match_0031,Third Place Match [Bo7],2,Esperança,Please Not Hero Ban,99DIVINE,Please Not Hero Ban,99DIVINE,Please Not Hero Ban Wins!,BF796
+Japan - Stage 1,Japan - Stage 1__match_0031,Third Place Match [Bo7],3,Rialto,Please Not Hero Ban,99DIVINE,Please Not Hero Ban,99DIVINE,Please Not Hero Ban Wins!,BW796
+Japan - Stage 1,Japan - Stage 1__match_0032,Grand Finals [Bo7],0,Lijiang Tower,VARREL,ENTER FORCE.36,VARREL,ENTER FORCE.36,VARREL Wins!,X822
+Japan - Stage 1,Japan - Stage 1__match_0032,Grand Finals [Bo7],1,Aatlis,VARREL,ENTER FORCE.36,VARREL,ENTER FORCE.36,VARREL Wins!,AO822
+Japan - Stage 1,Japan - Stage 1__match_0032,Grand Finals [Bo7],2,Watchpoint: Gibraltar,VARREL,ENTER FORCE.36,VARREL,ENTER FORCE.36,VARREL Wins!,BF822
+Japan - Stage 1,Japan - Stage 1__match_0032,Grand Finals [Bo7],3,Midtown,VARREL,ENTER FORCE.36,,,Draw!,BW822
+Japan - Stage 1,Japan - Stage 1__match_0032,Grand Finals [Bo7],4,Esperança,VARREL,ENTER FORCE.36,VARREL,ENTER FORCE.36,VARREL Wins!,CN822
+Korea - Stage 1,Korea - Stage 1__match_0001,Round Robin [Bo5],0,Busan,Cheeseburger,Poker Face,Poker Face,Cheeseburger,Poker Face Wins!,X16
+Korea - Stage 1,Korea - Stage 1__match_0001,Round Robin [Bo5],1,Runasapi,Cheeseburger,Poker Face,Poker Face,Cheeseburger,Poker Face Wins!,AO16
+Korea - Stage 1,Korea - Stage 1__match_0001,Round Robin [Bo5],2,Numbani,Cheeseburger,Poker Face,Poker Face,Cheeseburger,Poker Face Wins!,BF16
+Korea - Stage 1,Korea - Stage 1__match_0002,Round Robin [Bo5],0,Busan,Crazy Raccoon,ZETA DIVISION,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION Wins!,X42
+Korea - Stage 1,Korea - Stage 1__match_0002,Round Robin [Bo5],1,Suravasa,Crazy Raccoon,ZETA DIVISION,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION Wins!,AO42
+Korea - Stage 1,Korea - Stage 1__match_0002,Round Robin [Bo5],2,Havana,Crazy Raccoon,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION,Crazy Raccoon Wins!,BF42
+Korea - Stage 1,Korea - Stage 1__match_0002,Round Robin [Bo5],3,Blizzard World,Crazy Raccoon,ZETA DIVISION,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION Wins!,BW42
+Korea - Stage 1,Korea - Stage 1__match_0003,Round Robin [Bo5],0,Busan,ZAN Esports,RØDE ONSIDE GAMING,ZAN Esports,RØDE ONSIDE GAMING,ZAN Esports Wins!,X68
+Korea - Stage 1,Korea - Stage 1__match_0003,Round Robin [Bo5],1,Runasapi,ZAN Esports,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,ZAN Esports,RØDE ONSIDE GAMING Wins!,AO68
+Korea - Stage 1,Korea - Stage 1__match_0003,Round Robin [Bo5],2,Midtown,ZAN Esports,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,ZAN Esports,RØDE ONSIDE GAMING Wins!,BF68
+Korea - Stage 1,Korea - Stage 1__match_0003,Round Robin [Bo5],3,Havana,ZAN Esports,RØDE ONSIDE GAMING,ZAN Esports,RØDE ONSIDE GAMING,ZAN Esports Wins!,BW68
+Korea - Stage 1,Korea - Stage 1__match_0003,Round Robin [Bo5],4,Aatlis,ZAN Esports,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,ZAN Esports,RØDE ONSIDE GAMING Wins!,CN68
+Korea - Stage 1,Korea - Stage 1__match_0004,Round Robin [Bo5],0,Lijiang Tower,New Era,T1,T1,New Era,T1 Wins!,X94
+Korea - Stage 1,Korea - Stage 1__match_0004,Round Robin [Bo5],1,Blizzard World,New Era,T1,T1,New Era,T1 Wins!,AO94
+Korea - Stage 1,Korea - Stage 1__match_0004,Round Robin [Bo5],2,Suravasa,New Era,T1,T1,New Era,T1 Wins!,BF94
+Korea - Stage 1,Korea - Stage 1__match_0005,Round Robin [Bo5],0,Oasis,Cheeseburger,Team Falcons,Team Falcons,Cheeseburger,Team Falcons Wins!,X120
+Korea - Stage 1,Korea - Stage 1__match_0005,Round Robin [Bo5],1,Watchpoint: Gibraltar,Cheeseburger,Team Falcons,Team Falcons,Cheeseburger,Team Falcons Wins!,AO120
+Korea - Stage 1,Korea - Stage 1__match_0005,Round Robin [Bo5],2,Suravasa,Cheeseburger,Team Falcons,Team Falcons,Cheeseburger,Team Falcons Wins!,BF120
+Korea - Stage 1,Korea - Stage 1__match_0006,Round Robin [Bo5],0,Lijiang Tower,ZAN Esports,Crazy Raccoon,Crazy Raccoon,ZAN Esports,Crazy Raccoon Wins!,X146
+Korea - Stage 1,Korea - Stage 1__match_0006,Round Robin [Bo5],1,Havana,ZAN Esports,Crazy Raccoon,Crazy Raccoon,ZAN Esports,Crazy Raccoon Wins!,AO146
+Korea - Stage 1,Korea - Stage 1__match_0006,Round Robin [Bo5],2,Esperança,ZAN Esports,Crazy Raccoon,ZAN Esports,Crazy Raccoon,ZAN Esports Wins!,BF146
+Korea - Stage 1,Korea - Stage 1__match_0006,Round Robin [Bo5],3,Midtown,ZAN Esports,Crazy Raccoon,Crazy Raccoon,ZAN Esports,Crazy Raccoon Wins!,BW146
+Korea - Stage 1,Korea - Stage 1__match_0007,Round Robin [Bo5],0,Busan,Poker Face,New Era,Poker Face,New Era,Poker Face Wins!,X172
+Korea - Stage 1,Korea - Stage 1__match_0007,Round Robin [Bo5],1,Rialto,Poker Face,New Era,Poker Face,New Era,Poker Face Wins!,AO172
+Korea - Stage 1,Korea - Stage 1__match_0007,Round Robin [Bo5],2,Midtown,Poker Face,New Era,Poker Face,New Era,Poker Face Wins!,BF172
+Korea - Stage 1,Korea - Stage 1__match_0008,Round Robin [Bo5],0,Busan,RØDE ONSIDE GAMING,T1,RØDE ONSIDE GAMING,T1,RØDE ONSIDE GAMING Wins!,X198
+Korea - Stage 1,Korea - Stage 1__match_0008,Round Robin [Bo5],1,Rialto,RØDE ONSIDE GAMING,T1,T1,RØDE ONSIDE GAMING,T1 Wins!,AO198
+Korea - Stage 1,Korea - Stage 1__match_0008,Round Robin [Bo5],2,Aatlis,RØDE ONSIDE GAMING,T1,T1,RØDE ONSIDE GAMING,T1 Wins!,BF198
+Korea - Stage 1,Korea - Stage 1__match_0008,Round Robin [Bo5],3,Numbani,RØDE ONSIDE GAMING,T1,RØDE ONSIDE GAMING,T1,RØDE ONSIDE GAMING Wins!,BW198
+Korea - Stage 1,Korea - Stage 1__match_0008,Round Robin [Bo5],4,Runasapi,RØDE ONSIDE GAMING,T1,RØDE ONSIDE GAMING,T1,RØDE ONSIDE GAMING Wins!,CN198
+Korea - Stage 1,Korea - Stage 1__match_0009,Round Robin [Bo5],0,Lijiang Tower,ZETA DIVISION,Team Falcons,ZETA DIVISION,Team Falcons,ZETA DIVISION Wins!,X224
+Korea - Stage 1,Korea - Stage 1__match_0009,Round Robin [Bo5],1,Esperança,ZETA DIVISION,Team Falcons,Team Falcons,ZETA DIVISION,Team Falcons Wins!,AO224
+Korea - Stage 1,Korea - Stage 1__match_0009,Round Robin [Bo5],2,Rialto,ZETA DIVISION,Team Falcons,ZETA DIVISION,Team Falcons,ZETA DIVISION Wins!,BF224
+Korea - Stage 1,Korea - Stage 1__match_0009,Round Robin [Bo5],3,Numbani,ZETA DIVISION,Team Falcons,Team Falcons,ZETA DIVISION,Team Falcons Wins!,BW224
+Korea - Stage 1,Korea - Stage 1__match_0009,Round Robin [Bo5],4,Blizzard World,ZETA DIVISION,Team Falcons,ZETA DIVISION,Team Falcons,ZETA DIVISION Wins!,CN224
+Korea - Stage 1,Korea - Stage 1__match_0010,Round Robin [Bo5],0,Oasis,Cheeseburger,ZAN Esports,ZAN Esports,Cheeseburger,ZAN Esports Wins!,X250
+Korea - Stage 1,Korea - Stage 1__match_0010,Round Robin [Bo5],1,Watchpoint: Gibraltar,Cheeseburger,ZAN Esports,ZAN Esports,Cheeseburger,ZAN Esports Wins!,AO250
+Korea - Stage 1,Korea - Stage 1__match_0010,Round Robin [Bo5],2,Aatlis,Cheeseburger,ZAN Esports,ZAN Esports,Cheeseburger,ZAN Esports Wins!,BF250
+Korea - Stage 1,Korea - Stage 1__match_0011,Round Robin [Bo5],0,Lijiang Tower,Poker Face,ZETA DIVISION,ZETA DIVISION,Poker Face,ZETA DIVISION Wins!,X276
+Korea - Stage 1,Korea - Stage 1__match_0011,Round Robin [Bo5],1,Esperança,Poker Face,ZETA DIVISION,ZETA DIVISION,Poker Face,ZETA DIVISION Wins!,AO276
+Korea - Stage 1,Korea - Stage 1__match_0011,Round Robin [Bo5],2,Rialto,Poker Face,ZETA DIVISION,ZETA DIVISION,Poker Face,ZETA DIVISION Wins!,BF276
+Korea - Stage 1,Korea - Stage 1__match_0012,Round Robin [Bo5],0,Busan,Crazy Raccoon,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,Crazy Raccoon,RØDE ONSIDE GAMING Wins!,X302
+Korea - Stage 1,Korea - Stage 1__match_0012,Round Robin [Bo5],1,Havana,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon Wins!,AO302
+Korea - Stage 1,Korea - Stage 1__match_0012,Round Robin [Bo5],2,Blizzard World,Crazy Raccoon,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,Crazy Raccoon,RØDE ONSIDE GAMING Wins!,BF302
+Korea - Stage 1,Korea - Stage 1__match_0012,Round Robin [Bo5],3,Runasapi,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon Wins!,BW302
+Korea - Stage 1,Korea - Stage 1__match_0012,Round Robin [Bo5],4,Rialto,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon Wins!,CN302
+Korea - Stage 1,Korea - Stage 1__match_0013,Round Robin [Bo5],0,Oasis,New Era,Team Falcons,Team Falcons,New Era,Team Falcons Wins!,X328
+Korea - Stage 1,Korea - Stage 1__match_0013,Round Robin [Bo5],1,Havana,New Era,Team Falcons,Team Falcons,New Era,Team Falcons Wins!,AO328
+Korea - Stage 1,Korea - Stage 1__match_0013,Round Robin [Bo5],2,Midtown,New Era,Team Falcons,Team Falcons,New Era,Team Falcons Wins!,BF328
+Korea - Stage 1,Korea - Stage 1__match_0014,Round Robin [Bo5],0,Oasis,T1,Poker Face,T1,Poker Face,T1 Wins!,X354
+Korea - Stage 1,Korea - Stage 1__match_0014,Round Robin [Bo5],1,Numbani,T1,Poker Face,T1,Poker Face,T1 Wins!,AO354
+Korea - Stage 1,Korea - Stage 1__match_0014,Round Robin [Bo5],2,Esperança,T1,Poker Face,T1,Poker Face,T1 Wins!,BF354
+Korea - Stage 1,Korea - Stage 1__match_0015,Round Robin [Bo5],0,Lijiang Tower,Crazy Raccoon,Cheeseburger,Crazy Raccoon,Cheeseburger,Crazy Raccoon Wins!,X380
+Korea - Stage 1,Korea - Stage 1__match_0015,Round Robin [Bo5],1,Aatlis,Crazy Raccoon,Cheeseburger,Crazy Raccoon,Cheeseburger,Crazy Raccoon Wins!,AO380
+Korea - Stage 1,Korea - Stage 1__match_0015,Round Robin [Bo5],2,Havana,Crazy Raccoon,Cheeseburger,Crazy Raccoon,Cheeseburger,Crazy Raccoon Wins!,BF380
+Korea - Stage 1,Korea - Stage 1__match_0016,Round Robin [Bo5],0,Lijiang Tower,RØDE ONSIDE GAMING,New Era,RØDE ONSIDE GAMING,New Era,RØDE ONSIDE GAMING Wins!,X406
+Korea - Stage 1,Korea - Stage 1__match_0016,Round Robin [Bo5],1,Blizzard World,RØDE ONSIDE GAMING,New Era,RØDE ONSIDE GAMING,New Era,RØDE ONSIDE GAMING Wins!,AO406
+Korea - Stage 1,Korea - Stage 1__match_0016,Round Robin [Bo5],2,Havana,RØDE ONSIDE GAMING,New Era,RØDE ONSIDE GAMING,New Era,RØDE ONSIDE GAMING Wins!,BF406
+Korea - Stage 1,Korea - Stage 1__match_0017,Round Robin [Bo5],0,Busan,ZAN Esports,ZETA DIVISION,ZETA DIVISION,ZAN Esports,ZETA DIVISION Wins!,X432
+Korea - Stage 1,Korea - Stage 1__match_0017,Round Robin [Bo5],1,Suravasa,ZAN Esports,ZETA DIVISION,ZETA DIVISION,ZAN Esports,ZETA DIVISION Wins!,AO432
+Korea - Stage 1,Korea - Stage 1__match_0017,Round Robin [Bo5],2,Havana,ZAN Esports,ZETA DIVISION,ZETA DIVISION,ZAN Esports,ZETA DIVISION Wins!,BF432
+Korea - Stage 1,Korea - Stage 1__match_0018,Round Robin [Bo5],0,Busan,Team Falcons,T1,T1,Team Falcons,T1 Wins!,X458
+Korea - Stage 1,Korea - Stage 1__match_0018,Round Robin [Bo5],1,Esperança,Team Falcons,T1,Team Falcons,T1,Team Falcons Wins!,AO458
+Korea - Stage 1,Korea - Stage 1__match_0018,Round Robin [Bo5],2,Havana,Team Falcons,T1,Team Falcons,T1,Team Falcons Wins!,BF458
+Korea - Stage 1,Korea - Stage 1__match_0018,Round Robin [Bo5],3,Blizzard World,Team Falcons,T1,Team Falcons,T1,Team Falcons Wins!,BW458
+Korea - Stage 1,Korea - Stage 1__match_0019,Round Robin [Bo5],0,Oasis,RØDE ONSIDE GAMING,Cheeseburger,RØDE ONSIDE GAMING,Cheeseburger,RØDE ONSIDE GAMING Wins!,X484
+Korea - Stage 1,Korea - Stage 1__match_0019,Round Robin [Bo5],1,Aatlis,RØDE ONSIDE GAMING,Cheeseburger,RØDE ONSIDE GAMING,Cheeseburger,RØDE ONSIDE GAMING Wins!,AO484
+Korea - Stage 1,Korea - Stage 1__match_0019,Round Robin [Bo5],2,Blizzard World,RØDE ONSIDE GAMING,Cheeseburger,RØDE ONSIDE GAMING,Cheeseburger,RØDE ONSIDE GAMING Wins!,BF484
+Korea - Stage 1,Korea - Stage 1__match_0020,Round Robin [Bo5],0,Oasis,Team Falcons,Poker Face,Team Falcons,Poker Face,Team Falcons Wins!,X510
+Korea - Stage 1,Korea - Stage 1__match_0020,Round Robin [Bo5],1,Numbani,Team Falcons,Poker Face,Team Falcons,Poker Face,Team Falcons Wins!,AO510
+Korea - Stage 1,Korea - Stage 1__match_0020,Round Robin [Bo5],2,Aatlis,Team Falcons,Poker Face,Team Falcons,Poker Face,Team Falcons Wins!,BF510
+Korea - Stage 1,Korea - Stage 1__match_0021,Round Robin [Bo5],0,Oasis,T1,Crazy Raccoon,Crazy Raccoon,T1,Crazy Raccoon Wins!,X536
+Korea - Stage 1,Korea - Stage 1__match_0021,Round Robin [Bo5],1,Havana,T1,Crazy Raccoon,Crazy Raccoon,T1,Crazy Raccoon Wins!,AO536
+Korea - Stage 1,Korea - Stage 1__match_0021,Round Robin [Bo5],2,Suravasa,T1,Crazy Raccoon,T1,Crazy Raccoon,T1 Wins!,BF536
+Korea - Stage 1,Korea - Stage 1__match_0021,Round Robin [Bo5],3,Blizzard World,T1,Crazy Raccoon,T1,Crazy Raccoon,T1 Wins!,BW536
+Korea - Stage 1,Korea - Stage 1__match_0021,Round Robin [Bo5],4,Aatlis,T1,Crazy Raccoon,T1,Crazy Raccoon,T1 Wins!,CN536
+Korea - Stage 1,Korea - Stage 1__match_0022,Round Robin [Bo5],0,Busan,New Era,ZAN Esports,ZAN Esports,New Era,ZAN Esports Wins!,X562
+Korea - Stage 1,Korea - Stage 1__match_0022,Round Robin [Bo5],1,Esperança,New Era,ZAN Esports,ZAN Esports,New Era,ZAN Esports Wins!,AO562
+Korea - Stage 1,Korea - Stage 1__match_0022,Round Robin [Bo5],2,Havana,New Era,ZAN Esports,ZAN Esports,New Era,ZAN Esports Wins!,BF562
+Korea - Stage 1,Korea - Stage 1__match_0023,Round Robin [Bo5],0,Oasis,ZETA DIVISION,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING Wins!,X588
+Korea - Stage 1,Korea - Stage 1__match_0023,Round Robin [Bo5],1,Blizzard World,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION Wins!,AO588
+Korea - Stage 1,Korea - Stage 1__match_0023,Round Robin [Bo5],2,Runasapi,ZETA DIVISION,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING Wins!,BF588
+Korea - Stage 1,Korea - Stage 1__match_0023,Round Robin [Bo5],3,Watchpoint: Gibraltar,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION Wins!,BW588
+Korea - Stage 1,Korea - Stage 1__match_0023,Round Robin [Bo5],4,Busan,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION Wins!,CN588
+Korea - Stage 1,Korea - Stage 1__match_0024,Round Robin [Bo5],0,Lijiang Tower,Cheeseburger,T1,T1,Cheeseburger,T1 Wins!,X614
+Korea - Stage 1,Korea - Stage 1__match_0024,Round Robin [Bo5],1,Havana,Cheeseburger,T1,T1,Cheeseburger,T1 Wins!,AO614
+Korea - Stage 1,Korea - Stage 1__match_0024,Round Robin [Bo5],2,Blizzard World,Cheeseburger,T1,T1,Cheeseburger,T1 Wins!,BF614
+Korea - Stage 1,Korea - Stage 1__match_0025,Round Robin [Bo5],0,Lijiang Tower,Team Falcons,ZAN Esports,Team Falcons,ZAN Esports,Team Falcons Wins!,X640
+Korea - Stage 1,Korea - Stage 1__match_0025,Round Robin [Bo5],1,Suravasa,Team Falcons,ZAN Esports,Team Falcons,ZAN Esports,Team Falcons Wins!,AO640
+Korea - Stage 1,Korea - Stage 1__match_0025,Round Robin [Bo5],2,Watchpoint: Gibraltar,Team Falcons,ZAN Esports,Team Falcons,ZAN Esports,Team Falcons Wins!,BF640
+Korea - Stage 1,Korea - Stage 1__match_0026,Round Robin [Bo5],0,Lijiang Tower,Poker Face,Crazy Raccoon,Crazy Raccoon,Poker Face,Crazy Raccoon Wins!,X666
+Korea - Stage 1,Korea - Stage 1__match_0026,Round Robin [Bo5],1,Numbani,Poker Face,Crazy Raccoon,Crazy Raccoon,Poker Face,Crazy Raccoon Wins!,AO666
+Korea - Stage 1,Korea - Stage 1__match_0026,Round Robin [Bo5],2,Aatlis,Poker Face,Crazy Raccoon,Crazy Raccoon,Poker Face,Crazy Raccoon Wins!,BF666
+Korea - Stage 1,Korea - Stage 1__match_0027,Round Robin [Bo5],0,Oasis,ZETA DIVISION,New Era,ZETA DIVISION,New Era,ZETA DIVISION Wins!,X692
+Korea - Stage 1,Korea - Stage 1__match_0027,Round Robin [Bo5],1,Runasapi,ZETA DIVISION,New Era,ZETA DIVISION,New Era,ZETA DIVISION Wins!,AO692
+Korea - Stage 1,Korea - Stage 1__match_0027,Round Robin [Bo5],2,Havana,ZETA DIVISION,New Era,ZETA DIVISION,New Era,ZETA DIVISION Wins!,BF692
+Korea - Stage 1,Korea - Stage 1__match_0028,Round Robin [Bo5],0,Oasis,Poker Face,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,Poker Face,RØDE ONSIDE GAMING Wins!,X718
+Korea - Stage 1,Korea - Stage 1__match_0028,Round Robin [Bo5],1,Aatlis,Poker Face,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,Poker Face,RØDE ONSIDE GAMING Wins!,AO718
+Korea - Stage 1,Korea - Stage 1__match_0028,Round Robin [Bo5],2,Rialto,Poker Face,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,Poker Face,RØDE ONSIDE GAMING Wins!,BF718
+Korea - Stage 1,Korea - Stage 1__match_0029,Round Robin [Bo5],0,Busan,T1,ZETA DIVISION,ZETA DIVISION,T1,ZETA DIVISION Wins!,X744
+Korea - Stage 1,Korea - Stage 1__match_0029,Round Robin [Bo5],1,Suravasa,T1,ZETA DIVISION,T1,ZETA DIVISION,T1 Wins!,AO744
+Korea - Stage 1,Korea - Stage 1__match_0029,Round Robin [Bo5],2,Havana,T1,ZETA DIVISION,ZETA DIVISION,T1,ZETA DIVISION Wins!,BF744
+Korea - Stage 1,Korea - Stage 1__match_0029,Round Robin [Bo5],3,Blizzard World,T1,ZETA DIVISION,ZETA DIVISION,T1,ZETA DIVISION Wins!,BW744
+Korea - Stage 1,Korea - Stage 1__match_0030,Round Robin [Bo5],0,Oasis,Crazy Raccoon,New Era,Crazy Raccoon,New Era,Crazy Raccoon Wins!,X770
+Korea - Stage 1,Korea - Stage 1__match_0030,Round Robin [Bo5],1,Suravasa,Crazy Raccoon,New Era,Crazy Raccoon,New Era,Crazy Raccoon Wins!,AO770
+Korea - Stage 1,Korea - Stage 1__match_0030,Round Robin [Bo5],2,Rialto,Crazy Raccoon,New Era,Crazy Raccoon,New Era,Crazy Raccoon Wins!,BF770
+Korea - Stage 1,Korea - Stage 1__match_0031,Round Robin [Bo5],0,Oasis,T1,ZAN Esports,T1,ZAN Esports,T1 Wins!,X796
+Korea - Stage 1,Korea - Stage 1__match_0031,Round Robin [Bo5],1,Watchpoint: Gibraltar,T1,ZAN Esports,T1,ZAN Esports,T1 Wins!,AO796
+Korea - Stage 1,Korea - Stage 1__match_0031,Round Robin [Bo5],2,Esperança,T1,ZAN Esports,T1,ZAN Esports,T1 Wins!,BF796
+Korea - Stage 1,Korea - Stage 1__match_0032,Round Robin [Bo5],0,Lijiang Tower,ZETA DIVISION,Cheeseburger,ZETA DIVISION,Cheeseburger,ZETA DIVISION Wins!,X822
+Korea - Stage 1,Korea - Stage 1__match_0032,Round Robin [Bo5],1,Watchpoint: Gibraltar,ZETA DIVISION,Cheeseburger,ZETA DIVISION,Cheeseburger,ZETA DIVISION Wins!,AO822
+Korea - Stage 1,Korea - Stage 1__match_0032,Round Robin [Bo5],2,Blizzard World,ZETA DIVISION,Cheeseburger,ZETA DIVISION,Cheeseburger,ZETA DIVISION Wins!,BF822
+Korea - Stage 1,Korea - Stage 1__match_0033,Round Robin [Bo5],0,Busan,Team Falcons,Crazy Raccoon,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,X848
+Korea - Stage 1,Korea - Stage 1__match_0033,Round Robin [Bo5],1,Esperança,Team Falcons,Crazy Raccoon,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,AO848
+Korea - Stage 1,Korea - Stage 1__match_0033,Round Robin [Bo5],2,Rialto,Team Falcons,Crazy Raccoon,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,BF848
+Korea - Stage 1,Korea - Stage 1__match_0034,Round Robin [Bo5],0,Lijiang Tower,ZAN Esports,Poker Face,ZAN Esports,Poker Face,ZAN Esports Wins!,X874
+Korea - Stage 1,Korea - Stage 1__match_0034,Round Robin [Bo5],1,Rialto,ZAN Esports,Poker Face,ZAN Esports,Poker Face,ZAN Esports Wins!,AO874
+Korea - Stage 1,Korea - Stage 1__match_0034,Round Robin [Bo5],2,Aatlis,ZAN Esports,Poker Face,ZAN Esports,Poker Face,ZAN Esports Wins!,BF874
+Korea - Stage 1,Korea - Stage 1__match_0035,Round Robin [Bo5],0,Lijiang Tower,RØDE ONSIDE GAMING,Team Falcons,Team Falcons,RØDE ONSIDE GAMING,Team Falcons Wins!,X900
+Korea - Stage 1,Korea - Stage 1__match_0035,Round Robin [Bo5],1,Runasapi,RØDE ONSIDE GAMING,Team Falcons,Team Falcons,RØDE ONSIDE GAMING,Team Falcons Wins!,AO900
+Korea - Stage 1,Korea - Stage 1__match_0035,Round Robin [Bo5],2,Watchpoint: Gibraltar,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING Wins!,BF900
+Korea - Stage 1,Korea - Stage 1__match_0035,Round Robin [Bo5],3,Numbani,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING Wins!,BW900
+Korea - Stage 1,Korea - Stage 1__match_0035,Round Robin [Bo5],4,Esperança,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING Wins!,CN900
+Korea - Stage 1,Korea - Stage 1__match_0036,Round Robin [Bo5],0,Busan,New Era,Cheeseburger,Cheeseburger,New Era,Cheeseburger Wins!,X926
+Korea - Stage 1,Korea - Stage 1__match_0036,Round Robin [Bo5],1,Watchpoint: Gibraltar,New Era,Cheeseburger,Cheeseburger,New Era,Cheeseburger Wins!,AO926
+Korea - Stage 1,Korea - Stage 1__match_0036,Round Robin [Bo5],2,Blizzard World,New Era,Cheeseburger,Cheeseburger,New Era,Cheeseburger Wins!,BF926
+Korea - Stage 1,Korea - Stage 1__match_0037,Last Chance Qualifier [Bo5],0,Lijiang Tower,T1,ZAN Esports,T1,ZAN Esports,T1 Wins!,X952
+Korea - Stage 1,Korea - Stage 1__match_0037,Last Chance Qualifier [Bo5],1,Esperança,T1,ZAN Esports,T1,ZAN Esports,T1 Wins!,AO952
+Korea - Stage 1,Korea - Stage 1__match_0037,Last Chance Qualifier [Bo5],2,Havana,T1,ZAN Esports,T1,ZAN Esports,T1 Wins!,BF952
+Korea - Stage 1,Korea - Stage 1__match_0038,Seeding Decider [Bo5],0,Lijiang Tower,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION Wins!,X978
+Korea - Stage 1,Korea - Stage 1__match_0038,Seeding Decider [Bo5],1,Runasapi,ZETA DIVISION,RØDE ONSIDE GAMING,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING Wins!,AO978
+Korea - Stage 1,Korea - Stage 1__match_0038,Seeding Decider [Bo5],2,Blizzard World,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION Wins!,BF978
+Korea - Stage 1,Korea - Stage 1__match_0038,Seeding Decider [Bo5],3,Havana,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION,RØDE ONSIDE GAMING,ZETA DIVISION Wins!,BW978
+Korea - Stage 1,Korea - Stage 1__match_0039,Seeding Decider [Bo5],0,Lijiang Tower,Crazy Raccoon,Team Falcons,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,X1004
+Korea - Stage 1,Korea - Stage 1__match_0039,Seeding Decider [Bo5],1,Runasapi,Crazy Raccoon,Team Falcons,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,AO1004
+Korea - Stage 1,Korea - Stage 1__match_0039,Seeding Decider [Bo5],2,Blizzard World,Crazy Raccoon,Team Falcons,Crazy Raccoon,Team Falcons,Crazy Raccoon Wins!,BF1004
+Korea - Stage 1,Korea - Stage 1__match_0040,Last Chance Qualifier [Bo5],0,Busan,Poker Face,Cheeseburger,Cheeseburger,Poker Face,Cheeseburger Wins!,X1030
+Korea - Stage 1,Korea - Stage 1__match_0040,Last Chance Qualifier [Bo5],1,Rialto,Poker Face,Cheeseburger,Poker Face,Cheeseburger,Poker Face Wins!,AO1030
+Korea - Stage 1,Korea - Stage 1__match_0040,Last Chance Qualifier [Bo5],2,Esperança,Poker Face,Cheeseburger,Poker Face,Cheeseburger,Poker Face Wins!,BF1030
+Korea - Stage 1,Korea - Stage 1__match_0040,Last Chance Qualifier [Bo5],3,Numbani,Poker Face,Cheeseburger,Cheeseburger,Poker Face,Cheeseburger Wins!,BW1030
+Korea - Stage 1,Korea - Stage 1__match_0040,Last Chance Qualifier [Bo5],4,Runasapi,Poker Face,Cheeseburger,Cheeseburger,Poker Face,Cheeseburger Wins!,CN1030
+Korea - Stage 1,Korea - Stage 1__match_0041,Seeding Decider [Bo5],0,Lijiang Tower,ZETA DIVISION,Team Falcons,ZETA DIVISION,Team Falcons,ZETA DIVISION Wins!,X1056
+Korea - Stage 1,Korea - Stage 1__match_0041,Seeding Decider [Bo5],1,Runasapi,ZETA DIVISION,Team Falcons,ZETA DIVISION,Team Falcons,ZETA DIVISION Wins!,AO1056
+Korea - Stage 1,Korea - Stage 1__match_0041,Seeding Decider [Bo5],2,Numbani,ZETA DIVISION,Team Falcons,Team Falcons,ZETA DIVISION,Team Falcons Wins!,BF1056
+Korea - Stage 1,Korea - Stage 1__match_0041,Seeding Decider [Bo5],3,Watchpoint: Gibraltar,ZETA DIVISION,Team Falcons,ZETA DIVISION,Team Falcons,ZETA DIVISION Wins!,BW1056
+Korea - Stage 1,Korea - Stage 1__match_0042,Seeding Decider [Bo5],0,Lijiang Tower,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon Wins!,X1082
+Korea - Stage 1,Korea - Stage 1__match_0042,Seeding Decider [Bo5],1,Runasapi,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon Wins!,AO1082
+Korea - Stage 1,Korea - Stage 1__match_0042,Seeding Decider [Bo5],2,Blizzard World,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon,RØDE ONSIDE GAMING,Crazy Raccoon Wins!,BF1082
+Korea - Stage 1,Korea - Stage 1__match_0043,Last Chance Qualifier [Bo5],0,Lijiang Tower,ZAN Esports,Cheeseburger,ZAN Esports,Cheeseburger,ZAN Esports Wins!,X1108
+Korea - Stage 1,Korea - Stage 1__match_0043,Last Chance Qualifier [Bo5],1,Rialto,ZAN Esports,Cheeseburger,ZAN Esports,Cheeseburger,ZAN Esports Wins!,AO1108
+Korea - Stage 1,Korea - Stage 1__match_0043,Last Chance Qualifier [Bo5],2,Esperança,ZAN Esports,Cheeseburger,ZAN Esports,Cheeseburger,ZAN Esports Wins!,BF1108
+Korea - Stage 1,Korea - Stage 1__match_0044,Seeding Decider [Bo5],0,Lijiang Tower,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION Wins!,X1134
+Korea - Stage 1,Korea - Stage 1__match_0044,Seeding Decider [Bo5],1,Havana,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION Wins!,AO1134
+Korea - Stage 1,Korea - Stage 1__match_0044,Seeding Decider [Bo5],2,Suravasa,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION,Crazy Raccoon,ZETA DIVISION Wins!,BF1134
+Korea - Stage 1,Korea - Stage 1__match_0045,Seeding Decider [Bo5],0,Lijiang Tower,Team Falcons,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING,Team Falcons Wins!,X1160
+Korea - Stage 1,Korea - Stage 1__match_0045,Seeding Decider [Bo5],1,Runasapi,Team Falcons,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING,Team Falcons Wins!,AO1160
+Korea - Stage 1,Korea - Stage 1__match_0045,Seeding Decider [Bo5],2,Blizzard World,Team Falcons,RØDE ONSIDE GAMING,Team Falcons,RØDE ONSIDE GAMING,Team Falcons Wins!,BF1160
+China - Stage 1,China - Stage 1__match_0001,Swiss Stage (Round 1) [Bo5],0,Busan,Milk Tea,Homie E,Homie E,Milk Tea,Homie E Wins!,X16
+China - Stage 1,China - Stage 1__match_0001,Swiss Stage (Round 1) [Bo5],1,Esperança,Milk Tea,Homie E,Milk Tea,Homie E,Milk Tea Wins!,AO16
+China - Stage 1,China - Stage 1__match_0001,Swiss Stage (Round 1) [Bo5],2,Havana,Milk Tea,Homie E,Milk Tea,Homie E,Milk Tea Wins!,BF16
+China - Stage 1,China - Stage 1__match_0001,Swiss Stage (Round 1) [Bo5],3,Numbani,Milk Tea,Homie E,Homie E,Milk Tea,Homie E Wins!,BW16
+China - Stage 1,China - Stage 1__match_0001,Swiss Stage (Round 1) [Bo5],4,Aatlis,Milk Tea,Homie E,Homie E,Milk Tea,Homie E Wins!,CN16
+China - Stage 1,China - Stage 1__match_0002,Swiss Stage (Round 1) [Bo5],0,Busan,All Gamers,DEG,All Gamers,DEG,All Gamers Wins!,X42
+China - Stage 1,China - Stage 1__match_0002,Swiss Stage (Round 1) [Bo5],1,Aatlis,All Gamers,DEG,All Gamers,DEG,All Gamers Wins!,AO42
+China - Stage 1,China - Stage 1__match_0002,Swiss Stage (Round 1) [Bo5],2,Esperança,All Gamers,DEG,All Gamers,DEG,All Gamers Wins!,BF42
+China - Stage 1,China - Stage 1__match_0003,Swiss Stage (Round 1) [Bo5],0,Lijiang Tower,Weibo Gaming,Naive Piggy,Weibo Gaming,Naive Piggy,Weibo Gaming Wins!,X68
+China - Stage 1,China - Stage 1__match_0003,Swiss Stage (Round 1) [Bo5],1,Esperança,Weibo Gaming,Naive Piggy,Weibo Gaming,Naive Piggy,Weibo Gaming Wins!,AO68
+China - Stage 1,China - Stage 1__match_0003,Swiss Stage (Round 1) [Bo5],2,Aatlis,Weibo Gaming,Naive Piggy,Weibo Gaming,Naive Piggy,Weibo Gaming Wins!,BF68
+China - Stage 1,China - Stage 1__match_0004,Swiss Stage (Round 1) [Bo5],0,Lijiang Tower,JD Gaming,SV,SV,JD Gaming,SV Wins!,X94
+China - Stage 1,China - Stage 1__match_0004,Swiss Stage (Round 1) [Bo5],1,Suravasa,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,AO94
+China - Stage 1,China - Stage 1__match_0004,Swiss Stage (Round 1) [Bo5],2,Midtown,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,BF94
+China - Stage 1,China - Stage 1__match_0004,Swiss Stage (Round 1) [Bo5],3,Havana,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,BW94
+China - Stage 1,China - Stage 1__match_0005,Swiss Stage (Round 2) [Bo5],0,Lijiang Tower,Milk Tea,Naive Piggy,Naive Piggy,Milk Tea,Naive Piggy Wins!,X120
+China - Stage 1,China - Stage 1__match_0005,Swiss Stage (Round 2) [Bo5],1,Aatlis,Milk Tea,Naive Piggy,Naive Piggy,Milk Tea,Naive Piggy Wins!,AO120
+China - Stage 1,China - Stage 1__match_0005,Swiss Stage (Round 2) [Bo5],2,Esperança,Milk Tea,Naive Piggy,Naive Piggy,Milk Tea,Naive Piggy Wins!,BF120
+China - Stage 1,China - Stage 1__match_0006,Swiss Stage (Round 2) [Bo5],0,Lijiang Tower,DEG,SV,SV,DEG,SV Wins!,X146
+China - Stage 1,China - Stage 1__match_0006,Swiss Stage (Round 2) [Bo5],1,Watchpoint: Gibraltar,DEG,SV,SV,DEG,SV Wins!,AO146
+China - Stage 1,China - Stage 1__match_0006,Swiss Stage (Round 2) [Bo5],2,Aatlis,DEG,SV,SV,DEG,SV Wins!,BF146
+China - Stage 1,China - Stage 1__match_0007,Swiss Stage (Round 2) [Bo5],0,Lijiang Tower,JD Gaming,All Gamers,JD Gaming,All Gamers,JD Gaming Wins!,X172
+China - Stage 1,China - Stage 1__match_0007,Swiss Stage (Round 2) [Bo5],1,Aatlis,JD Gaming,All Gamers,JD Gaming,All Gamers,JD Gaming Wins!,AO172
+China - Stage 1,China - Stage 1__match_0007,Swiss Stage (Round 2) [Bo5],2,Watchpoint: Gibraltar,JD Gaming,All Gamers,JD Gaming,All Gamers,JD Gaming Wins!,BF172
+China - Stage 1,China - Stage 1__match_0008,Swiss Stage (Round 2) [Bo5],0,Lijiang Tower,Weibo Gaming,Homie E,Weibo Gaming,Homie E,Weibo Gaming Wins!,X198
+China - Stage 1,China - Stage 1__match_0008,Swiss Stage (Round 2) [Bo5],1,Esperança,Weibo Gaming,Homie E,Weibo Gaming,Homie E,Weibo Gaming Wins!,AO198
+China - Stage 1,China - Stage 1__match_0008,Swiss Stage (Round 2) [Bo5],2,Aatlis,Weibo Gaming,Homie E,Weibo Gaming,Homie E,Weibo Gaming Wins!,BF198
+China - Stage 1,China - Stage 1__match_0009,Swiss Stage (Round 3) [Bo5],0,Busan,All Gamers,Naive Piggy,All Gamers,Naive Piggy,All Gamers Wins!,X224
+China - Stage 1,China - Stage 1__match_0009,Swiss Stage (Round 3) [Bo5],1,Blizzard World,All Gamers,Naive Piggy,All Gamers,Naive Piggy,All Gamers Wins!,AO224
+China - Stage 1,China - Stage 1__match_0009,Swiss Stage (Round 3) [Bo5],2,Aatlis,All Gamers,Naive Piggy,All Gamers,Naive Piggy,All Gamers Wins!,BF224
+China - Stage 1,China - Stage 1__match_0010,Swiss Stage (Round 3) [Bo5],0,Lijiang Tower,Homie E,SV,SV,Homie E,SV Wins!,X250
+China - Stage 1,China - Stage 1__match_0010,Swiss Stage (Round 3) [Bo5],1,Runasapi,Homie E,SV,SV,Homie E,SV Wins!,AO250
+China - Stage 1,China - Stage 1__match_0010,Swiss Stage (Round 3) [Bo5],2,Suravasa,Homie E,SV,SV,Homie E,SV Wins!,BF250
+China - Stage 1,China - Stage 1__match_0011,Seeding Decider [Bo5],0,Lijiang Tower,Weibo Gaming,JD Gaming,Weibo Gaming,JD Gaming,Weibo Gaming Wins!,X276
+China - Stage 1,China - Stage 1__match_0011,Seeding Decider [Bo5],1,Blizzard World,Weibo Gaming,JD Gaming,Weibo Gaming,JD Gaming,Weibo Gaming Wins!,AO276
+China - Stage 1,China - Stage 1__match_0011,Seeding Decider [Bo5],2,Runasapi,Weibo Gaming,JD Gaming,Weibo Gaming,JD Gaming,Weibo Gaming Wins!,BF276
+China - Stage 1,China - Stage 1__match_0012,Swiss Stage (Round 4) [Bo5],0,Oasis,Homie E,Milk Tea,Milk Tea,Homie E,Milk Tea Wins!,X302
+China - Stage 1,China - Stage 1__match_0012,Swiss Stage (Round 4) [Bo5],1,Runasapi,Homie E,Milk Tea,Milk Tea,Homie E,Milk Tea Wins!,AO302
+China - Stage 1,China - Stage 1__match_0012,Swiss Stage (Round 4) [Bo5],2,Suravasa,Homie E,Milk Tea,Milk Tea,Homie E,Milk Tea Wins!,BF302
+China - Stage 1,China - Stage 1__match_0013,Swiss Stage (Round 4) [Bo5],0,Lijiang Tower,Naive Piggy,DEG,DEG,Naive Piggy,DEG Wins!,X328
+China - Stage 1,China - Stage 1__match_0013,Swiss Stage (Round 4) [Bo5],1,Esperança,Naive Piggy,DEG,Naive Piggy,DEG,Naive Piggy Wins!,AO328
+China - Stage 1,China - Stage 1__match_0013,Swiss Stage (Round 4) [Bo5],2,Havana,Naive Piggy,DEG,Naive Piggy,DEG,Naive Piggy Wins!,BF328
+China - Stage 1,China - Stage 1__match_0013,Swiss Stage (Round 4) [Bo5],3,Suravasa,Naive Piggy,DEG,Naive Piggy,DEG,Naive Piggy Wins!,BW328
+China - Stage 1,China - Stage 1__match_0014,Seeding Decider [Bo5],0,Busan,All Gamers,SV,All Gamers,SV,All Gamers Wins!,X354
+China - Stage 1,China - Stage 1__match_0014,Seeding Decider [Bo5],1,Aatlis,All Gamers,SV,All Gamers,SV,All Gamers Wins!,AO354
+China - Stage 1,China - Stage 1__match_0014,Seeding Decider [Bo5],2,Runasapi,All Gamers,SV,All Gamers,SV,All Gamers Wins!,BF354
+China - Stage 1,China - Stage 1__match_0015,Seeding Decider [Bo5],0,Lijiang Tower,Milk Tea,Naive Piggy,Naive Piggy,Milk Tea,Naive Piggy Wins!,X380
+China - Stage 1,China - Stage 1__match_0015,Seeding Decider [Bo5],1,Numbani,Milk Tea,Naive Piggy,Naive Piggy,Milk Tea,Naive Piggy Wins!,AO380
+China - Stage 1,China - Stage 1__match_0015,Seeding Decider [Bo5],2,Esperança,Milk Tea,Naive Piggy,Milk Tea,Naive Piggy,Milk Tea Wins!,BF380
+China - Stage 1,China - Stage 1__match_0015,Seeding Decider [Bo5],3,Suravasa,Milk Tea,Naive Piggy,Naive Piggy,Milk Tea,Naive Piggy Wins!,BW380
+China - Stage 1,China - Stage 1__match_0016,Round Robin [Bo5],0,Busan,Naive Piggy,Milk Tea,Milk Tea,Naive Piggy,Milk Tea Wins!,X406
+China - Stage 1,China - Stage 1__match_0016,Round Robin [Bo5],1,Esperança,Naive Piggy,Milk Tea,Naive Piggy,Milk Tea,Naive Piggy Wins!,AO406
+China - Stage 1,China - Stage 1__match_0016,Round Robin [Bo5],2,Midtown,Naive Piggy,Milk Tea,Milk Tea,Naive Piggy,Milk Tea Wins!,BF406
+China - Stage 1,China - Stage 1__match_0016,Round Robin [Bo5],3,Aatlis,Naive Piggy,Milk Tea,Naive Piggy,Milk Tea,Naive Piggy Wins!,BW406
+China - Stage 1,China - Stage 1__match_0016,Round Robin [Bo5],4,Havana,Naive Piggy,Milk Tea,Naive Piggy,Milk Tea,Naive Piggy Wins!,CN406
+China - Stage 1,China - Stage 1__match_0017,Round Robin [Bo5],0,Oasis,JD Gaming,All Gamers,All Gamers,JD Gaming,All Gamers Wins!,X432
+China - Stage 1,China - Stage 1__match_0017,Round Robin [Bo5],1,Suravasa,JD Gaming,All Gamers,JD Gaming,All Gamers,JD Gaming Wins!,AO432
+China - Stage 1,China - Stage 1__match_0017,Round Robin [Bo5],2,Numbani,JD Gaming,All Gamers,JD Gaming,All Gamers,JD Gaming Wins!,BF432
+China - Stage 1,China - Stage 1__match_0017,Round Robin [Bo5],3,Havana,JD Gaming,All Gamers,All Gamers,JD Gaming,All Gamers Wins!,BW432
+China - Stage 1,China - Stage 1__match_0017,Round Robin [Bo5],4,Esperança,JD Gaming,All Gamers,All Gamers,JD Gaming,All Gamers Wins!,CN432
+China - Stage 1,China - Stage 1__match_0018,Round Robin [Bo5],0,Lijiang Tower,Weibo Gaming,SV,Weibo Gaming,SV,Weibo Gaming Wins!,X458
+China - Stage 1,China - Stage 1__match_0018,Round Robin [Bo5],1,Suravasa,Weibo Gaming,SV,Weibo Gaming,SV,Weibo Gaming Wins!,AO458
+China - Stage 1,China - Stage 1__match_0018,Round Robin [Bo5],2,Midtown,Weibo Gaming,SV,Weibo Gaming,SV,Weibo Gaming Wins!,BF458
+China - Stage 1,China - Stage 1__match_0019,Round Robin [Bo5],0,Busan,All Gamers,Milk Tea,Milk Tea,All Gamers,Milk Tea Wins!,X484
+China - Stage 1,China - Stage 1__match_0019,Round Robin [Bo5],1,Watchpoint: Gibraltar,All Gamers,Milk Tea,All Gamers,Milk Tea,All Gamers Wins!,AO484
+China - Stage 1,China - Stage 1__match_0019,Round Robin [Bo5],2,Esperança,All Gamers,Milk Tea,All Gamers,Milk Tea,All Gamers Wins!,BF484
+China - Stage 1,China - Stage 1__match_0019,Round Robin [Bo5],3,Midtown,All Gamers,Milk Tea,All Gamers,Milk Tea,All Gamers Wins!,BW484
+China - Stage 1,China - Stage 1__match_0020,Round Robin [Bo5],0,Lijiang Tower,Weibo Gaming,Naive Piggy,Weibo Gaming,Naive Piggy,Weibo Gaming Wins!,X510
+China - Stage 1,China - Stage 1__match_0020,Round Robin [Bo5],1,Aatlis,Weibo Gaming,Naive Piggy,Weibo Gaming,Naive Piggy,Weibo Gaming Wins!,AO510
+China - Stage 1,China - Stage 1__match_0020,Round Robin [Bo5],2,Havana,Weibo Gaming,Naive Piggy,Weibo Gaming,Naive Piggy,Weibo Gaming Wins!,BF510
+China - Stage 1,China - Stage 1__match_0021,Round Robin [Bo5],0,Lijiang Tower,SV,Naive Piggy,SV,Naive Piggy,SV Wins!,X536
+China - Stage 1,China - Stage 1__match_0021,Round Robin [Bo5],1,Esperança,SV,Naive Piggy,SV,Naive Piggy,SV Wins!,AO536
+China - Stage 1,China - Stage 1__match_0021,Round Robin [Bo5],2,Aatlis,SV,Naive Piggy,SV,Naive Piggy,SV Wins!,BF536
+China - Stage 1,China - Stage 1__match_0022,Round Robin [Bo5],0,Lijiang Tower,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,X562
+China - Stage 1,China - Stage 1__match_0022,Round Robin [Bo5],1,Numbani,Weibo Gaming,All Gamers,All Gamers,Weibo Gaming,All Gamers Wins!,AO562
+China - Stage 1,China - Stage 1__match_0022,Round Robin [Bo5],2,Havana,Weibo Gaming,All Gamers,All Gamers,Weibo Gaming,All Gamers Wins!,BF562
+China - Stage 1,China - Stage 1__match_0022,Round Robin [Bo5],3,Aatlis,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,BW562
+China - Stage 1,China - Stage 1__match_0022,Round Robin [Bo5],4,Runasapi,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,CN562
+China - Stage 1,China - Stage 1__match_0023,Round Robin [Bo5],0,Oasis,JD Gaming,Milk Tea,JD Gaming,Milk Tea,JD Gaming Wins!,X588
+China - Stage 1,China - Stage 1__match_0023,Round Robin [Bo5],1,Esperança,JD Gaming,Milk Tea,JD Gaming,Milk Tea,JD Gaming Wins!,AO588
+China - Stage 1,China - Stage 1__match_0023,Round Robin [Bo5],2,Havana,JD Gaming,Milk Tea,JD Gaming,Milk Tea,JD Gaming Wins!,BF588
+China - Stage 1,China - Stage 1__match_0024,Round Robin [Bo5],0,Lijiang Tower,SV,Milk Tea,SV,Milk Tea,SV Wins!,X614
+China - Stage 1,China - Stage 1__match_0024,Round Robin [Bo5],1,Havana,SV,Milk Tea,SV,Milk Tea,SV Wins!,AO614
+China - Stage 1,China - Stage 1__match_0024,Round Robin [Bo5],2,Esperança,SV,Milk Tea,Milk Tea,SV,Milk Tea Wins!,BF614
+China - Stage 1,China - Stage 1__match_0024,Round Robin [Bo5],3,Suravasa,SV,Milk Tea,SV,Milk Tea,SV Wins!,BW614
+China - Stage 1,China - Stage 1__match_0025,Round Robin [Bo5],0,Oasis,JD Gaming,Naive Piggy,JD Gaming,Naive Piggy,JD Gaming Wins!,X640
+China - Stage 1,China - Stage 1__match_0025,Round Robin [Bo5],1,Aatlis,JD Gaming,Naive Piggy,JD Gaming,Naive Piggy,JD Gaming Wins!,AO640
+China - Stage 1,China - Stage 1__match_0025,Round Robin [Bo5],2,Esperança,JD Gaming,Naive Piggy,JD Gaming,Naive Piggy,JD Gaming Wins!,BF640
+China - Stage 1,China - Stage 1__match_0026,Round Robin [Bo5],0,Lijiang Tower,All Gamers,Naive Piggy,All Gamers,Naive Piggy,All Gamers Wins!,X666
+China - Stage 1,China - Stage 1__match_0026,Round Robin [Bo5],1,Suravasa,All Gamers,Naive Piggy,All Gamers,Naive Piggy,All Gamers Wins!,AO666
+China - Stage 1,China - Stage 1__match_0026,Round Robin [Bo5],2,Blizzard World,All Gamers,Naive Piggy,Naive Piggy,All Gamers,Naive Piggy Wins!,BF666
+China - Stage 1,China - Stage 1__match_0026,Round Robin [Bo5],3,Runasapi,All Gamers,Naive Piggy,Naive Piggy,All Gamers,Naive Piggy Wins!,BW666
+China - Stage 1,China - Stage 1__match_0026,Round Robin [Bo5],4,Rialto,All Gamers,Naive Piggy,All Gamers,Naive Piggy,All Gamers Wins!,CN666
+China - Stage 1,China - Stage 1__match_0027,Round Robin [Bo5],0,Oasis,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,X692
+China - Stage 1,China - Stage 1__match_0027,Round Robin [Bo5],1,Blizzard World,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,AO692
+China - Stage 1,China - Stage 1__match_0027,Round Robin [Bo5],2,Aatlis,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,BF692
+China - Stage 1,China - Stage 1__match_0028,Round Robin [Bo5],0,Lijiang Tower,Weibo Gaming,Milk Tea,Weibo Gaming,Milk Tea,Weibo Gaming Wins!,X718
+China - Stage 1,China - Stage 1__match_0028,Round Robin [Bo5],1,Suravasa,Weibo Gaming,Milk Tea,Weibo Gaming,Milk Tea,Weibo Gaming Wins!,AO718
+China - Stage 1,China - Stage 1__match_0028,Round Robin [Bo5],2,Watchpoint: Gibraltar,Weibo Gaming,Milk Tea,Weibo Gaming,Milk Tea,Weibo Gaming Wins!,BF718
+China - Stage 1,China - Stage 1__match_0029,Round Robin [Bo5],0,Oasis,All Gamers,SV,All Gamers,SV,All Gamers Wins!,X744
+China - Stage 1,China - Stage 1__match_0029,Round Robin [Bo5],1,Havana,All Gamers,SV,All Gamers,SV,All Gamers Wins!,AO744
+China - Stage 1,China - Stage 1__match_0029,Round Robin [Bo5],2,Aatlis,All Gamers,SV,All Gamers,SV,All Gamers Wins!,BF744
+China - Stage 1,China - Stage 1__match_0030,Round Robin [Bo5],0,Lijiang Tower,Weibo Gaming,JD Gaming,Weibo Gaming,JD Gaming,Weibo Gaming Wins!,X770
+China - Stage 1,China - Stage 1__match_0030,Round Robin [Bo5],1,Havana,Weibo Gaming,JD Gaming,JD Gaming,Weibo Gaming,JD Gaming Wins!,AO770
+China - Stage 1,China - Stage 1__match_0030,Round Robin [Bo5],2,Suravasa,Weibo Gaming,JD Gaming,Weibo Gaming,JD Gaming,Weibo Gaming Wins!,BF770
+China - Stage 1,China - Stage 1__match_0030,Round Robin [Bo5],3,Blizzard World,Weibo Gaming,JD Gaming,Weibo Gaming,JD Gaming,Weibo Gaming Wins!,BW770
+China - Stage 1,China - Stage 1__match_0031,Upper Semifinals [Bo5],0,Busan,Weibo Gaming,SV,Weibo Gaming,SV,Weibo Gaming Wins!,X796
+China - Stage 1,China - Stage 1__match_0031,Upper Semifinals [Bo5],1,Blizzard World,Weibo Gaming,SV,Weibo Gaming,SV,Weibo Gaming Wins!,AO796
+China - Stage 1,China - Stage 1__match_0031,Upper Semifinals [Bo5],2,Suravasa,Weibo Gaming,SV,Weibo Gaming,SV,Weibo Gaming Wins!,BF796
+China - Stage 1,China - Stage 1__match_0032,Upper Semifinals [Bo5],0,Busan,All Gamers,JD Gaming,All Gamers,JD Gaming,All Gamers Wins!,X822
+China - Stage 1,China - Stage 1__match_0032,Upper Semifinals [Bo5],1,Numbani,All Gamers,JD Gaming,All Gamers,JD Gaming,All Gamers Wins!,AO822
+China - Stage 1,China - Stage 1__match_0032,Upper Semifinals [Bo5],2,Watchpoint: Gibraltar,All Gamers,JD Gaming,All Gamers,JD Gaming,All Gamers Wins!,BF822
+China - Stage 1,China - Stage 1__match_0033,Upper Finals [Bo5],0,Lijiang Tower,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,X848
+China - Stage 1,China - Stage 1__match_0033,Upper Finals [Bo5],1,Havana,Weibo Gaming,All Gamers,All Gamers,Weibo Gaming,All Gamers Wins!,AO848
+China - Stage 1,China - Stage 1__match_0033,Upper Finals [Bo5],2,Numbani,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,BF848
+China - Stage 1,China - Stage 1__match_0033,Upper Finals [Bo5],3,Esperança,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,BW848
+China - Stage 1,China - Stage 1__match_0034,Lower Semifinals [Bo5],0,Lijiang Tower,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,X874
+China - Stage 1,China - Stage 1__match_0034,Lower Semifinals [Bo5],1,Runasapi,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,AO874
+China - Stage 1,China - Stage 1__match_0034,Lower Semifinals [Bo5],2,Midtown,JD Gaming,SV,JD Gaming,SV,JD Gaming Wins!,BF874
+China - Stage 1,China - Stage 1__match_0035,Lower Finals [Bo5],0,Busan,All Gamers,JD Gaming,All Gamers,JD Gaming,All Gamers Wins!,X900
+China - Stage 1,China - Stage 1__match_0035,Lower Finals [Bo5],1,Suravasa,All Gamers,JD Gaming,JD Gaming,All Gamers,JD Gaming Wins!,AO900
+China - Stage 1,China - Stage 1__match_0035,Lower Finals [Bo5],2,Havana,All Gamers,JD Gaming,JD Gaming,All Gamers,JD Gaming Wins!,BF900
+China - Stage 1,China - Stage 1__match_0035,Lower Finals [Bo5],3,Numbani,All Gamers,JD Gaming,All Gamers,JD Gaming,All Gamers Wins!,BW900
+China - Stage 1,China - Stage 1__match_0035,Lower Finals [Bo5],4,Esperança,All Gamers,JD Gaming,All Gamers,JD Gaming,All Gamers Wins!,CN900
+China - Stage 1,China - Stage 1__match_0036,Grand Finals [Bo5],0,Lijiang Tower,Weibo Gaming,All Gamers,All Gamers,Weibo Gaming,All Gamers Wins!,X926
+China - Stage 1,China - Stage 1__match_0036,Grand Finals [Bo5],1,Havana,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,AO926
+China - Stage 1,China - Stage 1__match_0036,Grand Finals [Bo5],2,Suravasa,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,BF926
+China - Stage 1,China - Stage 1__match_0036,Grand Finals [Bo5],3,Esperança,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,BW926
+China - Stage 1,China - Stage 1__match_0036,Grand Finals [Bo5],4,Numbani,Weibo Gaming,All Gamers,Weibo Gaming,All Gamers,Weibo Gaming Wins!,CN926
+EMEA - Stage 1,EMEA - Stage 1__match_0001,Round Robin [Bo5],0,Lijiang Tower,Virtus.pro,Al Qadsiah,Virtus.pro,Al Qadsiah,Virtus.pro Wins!,X16
+EMEA - Stage 1,EMEA - Stage 1__match_0001,Round Robin [Bo5],1,Havana,Virtus.pro,Al Qadsiah,Virtus.pro,Al Qadsiah,Virtus.pro Wins!,AO16
+EMEA - Stage 1,EMEA - Stage 1__match_0001,Round Robin [Bo5],2,Midtown,Virtus.pro,Al Qadsiah,Al Qadsiah,Virtus.pro,Al Qadsiah Wins!,BF16
+EMEA - Stage 1,EMEA - Stage 1__match_0001,Round Robin [Bo5],3,Runasapi,Virtus.pro,Al Qadsiah,Virtus.pro,Al Qadsiah,Virtus.pro Wins!,BW16
+EMEA - Stage 1,EMEA - Stage 1__match_0002,Round Robin [Bo5],0,Busan,Twisted Minds,Team Peps,Twisted Minds,Team Peps,Twisted Minds Wins!,X42
+EMEA - Stage 1,EMEA - Stage 1__match_0002,Round Robin [Bo5],1,Blizzard World,Twisted Minds,Team Peps,Twisted Minds,Team Peps,Twisted Minds Wins!,AO42
+EMEA - Stage 1,EMEA - Stage 1__match_0002,Round Robin [Bo5],2,Esperança,Twisted Minds,Team Peps,Twisted Minds,Team Peps,Twisted Minds Wins!,BF42
+EMEA - Stage 1,EMEA - Stage 1__match_0003,Round Robin [Bo5],0,Busan,Twisted Minds,Geekay Esports,Twisted Minds,Geekay Esports,Twisted Minds Wins!,X68
+EMEA - Stage 1,EMEA - Stage 1__match_0003,Round Robin [Bo5],1,Esperança,Twisted Minds,Geekay Esports,Twisted Minds,Geekay Esports,Twisted Minds Wins!,AO68
+EMEA - Stage 1,EMEA - Stage 1__match_0003,Round Robin [Bo5],2,Suravasa,Twisted Minds,Geekay Esports,Twisted Minds,Geekay Esports,Twisted Minds Wins!,BF68
+EMEA - Stage 1,EMEA - Stage 1__match_0004,Round Robin [Bo5],0,Lijiang Tower,Virtus.pro,Anyone's Legend,Virtus.pro,Anyone's Legend,Virtus.pro Wins!,X94
+EMEA - Stage 1,EMEA - Stage 1__match_0004,Round Robin [Bo5],1,Blizzard World,Virtus.pro,Anyone's Legend,Virtus.pro,Anyone's Legend,Virtus.pro Wins!,AO94
+EMEA - Stage 1,EMEA - Stage 1__match_0004,Round Robin [Bo5],2,Runasapi,Virtus.pro,Anyone's Legend,Virtus.pro,Anyone's Legend,Virtus.pro Wins!,BF94
+EMEA - Stage 1,EMEA - Stage 1__match_0005,Round Robin [Bo5],0,Oasis,Al Qadsiah,Team Peps,Al Qadsiah,Team Peps,Al Qadsiah Wins!,X120
+EMEA - Stage 1,EMEA - Stage 1__match_0005,Round Robin [Bo5],1,Rialto,Al Qadsiah,Team Peps,Al Qadsiah,Team Peps,Al Qadsiah Wins!,AO120
+EMEA - Stage 1,EMEA - Stage 1__match_0005,Round Robin [Bo5],2,Aatlis,Al Qadsiah,Team Peps,Team Peps,Al Qadsiah,Team Peps Wins!,BF120
+EMEA - Stage 1,EMEA - Stage 1__match_0005,Round Robin [Bo5],3,Midtown,Al Qadsiah,Team Peps,Al Qadsiah,Team Peps,Al Qadsiah Wins!,BW120
+EMEA - Stage 1,EMEA - Stage 1__match_0005,Round Robin [Bo5],4,Runasapi,Al Qadsiah,Team Peps,Al Qadsiah,Team Peps,Al Qadsiah Wins!,CN120
+EMEA - Stage 1,EMEA - Stage 1__match_0006,Round Robin [Bo5],0,Lijiang Tower,Al Qadsiah,Geekay Esports,Geekay Esports,Al Qadsiah,Geekay Esports Wins!,X146
+EMEA - Stage 1,EMEA - Stage 1__match_0006,Round Robin [Bo5],1,Havana,Al Qadsiah,Geekay Esports,Geekay Esports,Al Qadsiah,Geekay Esports Wins!,AO146
+EMEA - Stage 1,EMEA - Stage 1__match_0006,Round Robin [Bo5],2,Aatlis,Al Qadsiah,Geekay Esports,Al Qadsiah,Geekay Esports,Al Qadsiah Wins!,BF146
+EMEA - Stage 1,EMEA - Stage 1__match_0006,Round Robin [Bo5],3,Runasapi,Al Qadsiah,Geekay Esports,Al Qadsiah,Geekay Esports,AL Qadsiah Wins!,BW146
+EMEA - Stage 1,EMEA - Stage 1__match_0006,Round Robin [Bo5],4,Midtown,Al Qadsiah,Geekay Esports,Geekay Esports,Al Qadsiah,Geekay Esports Wins!,CN146
+EMEA - Stage 1,EMEA - Stage 1__match_0007,Round Robin [Bo5],0,Lijiang Tower,Twisted Minds,Anyone's Legend,Twisted Minds,Anyone's Legend,Twisted Minds Wins!,X172
+EMEA - Stage 1,EMEA - Stage 1__match_0007,Round Robin [Bo5],1,Rialto,Twisted Minds,Anyone's Legend,Twisted Minds,Anyone's Legend,Twisted Minds Wins!,AO172
+EMEA - Stage 1,EMEA - Stage 1__match_0007,Round Robin [Bo5],2,Aatlis,Twisted Minds,Anyone's Legend,Twisted Minds,Anyone's Legend,Twisted Minds Wins!,BF172
+EMEA - Stage 1,EMEA - Stage 1__match_0008,Round Robin [Bo5],0,Lijiang Tower,Virtus.pro,Team Peps,Virtus.pro,Team Peps,Virtus.pro Wins!,X198
+EMEA - Stage 1,EMEA - Stage 1__match_0008,Round Robin [Bo5],1,Runasapi,Virtus.pro,Team Peps,Virtus.pro,Team Peps,Virtus.pro Wins!,AO198
+EMEA - Stage 1,EMEA - Stage 1__match_0008,Round Robin [Bo5],2,Blizzard World,Virtus.pro,Team Peps,Virtus.pro,Team Peps,Virtus.pro Wins!,BF198
+EMEA - Stage 1,EMEA - Stage 1__match_0009,Round Robin [Bo5],0,Lijiang Tower,Team Peps,Geekay Esports,Geekay Esports,Team Peps,Geekay Esports Wins!,X224
+EMEA - Stage 1,EMEA - Stage 1__match_0009,Round Robin [Bo5],1,Aatlis,Team Peps,Geekay Esports,Geekay Esports,Team Peps,Geekay Esports Wins!,AO224
+EMEA - Stage 1,EMEA - Stage 1__match_0009,Round Robin [Bo5],2,Midtown,Team Peps,Geekay Esports,Geekay Esports,Team Peps,Geekay Esports Wins!,BF224
+EMEA - Stage 1,EMEA - Stage 1__match_0010,Round Robin [Bo5],0,Lijiang Tower,Al Qadsiah,Anyone's Legend,Al Qadsiah,Anyone's Legend,Al Qadsiah Wins!,X250
+EMEA - Stage 1,EMEA - Stage 1__match_0010,Round Robin [Bo5],1,Numbani,Al Qadsiah,Anyone's Legend,Al Qadsiah,Anyone's Legend,Al Qadsiah Wins!,AO250
+EMEA - Stage 1,EMEA - Stage 1__match_0010,Round Robin [Bo5],2,Esperança,Al Qadsiah,Anyone's Legend,Al Qadsiah,Anyone's Legend,Al Qadsiah Wins!,BF250
+EMEA - Stage 1,EMEA - Stage 1__match_0011,Round Robin [Bo5],0,Lijiang Tower,Al Qadsiah,Twisted Minds,Twisted Minds,Al Qadsiah,Twisted Minds Wins!,X276
+EMEA - Stage 1,EMEA - Stage 1__match_0011,Round Robin [Bo5],1,Runasapi,Al Qadsiah,Twisted Minds,Twisted Minds,Al Qadsiah,Twisted Minds Wins!,AO276
+EMEA - Stage 1,EMEA - Stage 1__match_0011,Round Robin [Bo5],2,Havana,Al Qadsiah,Twisted Minds,Twisted Minds,Al Qadsiah,Twisted Minds Wins!,BF276
+EMEA - Stage 1,EMEA - Stage 1__match_0012,Round Robin [Bo5],0,Lijiang Tower,Anyone's Legend,Team Peps,Team Peps,Anyone's Legend,Team Peps Wins!,X302
+EMEA - Stage 1,EMEA - Stage 1__match_0012,Round Robin [Bo5],1,Havana,Anyone's Legend,Team Peps,Anyone's Legend,Team Peps,Anyone's Legend Wins!,AO302
+EMEA - Stage 1,EMEA - Stage 1__match_0012,Round Robin [Bo5],2,Runasapi,Anyone's Legend,Team Peps,Team Peps,Anyone's Legend,Team Peps Wins!,BF302
+EMEA - Stage 1,EMEA - Stage 1__match_0012,Round Robin [Bo5],3,Blizzard World,Anyone's Legend,Team Peps,Anyone's Legend,Team Peps,Anyone's Legend Wins!,BW302
+EMEA - Stage 1,EMEA - Stage 1__match_0012,Round Robin [Bo5],4,Suravasa,Anyone's Legend,Team Peps,Anyone's Legend,Team Peps,Anyone's Legend Wins!,CN302
+EMEA - Stage 1,EMEA - Stage 1__match_0013,Round Robin [Bo5],0,Lijiang Tower,Virtus.pro,Geekay Esports,Virtus.pro,Geekay Esports,Virtus.pro Wins!,X328
+EMEA - Stage 1,EMEA - Stage 1__match_0013,Round Robin [Bo5],1,Havana,Virtus.pro,Geekay Esports,Geekay Esports,Virtus.pro,Geekay Esports Wins!,AO328
+EMEA - Stage 1,EMEA - Stage 1__match_0013,Round Robin [Bo5],2,Runasapi,Virtus.pro,Geekay Esports,Virtus.pro,Geekay Esports,Virtus.pro Wins!,BF328
+EMEA - Stage 1,EMEA - Stage 1__match_0013,Round Robin [Bo5],3,Suravasa,Virtus.pro,Geekay Esports,Virtus.pro,Geekay Esports,Virtus.pro Wins!,BW328
+EMEA - Stage 1,EMEA - Stage 1__match_0014,Round Robin [Bo5],0,Lijiang Tower,Virtus.pro,Twisted Minds,Twisted Minds,Virtus.pro,Twisted Minds Wins!,X354
+EMEA - Stage 1,EMEA - Stage 1__match_0014,Round Robin [Bo5],1,Runasapi,Virtus.pro,Twisted Minds,Twisted Minds,Virtus.pro,Twisted Minds Wins!,AO354
+EMEA - Stage 1,EMEA - Stage 1__match_0014,Round Robin [Bo5],2,Watchpoint: Gibraltar,Virtus.pro,Twisted Minds,Twisted Minds,Virtus.pro,Twisted Minds Wins!,BF354
+EMEA - Stage 1,EMEA - Stage 1__match_0015,Round Robin [Bo5],0,Lijiang Tower,Anyone's Legend,Geekay Esports,Geekay Esports,Anyone's Legend,Geekay Esports Wins!,X380
+EMEA - Stage 1,EMEA - Stage 1__match_0015,Round Robin [Bo5],1,Esperança,Anyone's Legend,Geekay Esports,Anyone's Legend,Geekay Esports,Anyone's Legend Wins!,AO380
+EMEA - Stage 1,EMEA - Stage 1__match_0015,Round Robin [Bo5],2,Suravasa,Anyone's Legend,Geekay Esports,Geekay Esports,Anyone's Legend,Geekay Esports Wins!,BF380
+EMEA - Stage 1,EMEA - Stage 1__match_0015,Round Robin [Bo5],3,Blizzard World,Anyone's Legend,Geekay Esports,Anyone's Legend,Geekay Esports,Anyone's Legend Wins!,BW380
+EMEA - Stage 1,EMEA - Stage 1__match_0015,Round Robin [Bo5],4,Havana,Anyone's Legend,Geekay Esports,Geekay Esports,Anyone's Legend,Geekay Esports Wins!,CN380
+EMEA - Stage 1,EMEA - Stage 1__match_0016,Upper Semifinals [Bo5],0,Lijiang Tower,Twisted Minds,Al Qadsiah,Twisted Minds,Al Qadsiah,Twisted Minds Wins!,X406
+EMEA - Stage 1,EMEA - Stage 1__match_0016,Upper Semifinals [Bo5],1,Aatlis,Twisted Minds,Al Qadsiah,Twisted Minds,Al Qadsiah,Twisted Minds Wins!,AO406
+EMEA - Stage 1,EMEA - Stage 1__match_0016,Upper Semifinals [Bo5],2,Runasapi,Twisted Minds,Al Qadsiah,Twisted Minds,Al Qadsiah,Twisted Minds Wins!,BF406
+EMEA - Stage 1,EMEA - Stage 1__match_0017,Upper Semifinals [Bo5],0,Oasis,Virtus.pro,Geekay Esports,Geekay Esports,Virtus.pro,Geekay Esports Wins!,X432
+EMEA - Stage 1,EMEA - Stage 1__match_0017,Upper Semifinals [Bo5],1,Runasapi,Virtus.pro,Geekay Esports,Virtus.pro,Geekay Esports,Virtus.pro Wins!,AO432
+EMEA - Stage 1,EMEA - Stage 1__match_0017,Upper Semifinals [Bo5],2,Blizzard World,Virtus.pro,Geekay Esports,Virtus.pro,Geekay Esports,Virtus.pro Wins!,BF432
+EMEA - Stage 1,EMEA - Stage 1__match_0017,Upper Semifinals [Bo5],3,Havana,Virtus.pro,Geekay Esports,Geekay Esports,Virtus.pro,Geekay Esports Wins!,BW432
+EMEA - Stage 1,EMEA - Stage 1__match_0017,Upper Semifinals [Bo5],4,Suravasa,Virtus.pro,Geekay Esports,Geekay Esports,Virtus.pro,Geekay Esports Wins!,CN432
+EMEA - Stage 1,EMEA - Stage 1__match_0018,Lower Semifinals [Bo5],0,Lijiang Tower,Al Qadsiah,Virtus.pro,Virtus.pro,Al Qadsiah,Virtus.pro Wins!,X458
+EMEA - Stage 1,EMEA - Stage 1__match_0018,Lower Semifinals [Bo5],1,Havana,Al Qadsiah,Virtus.pro,Virtus.pro,Al Qadsiah,Virtus.pro Wins!,AO458
+EMEA - Stage 1,EMEA - Stage 1__match_0018,Lower Semifinals [Bo5],2,Aatlis,Al Qadsiah,Virtus.pro,Virtus.pro,Al Qadsiah,Virtus.pro Wins!,BF458
+EMEA - Stage 1,EMEA - Stage 1__match_0019,Upper Finals [Bo5],0,Lijiang Tower,Twisted Minds,Geekay Esports,Twisted Minds,Geekay Esports,Twisted Minds Wins!,X484
+EMEA - Stage 1,EMEA - Stage 1__match_0019,Upper Finals [Bo5],1,Runasapi,Twisted Minds,Geekay Esports,Twisted Minds,Geekay Esports,Twisted Minds Wins!,AO484
+EMEA - Stage 1,EMEA - Stage 1__match_0019,Upper Finals [Bo5],2,Havana,Twisted Minds,Geekay Esports,Twisted Minds,Geekay Esports,Twisted Minds Wins!,BF484
+EMEA - Stage 1,EMEA - Stage 1__match_0020,Lower Finals [Bo5],0,Lijiang Tower,Geekay Esports,Virtus.pro,Geekay Esports,Virtus.pro,Geekay Esports Wins!,X510
+EMEA - Stage 1,EMEA - Stage 1__match_0020,Lower Finals [Bo5],1,Runasapi,Geekay Esports,Virtus.pro,Virtus.pro,Geekay Esports,Virtus.pro Wins!,AO510
+EMEA - Stage 1,EMEA - Stage 1__match_0020,Lower Finals [Bo5],2,Suravasa,Geekay Esports,Virtus.pro,Virtus.pro,Geekay Esports,Virtus.pro Wins!,BF510
+EMEA - Stage 1,EMEA - Stage 1__match_0020,Lower Finals [Bo5],3,Havana,Geekay Esports,Virtus.pro,Virtus.pro,Geekay Esports,Virtus.pro Wins!,BW510
+EMEA - Stage 1,EMEA - Stage 1__match_0021,Grand Finals [Bo7],0,Lijiang Tower,Twisted Minds,Virtus.pro,Twisted Minds,Virtus.pro,Twisted Minds Wins!,X536
+EMEA - Stage 1,EMEA - Stage 1__match_0021,Grand Finals [Bo7],1,Aatlis,Twisted Minds,Virtus.pro,Virtus.pro,Twisted Minds,Virtus.pro Wins!,AO536
+EMEA - Stage 1,EMEA - Stage 1__match_0021,Grand Finals [Bo7],2,Rialto,Twisted Minds,Virtus.pro,Twisted Minds,Virtus.pro,Twisted Minds Wins!,BF536
+EMEA - Stage 1,EMEA - Stage 1__match_0021,Grand Finals [Bo7],3,Midtown,Twisted Minds,Virtus.pro,Twisted Minds,Virtus.pro,Twisted Minds Wins!,BW536
+EMEA - Stage 1,EMEA - Stage 1__match_0021,Grand Finals [Bo7],4,Runasapi,Twisted Minds,Virtus.pro,Twisted Minds,Virtus.pro,Twisted Minds Wins!,CN536
+North America - Stage 1,North America - Stage 1__match_0001,Round Robin [Bo5],0,Lijiang Tower,Dallas Fuel,Disguised,Dallas Fuel,Disguised,Dallas Fuel Wins!,X16
+North America - Stage 1,North America - Stage 1__match_0001,Round Robin [Bo5],1,Rialto,Dallas Fuel,Disguised,Disguised,Dallas Fuel,Disguised Wins!,AO16
+North America - Stage 1,North America - Stage 1__match_0001,Round Robin [Bo5],2,Suravasa,Dallas Fuel,Disguised,Dallas Fuel,Disguised,Dallas Fuel Wins!,BF16
+North America - Stage 1,North America - Stage 1__match_0001,Round Robin [Bo5],3,Midtown,Dallas Fuel,Disguised,Dallas Fuel,Disguised,Dallas Fuel Wins!,BW16
+North America - Stage 1,North America - Stage 1__match_0002,Round Robin [Bo5],0,Lijiang Tower,Spacestation Gaming,LuneX Gaming,Spacestation Gaming,LuneX Gaming,Spacestation Gaming Wins!,X42
+North America - Stage 1,North America - Stage 1__match_0002,Round Robin [Bo5],1,Watchpoint: Gibraltar,Spacestation Gaming,LuneX Gaming,Spacestation Gaming,LuneX Gaming,Spacestation Gaming Wins!,AO42
+North America - Stage 1,North America - Stage 1__match_0002,Round Robin [Bo5],2,Suravasa,Spacestation Gaming,LuneX Gaming,Spacestation Gaming,LuneX Gaming,Spacestation Gaming Wins!,BF42
+North America - Stage 1,North America - Stage 1__match_0003,Round Robin [Bo5],0,Oasis,Team Liquid,Extinction,Extinction,Team Liquid,Extinction Wins!,X68
+North America - Stage 1,North America - Stage 1__match_0003,Round Robin [Bo5],1,Watchpoint: Gibraltar,Team Liquid,Extinction,Team Liquid,Extinction,Team Liquid Wins!,AO68
+North America - Stage 1,North America - Stage 1__match_0003,Round Robin [Bo5],2,Esperança,Team Liquid,Extinction,Team Liquid,Extinction,Team Liquid Wins!,BF68
+North America - Stage 1,North America - Stage 1__match_0003,Round Robin [Bo5],3,Suravasa,Team Liquid,Extinction,Extinction,Team Liquid,Extinction Wins!,BW68
+North America - Stage 1,North America - Stage 1__match_0003,Round Robin [Bo5],4,Blizzard World,Team Liquid,Extinction,Team Liquid,Extinction,Team Liquid Wins!,CN68
+North America - Stage 1,North America - Stage 1__match_0004,Round Robin [Bo5],0,Lijiang Tower,Spacestation Gaming,Disguised,Disguised,Spacestation Gaming,Disguised Wins!,X94
+North America - Stage 1,North America - Stage 1__match_0004,Round Robin [Bo5],1,Rialto,Spacestation Gaming,Disguised,Spacestation Gaming,Disguised,Spacestation Gaming Wins!,AO94
+North America - Stage 1,North America - Stage 1__match_0004,Round Robin [Bo5],2,Aatlis,Spacestation Gaming,Disguised,Disguised,Spacestation Gaming,Disguised Wins!,BF94
+North America - Stage 1,North America - Stage 1__match_0004,Round Robin [Bo5],3,Numbani,Spacestation Gaming,Disguised,Spacestation Gaming,Disguised,Spacestation Gaming Wins!,BW94
+North America - Stage 1,North America - Stage 1__match_0004,Round Robin [Bo5],4,Runasapi,Spacestation Gaming,Disguised,Disguised,Spacestation Gaming,Disguised Wins!,CN94
+North America - Stage 1,North America - Stage 1__match_0005,Round Robin [Bo5],0,Lijiang Tower,LuneX Gaming,Extinction,LuneX Gaming,Extinction,LuneX Gaming Wins!,X120
+North America - Stage 1,North America - Stage 1__match_0005,Round Robin [Bo5],1,Esperança,LuneX Gaming,Extinction,LuneX Gaming,Extinction,LuneX Gaming Wins!,AO120
+North America - Stage 1,North America - Stage 1__match_0005,Round Robin [Bo5],2,Suravasa,LuneX Gaming,Extinction,LuneX Gaming,Extinction,LuneX Gaming Wins!,BF120
+North America - Stage 1,North America - Stage 1__match_0006,Round Robin [Bo5],0,Lijiang Tower,Team Liquid,Dallas Fuel,Dallas Fuel,Team Liquid,Dallas Fuel Wins!,X146
+North America - Stage 1,North America - Stage 1__match_0006,Round Robin [Bo5],1,Aatlis,Team Liquid,Dallas Fuel,Dallas Fuel,Team Liquid,Dallas Fuel Wins!,AO146
+North America - Stage 1,North America - Stage 1__match_0006,Round Robin [Bo5],2,Watchpoint: Gibraltar,Team Liquid,Dallas Fuel,Dallas Fuel,Team Liquid,Dallas Fuel Wins!,BF146
+North America - Stage 1,North America - Stage 1__match_0007,Round Robin [Bo5],0,Lijiang Tower,Disguised,Extinction,Extinction,Disguised,Extinction Wins!,X172
+North America - Stage 1,North America - Stage 1__match_0007,Round Robin [Bo5],1,Rialto,Disguised,Extinction,Extinction,Disguised,Extinction Wins!,AO172
+North America - Stage 1,North America - Stage 1__match_0007,Round Robin [Bo5],2,Aatlis,Disguised,Extinction,Extinction,Disguised,Extinction Wins!,BF172
+North America - Stage 1,North America - Stage 1__match_0008,Round Robin [Bo5],0,Oasis,Dallas Fuel,LuneX Gaming,Dallas Fuel,LuneX Gaming,Dallas Fuel Wins!,X198
+North America - Stage 1,North America - Stage 1__match_0008,Round Robin [Bo5],1,Runasapi,Dallas Fuel,LuneX Gaming,LuneX Gaming,Dallas Fuel,LuneX Gaming Wins!,AO198
+North America - Stage 1,North America - Stage 1__match_0008,Round Robin [Bo5],2,Watchpoint: Gibraltar,Dallas Fuel,LuneX Gaming,Dallas Fuel,LuneX Gaming,Dallas Fuel Wins!,BF198
+North America - Stage 1,North America - Stage 1__match_0008,Round Robin [Bo5],3,Aatlis,Dallas Fuel,LuneX Gaming,LuneX Gaming,Dallas Fuel,LuneX Gaming Wins!,BW198
+North America - Stage 1,North America - Stage 1__match_0008,Round Robin [Bo5],4,Blizzard World,Dallas Fuel,LuneX Gaming,Dallas Fuel,LuneX Gaming,Dallas Fuel Wins!,CN198
+North America - Stage 1,North America - Stage 1__match_0009,Round Robin [Bo5],0,Lijiang Tower,Spacestation Gaming,Extinction,Spacestation Gaming,Extinction,Spacestation Gaming Wins!,X224
+North America - Stage 1,North America - Stage 1__match_0009,Round Robin [Bo5],1,Esperança,Spacestation Gaming,Extinction,Spacestation Gaming,Extinction,Spacestation Gaming Wins!,AO224
+North America - Stage 1,North America - Stage 1__match_0009,Round Robin [Bo5],2,Suravasa,Spacestation Gaming,Extinction,Spacestation Gaming,Extinction,Spacestation Gaming Wins!,BF224
+North America - Stage 1,North America - Stage 1__match_0010,Round Robin [Bo5],0,Lijiang Tower,Disguised,Team Liquid,Disguised,Team Liquid,Disguised Wins!,X250
+North America - Stage 1,North America - Stage 1__match_0010,Round Robin [Bo5],1,Blizzard World,Disguised,Team Liquid,,,Draw!,AO250
+North America - Stage 1,North America - Stage 1__match_0010,Round Robin [Bo5],2,Havana,Disguised,Team Liquid,Disguised,Team Liquid,Disguised Wins!,BF250
+North America - Stage 1,North America - Stage 1__match_0010,Round Robin [Bo5],3,Esperança,Disguised,Team Liquid,Disguised,Team Liquid,Disguised Wins!,BW250
+North America - Stage 1,North America - Stage 1__match_0011,Round Robin [Bo5],0,Lijiang Tower,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming Wins!,X276
+North America - Stage 1,North America - Stage 1__match_0011,Round Robin [Bo5],1,Suravasa,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming Wins!,AO276
+North America - Stage 1,North America - Stage 1__match_0011,Round Robin [Bo5],2,Blizzard World,Spacestation Gaming,Dallas Fuel,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,BF276
+North America - Stage 1,North America - Stage 1__match_0011,Round Robin [Bo5],3,Rialto,Spacestation Gaming,Dallas Fuel,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,BW276
+North America - Stage 1,North America - Stage 1__match_0011,Round Robin [Bo5],4,Runasapi,Spacestation Gaming,Dallas Fuel,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,CN276
+North America - Stage 1,North America - Stage 1__match_0012,Round Robin [Bo5],0,Oasis,Team Liquid,LuneX Gaming,Team Liquid,LuneX Gaming,Team Liquid Wins!,X302
+North America - Stage 1,North America - Stage 1__match_0012,Round Robin [Bo5],1,Runasapi,Team Liquid,LuneX Gaming,Team Liquid,LuneX Gaming,Team Liquid Wins!,AO302
+North America - Stage 1,North America - Stage 1__match_0012,Round Robin [Bo5],2,Suravasa,Team Liquid,LuneX Gaming,LuneX Gaming,Team Liquid,LuneX Gaming Wins!,BF302
+North America - Stage 1,North America - Stage 1__match_0012,Round Robin [Bo5],3,Watchpoint: Gibraltar,Team Liquid,LuneX Gaming,Team Liquid,LuneX Gaming,Team Liquid Wins!,BW302
+North America - Stage 1,North America - Stage 1__match_0013,Round Robin [Bo5],0,Lijiang Tower,Disguised,LuneX Gaming,LuneX Gaming,Disguised,LuneX Gaming Wins!,X328
+North America - Stage 1,North America - Stage 1__match_0013,Round Robin [Bo5],1,Watchpoint: Gibraltar,Disguised,LuneX Gaming,Disguised,LuneX Gaming,Disguised Wins!,AO328
+North America - Stage 1,North America - Stage 1__match_0013,Round Robin [Bo5],2,Suravasa,Disguised,LuneX Gaming,LuneX Gaming,Disguised,LuneX Gaming Wins!,BF328
+North America - Stage 1,North America - Stage 1__match_0013,Round Robin [Bo5],3,Runasapi,Disguised,LuneX Gaming,LuneX Gaming,Disguised,LuneX Gaming Wins!,BW328
+North America - Stage 1,North America - Stage 1__match_0014,Round Robin [Bo5],0,Busan,Dallas Fuel,Extinction,Dallas Fuel,Extinction,Dallas Fuel Wins!,X354
+North America - Stage 1,North America - Stage 1__match_0014,Round Robin [Bo5],1,Numbani,Dallas Fuel,Extinction,Dallas Fuel,Extinction,Dallas Fuel Wins!,AO354
+North America - Stage 1,North America - Stage 1__match_0014,Round Robin [Bo5],2,Suravasa,Dallas Fuel,Extinction,Dallas Fuel,Extinction,Dallas Fuel Wins!,BF354
+North America - Stage 1,North America - Stage 1__match_0015,Round Robin [Bo5],0,Lijiang Tower,Spacestation Gaming,Team Liquid,Spacestation Gaming,Team Liquid,Spacestation Gaming Wins!,X380
+North America - Stage 1,North America - Stage 1__match_0015,Round Robin [Bo5],1,Aatlis,Spacestation Gaming,Team Liquid,Spacestation Gaming,Team Liquid,Spacestation Gaming Wins!,AO380
+North America - Stage 1,North America - Stage 1__match_0015,Round Robin [Bo5],2,Runasapi,Spacestation Gaming,Team Liquid,Team Liquid,Spacestation Gaming,Team Liquid Wins!,BF380
+North America - Stage 1,North America - Stage 1__match_0015,Round Robin [Bo5],3,Watchpoint: Gibraltar,Spacestation Gaming,Team Liquid,Team Liquid,Spacestation Gaming,Team Liquid Wins!,BW380
+North America - Stage 1,North America - Stage 1__match_0016,Upper Semifinals [Bo5],0,Busan,Dallas Fuel,LuneX Gaming,Dallas Fuel,LuneX Gaming,Dallas Fuel Wins!,X406
+North America - Stage 1,North America - Stage 1__match_0016,Upper Semifinals [Bo5],1,Runasapi,Dallas Fuel,LuneX Gaming,Dallas Fuel,LuneX Gaming,Dallas Fuel Wins!,AO406
+North America - Stage 1,North America - Stage 1__match_0016,Upper Semifinals [Bo5],2,Aatlis,Dallas Fuel,LuneX Gaming,Dallas Fuel,LuneX Gaming,Dallas Fuel Wins!,BF406
+North America - Stage 1,North America - Stage 1__match_0017,Upper Semifinals [Bo5],0,Busan,Spacestation Gaming,Team Liquid,Spacestation Gaming,Team Liquid,Spacestation Gaming Wins!,X432
+North America - Stage 1,North America - Stage 1__match_0017,Upper Semifinals [Bo5],1,Blizzard World,Spacestation Gaming,Team Liquid,Team Liquid,Spacestation Gaming,Team Liquid Wins!,AO432
+North America - Stage 1,North America - Stage 1__match_0017,Upper Semifinals [Bo5],2,Watchpoint: Gibraltar,Spacestation Gaming,Team Liquid,Team Liquid,Spacestation Gaming,Team Liquid Wins!,BF432
+North America - Stage 1,North America - Stage 1__match_0017,Upper Semifinals [Bo5],3,Suravasa,Spacestation Gaming,Team Liquid,Spacestation Gaming,Team Liquid,Spacestation Gaming Wins!,BW432
+North America - Stage 1,North America - Stage 1__match_0017,Upper Semifinals [Bo5],4,Runasapi,Spacestation Gaming,Team Liquid,Spacestation Gaming,Team Liquid,Spacestation Gaming Wins!,CN432
+North America - Stage 1,North America - Stage 1__match_0018,Lower Semifinals [Bo5],0,Lijiang Tower,LuneX Gaming,Team Liquid,Team Liquid,LuneX Gaming,Team Liquid Wins!,X458
+North America - Stage 1,North America - Stage 1__match_0018,Lower Semifinals [Bo5],1,Havana,LuneX Gaming,Team Liquid,Team Liquid,LuneX Gaming,Team Liquid Wins!,AO458
+North America - Stage 1,North America - Stage 1__match_0018,Lower Semifinals [Bo5],2,Runasapi,LuneX Gaming,Team Liquid,Team Liquid,LuneX Gaming,Team Liquid Wins!,BF458
+North America - Stage 1,North America - Stage 1__match_0019,Upper Finals [Bo5],0,Busan,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,X484
+North America - Stage 1,North America - Stage 1__match_0019,Upper Finals [Bo5],1,Numbani,Dallas Fuel,Spacestation Gaming,,,Draw!,AO484
+North America - Stage 1,North America - Stage 1__match_0019,Upper Finals [Bo5],2,Watchpoint: Gibraltar,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,BF484
+North America - Stage 1,North America - Stage 1__match_0019,Upper Finals [Bo5],3,Aatlis,Dallas Fuel,Spacestation Gaming,Spacestation Gaming,Dallas Fuel,Spacestation Gaming Wins!,BW484
+North America - Stage 1,North America - Stage 1__match_0019,Upper Finals [Bo5],4,Esperança,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,CN484
+North America - Stage 1,North America - Stage 1__match_0020,Lower Finals [Bo5],0,Busan,Spacestation Gaming,Team Liquid,Spacestation Gaming,Team Liquid,Spacestation Gaming Wins!,X510
+North America - Stage 1,North America - Stage 1__match_0020,Lower Finals [Bo5],1,Blizzard World,Spacestation Gaming,Team Liquid,Spacestation Gaming,Team Liquid,Spacestation Gaming Wins!,AO510
+North America - Stage 1,North America - Stage 1__match_0020,Lower Finals [Bo5],2,Aatlis,Spacestation Gaming,Team Liquid,Spacestation Gaming,Team Liquid,Spacestation Gaming Wins!,BF510
+North America - Stage 1,North America - Stage 1__match_0021,Grand Finals [Bo7],0,Busan,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,X536
+North America - Stage 1,North America - Stage 1__match_0021,Grand Finals [Bo7],1,Midtown,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,AO536
+North America - Stage 1,North America - Stage 1__match_0021,Grand Finals [Bo7],2,Rialto,Dallas Fuel,Spacestation Gaming,Spacestation Gaming,Dallas Fuel,Spacestation Gaming Wins!,BF536
+North America - Stage 1,North America - Stage 1__match_0021,Grand Finals [Bo7],3,Suravasa,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,BW536
+North America - Stage 1,North America - Stage 1__match_0021,Grand Finals [Bo7],4,Esperança,Dallas Fuel,Spacestation Gaming,Dallas Fuel,Spacestation Gaming,Dallas Fuel Wins!,CN536
+Pacific - Stage 1,Pacific - Stage 1__match_0001,Round Robin [Bo5],0,Busan,Team Secret,Rankers,Team Secret,Rankers,Team Secret Wins!,X16
+Pacific - Stage 1,Pacific - Stage 1__match_0001,Round Robin [Bo5],1,Esperança,Team Secret,Rankers,Team Secret,Rankers,Team Secret Wins!,AO16
+Pacific - Stage 1,Pacific - Stage 1__match_0001,Round Robin [Bo5],2,Rialto,Team Secret,Rankers,Team Secret,Rankers,Team Secret Wins!,BF16
+Pacific - Stage 1,Pacific - Stage 1__match_0002,Round Robin [Bo5],0,Lijiang Tower,MieMieYang,The Gatos Guapos,The Gatos Guapos,MieMieYang,The Gatos Guapos Wins!,X42
+Pacific - Stage 1,Pacific - Stage 1__match_0002,Round Robin [Bo5],1,Suravasa,MieMieYang,The Gatos Guapos,The Gatos Guapos,MieMieYang,The Gatos Guapos Wins!,AO42
+Pacific - Stage 1,Pacific - Stage 1__match_0002,Round Robin [Bo5],2,Rialto,MieMieYang,The Gatos Guapos,The Gatos Guapos,MieMieYang,The Gatos Guapos Wins!,BF42
+Pacific - Stage 1,Pacific - Stage 1__match_0003,Round Robin [Bo5],0,Oasis,FURY,Quasar Esports,Quasar Esports,FURY,Quasar Esports Wins!,X68
+Pacific - Stage 1,Pacific - Stage 1__match_0003,Round Robin [Bo5],1,Suravasa,FURY,Quasar Esports,Quasar Esports,FURY,Quasar Esports Wins!,AO68
+Pacific - Stage 1,Pacific - Stage 1__match_0003,Round Robin [Bo5],2,Midtown,FURY,Quasar Esports,FURY,Quasar Esports,FURY Wins!,BF68
+Pacific - Stage 1,Pacific - Stage 1__match_0003,Round Robin [Bo5],3,Watchpoint: Gibraltar,FURY,Quasar Esports,Quasar Esports,FURY,Quasar Esports Wins!,BW68
+Pacific - Stage 1,Pacific - Stage 1__match_0004,Round Robin [Bo5],0,Busan,FURY,The Gatos Guapos,The Gatos Guapos,FURY,The Gatos Guapos Wins!,X94
+Pacific - Stage 1,Pacific - Stage 1__match_0004,Round Robin [Bo5],1,Watchpoint: Gibraltar,FURY,The Gatos Guapos,The Gatos Guapos,FURY,The Gatos Guapos Wins!,AO94
+Pacific - Stage 1,Pacific - Stage 1__match_0004,Round Robin [Bo5],2,Aatlis,FURY,The Gatos Guapos,The Gatos Guapos,FURY,The Gatos Guapos Wins!,BF94
+Pacific - Stage 1,Pacific - Stage 1__match_0005,Round Robin [Bo5],0,Lijiang Tower,Team Secret,MieMieYang,Team Secret,MieMieYang,Team Secret Wins!,X120
+Pacific - Stage 1,Pacific - Stage 1__match_0005,Round Robin [Bo5],1,Aatlis,Team Secret,MieMieYang,Team Secret,MieMieYang,Team Secret Wins!,AO120
+Pacific - Stage 1,Pacific - Stage 1__match_0005,Round Robin [Bo5],2,Rialto,Team Secret,MieMieYang,Team Secret,MieMieYang,Team Secret Wins!,BF120
+Pacific - Stage 1,Pacific - Stage 1__match_0006,Round Robin [Bo5],0,Lijiang Tower,Quasar Esports,Rankers,Rankers,Quasar Esports,Rankers Wins!,X146
+Pacific - Stage 1,Pacific - Stage 1__match_0006,Round Robin [Bo5],1,Watchpoint: Gibraltar,Quasar Esports,Rankers,Quasar Esports,Rankers,Quasar Esports Wins!,AO146
+Pacific - Stage 1,Pacific - Stage 1__match_0006,Round Robin [Bo5],2,Esperança,Quasar Esports,Rankers,Rankers,Quasar Esports,Rankers Wins!,BF146
+Pacific - Stage 1,Pacific - Stage 1__match_0006,Round Robin [Bo5],3,Numbani,Quasar Esports,Rankers,Quasar Esports,Rankers,Quasar Esports Wins!,BW146
+Pacific - Stage 1,Pacific - Stage 1__match_0006,Round Robin [Bo5],4,Busan,Quasar Esports,Rankers,Rankers,Quasar Esports,Rankers Wins!,CN146
+Pacific - Stage 1,Pacific - Stage 1__match_0007,Round Robin [Bo5],0,Lijiang Tower,FURY,Rankers,Rankers,FURY,Rankers Wins!,X172
+Pacific - Stage 1,Pacific - Stage 1__match_0007,Round Robin [Bo5],1,Numbani,FURY,Rankers,Rankers,FURY,Rankers Wins!,AO172
+Pacific - Stage 1,Pacific - Stage 1__match_0007,Round Robin [Bo5],2,Esperança,FURY,Rankers,Rankers,FURY,Rankers Wins!,BF172
+Pacific - Stage 1,Pacific - Stage 1__match_0008,Round Robin [Bo5],0,Oasis,The Gatos Guapos,Team Secret,The Gatos Guapos,Team Secret,The Gatos Guapos Wins!,X198
+Pacific - Stage 1,Pacific - Stage 1__match_0008,Round Robin [Bo5],1,Suravasa,The Gatos Guapos,Team Secret,The Gatos Guapos,Team Secret,The Gatos Guapos Wins!,AO198
+Pacific - Stage 1,Pacific - Stage 1__match_0008,Round Robin [Bo5],2,Blizzard World,The Gatos Guapos,Team Secret,The Gatos Guapos,Team Secret,The Gatos Guapos Wins!,BF198
+Pacific - Stage 1,Pacific - Stage 1__match_0009,Round Robin [Bo5],0,Busan,MieMieYang,Quasar Esports,MieMieYang,Quasar Esports,MieMieYang Wins!,X224
+Pacific - Stage 1,Pacific - Stage 1__match_0009,Round Robin [Bo5],1,Watchpoint: Gibraltar,MieMieYang,Quasar Esports,Quasar Esports,MieMieYang,Quasar Esports Wins!,AO224
+Pacific - Stage 1,Pacific - Stage 1__match_0009,Round Robin [Bo5],2,Runasapi,MieMieYang,Quasar Esports,Quasar Esports,MieMieYang,Quasar Esports Wins!,BF224
+Pacific - Stage 1,Pacific - Stage 1__match_0009,Round Robin [Bo5],3,Blizzard World,MieMieYang,Quasar Esports,Quasar Esports,MieMieYang,Quasar Esports Wins!,BW224
+Pacific - Stage 1,Pacific - Stage 1__match_0010,Round Robin [Bo5],0,Oasis,Team Secret,FURY,Team Secret,FURY,Team Secret Wins!,X250
+Pacific - Stage 1,Pacific - Stage 1__match_0010,Round Robin [Bo5],1,Aatlis,Team Secret,FURY,Team Secret,FURY,Team Secret Wins!,AO250
+Pacific - Stage 1,Pacific - Stage 1__match_0010,Round Robin [Bo5],2,Midtown,Team Secret,FURY,Team Secret,FURY,Team Secret Wins!,BF250
+Pacific - Stage 1,Pacific - Stage 1__match_0011,Round Robin [Bo5],0,Lijiang Tower,Quasar Esports,The Gatos Guapos,The Gatos Guapos,Quasar Esports,The Gatos Guapos Wins!,X276
+Pacific - Stage 1,Pacific - Stage 1__match_0011,Round Robin [Bo5],1,Numbani,Quasar Esports,The Gatos Guapos,The Gatos Guapos,Quasar Esports,The Gatos Guapos Wins!,AO276
+Pacific - Stage 1,Pacific - Stage 1__match_0011,Round Robin [Bo5],2,Esperança,Quasar Esports,The Gatos Guapos,The Gatos Guapos,Quasar Esports,The Gatos Guapos Wins!,BF276
+Pacific - Stage 1,Pacific - Stage 1__match_0012,Round Robin [Bo5],0,Oasis,MieMieYang,Rankers,MieMieYang,Rankers,MieMieYang Wins!,X302
+Pacific - Stage 1,Pacific - Stage 1__match_0012,Round Robin [Bo5],1,Esperança,MieMieYang,Rankers,MieMieYang,Rankers,MieMieYang Wins!,AO302
+Pacific - Stage 1,Pacific - Stage 1__match_0012,Round Robin [Bo5],2,Rialto,MieMieYang,Rankers,Rankers,MieMieYang,Rankers Wins!,BF302
+Pacific - Stage 1,Pacific - Stage 1__match_0012,Round Robin [Bo5],3,Blizzard World,MieMieYang,Rankers,Rankers,MieMieYang,Rankers Wins!,BW302
+Pacific - Stage 1,Pacific - Stage 1__match_0012,Round Robin [Bo5],4,Lijiang Tower,MieMieYang,Rankers,Rankers,MieMieYang,Rankers Wins!,CN302
+Pacific - Stage 1,Pacific - Stage 1__match_0013,Round Robin [Bo5],0,Busan,Team Secret,Quasar Esports,Team Secret,Quasar Esports,Team Secret Wins!,X328
+Pacific - Stage 1,Pacific - Stage 1__match_0013,Round Robin [Bo5],1,Suravasa,Team Secret,Quasar Esports,Team Secret,Quasar Esports,Team Secret Wins!,AO328
+Pacific - Stage 1,Pacific - Stage 1__match_0013,Round Robin [Bo5],2,Watchpoint: Gibraltar,Team Secret,Quasar Esports,Team Secret,Quasar Esports,Team Secret Wins!,BF328
+Pacific - Stage 1,Pacific - Stage 1__match_0014,Round Robin [Bo5],0,Lijiang Tower,FURY,MieMieYang,FURY,MieMieYang,FURY Wins!,X354
+Pacific - Stage 1,Pacific - Stage 1__match_0014,Round Robin [Bo5],1,Runasapi,FURY,MieMieYang,FURY,MieMieYang,FURY Wins!,AO354
+Pacific - Stage 1,Pacific - Stage 1__match_0014,Round Robin [Bo5],2,Rialto,FURY,MieMieYang,FURY,MieMieYang,FURY Wins!,BF354
+Pacific - Stage 1,Pacific - Stage 1__match_0015,Round Robin [Bo5],0,Busan,The Gatos Guapos,Rankers,Rankers,The Gatos Guapos,Rankers Wins!,X380
+Pacific - Stage 1,Pacific - Stage 1__match_0015,Round Robin [Bo5],1,Rialto,The Gatos Guapos,Rankers,Rankers,The Gatos Guapos,Rankers Wins!,AO380
+Pacific - Stage 1,Pacific - Stage 1__match_0015,Round Robin [Bo5],2,Aatlis,The Gatos Guapos,Rankers,Rankers,The Gatos Guapos,Rankers Wins!,BF380
+Partner Team Index,Partner Team Index__match_0001,,0,Lijiang Tower,Dallas Fuel,Dallas Fuel,Dallas Fuel,Dallas Fuel,Dallas Fuel Wins!,X16
+Partner Team Index,Partner Team Index__match_0001,,1,Lijiang Tower,Dallas Fuel,Dallas Fuel,Disguised,,Disguised Wins!,AO16
+Partner Team Index,Partner Team Index__match_0001,,2,Lijiang Tower,Dallas Fuel,Dallas Fuel,Spacestation Gaming,,Spacestation Gaming Wins!,BF16
+Partner Team Index,Partner Team Index__match_0001,,3,Lijiang Tower,Dallas Fuel,Dallas Fuel,Team Liquid,,Team Liquid Wins!,BW16
+Partner Team Index,Partner Team Index__match_0002,,0,Lijiang Tower,Team Peps,Team Peps,Team Peps,Team Peps,Team Peps Wins!,X42
+Partner Team Index,Partner Team Index__match_0002,,1,Lijiang Tower,Team Peps,Team Peps,Twisted Minds,,Twisted Minds Wins!,AO42
+Partner Team Index,Partner Team Index__match_0002,,2,Lijiang Tower,Team Peps,Team Peps,Virtus.pro,,Virtus.pro Wins!,BF42
+Partner Team Index,Partner Team Index__match_0003,,0,Lijiang Tower,Crazy Raccoon,Crazy Raccoon,Crazy Raccoon,Crazy Raccoon,Crazy Raccoon Wins!,X68
+Partner Team Index,Partner Team Index__match_0003,,1,Lijiang Tower,Crazy Raccoon,Crazy Raccoon,T1,,T1 Wins!,AO68
+Partner Team Index,Partner Team Index__match_0003,,2,Lijiang Tower,Crazy Raccoon,Crazy Raccoon,Team Falcons,,Team Falcons Wins!,BF68
+Partner Team Index,Partner Team Index__match_0003,,3,Lijiang Tower,Crazy Raccoon,Crazy Raccoon,ZETA DIVISION,,ZETA DIVISION Wins!,BW68
+Partner Team Index,Partner Team Index__match_0004,,0,Lijiang Tower,All Gamers,All Gamers,All Gamers,All Gamers,All Gamers Wins!,X94
+Partner Team Index,Partner Team Index__match_0004,,1,Lijiang Tower,All Gamers,All Gamers,JD Gaming,,JD Gaming Wins!,AO94
+Partner Team Index,Partner Team Index__match_0004,,2,Lijiang Tower,All Gamers,All Gamers,Weibo Gaming,,Weibo Gaming Wins!,BF94
+Non-Partner Team Index,Non-Partner Team Index__match_0001,,0,Lijiang Tower,Extinction,Extinction,Extinction,Extinction,Extinction Wins!,X16
+Non-Partner Team Index,Non-Partner Team Index__match_0001,,1,Lijiang Tower,Extinction,Extinction,LuneX Gaming,,LuneX Gaming Wins!,AO16
+Non-Partner Team Index,Non-Partner Team Index__match_0002,,0,Lijiang Tower,Al Qadsiah,Al Qadsiah,Al Qadsiah,Al Qadsiah,Al Qadsiah Wins!,X42
+Non-Partner Team Index,Non-Partner Team Index__match_0002,,1,Lijiang Tower,Al Qadsiah,Al Qadsiah,Anyone's Legend,,Anyone's Legend Wins!,AO42
+Non-Partner Team Index,Non-Partner Team Index__match_0002,,2,Lijiang Tower,Al Qadsiah,Al Qadsiah,Geekay Esports,,Geekay Esports Wins!,BF42
+Non-Partner Team Index,Non-Partner Team Index__match_0003,,0,Lijiang Tower,Cheeseburger,Cheeseburger,Cheeseburger,Cheeseburger,Cheeseburger Wins!,X68
+Non-Partner Team Index,Non-Partner Team Index__match_0003,,1,Lijiang Tower,Cheeseburger,Cheeseburger,New Era,,New Era Wins!,AO68
+Non-Partner Team Index,Non-Partner Team Index__match_0003,,2,Lijiang Tower,Cheeseburger,Cheeseburger,RØDE ONSIDE GAMING,,RØDE ONSIDE GAMING Wins!,BF68
+Non-Partner Team Index,Non-Partner Team Index__match_0003,,3,Lijiang Tower,Cheeseburger,Cheeseburger,Poker Face,,Poker Face Wins!,BW68
+Non-Partner Team Index,Non-Partner Team Index__match_0003,,4,Lijiang Tower,Cheeseburger,Cheeseburger,ZAN Esports,,ZAN Esports Wins!,CN68
+Non-Partner Team Index,Non-Partner Team Index__match_0004,,0,Lijiang Tower,99DIVINE,99DIVINE,99DIVINE,99DIVINE,99DIVINE Wins!,X94
+Non-Partner Team Index,Non-Partner Team Index__match_0004,,1,Lijiang Tower,99DIVINE,99DIVINE,ENTER FORCE.36,,ENTER FORCE.36 Wins!,AO94
+Non-Partner Team Index,Non-Partner Team Index__match_0004,,2,Lijiang Tower,99DIVINE,99DIVINE,Lazuli,,Lazuli Wins!,BF94
+Non-Partner Team Index,Non-Partner Team Index__match_0004,,3,Lijiang Tower,99DIVINE,99DIVINE,Nyam Gaming,,Nyam Gaming Wins!,BW94
+Non-Partner Team Index,Non-Partner Team Index__match_0004,,4,Lijiang Tower,99DIVINE,99DIVINE,Please Not Hero Ban,,Please Not Hero Ban Wins!,CN94
+Non-Partner Team Index,Non-Partner Team Index__match_0004,,5,Lijiang Tower,99DIVINE,99DIVINE,Telomere,,Telomere Wins!,DE94
+Non-Partner Team Index,Non-Partner Team Index__match_0005,,0,Lijiang Tower,FURY,FURY,FURY,FURY,FURY Wins!,X120
+Non-Partner Team Index,Non-Partner Team Index__match_0005,,1,Lijiang Tower,FURY,FURY,MMY,,MMY Wins!,AO120
+Non-Partner Team Index,Non-Partner Team Index__match_0005,,2,Lijiang Tower,FURY,FURY,Rankers,,Rankers Wins!,BF120
+Non-Partner Team Index,Non-Partner Team Index__match_0005,,3,Lijiang Tower,FURY,FURY,Team Secret,,Team Secret Wins!,BW120
+Non-Partner Team Index,Non-Partner Team Index__match_0005,,4,Lijiang Tower,FURY,FURY,The Gatos Guapos,,The Gatos Guapos Wins!,CN120
+Non-Partner Team Index,Non-Partner Team Index__match_0005,,5,Lijiang Tower,FURY,FURY,Quasar Esports,,Quasar Esports Wins!,DE120
+Non-Partner Team Index,Non-Partner Team Index__match_0006,,0,Lijiang Tower,DEG,DEG,DEG,DEG,DEG Wins!,X146
+Non-Partner Team Index,Non-Partner Team Index__match_0006,,1,Lijiang Tower,DEG,DEG,Homie E,,Homie E Wins!,AO146
+Non-Partner Team Index,Non-Partner Team Index__match_0006,,2,Lijiang Tower,DEG,DEG,Milk Tea,,Milk Tea Wins!,BF146
+Non-Partner Team Index,Non-Partner Team Index__match_0006,,3,Lijiang Tower,DEG,DEG,Naive Piggy,,Naive Piggy Wins!,BW146
+Non-Partner Team Index,Non-Partner Team Index__match_0006,,4,Lijiang Tower,DEG,DEG,Solus Victorem,,Solus Victorem Wins!,CN146

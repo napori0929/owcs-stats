@@ -1,0 +1,197 @@
+match_id,tournament_sheet,match_title,event_title,team_top,team_bottom,maps,active_blocks,match_start_row
+Pre-Season Bootcamp__match_0001,Pre-Season Bootcamp,Round 1 [Bo5],Week 1 | Day 1 | Game 1,Disguised,Team Peps,Ilios; Shambali Monastery; Esperança; Midtown; New Junk City; Watchpoint: Gibraltar,6,3
+Pre-Season Bootcamp__match_0002,Pre-Season Bootcamp,Round 1 [Bo5],Week 1 | Day 1 | Game 2,VARREL,Team Falcons,Lijiang Tower; Shambali Monastery; Midtown,3,29
+Pre-Season Bootcamp__match_0003,Pre-Season Bootcamp,Round 1 [Bo5],Week 1 | Day 1 | Game 3,Dallas Fuel,T1,Lijiang Tower; Midtown; Havana; New Junk City,4,55
+Pre-Season Bootcamp__match_0004,Pre-Season Bootcamp,Round 1 [Bo5],Week 1 | Day 1 | Game 4,Virtus.pro,All Gamers,Ilios; Eichenwalde; Shambali Monastery,3,81
+Pre-Season Bootcamp__match_0005,Pre-Season Bootcamp,Quarterfinals [Bo5],Week 1 | Day 2 | Game 1,Crazy Raccoon,Team Peps,Busan; Esperança; Shambali Monastery; Blizzard World,4,107
+Pre-Season Bootcamp__match_0006,Pre-Season Bootcamp,Quarterfinals [Bo5],Week 1 | Day 2 | Game 2,Weibo Gaming,Team Falcons,Ilios; Midtown; Esperança; Havana; Shambali Monastery,5,133
+Pre-Season Bootcamp__match_0007,Pre-Season Bootcamp,Quarterfinals [Bo5],Week 1 | Day 2 | Game 3,Twisted Minds,T1,Busan; Blizzard World; New Junk City,3,159
+Pre-Season Bootcamp__match_0008,Pre-Season Bootcamp,Quarterfinals [Bo5],Week 1 | Day 2 | Game 4,Team Liquid,Virtus.pro,Lijiang Tower; Eichenwalde; New Junk City; Havana,4,185
+Pre-Season Bootcamp__match_0009,Pre-Season Bootcamp,Semifinals [Bo5],Week 1 | Day 3 | Game 1,Crazy Raccoon,Team Falcons,Busan; Blizzard World; Esperança; Watchpoint: Gibraltar; Lijiang Tower,5,211
+Pre-Season Bootcamp__match_0010,Pre-Season Bootcamp,Semifinals [Bo5],Week 1 | Day 3 | Game 2,Twisted Minds,Team Liquid,Lijiang Tower; Esperança; Eichenwalde; Havana; Colosseo,5,237
+Pre-Season Bootcamp__match_0011,Pre-Season Bootcamp,Grand Finals [Bo7],Week 1 | Day 3 | Game 3,Crazy Raccoon,Twisted Minds,Busan; Blizzard World; Colosseo; Shambali Monastery; Esperança,5,263
+Japan - Stage 1__match_0001,Japan - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 1,Please Not Hero Ban,Telomere,Oasis; Watchpoint: Gibraltar; Aatlis; Blizzard World,4,3
+Japan - Stage 1__match_0002,Japan - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 2,ENTER FORCE.36,Nyam Gaming,Oasis; Aatlis; Midtown,3,29
+Japan - Stage 1__match_0003,Japan - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 3,TOKYO TAIYOs,VARREL,Busan; Runasapi; Watchpoint: Gibraltar,3,55
+Japan - Stage 1__match_0004,Japan - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 1,Lazuli,99DIVINE,Lijiang Tower; Esperança; Watchpoint: Gibraltar,3,81
+Japan - Stage 1__match_0005,Japan - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 2,Please Not Hero Ban,VARREL,Busan; Esperança; Blizzard World,3,107
+Japan - Stage 1__match_0006,Japan - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 3,TOKYO TAIYOs,Nyam Gaming,Lijiang Tower; Havana; Aatlis; Numbani,4,133
+Japan - Stage 1__match_0007,Japan - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 1,Please Not Hero Ban,Lazuli,Busan; Runasapi; Rialto,3,159
+Japan - Stage 1__match_0008,Japan - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 2,TOKYO TAIYOs,99DIVINE,Oasis; Esperança; Blizzard World; Watchpoint: Gibraltar,4,185
+Japan - Stage 1__match_0009,Japan - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 3,VARREL,ENTER FORCE.36,Lijiang Tower; Esperança; Rialto; Numbani,4,211
+Japan - Stage 1__match_0010,Japan - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 1,Telomere,Lazuli,Lijiang Tower; Numbani; Runasapi,3,237
+Japan - Stage 1__match_0011,Japan - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 2,TOKYO TAIYOs,Please Not Hero Ban,Oasis; Suravasa; Blizzard World; Rialto; Esperança,5,263
+Japan - Stage 1__match_0012,Japan - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 3,99DIVINE,ENTER FORCE.36,Oasis; Esperança; Watchpoint: Gibraltar,3,289
+Japan - Stage 1__match_0013,Japan - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 1,99DIVINE,Please Not Hero Ban,Busan; Rialto; Esperança; Midtown,4,315
+Japan - Stage 1__match_0014,Japan - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 2,Telomere,ENTER FORCE.36,Lijiang Tower; Aatlis; Blizzard World,3,341
+Japan - Stage 1__match_0015,Japan - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 3,VARREL,Nyam Gaming,Busan; Aatlis; Havana,3,367
+Japan - Stage 1__match_0016,Japan - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 1,VARREL,Lazuli,Oasis; Numbani; Havana,3,393
+Japan - Stage 1__match_0017,Japan - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 2,Telomere,Nyam Gaming,Busan; Watchpoint: Gibraltar; Aatlis; Numbani,4,419
+Japan - Stage 1__match_0018,Japan - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 3,ENTER FORCE.36,TOKYO TAIYOs,Lijiang Tower; Esperança; Watchpoint: Gibraltar; Blizzard World; Suravasa,5,445
+Japan - Stage 1__match_0019,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 1,99DIVINE,Nyam Gaming,Lijiang Tower; Blizzard World; Suravasa; Rialto,4,471
+Japan - Stage 1__match_0020,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 2,VARREL,Telomere,Busan; Rialto; Runasapi,3,497
+Japan - Stage 1__match_0021,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 3,Lazuli,ENTER FORCE.36,Oasis; Runasapi; Havana,3,523
+Japan - Stage 1__match_0022,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 2 | Game 1,Please Not Hero Ban,Nyam Gaming,Oasis; Aatlis; Rialto,3,549
+Japan - Stage 1__match_0023,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 2 | Game 2,Lazuli,TOKYO TAIYOs,Lijiang Tower; Suravasa; Watchpoint: Gibraltar; Numbani,4,575
+Japan - Stage 1__match_0024,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 2 | Game 3,99DIVINE,Telomere,Busan; Rialto; Aatlis; Numbani,4,601
+Japan - Stage 1__match_0025,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 3 | Game 1,Please Not Hero Ban,ENTER FORCE.36,Lijiang Tower; Esperança; Blizzard World,3,627
+Japan - Stage 1__match_0026,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 3 | Game 2,Lazuli,Nyam Gaming,Oasis; Suravasa; Watchpoint: Gibraltar; Blizzard World; Esperança,5,653
+Japan - Stage 1__match_0027,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 3 | Game 3,VARREL,99DIVINE,Busan; Rialto; Aatlis,3,679
+Japan - Stage 1__match_0028,Japan - Stage 1,Round Robin [Bo5],Week 4 | Day 3 | Game 4,TOKYO TAIYOs,Telomere,Lijiang Tower; Blizzard World; Aatlis,3,705
+Japan - Stage 1__match_0029,Japan - Stage 1,Semifinals [Bo7],Week 5 | Day 1 | Game 1,ENTER FORCE.36,Please Not Hero Ban,Lijiang Tower; Esperança; Blizzard World; Watchpoint: Gibraltar,4,731
+Japan - Stage 1__match_0030,Japan - Stage 1,Semifinals [Bo7],Week 5 | Day 1 | Game 2,VARREL,99DIVINE,Lijiang Tower; Esperança; Rialto; Blizzard World,4,757
+Japan - Stage 1__match_0031,Japan - Stage 1,Third Place Match [Bo7],Week 5 | Day 2 | Game 1,Please Not Hero Ban,99DIVINE,Oasis; Blizzard World; Esperança; Rialto,4,783
+Japan - Stage 1__match_0032,Japan - Stage 1,Grand Finals [Bo7],Week 5 | Day 2 | Game 2,VARREL,ENTER FORCE.36,Lijiang Tower; Aatlis; Watchpoint: Gibraltar; Midtown; Esperança,5,809
+Korea - Stage 1__match_0001,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 1,Cheeseburger,Poker Face,Busan; Runasapi; Numbani,3,3
+Korea - Stage 1__match_0002,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 2,Crazy Raccoon,ZETA DIVISION,Busan; Suravasa; Havana; Blizzard World,4,29
+Korea - Stage 1__match_0003,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 3,ZAN Esports,RØDE ONSIDE GAMING,Busan; Runasapi; Midtown; Havana; Aatlis,5,55
+Korea - Stage 1__match_0004,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 1,New Era,T1,Lijiang Tower; Blizzard World; Suravasa,3,81
+Korea - Stage 1__match_0005,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 2,Cheeseburger,Team Falcons,Oasis; Watchpoint: Gibraltar; Suravasa,3,107
+Korea - Stage 1__match_0006,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 3,ZAN Esports,Crazy Raccoon,Lijiang Tower; Havana; Esperança; Midtown,4,133
+Korea - Stage 1__match_0007,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 3 | Game 1,Poker Face,New Era,Busan; Rialto; Midtown,3,159
+Korea - Stage 1__match_0008,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 3 | Game 2,RØDE ONSIDE GAMING,T1,Busan; Rialto; Aatlis; Numbani; Runasapi,5,185
+Korea - Stage 1__match_0009,Korea - Stage 1,Round Robin [Bo5],Week 1 | Day 3 | Game 3,ZETA DIVISION,Team Falcons,Lijiang Tower; Esperança; Rialto; Numbani; Blizzard World,5,211
+Korea - Stage 1__match_0010,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 1,Cheeseburger,ZAN Esports,Oasis; Watchpoint: Gibraltar; Aatlis,3,237
+Korea - Stage 1__match_0011,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 2,Poker Face,ZETA DIVISION,Lijiang Tower; Esperança; Rialto,3,263
+Korea - Stage 1__match_0012,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 3,Crazy Raccoon,RØDE ONSIDE GAMING,Busan; Havana; Blizzard World; Runasapi; Rialto,5,289
+Korea - Stage 1__match_0013,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 1,New Era,Team Falcons,Oasis; Havana; Midtown,3,315
+Korea - Stage 1__match_0014,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 2,T1,Poker Face,Oasis; Numbani; Esperança,3,341
+Korea - Stage 1__match_0015,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 3,Crazy Raccoon,Cheeseburger,Lijiang Tower; Aatlis; Havana,3,367
+Korea - Stage 1__match_0016,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 3 | Game 1,RØDE ONSIDE GAMING,New Era,Lijiang Tower; Blizzard World; Havana,3,393
+Korea - Stage 1__match_0017,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 3 | Game 2,ZAN Esports,ZETA DIVISION,Busan; Suravasa; Havana,3,419
+Korea - Stage 1__match_0018,Korea - Stage 1,Round Robin [Bo5],Week 2 | Day 3 | Game 3,Team Falcons,T1,Busan; Esperança; Havana; Blizzard World,4,445
+Korea - Stage 1__match_0019,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 1,RØDE ONSIDE GAMING,Cheeseburger,Oasis; Aatlis; Blizzard World,3,471
+Korea - Stage 1__match_0020,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 2,Team Falcons,Poker Face,Oasis; Numbani; Aatlis,3,497
+Korea - Stage 1__match_0021,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 3,T1,Crazy Raccoon,Oasis; Havana; Suravasa; Blizzard World; Aatlis,5,523
+Korea - Stage 1__match_0022,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 1,New Era,ZAN Esports,Busan; Esperança; Havana,3,549
+Korea - Stage 1__match_0023,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 2,ZETA DIVISION,RØDE ONSIDE GAMING,Oasis; Blizzard World; Runasapi; Watchpoint: Gibraltar; Busan,5,575
+Korea - Stage 1__match_0024,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 3,Cheeseburger,T1,Lijiang Tower; Havana; Blizzard World,3,601
+Korea - Stage 1__match_0025,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 3 | Game 1,Team Falcons,ZAN Esports,Lijiang Tower; Suravasa; Watchpoint: Gibraltar,3,627
+Korea - Stage 1__match_0026,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 3 | Game 2,Poker Face,Crazy Raccoon,Lijiang Tower; Numbani; Aatlis,3,653
+Korea - Stage 1__match_0027,Korea - Stage 1,Round Robin [Bo5],Week 3 | Day 3 | Game 3,ZETA DIVISION,New Era,Oasis; Runasapi; Havana,3,679
+Korea - Stage 1__match_0028,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 1,Poker Face,RØDE ONSIDE GAMING,Oasis; Aatlis; Rialto,3,705
+Korea - Stage 1__match_0029,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 2,T1,ZETA DIVISION,Busan; Suravasa; Havana; Blizzard World,4,731
+Korea - Stage 1__match_0030,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 3,Crazy Raccoon,New Era,Oasis; Suravasa; Rialto,3,757
+Korea - Stage 1__match_0031,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 2 | Game 1,T1,ZAN Esports,Oasis; Watchpoint: Gibraltar; Esperança,3,783
+Korea - Stage 1__match_0032,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 2 | Game 2,ZETA DIVISION,Cheeseburger,Lijiang Tower; Watchpoint: Gibraltar; Blizzard World,3,809
+Korea - Stage 1__match_0033,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 2 | Game 3,Team Falcons,Crazy Raccoon,Busan; Esperança; Rialto,3,835
+Korea - Stage 1__match_0034,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 3 | Game 1,ZAN Esports,Poker Face,Lijiang Tower; Rialto; Aatlis,3,861
+Korea - Stage 1__match_0035,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 3 | Game 2,RØDE ONSIDE GAMING,Team Falcons,Lijiang Tower; Runasapi; Watchpoint: Gibraltar; Numbani; Esperança,5,887
+Korea - Stage 1__match_0036,Korea - Stage 1,Round Robin [Bo5],Week 4 | Day 3 | Game 3,New Era,Cheeseburger,Busan; Watchpoint: Gibraltar; Blizzard World,3,913
+Korea - Stage 1__match_0037,Korea - Stage 1,Last Chance Qualifier [Bo5],Week 5 | Day 1 | Game 1,T1,ZAN Esports,Lijiang Tower; Esperança; Havana,3,939
+Korea - Stage 1__match_0038,Korea - Stage 1,Seeding Decider [Bo5],Week 5 | Day 1 | Game 2,ZETA DIVISION,RØDE ONSIDE GAMING,Lijiang Tower; Runasapi; Blizzard World; Havana,4,965
+Korea - Stage 1__match_0039,Korea - Stage 1,Seeding Decider [Bo5],Week 5 | Day 1 | Game 3,Crazy Raccoon,Team Falcons,Lijiang Tower; Runasapi; Blizzard World,3,991
+Korea - Stage 1__match_0040,Korea - Stage 1,Last Chance Qualifier [Bo5],Week 5 | Day 2 | Game 1,Poker Face,Cheeseburger,Busan; Rialto; Esperança; Numbani; Runasapi,5,1017
+Korea - Stage 1__match_0041,Korea - Stage 1,Seeding Decider [Bo5],Week 5 | Day 2 | Game 2,ZETA DIVISION,Team Falcons,Lijiang Tower; Runasapi; Numbani; Watchpoint: Gibraltar,4,1043
+Korea - Stage 1__match_0042,Korea - Stage 1,Seeding Decider [Bo5],Week 5 | Day 2 | Game 3,Crazy Raccoon,RØDE ONSIDE GAMING,Lijiang Tower; Runasapi; Blizzard World,3,1069
+Korea - Stage 1__match_0043,Korea - Stage 1,Last Chance Qualifier [Bo5],Week 5 | Day 3 | Game 1,ZAN Esports,Cheeseburger,Lijiang Tower; Rialto; Esperança,3,1095
+Korea - Stage 1__match_0044,Korea - Stage 1,Seeding Decider [Bo5],Week 5 | Day 3 | Game 2,ZETA DIVISION,Crazy Raccoon,Lijiang Tower; Havana; Suravasa,3,1121
+Korea - Stage 1__match_0045,Korea - Stage 1,Seeding Decider [Bo5],Week 5 | Day 3 | Game 3,Team Falcons,RØDE ONSIDE GAMING,Lijiang Tower; Runasapi; Blizzard World,3,1147
+Korea - Stage 1__match_0046,Korea - Stage 1,Quarterfinal [Bo7],Week 6 | Day 1 | Game 1,Team Falcons,ZAN Esports,,0,1173
+Korea - Stage 1__match_0047,Korea - Stage 1,Quarterfinal [Bo7],Week 6 | Day 1 | Game 1,RØDE ONSIDE GAMING,T1,,0,1199
+China - Stage 1__match_0001,China - Stage 1,Swiss Stage (Round 1) [Bo5],Week 1 | Day 1 | Game 1,Milk Tea,Homie E,Busan; Esperança; Havana; Numbani; Aatlis,5,3
+China - Stage 1__match_0002,China - Stage 1,Swiss Stage (Round 1) [Bo5],Week 1 | Day 1 | Game 2,All Gamers,DEG,Busan; Aatlis; Esperança,3,29
+China - Stage 1__match_0003,China - Stage 1,Swiss Stage (Round 1) [Bo5],Week 1 | Day 1 | Game 3,Weibo Gaming,Naive Piggy,Lijiang Tower; Esperança; Aatlis,3,55
+China - Stage 1__match_0004,China - Stage 1,Swiss Stage (Round 1) [Bo5],Week 1 | Day 1 | Game 4,JD Gaming,SV,Lijiang Tower; Suravasa; Midtown; Havana,4,81
+China - Stage 1__match_0005,China - Stage 1,Swiss Stage (Round 2) [Bo5],Week 1 | Day 2 | Game 1,Milk Tea,Naive Piggy,Lijiang Tower; Aatlis; Esperança,3,107
+China - Stage 1__match_0006,China - Stage 1,Swiss Stage (Round 2) [Bo5],Week 1 | Day 2 | Game 2,DEG,SV,Lijiang Tower; Watchpoint: Gibraltar; Aatlis,3,133
+China - Stage 1__match_0007,China - Stage 1,Swiss Stage (Round 2) [Bo5],Week 1 | Day 2 | Game 3,JD Gaming,All Gamers,Lijiang Tower; Aatlis; Watchpoint: Gibraltar,3,159
+China - Stage 1__match_0008,China - Stage 1,Swiss Stage (Round 2) [Bo5],Week 1 | Day 2 | Game 4,Weibo Gaming,Homie E,Lijiang Tower; Esperança; Aatlis,3,185
+China - Stage 1__match_0009,China - Stage 1,Swiss Stage (Round 3) [Bo5],Week 2 | Day 1 | Game 1,All Gamers,Naive Piggy,Busan; Blizzard World; Aatlis,3,211
+China - Stage 1__match_0010,China - Stage 1,Swiss Stage (Round 3) [Bo5],Week 2 | Day 1 | Game 2,Homie E,SV,Lijiang Tower; Runasapi; Suravasa,3,237
+China - Stage 1__match_0011,China - Stage 1,Seeding Decider [Bo5],Week 2 | Day 1 | Game 3,Weibo Gaming,JD Gaming,Lijiang Tower; Blizzard World; Runasapi,3,263
+China - Stage 1__match_0012,China - Stage 1,Swiss Stage (Round 4) [Bo5],Week 2 | Day 2 | Game 1,Homie E,Milk Tea,Oasis; Runasapi; Suravasa,3,289
+China - Stage 1__match_0013,China - Stage 1,Swiss Stage (Round 4) [Bo5],Week 2 | Day 2 | Game 2,Naive Piggy,DEG,Lijiang Tower; Esperança; Havana; Suravasa,4,315
+China - Stage 1__match_0014,China - Stage 1,Seeding Decider [Bo5],Week 2 | Day 2 | Game 3,All Gamers,SV,Busan; Aatlis; Runasapi,3,341
+China - Stage 1__match_0015,China - Stage 1,Seeding Decider [Bo5],Week 2 | Day 2 | Game 4,Milk Tea,Naive Piggy,Lijiang Tower; Numbani; Esperança; Suravasa,4,367
+China - Stage 1__match_0016,China - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 1,Naive Piggy,Milk Tea,Busan; Esperança; Midtown; Aatlis; Havana,5,393
+China - Stage 1__match_0017,China - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 2,JD Gaming,All Gamers,Oasis; Suravasa; Numbani; Havana; Esperança,5,419
+China - Stage 1__match_0018,China - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 3,Weibo Gaming,SV,Lijiang Tower; Suravasa; Midtown,3,445
+China - Stage 1__match_0019,China - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 1,All Gamers,Milk Tea,Busan; Watchpoint: Gibraltar; Esperança; Midtown,4,471
+China - Stage 1__match_0020,China - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 2,Weibo Gaming,Naive Piggy,Lijiang Tower; Aatlis; Havana,3,497
+China - Stage 1__match_0021,China - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 1,SV,Naive Piggy,Lijiang Tower; Esperança; Aatlis,3,523
+China - Stage 1__match_0022,China - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 2,Weibo Gaming,All Gamers,Lijiang Tower; Numbani; Havana; Aatlis; Runasapi,5,549
+China - Stage 1__match_0023,China - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 3,JD Gaming,Milk Tea,Oasis; Esperança; Havana,3,575
+China - Stage 1__match_0024,China - Stage 1,Round Robin [Bo5],Week 4 | Day 2 | Game 1,SV,Milk Tea,Lijiang Tower; Havana; Esperança; Suravasa,4,601
+China - Stage 1__match_0025,China - Stage 1,Round Robin [Bo5],Week 4 | Day 2 | Game 2,JD Gaming,Naive Piggy,Oasis; Aatlis; Esperança,3,627
+China - Stage 1__match_0026,China - Stage 1,Round Robin [Bo5],Week 5 | Day 1 | Game 1,All Gamers,Naive Piggy,Lijiang Tower; Suravasa; Blizzard World; Runasapi; Rialto,5,653
+China - Stage 1__match_0027,China - Stage 1,Round Robin [Bo5],Week 5 | Day 1 | Game 2,JD Gaming,SV,Oasis; Blizzard World; Aatlis,3,679
+China - Stage 1__match_0028,China - Stage 1,Round Robin [Bo5],Week 5 | Day 1 | Game 3,Weibo Gaming,Milk Tea,Lijiang Tower; Suravasa; Watchpoint: Gibraltar,3,705
+China - Stage 1__match_0029,China - Stage 1,Round Robin [Bo5],Week 5 | Day 2 | Game 1,All Gamers,SV,Oasis; Havana; Aatlis,3,731
+China - Stage 1__match_0030,China - Stage 1,Round Robin [Bo5],Week 5 | Day 2 | Game 2,Weibo Gaming,JD Gaming,Lijiang Tower; Havana; Suravasa; Blizzard World,4,757
+China - Stage 1__match_0031,China - Stage 1,Upper Semifinals [Bo5],Week 6 | Day 1 | Game 1,Weibo Gaming,SV,Busan; Blizzard World; Suravasa,3,783
+China - Stage 1__match_0032,China - Stage 1,Upper Semifinals [Bo5],Week 6 | Day 1 | Game 2,All Gamers,JD Gaming,Busan; Numbani; Watchpoint: Gibraltar,3,809
+China - Stage 1__match_0033,China - Stage 1,Upper Finals [Bo5],Week 6 | Day 1 | Game 3,Weibo Gaming,All Gamers,Lijiang Tower; Havana; Numbani; Esperança,4,835
+China - Stage 1__match_0034,China - Stage 1,Lower Semifinals [Bo5],Week 6 | Day 2 | Game 1,JD Gaming,SV,Lijiang Tower; Runasapi; Midtown,3,861
+China - Stage 1__match_0035,China - Stage 1,Lower Finals [Bo5],Week 6 | Day 2 | Game 2,All Gamers,JD Gaming,Busan; Suravasa; Havana; Numbani; Esperança,5,887
+China - Stage 1__match_0036,China - Stage 1,Grand Finals [Bo5],Week 6 | Day 2 | Game 3,Weibo Gaming,All Gamers,Lijiang Tower; Havana; Suravasa; Esperança; Numbani,5,913
+EMEA - Stage 1__match_0001,EMEA - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 1,Virtus.pro,Al Qadsiah,Lijiang Tower; Havana; Midtown; Runasapi,4,3
+EMEA - Stage 1__match_0002,EMEA - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 2,Twisted Minds,Team Peps,Busan; Blizzard World; Esperança,3,29
+EMEA - Stage 1__match_0003,EMEA - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 1,Twisted Minds,Geekay Esports,Busan; Esperança; Suravasa,3,55
+EMEA - Stage 1__match_0004,EMEA - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 2,Virtus.pro,Anyone's Legend,Lijiang Tower; Blizzard World; Runasapi,3,81
+EMEA - Stage 1__match_0005,EMEA - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 3,Al Qadsiah,Team Peps,Oasis; Rialto; Aatlis; Midtown; Runasapi,5,107
+EMEA - Stage 1__match_0006,EMEA - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 1,Al Qadsiah,Geekay Esports,Lijiang Tower; Havana; Aatlis; Runasapi; Midtown,5,133
+EMEA - Stage 1__match_0007,EMEA - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 2,Twisted Minds,Anyone's Legend,Lijiang Tower; Rialto; Aatlis,3,159
+EMEA - Stage 1__match_0008,EMEA - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 3,Virtus.pro,Team Peps,Lijiang Tower; Runasapi; Blizzard World,3,185
+EMEA - Stage 1__match_0009,EMEA - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 1,Team Peps,Geekay Esports,Lijiang Tower; Aatlis; Midtown,3,211
+EMEA - Stage 1__match_0010,EMEA - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 2,Al Qadsiah,Anyone's Legend,Lijiang Tower; Numbani; Esperança,3,237
+EMEA - Stage 1__match_0011,EMEA - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 1,Al Qadsiah,Twisted Minds,Lijiang Tower; Runasapi; Havana,3,263
+EMEA - Stage 1__match_0012,EMEA - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 2,Anyone's Legend,Team Peps,Lijiang Tower; Havana; Runasapi; Blizzard World; Suravasa,5,289
+EMEA - Stage 1__match_0013,EMEA - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 3,Virtus.pro,Geekay Esports,Lijiang Tower; Havana; Runasapi; Suravasa,4,315
+EMEA - Stage 1__match_0014,EMEA - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 1,Virtus.pro,Twisted Minds,Lijiang Tower; Runasapi; Watchpoint: Gibraltar,3,341
+EMEA - Stage 1__match_0015,EMEA - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 2,Anyone's Legend,Geekay Esports,Lijiang Tower; Esperança; Suravasa; Blizzard World; Havana,5,367
+EMEA - Stage 1__match_0016,EMEA - Stage 1,Upper Semifinals [Bo5],Week 4 | Day 1 | Game 1,Twisted Minds,Al Qadsiah,Lijiang Tower; Aatlis; Runasapi,3,393
+EMEA - Stage 1__match_0017,EMEA - Stage 1,Upper Semifinals [Bo5],Week 4 | Day 1 | Game 2,Virtus.pro,Geekay Esports,Oasis; Runasapi; Blizzard World; Havana; Suravasa,5,419
+EMEA - Stage 1__match_0018,EMEA - Stage 1,Lower Semifinals [Bo5],Week 4 | Day 2 | Game 1,Al Qadsiah,Virtus.pro,Lijiang Tower; Havana; Aatlis,3,445
+EMEA - Stage 1__match_0019,EMEA - Stage 1,Upper Finals [Bo5],Week 4 | Day 2 | Game 2,Twisted Minds,Geekay Esports,Lijiang Tower; Runasapi; Havana,3,471
+EMEA - Stage 1__match_0020,EMEA - Stage 1,Lower Finals [Bo5],Week 4 | Day 3 | Game 1,Geekay Esports,Virtus.pro,Lijiang Tower; Runasapi; Suravasa; Havana,4,497
+EMEA - Stage 1__match_0021,EMEA - Stage 1,Grand Finals [Bo7],Week 4 | Day 3 | Game 2,Twisted Minds,Virtus.pro,Lijiang Tower; Aatlis; Rialto; Midtown; Runasapi,5,523
+North America - Stage 1__match_0001,North America - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 1,Dallas Fuel,Disguised,Lijiang Tower; Rialto; Suravasa; Midtown,4,3
+North America - Stage 1__match_0002,North America - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 2,Spacestation Gaming,LuneX Gaming,Lijiang Tower; Watchpoint: Gibraltar; Suravasa,3,29
+North America - Stage 1__match_0003,North America - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 3,Team Liquid,Extinction,Oasis; Watchpoint: Gibraltar; Esperança; Suravasa; Blizzard World,5,55
+North America - Stage 1__match_0004,North America - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 1,Spacestation Gaming,Disguised,Lijiang Tower; Rialto; Aatlis; Numbani; Runasapi,5,81
+North America - Stage 1__match_0005,North America - Stage 1,Round Robin [Bo5],Week 1 | Day 2 | Game 2,LuneX Gaming,Extinction,Lijiang Tower; Esperança; Suravasa,3,107
+North America - Stage 1__match_0006,North America - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 1,Team Liquid,Dallas Fuel,Lijiang Tower; Aatlis; Watchpoint: Gibraltar,3,133
+North America - Stage 1__match_0007,North America - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 2,Disguised,Extinction,Lijiang Tower; Rialto; Aatlis,3,159
+North America - Stage 1__match_0008,North America - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 1,Dallas Fuel,LuneX Gaming,Oasis; Runasapi; Watchpoint: Gibraltar; Aatlis; Blizzard World,5,185
+North America - Stage 1__match_0009,North America - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 2,Spacestation Gaming,Extinction,Lijiang Tower; Esperança; Suravasa,3,211
+North America - Stage 1__match_0010,North America - Stage 1,Round Robin [Bo5],Week 2 | Day 2 | Game 3,Disguised,Team Liquid,Lijiang Tower; Blizzard World; Havana; Esperança,4,237
+North America - Stage 1__match_0011,North America - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 1,Spacestation Gaming,Dallas Fuel,Lijiang Tower; Suravasa; Blizzard World; Rialto; Runasapi,5,263
+North America - Stage 1__match_0012,North America - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 2,Team Liquid,LuneX Gaming,Oasis; Runasapi; Suravasa; Watchpoint: Gibraltar,4,289
+North America - Stage 1__match_0013,North America - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 1,Disguised,LuneX Gaming,Lijiang Tower; Watchpoint: Gibraltar; Suravasa; Runasapi,4,315
+North America - Stage 1__match_0014,North America - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 2,Dallas Fuel,Extinction,Busan; Numbani; Suravasa,3,341
+North America - Stage 1__match_0015,North America - Stage 1,Round Robin [Bo5],Week 3 | Day 2 | Game 3,Spacestation Gaming,Team Liquid,Lijiang Tower; Aatlis; Runasapi; Watchpoint: Gibraltar,4,367
+North America - Stage 1__match_0016,North America - Stage 1,Upper Semifinals [Bo5],Week 4 | Day 1 | Game 1,Dallas Fuel,LuneX Gaming,Busan; Runasapi; Aatlis,3,393
+North America - Stage 1__match_0017,North America - Stage 1,Upper Semifinals [Bo5],Week 4 | Day 1 | Game 2,Spacestation Gaming,Team Liquid,Busan; Blizzard World; Watchpoint: Gibraltar; Suravasa; Runasapi,5,419
+North America - Stage 1__match_0018,North America - Stage 1,Lower Semifinals [Bo5],Week 4 | Day 2 | Game 1,LuneX Gaming,Team Liquid,Lijiang Tower; Havana; Runasapi,3,445
+North America - Stage 1__match_0019,North America - Stage 1,Upper Finals [Bo5],Week 4 | Day 2 | Game 2,Dallas Fuel,Spacestation Gaming,Busan; Numbani; Watchpoint: Gibraltar; Aatlis; Esperança,5,471
+North America - Stage 1__match_0020,North America - Stage 1,Lower Finals [Bo5],Week 4 | Day 3 | Game 1,Spacestation Gaming,Team Liquid,Busan; Blizzard World; Aatlis,3,497
+North America - Stage 1__match_0021,North America - Stage 1,Grand Finals [Bo7],Week 4 | Day 3 | Game 2,Dallas Fuel,Spacestation Gaming,Busan; Midtown; Rialto; Suravasa; Esperança,5,523
+Pacific - Stage 1__match_0001,Pacific - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 1,Team Secret,Rankers,Busan; Esperança; Rialto,3,3
+Pacific - Stage 1__match_0002,Pacific - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 2,MieMieYang,The Gatos Guapos,Lijiang Tower; Suravasa; Rialto,3,29
+Pacific - Stage 1__match_0003,Pacific - Stage 1,Round Robin [Bo5],Week 1 | Day 1 | Game 3,FURY,Quasar Esports,Oasis; Suravasa; Midtown; Watchpoint: Gibraltar,4,55
+Pacific - Stage 1__match_0004,Pacific - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 1,FURY,The Gatos Guapos,Busan; Watchpoint: Gibraltar; Aatlis,3,81
+Pacific - Stage 1__match_0005,Pacific - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 2,Team Secret,MieMieYang,Lijiang Tower; Aatlis; Rialto,3,107
+Pacific - Stage 1__match_0006,Pacific - Stage 1,Round Robin [Bo5],Week 2 | Day 1 | Game 3,Quasar Esports,Rankers,Lijiang Tower; Watchpoint: Gibraltar; Esperança; Numbani; Busan,5,133
+Pacific - Stage 1__match_0007,Pacific - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 1,FURY,Rankers,Lijiang Tower; Numbani; Esperança,3,159
+Pacific - Stage 1__match_0008,Pacific - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 2,The Gatos Guapos,Team Secret,Oasis; Suravasa; Blizzard World,3,185
+Pacific - Stage 1__match_0009,Pacific - Stage 1,Round Robin [Bo5],Week 3 | Day 1 | Game 3,MieMieYang,Quasar Esports,Busan; Watchpoint: Gibraltar; Runasapi; Blizzard World,4,211
+Pacific - Stage 1__match_0010,Pacific - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 1,Team Secret,FURY,Oasis; Aatlis; Midtown,3,237
+Pacific - Stage 1__match_0011,Pacific - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 2,Quasar Esports,The Gatos Guapos,Lijiang Tower; Numbani; Esperança,3,263
+Pacific - Stage 1__match_0012,Pacific - Stage 1,Round Robin [Bo5],Week 4 | Day 1 | Game 3,MieMieYang,Rankers,Oasis; Esperança; Rialto; Blizzard World; Lijiang Tower,5,289
+Pacific - Stage 1__match_0013,Pacific - Stage 1,Round Robin [Bo5],Week 5 | Day 1 | Game 1,Team Secret,Quasar Esports,Busan; Suravasa; Watchpoint: Gibraltar,3,315
+Pacific - Stage 1__match_0014,Pacific - Stage 1,Round Robin [Bo5],Week 5 | Day 1 | Game 2,FURY,MieMieYang,Lijiang Tower; Runasapi; Rialto,3,341
+Pacific - Stage 1__match_0015,Pacific - Stage 1,Round Robin [Bo5],Week 5 | Day 1 | Game 3,The Gatos Guapos,Rankers,Busan; Rialto; Aatlis,3,367
+Pacific - Stage 1__match_0016,Pacific - Stage 1,Semifinals [Bo5],Week 6 | Day 1 | Game 1,The Gatos Guapos,Quasar Esports,,0,393
+Pacific - Stage 1__match_0017,Pacific - Stage 1,Semifinals [Bo5],Week 6 | Day 1 | Game 2,Team Secret,Rankers,,0,419
+Stage 1 LAN Maps__match_0001,Stage 1 LAN Maps,,Busan,Times Played,Percent Played,,0,3
+Partner Team Index__match_0001,Partner Team Index,,,Dallas Fuel,Dallas Fuel,Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower,4,3
+Partner Team Index__match_0002,Partner Team Index,,,Team Peps,Team Peps,Lijiang Tower; Lijiang Tower; Lijiang Tower,3,29
+Partner Team Index__match_0003,Partner Team Index,,,Crazy Raccoon,Crazy Raccoon,Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower,4,55
+Partner Team Index__match_0004,Partner Team Index,,,All Gamers,All Gamers,Lijiang Tower; Lijiang Tower; Lijiang Tower,3,81
+Non-Partner Team Index__match_0001,Non-Partner Team Index,,,Extinction,Extinction,Lijiang Tower; Lijiang Tower,2,3
+Non-Partner Team Index__match_0002,Non-Partner Team Index,,,Al Qadsiah,Al Qadsiah,Lijiang Tower; Lijiang Tower; Lijiang Tower,3,29
+Non-Partner Team Index__match_0003,Non-Partner Team Index,,,Cheeseburger,Cheeseburger,Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower,5,55
+Non-Partner Team Index__match_0004,Non-Partner Team Index,,,99DIVINE,99DIVINE,Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower,6,81
+Non-Partner Team Index__match_0005,Non-Partner Team Index,,,FURY,FURY,Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower,6,107
+Non-Partner Team Index__match_0006,Non-Partner Team Index,,,DEG,DEG,Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower; Lijiang Tower,5,133

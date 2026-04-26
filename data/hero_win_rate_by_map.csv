@@ -1,0 +1,638 @@
+map_name,hero_name,matches_played,wins,losses,win_rate
+Aatlis,Ana,2,2,0,1.0
+Aatlis,Illari,3,3,0,1.0
+Aatlis,Moira,1,1,0,1.0
+Aatlis,Winston,2,2,0,1.0
+Aatlis,Echo,5,3,2,0.6
+Aatlis,Jetpack Cat,4,2,2,0.5
+Aatlis,Mizuki,2,1,1,0.5
+Aatlis,Reinhardt,4,2,2,0.5
+Aatlis,Lúcio,83,41,42,0.494
+Aatlis,Symmetra,67,33,34,0.4925
+Aatlis,Kiriko,91,44,47,0.4835
+Aatlis,Hazard,21,10,11,0.4762
+Aatlis,Emre,61,29,32,0.4754
+Aatlis,Vendetta,69,32,37,0.4638
+Aatlis,Baptiste,9,4,5,0.4444
+Aatlis,Zarya,54,24,30,0.4444
+Aatlis,D.Va,23,10,13,0.4348
+Aatlis,Tracer,56,24,32,0.4286
+Aatlis,Wrecking Ball,7,3,4,0.4286
+Aatlis,Ramattra,12,5,7,0.4167
+Aatlis,Mei,5,2,3,0.4
+Aatlis,Reaper,5,2,3,0.4
+Aatlis,Sojourn,45,18,27,0.4
+Aatlis,Wuyang,5,2,3,0.4
+Aatlis,Juno,60,23,37,0.3833
+Aatlis,Orisa,11,4,7,0.3636
+Aatlis,Cassidy,23,8,15,0.3478
+Aatlis,Mauga,13,4,9,0.3077
+Aatlis,Brigitte,24,7,17,0.2917
+Aatlis,Doomfist,4,1,3,0.25
+Aatlis,Venture,5,1,4,0.2
+Aatlis,Anran,1,0,1,0.0
+Aatlis,Bastion,2,0,2,0.0
+Aatlis,Genji,3,0,3,0.0
+Aatlis,Junker Queen,3,0,3,0.0
+Aatlis,Pharah,5,0,5,0.0
+Aatlis,Sierra,1,0,1,0.0
+Aatlis,Sigma,2,0,2,0.0
+Aatlis,Soldier: 76,1,0,1,0.0
+Blizzard World,Ashe,2,2,0,1.0
+Blizzard World,Pharah,10,8,2,0.8
+Blizzard World,Reaper,3,2,1,0.6667
+Blizzard World,Roadhog,3,2,1,0.6667
+Blizzard World,Mauga,17,11,6,0.6471
+Blizzard World,Mercy,11,7,4,0.6364
+Blizzard World,Wrecking Ball,20,12,8,0.6
+Blizzard World,Widowmaker,40,23,17,0.575
+Blizzard World,Juno,35,20,15,0.5714
+Blizzard World,Sigma,14,8,6,0.5714
+Blizzard World,Ana,47,26,21,0.5532
+Blizzard World,Vendetta,28,15,13,0.5357
+Blizzard World,Symmetra,63,33,30,0.5238
+Blizzard World,Jetpack Cat,29,15,14,0.5172
+Blizzard World,Doomfist,8,4,4,0.5
+Blizzard World,Hanzo,4,2,2,0.5
+Blizzard World,Hazard,10,5,5,0.5
+Blizzard World,Illari,20,10,10,0.5
+Blizzard World,Junker Queen,2,1,1,0.5
+Blizzard World,Lifeweaver,12,6,6,0.5
+Blizzard World,Mizuki,2,1,1,0.5
+Blizzard World,Ramattra,8,4,4,0.5
+Blizzard World,Reinhardt,4,2,2,0.5
+Blizzard World,Sombra,2,1,1,0.5
+Blizzard World,Venture,2,1,1,0.5
+Blizzard World,Wuyang,30,15,15,0.5
+Blizzard World,D.Va,45,22,23,0.4889
+Blizzard World,Winston,27,13,14,0.4815
+Blizzard World,Emre,65,31,34,0.4769
+Blizzard World,Tracer,90,42,48,0.4667
+Blizzard World,Zarya,30,14,16,0.4667
+Blizzard World,Genji,13,6,7,0.4615
+Blizzard World,Kiriko,72,33,39,0.4583
+Blizzard World,Sojourn,59,27,32,0.4576
+Blizzard World,Lúcio,66,29,37,0.4394
+Blizzard World,Domina,7,3,4,0.4286
+Blizzard World,Mei,7,3,4,0.4286
+Blizzard World,Baptiste,10,4,6,0.4
+Blizzard World,Brigitte,38,15,23,0.3947
+Blizzard World,Orisa,18,7,11,0.3889
+Blizzard World,Cassidy,23,8,15,0.3478
+Blizzard World,Echo,3,1,2,0.3333
+Blizzard World,Bastion,4,1,3,0.25
+Blizzard World,Freja,1,0,1,0.0
+Blizzard World,Moira,1,0,1,0.0
+Blizzard World,Torbjörn,1,0,1,0.0
+Blizzard World,Zenyatta,1,0,1,0.0
+Busan,Ashe,2,2,0,1.0
+Busan,Echo,1,1,0,1.0
+Busan,Mercy,1,1,0,1.0
+Busan,Pharah,1,1,0,1.0
+Busan,Illari,7,6,1,0.8571
+Busan,Sombra,3,2,1,0.6667
+Busan,Ana,21,13,8,0.619
+Busan,Baptiste,5,3,2,0.6
+Busan,Winston,7,4,3,0.5714
+Busan,Wuyang,18,10,8,0.5556
+Busan,Wrecking Ball,19,10,9,0.5263
+Busan,Emre,59,31,28,0.5254
+Busan,Tracer,58,30,28,0.5172
+Busan,Anran,8,4,4,0.5
+Busan,Cassidy,18,9,9,0.5
+Busan,Domina,8,4,4,0.5
+Busan,Jetpack Cat,34,17,17,0.5
+Busan,Mei,2,1,1,0.5
+Busan,Ramattra,10,5,5,0.5
+Busan,Venture,2,1,1,0.5
+Busan,Zarya,22,11,11,0.5
+Busan,Symmetra,77,38,39,0.4935
+Busan,Juno,38,18,20,0.4737
+Busan,Mizuki,17,8,9,0.4706
+Busan,Kiriko,77,36,41,0.4675
+Busan,D.Va,52,24,28,0.4615
+Busan,Bastion,11,5,6,0.4545
+Busan,Lúcio,49,22,27,0.449
+Busan,Brigitte,18,8,10,0.4444
+Busan,Mauga,9,4,5,0.4444
+Busan,Sojourn,32,14,18,0.4375
+Busan,Vendetta,37,15,22,0.4054
+Busan,Orisa,13,5,8,0.3846
+Busan,Hazard,6,2,4,0.3333
+Busan,Reaper,6,2,4,0.3333
+Busan,Sigma,3,1,2,0.3333
+Busan,Soldier: 76,6,2,4,0.3333
+Busan,Doomfist,9,2,7,0.2222
+Busan,Widowmaker,8,1,7,0.125
+Busan,Freja,1,0,1,0.0
+Busan,Genji,2,0,2,0.0
+Busan,Moira,2,0,2,0.0
+Busan,Roadhog,1,0,1,0.0
+Busan,Zenyatta,1,0,1,0.0
+Colosseo,Cassidy,2,1,1,0.5
+Colosseo,Domina,4,2,2,0.5
+Colosseo,Juno,2,1,1,0.5
+Colosseo,Kiriko,4,2,2,0.5
+Colosseo,Lúcio,4,2,2,0.5
+Colosseo,Sojourn,2,1,1,0.5
+Colosseo,Tracer,4,2,2,0.5
+Colosseo,Baptiste,1,0,1,0.0
+Colosseo,Echo,1,0,1,0.0
+Colosseo,Jetpack Cat,1,0,1,0.0
+Eichenwalde,Baptiste,1,1,0,1.0
+Eichenwalde,Lifeweaver,1,1,0,1.0
+Eichenwalde,Pharah,1,1,0,1.0
+Eichenwalde,Wrecking Ball,1,1,0,1.0
+Eichenwalde,Lúcio,5,3,2,0.6
+Eichenwalde,Sojourn,5,3,2,0.6
+Eichenwalde,Cassidy,2,1,1,0.5
+Eichenwalde,Echo,4,2,2,0.5
+Eichenwalde,Kiriko,6,3,3,0.5
+Eichenwalde,Tracer,2,1,1,0.5
+Eichenwalde,Vendetta,4,2,2,0.5
+Eichenwalde,Widowmaker,2,1,1,0.5
+Eichenwalde,Zarya,2,1,1,0.5
+Eichenwalde,D.Va,5,2,3,0.4
+Eichenwalde,Jetpack Cat,5,2,3,0.4
+Eichenwalde,Domina,3,1,2,0.3333
+Eichenwalde,Anran,1,0,1,0.0
+Esperança,Illari,8,6,2,0.75
+Esperança,Domina,3,2,1,0.6667
+Esperança,Ramattra,13,8,5,0.6154
+Esperança,Wrecking Ball,10,6,4,0.6
+Esperança,Hazard,12,7,5,0.5833
+Esperança,Echo,9,5,4,0.5556
+Esperança,Orisa,11,6,5,0.5455
+Esperança,Anran,2,1,1,0.5
+Esperança,Bastion,8,4,4,0.5
+Esperança,Freja,2,1,1,0.5
+Esperança,Genji,2,1,1,0.5
+Esperança,Pharah,18,9,9,0.5
+Esperança,Winston,8,4,4,0.5
+Esperança,Emre,55,27,28,0.4909
+Esperança,Brigitte,25,12,13,0.48
+Esperança,Vendetta,50,24,26,0.48
+Esperança,Juno,46,22,24,0.4783
+Esperança,Sojourn,58,27,31,0.4655
+Esperança,Lúcio,86,40,46,0.4651
+Esperança,Kiriko,105,48,57,0.4571
+Esperança,D.Va,56,25,31,0.4464
+Esperança,Wuyang,7,3,4,0.4286
+Esperança,Symmetra,43,18,25,0.4186
+Esperança,Jetpack Cat,12,5,7,0.4167
+Esperança,Ana,17,7,10,0.4118
+Esperança,Tracer,59,24,35,0.4068
+Esperança,Baptiste,10,4,6,0.4
+Esperança,Mizuki,5,2,3,0.4
+Esperança,Zarya,33,13,20,0.3939
+Esperança,Cassidy,29,11,18,0.3793
+Esperança,Reaper,3,1,2,0.3333
+Esperança,Reinhardt,3,1,2,0.3333
+Esperança,Mauga,7,2,5,0.2857
+Esperança,Mei,7,2,5,0.2857
+Esperança,Ashe,1,0,1,0.0
+Esperança,Doomfist,7,0,7,0.0
+Esperança,Lifeweaver,1,0,1,0.0
+Esperança,Sigma,4,0,4,0.0
+Esperança,Sombra,2,0,2,0.0
+Esperança,Venture,2,0,2,0.0
+Esperança,Widowmaker,3,0,3,0.0
+Havana,Lifeweaver,2,2,0,1.0
+Havana,Reaper,3,3,0,1.0
+Havana,Roadhog,2,2,0,1.0
+Havana,Torbjörn,1,1,0,1.0
+Havana,Freja,4,3,1,0.75
+Havana,Wrecking Ball,10,7,3,0.7
+Havana,Bastion,21,14,7,0.6667
+Havana,Mercy,3,2,1,0.6667
+Havana,Hanzo,8,5,3,0.625
+Havana,Domina,5,3,2,0.6
+Havana,Juno,44,26,18,0.5909
+Havana,Pharah,7,4,3,0.5714
+Havana,Jetpack Cat,25,14,11,0.56
+Havana,Ana,48,26,22,0.5417
+Havana,Genji,28,15,13,0.5357
+Havana,Widowmaker,58,31,27,0.5345
+Havana,D.Va,46,24,22,0.5217
+Havana,Anran,4,2,2,0.5
+Havana,Ashe,2,1,1,0.5
+Havana,Cassidy,10,5,5,0.5
+Havana,Winston,2,1,1,0.5
+Havana,Lúcio,53,26,27,0.4906
+Havana,Zarya,45,22,23,0.4889
+Havana,Wuyang,23,11,12,0.4783
+Havana,Emre,63,30,33,0.4762
+Havana,Brigitte,30,14,16,0.4667
+Havana,Sojourn,43,20,23,0.4651
+Havana,Illari,28,13,15,0.4643
+Havana,Vendetta,40,18,22,0.45
+Havana,Tracer,57,25,32,0.4386
+Havana,Kiriko,62,27,35,0.4355
+Havana,Symmetra,26,11,15,0.4231
+Havana,Mei,19,8,11,0.4211
+Havana,Mauga,12,5,7,0.4167
+Havana,Baptiste,25,10,15,0.4
+Havana,Doomfist,15,6,9,0.4
+Havana,Orisa,15,6,9,0.4
+Havana,Reinhardt,5,2,3,0.4
+Havana,Venture,15,6,9,0.4
+Havana,Sigma,34,13,21,0.3824
+Havana,Echo,3,1,2,0.3333
+Havana,Sierra,3,1,2,0.3333
+Havana,Ramattra,11,3,8,0.2727
+Havana,Zenyatta,6,1,5,0.1667
+Havana,Hazard,2,0,2,0.0
+Havana,Junker Queen,1,0,1,0.0
+Havana,Mizuki,1,0,1,0.0
+Havana,Moira,1,0,1,0.0
+Havana,Sombra,1,0,1,0.0
+Ilios,Anran,6,3,3,0.5
+Ilios,Domina,6,3,3,0.5
+Ilios,Emre,6,3,3,0.5
+Ilios,Jetpack Cat,6,3,3,0.5
+Ilios,Mizuki,6,3,3,0.5
+Lijiang Tower,Reinhardt,1,1,0,1.0
+Lijiang Tower,Sierra,3,2,1,0.6667
+Lijiang Tower,Venture,5,3,2,0.6
+Lijiang Tower,Emre,112,59,53,0.5268
+Lijiang Tower,Pharah,63,33,30,0.5238
+Lijiang Tower,Symmetra,139,70,69,0.5036
+Lijiang Tower,Anran,10,5,5,0.5
+Lijiang Tower,Jetpack Cat,51,25,26,0.4902
+Lijiang Tower,Zarya,74,36,38,0.4865
+Lijiang Tower,Hazard,23,11,12,0.4783
+Lijiang Tower,Orisa,21,10,11,0.4762
+Lijiang Tower,Vendetta,80,38,42,0.475
+Lijiang Tower,D.Va,68,32,36,0.4706
+Lijiang Tower,Juno,96,45,51,0.4688
+Lijiang Tower,Kiriko,137,64,73,0.4672
+Lijiang Tower,Illari,15,7,8,0.4667
+Lijiang Tower,Mizuki,13,6,7,0.4615
+Lijiang Tower,Reaper,13,6,7,0.4615
+Lijiang Tower,Brigitte,38,17,21,0.4474
+Lijiang Tower,Cassidy,27,12,15,0.4444
+Lijiang Tower,Ramattra,23,10,13,0.4348
+Lijiang Tower,Domina,14,6,8,0.4286
+Lijiang Tower,Doomfist,12,5,7,0.4167
+Lijiang Tower,Wrecking Ball,25,10,15,0.4
+Lijiang Tower,Bastion,21,8,13,0.381
+Lijiang Tower,Mei,8,3,5,0.375
+Lijiang Tower,Tracer,195,70,125,0.359
+Lijiang Tower,Wuyang,14,5,9,0.3571
+Lijiang Tower,Lúcio,192,68,124,0.3542
+Lijiang Tower,Mauga,32,11,21,0.3438
+Lijiang Tower,Ana,107,35,72,0.3271
+Lijiang Tower,Sojourn,54,17,37,0.3148
+Lijiang Tower,Genji,93,26,67,0.2796
+Lijiang Tower,Winston,92,22,70,0.2391
+Lijiang Tower,Baptiste,13,3,10,0.2308
+Lijiang Tower,Widowmaker,7,1,6,0.1429
+Lijiang Tower,Echo,15,2,13,0.1333
+Lijiang Tower,Ashe,1,0,1,0.0
+Lijiang Tower,Freja,2,0,2,0.0
+Lijiang Tower,Junker Queen,1,0,1,0.0
+Lijiang Tower,Lifeweaver,1,0,1,0.0
+Lijiang Tower,Mercy,2,0,2,0.0
+Lijiang Tower,Moira,1,0,1,0.0
+Lijiang Tower,Roadhog,1,0,1,0.0
+Lijiang Tower,Sigma,4,0,4,0.0
+Lijiang Tower,Soldier: 76,2,0,2,0.0
+Lijiang Tower,Sombra,3,0,3,0.0
+Lijiang Tower,Torbjörn,1,0,1,0.0
+Midtown,Lifeweaver,2,2,0,1.0
+Midtown,Reinhardt,1,1,0,1.0
+Midtown,Sierra,1,1,0,1.0
+Midtown,Sombra,1,1,0,1.0
+Midtown,Torbjörn,1,1,0,1.0
+Midtown,Winston,2,2,0,1.0
+Midtown,Wrecking Ball,3,3,0,1.0
+Midtown,Hanzo,7,6,1,0.8571
+Midtown,Echo,5,4,1,0.8
+Midtown,Pharah,3,2,1,0.6667
+Midtown,Sigma,6,4,2,0.6667
+Midtown,Ana,14,9,5,0.6429
+Midtown,Hazard,5,3,2,0.6
+Midtown,Zenyatta,5,3,2,0.6
+Midtown,Baptiste,7,4,3,0.5714
+Midtown,Symmetra,16,9,7,0.5625
+Midtown,Emre,30,16,14,0.5333
+Midtown,Widowmaker,21,11,10,0.5238
+Midtown,Lúcio,29,15,14,0.5172
+Midtown,Vendetta,31,16,15,0.5161
+Midtown,Kiriko,39,20,19,0.5128
+Midtown,Bastion,4,2,2,0.5
+Midtown,Domina,6,3,3,0.5
+Midtown,Mei,4,2,2,0.5
+Midtown,Zarya,25,12,13,0.48
+Midtown,Sojourn,21,10,11,0.4762
+Midtown,Juno,15,7,8,0.4667
+Midtown,Illari,9,4,5,0.4444
+Midtown,D.Va,30,13,17,0.4333
+Midtown,Wuyang,19,8,11,0.4211
+Midtown,Ramattra,5,2,3,0.4
+Midtown,Cassidy,8,3,5,0.375
+Midtown,Brigitte,12,4,8,0.3333
+Midtown,Genji,3,1,2,0.3333
+Midtown,Orisa,6,2,4,0.3333
+Midtown,Tracer,20,6,14,0.3
+Midtown,Doomfist,4,1,3,0.25
+Midtown,Jetpack Cat,4,1,3,0.25
+Midtown,Mercy,1,0,1,0.0
+Midtown,Mizuki,2,0,2,0.0
+Midtown,Venture,3,0,3,0.0
+New Junk City,Kiriko,8,4,4,0.5
+New Junk City,Lúcio,8,4,4,0.5
+New Junk City,Sojourn,8,4,4,0.5
+New Junk City,Symmetra,2,1,1,0.5
+New Junk City,Vendetta,8,4,4,0.5
+New Junk City,Zarya,4,2,2,0.5
+New Junk City,Domina,5,2,3,0.4
+New Junk City,Tracer,5,2,3,0.4
+New Junk City,Wrecking Ball,3,1,2,0.3333
+New Junk City,Juno,1,0,1,0.0
+New Junk City,Ramattra,1,0,1,0.0
+Numbani,Pharah,3,3,0,1.0
+Numbani,Torbjörn,1,1,0,1.0
+Numbani,Mercy,4,3,1,0.75
+Numbani,Wuyang,7,5,2,0.7143
+Numbani,Freja,3,2,1,0.6667
+Numbani,Illari,3,2,1,0.6667
+Numbani,Juno,15,10,5,0.6667
+Numbani,Mizuki,6,4,2,0.6667
+Numbani,Zarya,21,13,8,0.619
+Numbani,D.Va,28,16,12,0.5714
+Numbani,Jetpack Cat,21,12,9,0.5714
+Numbani,Ana,17,9,8,0.5294
+Numbani,Emre,37,19,18,0.5135
+Numbani,Kiriko,49,25,24,0.5102
+Numbani,Anran,2,1,1,0.5
+Numbani,Echo,12,6,6,0.5
+Numbani,Reaper,8,4,4,0.5
+Numbani,Sombra,2,1,1,0.5
+Numbani,Venture,2,1,1,0.5
+Numbani,Vendetta,28,13,15,0.4643
+Numbani,Bastion,13,6,7,0.4615
+Numbani,Widowmaker,11,5,6,0.4545
+Numbani,Tracer,35,15,20,0.4286
+Numbani,Lúcio,33,14,19,0.4242
+Numbani,Brigitte,10,4,6,0.4
+Numbani,Hazard,10,4,6,0.4
+Numbani,Symmetra,20,8,12,0.4
+Numbani,Winston,5,2,3,0.4
+Numbani,Mauga,8,3,5,0.375
+Numbani,Orisa,8,3,5,0.375
+Numbani,Sojourn,14,5,9,0.3571
+Numbani,Genji,3,1,2,0.3333
+Numbani,Hanzo,3,1,2,0.3333
+Numbani,Moira,3,1,2,0.3333
+Numbani,Soldier: 76,3,1,2,0.3333
+Numbani,Mei,10,3,7,0.3
+Numbani,Cassidy,14,4,10,0.2857
+Numbani,Reinhardt,4,1,3,0.25
+Numbani,Wrecking Ball,4,1,3,0.25
+Numbani,Ramattra,9,1,8,0.1111
+Numbani,Baptiste,10,1,9,0.1
+Numbani,Ashe,3,0,3,0.0
+Numbani,Doomfist,3,0,3,0.0
+Numbani,Lifeweaver,1,0,1,0.0
+Numbani,Roadhog,1,0,1,0.0
+Numbani,Sierra,1,0,1,0.0
+Numbani,Sigma,3,0,3,0.0
+Numbani,Zenyatta,1,0,1,0.0
+Oasis,Junker Queen,1,1,0,1.0
+Oasis,Moira,1,1,0,1.0
+Oasis,Roadhog,1,1,0,1.0
+Oasis,Sierra,1,1,0,1.0
+Oasis,Illari,7,5,2,0.7143
+Oasis,Pharah,13,8,5,0.6154
+Oasis,Wuyang,5,3,2,0.6
+Oasis,D.Va,27,16,11,0.5926
+Oasis,Cassidy,16,9,7,0.5625
+Oasis,Tracer,53,27,26,0.5094
+Oasis,Baptiste,2,1,1,0.5
+Oasis,Kiriko,64,32,32,0.5
+Oasis,Mauga,6,3,3,0.5
+Oasis,Widowmaker,2,1,1,0.5
+Oasis,Symmetra,63,31,32,0.4921
+Oasis,Lúcio,52,25,27,0.4808
+Oasis,Juno,48,23,25,0.4792
+Oasis,Brigitte,15,7,8,0.4667
+Oasis,Emre,43,20,23,0.4651
+Oasis,Sojourn,27,12,15,0.4444
+Oasis,Hazard,22,9,13,0.4091
+Oasis,Vendetta,27,11,16,0.4074
+Oasis,Ramattra,5,2,3,0.4
+Oasis,Echo,8,3,5,0.375
+Oasis,Wrecking Ball,11,4,7,0.3636
+Oasis,Genji,3,1,2,0.3333
+Oasis,Mei,3,1,2,0.3333
+Oasis,Orisa,15,5,10,0.3333
+Oasis,Zarya,21,7,14,0.3333
+Oasis,Jetpack Cat,7,2,5,0.2857
+Oasis,Winston,5,1,4,0.2
+Oasis,Doomfist,4,0,4,0.0
+Oasis,Lifeweaver,1,0,1,0.0
+Oasis,Reaper,3,0,3,0.0
+Oasis,Sombra,1,0,1,0.0
+Oasis,Venture,1,0,1,0.0
+Rialto,Anran,1,1,0,1.0
+Rialto,Mercy,2,2,0,1.0
+Rialto,Reinhardt,2,2,0,1.0
+Rialto,Sierra,1,1,0,1.0
+Rialto,Mauga,3,2,1,0.6667
+Rialto,Mizuki,3,2,1,0.6667
+Rialto,Wrecking Ball,3,2,1,0.6667
+Rialto,Orisa,14,9,5,0.6429
+Rialto,Jetpack Cat,18,11,7,0.6111
+Rialto,Symmetra,17,10,7,0.5882
+Rialto,Hazard,12,7,5,0.5833
+Rialto,Pharah,21,12,9,0.5714
+Rialto,Illari,15,8,7,0.5333
+Rialto,D.Va,39,20,19,0.5128
+Rialto,Baptiste,12,6,6,0.5
+Rialto,Bastion,6,3,3,0.5
+Rialto,Emre,56,28,28,0.5
+Rialto,Genji,4,2,2,0.5
+Rialto,Mei,4,2,2,0.5
+Rialto,Reaper,6,3,3,0.5
+Rialto,Tracer,50,25,25,0.5
+Rialto,Ana,39,19,20,0.4872
+Rialto,Echo,23,11,12,0.4783
+Rialto,Kiriko,58,26,32,0.4483
+Rialto,Vendetta,18,8,10,0.4444
+Rialto,Hanzo,7,3,4,0.4286
+Rialto,Zarya,14,6,8,0.4286
+Rialto,Lúcio,34,14,20,0.4118
+Rialto,Widowmaker,45,18,27,0.4
+Rialto,Brigitte,21,8,13,0.381
+Rialto,Cassidy,16,6,10,0.375
+Rialto,Winston,16,6,10,0.375
+Rialto,Juno,11,4,7,0.3636
+Rialto,Ramattra,11,4,7,0.3636
+Rialto,Ashe,3,1,2,0.3333
+Rialto,Venture,3,1,2,0.3333
+Rialto,Zenyatta,3,1,2,0.3333
+Rialto,Sojourn,20,6,14,0.3
+Rialto,Wuyang,11,3,8,0.2727
+Rialto,Sigma,5,1,4,0.2
+Rialto,Doomfist,5,0,5,0.0
+Rialto,Freja,1,0,1,0.0
+Rialto,Torbjörn,1,0,1,0.0
+Runasapi,Reaper,1,1,0,1.0
+Runasapi,Winston,1,1,0,1.0
+Runasapi,Zenyatta,1,1,0,1.0
+Runasapi,Baptiste,5,4,1,0.8
+Runasapi,Wuyang,5,4,1,0.8
+Runasapi,Bastion,5,3,2,0.6
+Runasapi,Echo,5,3,2,0.6
+Runasapi,Jetpack Cat,7,4,3,0.5714
+Runasapi,Mauga,13,7,6,0.5385
+Runasapi,Symmetra,17,9,8,0.5294
+Runasapi,Kiriko,74,39,35,0.527
+Runasapi,D.Va,31,16,15,0.5161
+Runasapi,Emre,64,32,32,0.5
+Runasapi,Genji,4,2,2,0.5
+Runasapi,Pharah,18,9,9,0.5
+Runasapi,Lúcio,61,30,31,0.4918
+Runasapi,Vendetta,46,22,24,0.4783
+Runasapi,Zarya,42,20,22,0.4762
+Runasapi,Tracer,52,24,28,0.4615
+Runasapi,Cassidy,7,3,4,0.4286
+Runasapi,Juno,48,20,28,0.4167
+Runasapi,Sojourn,37,15,22,0.4054
+Runasapi,Orisa,13,5,8,0.3846
+Runasapi,Ramattra,16,6,10,0.375
+Runasapi,Brigitte,23,8,15,0.3478
+Runasapi,Illari,6,2,4,0.3333
+Runasapi,Mei,3,1,2,0.3333
+Runasapi,Doomfist,4,1,3,0.25
+Runasapi,Hazard,4,1,3,0.25
+Runasapi,Wrecking Ball,8,2,6,0.25
+Runasapi,Ana,5,1,4,0.2
+Runasapi,Domina,1,0,1,0.0
+Runasapi,Moira,1,0,1,0.0
+Runasapi,Sierra,1,0,1,0.0
+Runasapi,Widowmaker,3,0,3,0.0
+Shambali Monastery,Lifeweaver,1,1,0,1.0
+Shambali Monastery,Reinhardt,1,1,0,1.0
+Shambali Monastery,Widowmaker,5,4,1,0.8
+Shambali Monastery,Echo,3,2,1,0.6667
+Shambali Monastery,Juno,3,2,1,0.6667
+Shambali Monastery,Cassidy,5,3,2,0.6
+Shambali Monastery,D.Va,5,3,2,0.6
+Shambali Monastery,Hanzo,5,3,2,0.6
+Shambali Monastery,Tracer,7,4,3,0.5714
+Shambali Monastery,Vendetta,7,4,3,0.5714
+Shambali Monastery,Domina,8,4,4,0.5
+Shambali Monastery,Illari,2,1,1,0.5
+Shambali Monastery,Kiriko,10,5,5,0.5
+Shambali Monastery,Lúcio,8,4,4,0.5
+Shambali Monastery,Jetpack Cat,7,3,4,0.4286
+Shambali Monastery,Sojourn,10,4,6,0.4
+Shambali Monastery,Zarya,5,2,3,0.4
+Shambali Monastery,Baptiste,4,1,3,0.25
+Shambali Monastery,Zenyatta,4,1,3,0.25
+Shambali Monastery,Ana,1,0,1,0.0
+Shambali Monastery,Ashe,1,0,1,0.0
+Shambali Monastery,Emre,1,0,1,0.0
+Shambali Monastery,Freja,2,0,2,0.0
+Shambali Monastery,Mercy,1,0,1,0.0
+Shambali Monastery,Pharah,1,0,1,0.0
+Shambali Monastery,Ramattra,1,0,1,0.0
+Shambali Monastery,Sombra,1,0,1,0.0
+Shambali Monastery,Wuyang,2,0,2,0.0
+Suravasa,Anran,1,1,0,1.0
+Suravasa,Junkrat,1,1,0,1.0
+Suravasa,Venture,1,1,0,1.0
+Suravasa,Illari,10,7,3,0.7
+Suravasa,Ana,15,9,6,0.6
+Suravasa,Jetpack Cat,18,10,8,0.5556
+Suravasa,Orisa,11,6,5,0.5455
+Suravasa,Hazard,13,7,6,0.5385
+Suravasa,Zarya,19,10,9,0.5263
+Suravasa,Symmetra,70,36,34,0.5143
+Suravasa,Sojourn,37,19,18,0.5135
+Suravasa,Bastion,8,4,4,0.5
+Suravasa,Lúcio,60,30,30,0.5
+Suravasa,Mercy,2,1,1,0.5
+Suravasa,Sierra,2,1,1,0.5
+Suravasa,Winston,6,3,3,0.5
+Suravasa,Vendetta,36,17,19,0.4722
+Suravasa,Kiriko,69,31,38,0.4493
+Suravasa,Tracer,66,29,37,0.4394
+Suravasa,Echo,7,3,4,0.4286
+Suravasa,Wrecking Ball,19,8,11,0.4211
+Suravasa,Mei,5,2,3,0.4
+Suravasa,Ramattra,5,2,3,0.4
+Suravasa,Reaper,5,2,3,0.4
+Suravasa,Sombra,5,2,3,0.4
+Suravasa,Emre,56,22,34,0.3929
+Suravasa,Juno,46,18,28,0.3913
+Suravasa,D.Va,40,15,25,0.375
+Suravasa,Wuyang,8,3,5,0.375
+Suravasa,Cassidy,14,5,9,0.3571
+Suravasa,Domina,3,1,2,0.3333
+Suravasa,Doomfist,6,2,4,0.3333
+Suravasa,Brigitte,22,7,15,0.3182
+Suravasa,Mauga,10,3,7,0.3
+Suravasa,Pharah,7,2,5,0.2857
+Suravasa,Sigma,5,1,4,0.2
+Suravasa,Ashe,1,0,1,0.0
+Suravasa,Baptiste,4,0,4,0.0
+Suravasa,Genji,1,0,1,0.0
+Suravasa,Junker Queen,1,0,1,0.0
+Suravasa,Lifeweaver,1,0,1,0.0
+Suravasa,Mizuki,2,0,2,0.0
+Suravasa,Roadhog,1,0,1,0.0
+Suravasa,Soldier: 76,2,0,2,0.0
+Suravasa,Torbjörn,1,0,1,0.0
+Suravasa,Zenyatta,1,0,1,0.0
+Watchpoint: Gibraltar,Orisa,2,2,0,1.0
+Watchpoint: Gibraltar,Pharah,1,1,0,1.0
+Watchpoint: Gibraltar,Sierra,1,1,0,1.0
+Watchpoint: Gibraltar,Genji,12,9,3,0.75
+Watchpoint: Gibraltar,Vendetta,14,10,4,0.7143
+Watchpoint: Gibraltar,Domina,3,2,1,0.6667
+Watchpoint: Gibraltar,Ramattra,3,2,1,0.6667
+Watchpoint: Gibraltar,Sigma,5,3,2,0.6
+Watchpoint: Gibraltar,Hazard,14,8,6,0.5714
+Watchpoint: Gibraltar,Jetpack Cat,14,8,6,0.5714
+Watchpoint: Gibraltar,Juno,7,4,3,0.5714
+Watchpoint: Gibraltar,Mizuki,9,5,4,0.5556
+Watchpoint: Gibraltar,Widowmaker,38,21,17,0.5526
+Watchpoint: Gibraltar,D.Va,35,19,16,0.5429
+Watchpoint: Gibraltar,Ana,34,18,16,0.5294
+Watchpoint: Gibraltar,Winston,34,18,16,0.5294
+Watchpoint: Gibraltar,Emre,49,25,24,0.5102
+Watchpoint: Gibraltar,Bastion,6,3,3,0.5
+Watchpoint: Gibraltar,Echo,2,1,1,0.5
+Watchpoint: Gibraltar,Lifeweaver,4,2,2,0.5
+Watchpoint: Gibraltar,Mauga,4,2,2,0.5
+Watchpoint: Gibraltar,Reinhardt,2,1,1,0.5
+Watchpoint: Gibraltar,Soldier: 76,2,1,1,0.5
+Watchpoint: Gibraltar,Sombra,2,1,1,0.5
+Watchpoint: Gibraltar,Wrecking Ball,16,8,8,0.5
+Watchpoint: Gibraltar,Zenyatta,4,2,2,0.5
+Watchpoint: Gibraltar,Cassidy,39,19,20,0.4872
+Watchpoint: Gibraltar,Tracer,73,35,38,0.4795
+Watchpoint: Gibraltar,Kiriko,70,33,37,0.4714
+Watchpoint: Gibraltar,Illari,17,8,9,0.4706
+Watchpoint: Gibraltar,Hanzo,18,8,10,0.4444
+Watchpoint: Gibraltar,Reaper,9,4,5,0.4444
+Watchpoint: Gibraltar,Brigitte,37,16,21,0.4324
+Watchpoint: Gibraltar,Symmetra,21,9,12,0.4286
+Watchpoint: Gibraltar,Venture,7,3,4,0.4286
+Watchpoint: Gibraltar,Wuyang,19,8,11,0.4211
+Watchpoint: Gibraltar,Lúcio,36,15,21,0.4167
+Watchpoint: Gibraltar,Zarya,8,3,5,0.375
+Watchpoint: Gibraltar,Ashe,11,4,7,0.3636
+Watchpoint: Gibraltar,Anran,3,1,2,0.3333
+Watchpoint: Gibraltar,Baptiste,9,3,6,0.3333
+Watchpoint: Gibraltar,Mei,3,1,2,0.3333
+Watchpoint: Gibraltar,Sojourn,14,4,10,0.2857
+Watchpoint: Gibraltar,Torbjörn,7,2,5,0.2857
+Watchpoint: Gibraltar,Freja,9,2,7,0.2222
+Watchpoint: Gibraltar,Roadhog,7,1,6,0.1429
+Watchpoint: Gibraltar,Doomfist,9,1,8,0.1111
+Watchpoint: Gibraltar,Mercy,2,0,2,0.0
+Watchpoint: Gibraltar,Moira,1,0,1,0.0

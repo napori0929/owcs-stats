@@ -1,0 +1,55 @@
+hero_name,image_hash,media_filename,source_sheet,source_cell
+D.Va,8916f491483ca13a11e5f9e0ef15fbc9,image5.png,Hero Index,B2
+Anran,b33ed2d7af786cf48f1481c365c03cb0,image4.png,Hero Index,G2
+Ana,705bfb7dc0205eb5734744f3bd09058b,image6.png,Hero Index,N2
+D.Va,e1b80e78fa63be34819ea297ab6ade95,image107.png,Hero Index,B3
+Domina,c3eae1967562918dbad1764666a44b9d,image108.png,Hero Index,C3
+Doomfist,9de7cd5a9118bbb45112cc4c2d702aa0,image109.png,Hero Index,D3
+Hazard,a3db997bd210ce1693c45c2529a51907,image110.png,Hero Index,E3
+Anran,150a5dea6adf3b70123c3f5402d8f360,image111.png,Hero Index,G3
+Ashe,acc18a8a4a1d865c8278646ad824ed53,image112.png,Hero Index,H3
+Bastion,b27ef1a755637b1808c4541781b3540f,image113.png,Hero Index,I3
+Cassidy,2bb25e5308055b17745efa2c7044ded2,image114.png,Hero Index,J3
+Echo,1f5c9ad352a0f15b92ec451df9499394,image115.png,Hero Index,K3
+Emre,59f6fca638f2c78cca9644204e21d7fe,image116.png,Hero Index,L3
+Ana,aeb91f2ea058610216fcdd3dbe91bd24,image11.png,Hero Index,N3
+Baptiste,1bf771525de461abc866f46b0faf507b,image117.png,Hero Index,O3
+Brigitte,6d605db2fc85052e4c4f8c4c1617562f,image118.png,Hero Index,P3
+Illari,18a403cb79d4d15faddc8aaf293af0cf,image119.png,Hero Index,Q3
+Junker Queen,90e3f5eb45fa4d30bf0eaf3f3b6c3328,image120.png,Hero Index,B5
+Mauga,5430ea891aa2603973eb3e1d9d0861c2,image121.png,Hero Index,C5
+Orisa,cb5d2f18845cbc52e13a1bf015f2008f,image122.png,Hero Index,D5
+Ramattra,1e03b6cad3f6e23efbe64d045ff538b3,image123.png,Hero Index,E5
+Freja,06d86b275d0c49c593085e21331459b7,image124.png,Hero Index,G5
+Genji,91620fa09f381cfbe0e1f635d1adf01a,image8.png,Hero Index,H5
+Hanzo,4314259a7b3f81b8bd81ff3e3dcebc5d,image125.png,Hero Index,I5
+Junkrat,22e8cbf03dc60b2ed0189d8d4ba9697a,image126.png,Hero Index,J5
+Mei,c38425690a965e473352f2f3cdf5d2c8,image127.png,Hero Index,K5
+Pharah,512f25eeb758eaccbfae405eeb836610,image128.png,Hero Index,L5
+Jetpack Cat,8324f4c09b90373cf47332e7c1463cc1,image129.png,Hero Index,N5
+Juno,7cacee5a5b8c19fc2cb90c1fc212afbe,image130.png,Hero Index,O5
+Kiriko,ae09157ceac32599dce1604a838fc0bd,image131.png,Hero Index,P5
+Lifeweaver,b92d35a212d8a511bf02017c25c34849,image132.png,Hero Index,Q5
+Reinhardt,1bd9453ca486045d5891dc0eda0b4c8c,image133.png,Hero Index,B7
+Roadhog,e7e0283358d10f23046deb28411a4f89,image134.png,Hero Index,C7
+Sigma,3d81ce5e999ded98ef048fd8a4adfec9,image135.png,Hero Index,D7
+Winston,0f6e3a4b51fa6cf7ac2b2710f55c06ef,image9.png,Hero Index,E7
+Reaper,954baeab4a3dd1878fc129937468f373,image136.png,Hero Index,G7
+Sierra,57531d4b915f1d92569d56b1a46ba9cb,image137.png,Hero Index,H7
+Sojourn,d7b4ecfb625b971d32bd06e53d7de799,image138.png,Hero Index,I7
+Soldier: 76,0643afacaa1abc20d88e84ea13d3be84,image139.png,Hero Index,J7
+Sombra,67cc5c95d5321d1c34359360a1c2c807,image140.png,Hero Index,K7
+Symmetra,78b7a54865d30472d6170f5519bbe6f7,image141.png,Hero Index,L7
+Lúcio,da5b4acd96b568204ca25be93d180d2a,image10.png,Hero Index,N7
+Mercy,9b8ff113dd3345bd8ea26be22ed3382a,image142.png,Hero Index,O7
+Mizuki,1e897b94b01edd0b899b2d1d9eb14b06,image143.png,Hero Index,P7
+Moira,2afb660989e179de85dbc0c25c08def5,image144.png,Hero Index,Q7
+Wrecking Ball,731dce766e316b4c242c51102a6cd6a0,image145.png,Hero Index,B9
+Zarya,74b5249817e70a2f9a37d00c9d9791eb,image146.png,Hero Index,C9
+Torbjörn,0b47fd795a74ea82322bc9729d5426ce,image147.png,Hero Index,G9
+Tracer,dbe58d2221308a709764a358ca460993,image7.png,Hero Index,H9
+Vendetta,9cba4ef0b5b448f09cd1f381ecf2c79c,image148.png,Hero Index,I9
+Venture,deff95d4a439680e6511f0fe866877e3,image149.png,Hero Index,J9
+Widowmaker,a62c4711ef1e919f4fd6a5d0cda74f9e,image150.png,Hero Index,K9
+Wuyang,48787b124924b3d67a6161fa0f2bb107,image151.png,Hero Index,N9
+Zenyatta,1118b222b46192a41daba9adeec74832,image152.png,Hero Index,O9

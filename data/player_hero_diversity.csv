@@ -1,0 +1,356 @@
+player_name,tournament_sheet,unique_heroes_used,total_usage,diversity_ratio
+Eileen,China - Stage 1,16,55,0.2909
+Proper,Korea - Stage 1,16,86,0.186
+Leave,China - Stage 1,15,77,0.1948
+knife,Korea - Stage 1,15,88,0.1705
+HeeSang,Korea - Stage 1,14,76,0.1842
+STALK3R,Korea - Stage 1,14,73,0.1918
+Ezhan,China - Stage 1,13,96,0.1354
+SP1NT,Korea - Stage 1,13,97,0.134
+BABAYAGA,China - Stage 1,12,54,0.2222
+Heesung,Japan - Stage 1,12,71,0.169
+Insane,China - Stage 1,12,30,0.4
+MCD,Korea - Stage 1,12,39,0.3077
+NICO,Japan - Stage 1,12,48,0.25
+TR33,North America - Stage 1,12,60,0.2
+Alphari,China - Stage 1,11,71,0.1549
+Argon,Korea - Stage 1,11,60,0.1833
+Checkmate,Korea - Stage 1,11,65,0.1692
+DONGHAK,Korea - Stage 1,11,29,0.3793
+Diya,China - Stage 1,11,63,0.1746
+HEISER,Korea - Stage 1,11,63,0.1746
+KILO,Korea - Stage 1,11,74,0.1486
+NHZ,Japan - Stage 1,11,38,0.2895
+Pineapple,China - Stage 1,11,74,0.1486
+Seonjun,North America - Stage 1,11,60,0.1833
+TOPDRAGON,Japan - Stage 1,11,57,0.193
+Taimouren,China - Stage 1,11,58,0.1897
+Vosa1q,Japan - Stage 1,11,35,0.3143
+ans,Japan - Stage 1,11,55,0.2
+feiyang,China - Stage 1,11,64,0.1719
+prot3ct,China - Stage 1,11,57,0.193
+ta1yo,Japan - Stage 1,11,53,0.2075
+ATTACK,Korea - Stage 1,10,69,0.1449
+BERNAR,Korea - Stage 1,10,33,0.303
+Belosrea,China - Stage 1,10,78,0.1282
+D4RT,Korea - Stage 1,10,56,0.1786
+Edison,Japan - Stage 1,10,76,0.1316
+Hypnos,China - Stage 1,10,35,0.2857
+Jasm1ne,Korea - Stage 1,10,32,0.3125
+JunBin,Korea - Stage 1,10,43,0.2326
+Kaneki,China - Stage 1,10,74,0.1351
+LiGe,China - Stage 1,10,68,0.1471
+Lukemino,North America - Stage 1,10,66,0.1515
+M1NUT2,Korea - Stage 1,10,53,0.1887
+Mihawk,Japan - Stage 1,10,46,0.2174
+NewJ,Japan - Stage 1,10,55,0.1818
+PEPPI,Japan - Stage 1,10,50,0.2
+PaLee,Pacific - Stage 1,10,30,0.3333
+Proud,Korea - Stage 1,10,47,0.2128
+Secret,Korea - Stage 1,10,35,0.2857
+ZeSin,Korea - Stage 1,10,37,0.2703
+Zephyr,Pacific - Stage 1,10,36,0.2778
+guxue,China - Stage 1,10,45,0.2222
+sniper,North America - Stage 1,10,26,0.3846
+APDO,Japan - Stage 1,9,53,0.1698
+Colourhex,Pacific - Stage 1,9,20,0.45
+DOX,Japan - Stage 1,9,39,0.2308
+Elva,Pacific - Stage 1,9,40,0.225
+Grapes,North America - Stage 1,9,27,0.3333
+Gur3um,Korea - Stage 1,9,39,0.2308
+Hanbin,Korea - Stage 1,9,39,0.2308
+ICHI,Japan - Stage 1,9,58,0.1552
+Infekted,North America - Stage 1,9,42,0.2143
+Kronik,North America - Stage 1,9,55,0.1636
+Lengsa,China - Stage 1,9,72,0.125
+Littlemoon,China - Stage 1,9,58,0.1552
+Mer1t,Korea - Stage 1,9,32,0.2812
+MewTwo,China - Stage 1,9,58,0.1552
+PGE,North America - Stage 1,9,48,0.1875
+Setsuna,Japan - Stage 1,9,50,0.18
+TKL,Pacific - Stage 1,9,39,0.2308
+homerunball,Japan - Stage 1,9,49,0.1837
+sgy,Pacific - Stage 1,9,31,0.2903
+A1IEN,Korea - Stage 1,8,41,0.1951
+Ade,EMEA - Stage 1,8,47,0.1702
+Becky,Korea - Stage 1,8,54,0.1481
+CH0R0NG,Korea - Stage 1,8,28,0.2857
+Coldj,China - Stage 1,8,53,0.1509
+Daisy,Japan - Stage 1,8,41,0.1951
+FARMER,Korea - Stage 1,8,27,0.2963
+FEI,Pacific - Stage 1,8,31,0.2581
+FiNN,EMEA - Stage 1,8,57,0.1404
+Fielder,Korea - Stage 1,8,69,0.1159
+Hawk,North America - Stage 1,8,68,0.1176
+HeeSang,Pre-Season Bootcamp,8,25,0.32
+KSG,Japan - Stage 1,8,56,0.1429
+Lateyoung,China - Stage 1,8,55,0.1455
+LeeSooMin,China - Stage 1,8,55,0.1455
+MAKA,China - Stage 1,8,64,0.125
+MAX,Korea - Stage 1,8,27,0.2963
+MER1T,Korea - Stage 1,8,34,0.2353
+Mealgaru,Korea - Stage 1,8,38,0.2105
+NEIVIS,Japan - Stage 1,8,42,0.1905
+Noy,China - Stage 1,8,47,0.1702
+QLOUD,Japan - Stage 1,8,39,0.2051
+SLEY,Japan - Stage 1,8,42,0.1905
+SeungAn,Korea - Stage 1,8,25,0.32
+Supreme,Japan - Stage 1,8,58,0.1379
+TCC,China - Stage 1,8,23,0.3478
+Taejong,EMEA - Stage 1,8,56,0.1429
+Viol2t,Korea - Stage 1,8,57,0.1404
+YangJun,Korea - Stage 1,8,39,0.2051
+Ydot,Japan - Stage 1,8,49,0.1633
+Yoko,Pacific - Stage 1,8,37,0.2162
+Yot1y,Japan - Stage 1,8,36,0.2222
+ZEST,Korea - Stage 1,8,57,0.1404
+epic,Japan - Stage 1,8,46,0.1739
+iRONY,Korea - Stage 1,8,57,0.1404
+pav2l,Japan - Stage 1,8,41,0.1951
+skewed,Korea - Stage 1,8,52,0.1538
+umi,Japan - Stage 1,8,31,0.2581
+wh4le,China - Stage 1,8,65,0.1231
+9TRIBEZ,China - Stage 1,7,21,0.3333
+AlphaYi,EMEA - Stage 1,7,60,0.1167
+Beeple,Pacific - Stage 1,7,31,0.2258
+Breadturtle,Japan - Stage 1,7,44,0.1591
+Ch0r0ng,Korea - Stage 1,7,29,0.2414
+Checkmate,Pre-Season Bootcamp,7,20,0.35
+Cjay,North America - Stage 1,7,48,0.1458
+D0D0,Korea - Stage 1,7,43,0.1628
+Elysia,Japan - Stage 1,7,38,0.1842
+Faith,Korea - Stage 1,7,43,0.1628
+Galaa,EMEA - Stage 1,7,38,0.1842
+JaeWoo,EMEA - Stage 1,7,43,0.1628
+JaeWoo,Pre-Season Bootcamp,7,18,0.3889
+Kairen,Pacific - Stage 1,7,23,0.3043
+Kellan,North America - Stage 1,7,48,0.1458
+Khenail,EMEA - Stage 1,7,31,0.2258
+Ky0n,Japan - Stage 1,7,60,0.1167
+Lethal,North America - Stage 1,7,65,0.1077
+Mmonk,China - Stage 1,7,53,0.1321
+Punk,Pacific - Stage 1,7,22,0.3182
+SORI,Japan - Stage 1,7,50,0.14
+Scorch,Pacific - Stage 1,7,29,0.2414
+Simple,EMEA - Stage 1,7,42,0.1667
+Sugarfree,North America - Stage 1,7,67,0.1045
+TVNT,EMEA - Stage 1,7,31,0.2258
+Tom4to,Pacific - Stage 1,7,29,0.2414
+Tred,North America - Stage 1,7,37,0.1892
+UltraViolet,North America - Stage 1,7,59,0.1186
+Vestola,EMEA - Stage 1,7,42,0.1667
+Yoshinori2k,Pacific - Stage 1,7,33,0.2121
+Zeruhh,Pre-Season Bootcamp,7,16,0.4375
+Zorrow,Pre-Season Bootcamp,7,19,0.3684
+eisgnom,EMEA - Stage 1,7,52,0.1346
+harutoon,Japan - Stage 1,7,17,0.4118
+jamorant,Pacific - Stage 1,7,12,0.5833
+mint,Japan - Stage 1,7,43,0.1628
+orca,Japan - Stage 1,7,41,0.1707
+pdk,North America - Stage 1,7,25,0.28
+scuffed,North America - Stage 1,7,27,0.2593
+shu,Korea - Stage 1,7,57,0.1228
+skyshow,China - Stage 1,7,20,0.35
+wntr,Pacific - Stage 1,7,25,0.28
+A1WAYS,China - Stage 1,6,42,0.1429
+Ch0r0ng,Pre-Season Bootcamp,6,19,0.3158
+ChiYo,Pre-Season Bootcamp,6,20,0.3
+Escanor,North America - Stage 1,6,41,0.1463
+FDGod,EMEA - Stage 1,6,27,0.2222
+Hyunjae,Pacific - Stage 1,6,26,0.2308
+JAYA,China - Stage 1,6,65,0.0923
+JunBin,Pre-Season Bootcamp,6,17,0.3529
+KIVIS,Korea - Stage 1,6,46,0.1304
+LIP,Pre-Season Bootcamp,6,21,0.2857
+Lilko,China - Stage 1,6,25,0.24
+Lumi,Pacific - Stage 1,6,14,0.4286
+NenWhy,North America - Stage 1,6,36,0.1667
+Nico,Pre-Season Bootcamp,6,7,0.8571
+Nyang,Pacific - Stage 1,6,12,0.5
+OPENER,Korea - Stage 1,6,58,0.1034
+PKFishy,Pacific - Stage 1,6,27,0.2222
+Recall,China - Stage 1,6,83,0.0723
+Regr3t,Pacific - Stage 1,6,27,0.2222
+Rokit,North America - Stage 1,6,40,0.15
+Roxy,Japan - Stage 1,6,41,0.1463
+Ryan,North America - Stage 1,6,30,0.2
+Sakume,Japan - Stage 1,6,43,0.1395
+Scyle,North America - Stage 1,6,28,0.2143
+Seicoe,EMEA - Stage 1,6,56,0.1071
+Shy,China - Stage 1,6,22,0.2727
+SirMajed,EMEA - Stage 1,6,42,0.1429
+Soae,Japan - Stage 1,6,43,0.1395
+Sunset,Pacific - Stage 1,6,30,0.2
+UYOU,Pacific - Stage 1,6,19,0.3158
+Vega,North America - Stage 1,6,44,0.1364
+Vega,Pre-Season Bootcamp,6,14,0.4286
+Vigilante,Korea - Stage 1,6,53,0.1132
+Vigilante,Pre-Season Bootcamp,6,19,0.3158
+WMaimone,EMEA - Stage 1,6,31,0.1935
+Wangming,China - Stage 1,6,20,0.3
+Willys,EMEA - Stage 1,6,37,0.1622
+Xerion,EMEA - Stage 1,6,32,0.1875
+Yate,Korea - Stage 1,6,15,0.4
+Yui,Pacific - Stage 1,6,25,0.24
+Zesin,Korea - Stage 1,6,12,0.5
+kiibo,Japan - Stage 1,6,38,0.1579
+perr,Korea - Stage 1,6,41,0.1463
+shy,China - Stage 1,6,32,0.1875
+xten,North America - Stage 1,6,35,0.1714
+Admiral,North America - Stage 1,5,51,0.098
+Bliss,Korea - Stage 1,5,40,0.125
+CARU,Korea - Stage 1,5,38,0.1316
+ChiYo,Korea - Stage 1,5,53,0.0943
+Cjay,Pre-Season Bootcamp,5,8,0.625
+Coluge,North America - Stage 1,5,11,0.4545
+Dip,EMEA - Stage 1,5,35,0.1429
+Fearful,Korea - Stage 1,5,9,0.5556
+FiXa,Pre-Season Bootcamp,5,13,0.3846
+FunnyAstro,Pre-Season Bootcamp,5,16,0.3125
+Gaisen,Japan - Stage 1,5,46,0.1087
+HRY,Japan - Stage 1,5,38,0.1316
+Huntin,Pacific - Stage 1,5,25,0.2
+Hyvision,Pacific - Stage 1,5,20,0.25
+Infekted,Pre-Season Bootcamp,5,14,0.3571
+Jamelgong,Korea - Stage 1,5,6,0.8333
+Kevster,EMEA - Stage 1,5,47,0.1064
+Landon,EMEA - Stage 1,5,40,0.125
+Leave,Pre-Season Bootcamp,5,7,0.7143
+LeeSooMin,Pre-Season Bootcamp,5,9,0.5556
+Lep,North America - Stage 1,5,30,0.1667
+MER1T,Pre-Season Bootcamp,5,20,0.25
+PGE,Pre-Season Bootcamp,5,10,0.5
+Proud,Pre-Season Bootcamp,5,10,0.5
+Quartz,EMEA - Stage 1,5,32,0.1562
+Quartz,Pre-Season Bootcamp,5,15,0.3333
+SOMEONE,Korea - Stage 1,5,14,0.3571
+Scyle,Pre-Season Bootcamp,5,8,0.625
+Seonjun,Pre-Season Bootcamp,5,6,0.8333
+Simple,Pre-Season Bootcamp,5,17,0.2941
+Tama,EMEA - Stage 1,5,14,0.3571
+TenTen,Korea - Stage 1,5,37,0.1351
+Tred,Pre-Season Bootcamp,5,11,0.4545
+Undersea,Japan - Stage 1,5,6,0.8333
+Willys,Pre-Season Bootcamp,5,16,0.3125
+WoochaN,Korea - Stage 1,5,42,0.119
+Xerion,Pre-Season Bootcamp,5,16,0.3125
+Zeb,North America - Stage 1,5,29,0.1724
+Zeruhh,North America - Stage 1,5,56,0.0893
+Zest,Pre-Season Bootcamp,5,8,0.625
+Zorrow,EMEA - Stage 1,5,26,0.1923
+amdp,EMEA - Stage 1,5,17,0.2941
+fari,China - Stage 1,5,18,0.2778
+skewed,Pre-Season Bootcamp,5,10,0.5
+zzz,North America - Stage 1,5,32,0.1562
+Ackyy,Pacific - Stage 1,4,21,0.1905
+DONGHAK,Pre-Season Bootcamp,4,12,0.3333
+Despair,Pacific - Stage 1,4,28,0.1429
+FDGod,Pre-Season Bootcamp,4,14,0.2857
+Fielder,Pre-Season Bootcamp,4,19,0.2105
+FunnyAstro,EMEA - Stage 1,4,31,0.129
+Guxue,Pre-Season Bootcamp,4,7,0.5714
+Hanbin,Pre-Season Bootcamp,4,17,0.2353
+Insane,Pre-Season Bootcamp,4,6,0.6667
+KSG,Pre-Season Bootcamp,4,5,0.8
+Kai,EMEA - Stage 1,4,26,0.1538
+Kevster,Pre-Season Bootcamp,4,10,0.4
+Kronik,Pre-Season Bootcamp,4,6,0.6667
+Landon,Pre-Season Bootcamp,4,9,0.4444
+Limbo,China - Stage 1,4,12,0.3333
+MAKA,Pre-Season Bootcamp,4,9,0.4444
+MSCG,Pacific - Stage 1,4,19,0.2105
+Mag,China - Stage 1,4,7,0.5714
+Probe,Korea - Stage 1,4,11,0.3636
+Pugz,Pacific - Stage 1,4,22,0.1818
+Qloud,Pre-Season Bootcamp,4,4,1.0
+Remedy,China - Stage 1,4,26,0.1538
+Rokit,Pre-Season Bootcamp,4,9,0.4444
+Rupal,Pre-Season Bootcamp,4,11,0.3636
+SINCE,China - Stage 1,4,13,0.3077
+SUNZO,China - Stage 1,4,12,0.3333
+Seicoe,Pre-Season Bootcamp,4,11,0.3636
+Sley,Pre-Season Bootcamp,4,5,0.8
+SoLA,Korea - Stage 1,4,13,0.3077
+TOPDRAGON,Pre-Season Bootcamp,4,4,1.0
+TR33,Pre-Season Bootcamp,4,13,0.3077
+TVNT,Pre-Season Bootcamp,4,14,0.2857
+ZIYAD,EMEA - Stage 1,4,48,0.0833
+sara,China - Stage 1,4,48,0.0833
+xomba,North America - Stage 1,4,38,0.1053
+Bliss,Pre-Season Bootcamp,3,7,0.4286
+D4IJIN,Japan - Stage 1,3,42,0.0714
+Dip,Pre-Season Bootcamp,3,12,0.25
+Exrai,Pacific - Stage 1,3,14,0.2143
+FiXa,EMEA - Stage 1,3,39,0.0769
+Haku,EMEA - Stage 1,3,34,0.0882
+KSAA,EMEA - Stage 1,3,4,0.75
+Kellan,Pre-Season Bootcamp,3,6,0.5
+Kivis,Pre-Season Bootcamp,3,3,1.0
+LBBD7,EMEA - Stage 1,3,35,0.0857
+Leonopteryx,Japan - Stage 1,3,6,0.5
+Lep,Pre-Season Bootcamp,3,7,0.4286
+LiGe,Pre-Season Bootcamp,3,5,0.6
+Lukemino,Pre-Season Bootcamp,3,5,0.6
+Shy,Pre-Season Bootcamp,3,6,0.5
+Unkn0w,China - Stage 1,3,15,0.2
+Viper,Pre-Season Bootcamp,3,4,0.75
+brysonbtw,Pacific - Stage 1,3,26,0.1154
+crispy,EMEA - Stage 1,3,20,0.15
+eisgnom,Pre-Season Bootcamp,3,11,0.2727
+Akraken,Pacific - Stage 1,2,5,0.4
+BABYAGA,China - Stage 1,2,4,0.5
+Renaco,Pacific - Stage 1,2,4,0.5
+Saya,China - Stage 1,2,13,0.1538
+Ade,Non-Partner Team Index,1,6,0.1667
+Alphari,Partner Team Index,1,6,0.1667
+Argon,Non-Partner Team Index,1,10,0.1
+CH0R0NG,Partner Team Index,1,8,0.125
+Cjay,Partner Team Index,1,8,0.125
+D4IJIN,Non-Partner Team Index,1,12,0.0833
+Dip,Partner Team Index,1,6,0.1667
+Ezhan,Partner Team Index,1,6,0.1667
+Ezrai,Non-Partner Team Index,1,12,0.0833
+FDGod,Partner Team Index,1,6,0.1667
+Faith,Non-Partner Team Index,1,10,0.1
+Galaa,Non-Partner Team Index,1,6,0.1667
+Grapes,Non-Partner Team Index,1,4,0.25
+HRY,Non-Partner Team Index,1,12,0.0833
+HeeSang,Partner Team Index,1,8,0.125
+ICHI,Non-Partner Team Index,1,12,0.0833
+Kellan,Partner Team Index,1,8,0.125
+Kronik,Partner Team Index,1,8,0.125
+Lengsa,Partner Team Index,1,6,0.1667
+Lengsa,Pre-Season Bootcamp,1,3,0.3333
+LiGe,Partner Team Index,1,6,0.1667
+Limbo,Non-Partner Team Index,1,10,0.1
+Lukemino,Partner Team Index,1,8,0.125
+MAX,Partner Team Index,1,8,0.125
+PKFishy,Non-Partner Team Index,1,12,0.0833
+Pugz,Non-Partner Team Index,1,12,0.0833
+Recall,Partner Team Index,1,6,0.1667
+Regr3t,Non-Partner Team Index,1,12,0.0833
+Ryan,Non-Partner Team Index,1,4,0.25
+SINCE,Non-Partner Team Index,1,10,0.1
+SORI,Non-Partner Team Index,1,12,0.0833
+STALK3R,Partner Team Index,1,8,0.125
+Saya,Non-Partner Team Index,1,10,0.1
+Scorch,Non-Partner Team Index,1,12,0.0833
+Seonjun,Partner Team Index,1,8,0.125
+SeungAn,Non-Partner Team Index,1,10,0.1
+SirMajed,Non-Partner Team Index,1,6,0.1667
+Supreme,Non-Partner Team Index,1,12,0.0833
+Taejong,Non-Partner Team Index,1,6,0.1667
+Vestola,Non-Partner Team Index,1,6,0.1667
+Vigilante,Partner Team Index,1,8,0.125
+Wangming,Non-Partner Team Index,1,10,0.1
+Willys,Partner Team Index,1,6,0.1667
+WoochaN,Non-Partner Team Index,1,10,0.1
+Xerion,Partner Team Index,1,6,0.1667
+Yangjun,Korea - Stage 1,1,4,0.25
+Zesin,Non-Partner Team Index,1,10,0.1
+Zorrow,Partner Team Index,1,6,0.1667
+pdk,Non-Partner Team Index,1,4,0.25
+scuffed,Non-Partner Team Index,1,4,0.25
+skyshow,Non-Partner Team Index,1,10,0.1
+smash,Japan - Stage 1,1,3,0.3333
+sniper,Non-Partner Team Index,1,4,0.25

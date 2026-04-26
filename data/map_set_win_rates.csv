@@ -1,0 +1,582 @@
+tournament_sheet,team_name,map_name,matches_played,wins,losses,win_rate
+China - Stage 1,JD Gaming,Aatlis,3,3,0,1.0
+China - Stage 1,Weibo Gaming,Aatlis,4,4,0,1.0
+China - Stage 1,All Gamers,Aatlis,6,4,2,0.6667
+China - Stage 1,Homie E,Aatlis,2,1,1,0.5
+China - Stage 1,SV,Aatlis,5,2,3,0.4
+China - Stage 1,Naive Piggy,Aatlis,7,2,5,0.2857
+China - Stage 1,DEG,Aatlis,2,0,2,0.0
+China - Stage 1,Milk Tea,Aatlis,3,0,3,0.0
+China - Stage 1,Weibo Gaming,Blizzard World,3,3,0,1.0
+China - Stage 1,All Gamers,Blizzard World,2,1,1,0.5
+China - Stage 1,Naive Piggy,Blizzard World,2,1,1,0.5
+China - Stage 1,JD Gaming,Blizzard World,3,1,2,0.3333
+China - Stage 1,SV,Blizzard World,2,0,2,0.0
+China - Stage 1,Homie E,Busan,1,1,0,1.0
+China - Stage 1,Weibo Gaming,Busan,1,1,0,1.0
+China - Stage 1,All Gamers,Busan,6,5,1,0.8333
+China - Stage 1,Milk Tea,Busan,3,2,1,0.6667
+China - Stage 1,DEG,Busan,1,0,1,0.0
+China - Stage 1,JD Gaming,Busan,2,0,2,0.0
+China - Stage 1,Naive Piggy,Busan,2,0,2,0.0
+China - Stage 1,SV,Busan,2,0,2,0.0
+China - Stage 1,Weibo Gaming,Esperança,4,4,0,1.0
+China - Stage 1,All Gamers,Esperança,6,4,2,0.6667
+China - Stage 1,JD Gaming,Esperança,4,2,2,0.5
+China - Stage 1,SV,Esperança,2,1,1,0.5
+China - Stage 1,Milk Tea,Esperança,7,3,4,0.4286
+China - Stage 1,Naive Piggy,Esperança,7,3,4,0.4286
+China - Stage 1,DEG,Esperança,2,0,2,0.0
+China - Stage 1,Homie E,Esperança,2,0,2,0.0
+China - Stage 1,JD Gaming,Havana,5,4,1,0.8
+China - Stage 1,All Gamers,Havana,6,4,2,0.6667
+China - Stage 1,Naive Piggy,Havana,3,2,1,0.6667
+China - Stage 1,Weibo Gaming,Havana,5,2,3,0.4
+China - Stage 1,SV,Havana,3,1,2,0.3333
+China - Stage 1,Milk Tea,Havana,4,1,3,0.25
+China - Stage 1,DEG,Havana,1,0,1,0.0
+China - Stage 1,Homie E,Havana,1,0,1,0.0
+China - Stage 1,Weibo Gaming,Lijiang Tower,10,9,1,0.9
+China - Stage 1,SV,Lijiang Tower,7,5,2,0.7143
+China - Stage 1,DEG,Lijiang Tower,2,1,1,0.5
+China - Stage 1,All Gamers,Lijiang Tower,5,2,3,0.4
+China - Stage 1,JD Gaming,Lijiang Tower,5,2,3,0.4
+China - Stage 1,Naive Piggy,Lijiang Tower,7,2,5,0.2857
+China - Stage 1,Homie E,Lijiang Tower,2,0,2,0.0
+China - Stage 1,Milk Tea,Lijiang Tower,4,0,4,0.0
+China - Stage 1,All Gamers,Midtown,1,1,0,1.0
+China - Stage 1,JD Gaming,Midtown,2,2,0,1.0
+China - Stage 1,Weibo Gaming,Midtown,1,1,0,1.0
+China - Stage 1,Milk Tea,Midtown,2,1,1,0.5
+China - Stage 1,Naive Piggy,Midtown,1,0,1,0.0
+China - Stage 1,SV,Midtown,3,0,3,0.0
+China - Stage 1,Homie E,Numbani,1,1,0,1.0
+China - Stage 1,Naive Piggy,Numbani,1,1,0,1.0
+China - Stage 1,Weibo Gaming,Numbani,3,2,1,0.6667
+China - Stage 1,All Gamers,Numbani,6,3,3,0.5
+China - Stage 1,JD Gaming,Numbani,3,1,2,0.3333
+China - Stage 1,Milk Tea,Numbani,2,0,2,0.0
+China - Stage 1,All Gamers,Oasis,2,2,0,1.0
+China - Stage 1,JD Gaming,Oasis,4,3,1,0.75
+China - Stage 1,Milk Tea,Oasis,2,1,1,0.5
+China - Stage 1,Homie E,Oasis,1,0,1,0.0
+China - Stage 1,Naive Piggy,Oasis,1,0,1,0.0
+China - Stage 1,SV,Oasis,2,0,2,0.0
+China - Stage 1,All Gamers,Rialto,1,1,0,1.0
+China - Stage 1,Naive Piggy,Rialto,1,0,1,0.0
+China - Stage 1,Milk Tea,Runasapi,1,1,0,1.0
+China - Stage 1,Naive Piggy,Runasapi,1,1,0,1.0
+China - Stage 1,Weibo Gaming,Runasapi,2,2,0,1.0
+China - Stage 1,JD Gaming,Runasapi,2,1,1,0.5
+China - Stage 1,All Gamers,Runasapi,3,1,2,0.3333
+China - Stage 1,SV,Runasapi,3,1,2,0.3333
+China - Stage 1,Homie E,Runasapi,2,0,2,0.0
+China - Stage 1,Weibo Gaming,Suravasa,5,5,0,1.0
+China - Stage 1,JD Gaming,Suravasa,4,3,1,0.75
+China - Stage 1,Naive Piggy,Suravasa,3,2,1,0.6667
+China - Stage 1,SV,Suravasa,5,2,3,0.4
+China - Stage 1,All Gamers,Suravasa,4,1,3,0.25
+China - Stage 1,Milk Tea,Suravasa,4,1,3,0.25
+China - Stage 1,DEG,Suravasa,1,0,1,0.0
+China - Stage 1,Homie E,Suravasa,2,0,2,0.0
+China - Stage 1,SV,Watchpoint: Gibraltar,1,1,0,1.0
+China - Stage 1,Weibo Gaming,Watchpoint: Gibraltar,1,1,0,1.0
+China - Stage 1,All Gamers,Watchpoint: Gibraltar,3,2,1,0.6667
+China - Stage 1,JD Gaming,Watchpoint: Gibraltar,2,1,1,0.5
+China - Stage 1,DEG,Watchpoint: Gibraltar,1,0,1,0.0
+China - Stage 1,Milk Tea,Watchpoint: Gibraltar,2,0,2,0.0
+EMEA - Stage 1,Virtus.pro,Aatlis,2,2,0,1.0
+EMEA - Stage 1,Twisted Minds,Aatlis,3,2,1,0.6667
+EMEA - Stage 1,Geekay Esports,Aatlis,2,1,1,0.5
+EMEA - Stage 1,Team Peps,Aatlis,2,1,1,0.5
+EMEA - Stage 1,Al Qadsiah,Aatlis,4,1,3,0.25
+EMEA - Stage 1,Anyone's Legend,Aatlis,1,0,1,0.0
+EMEA - Stage 1,Twisted Minds,Blizzard World,1,1,0,1.0
+EMEA - Stage 1,Virtus.pro,Blizzard World,3,3,0,1.0
+EMEA - Stage 1,Anyone's Legend,Blizzard World,3,2,1,0.6667
+EMEA - Stage 1,Geekay Esports,Blizzard World,2,0,2,0.0
+EMEA - Stage 1,Team Peps,Blizzard World,3,0,3,0.0
+EMEA - Stage 1,Twisted Minds,Busan,2,2,0,1.0
+EMEA - Stage 1,Geekay Esports,Busan,1,0,1,0.0
+EMEA - Stage 1,Team Peps,Busan,1,0,1,0.0
+EMEA - Stage 1,Al Qadsiah,Esperança,1,1,0,1.0
+EMEA - Stage 1,Twisted Minds,Esperança,2,2,0,1.0
+EMEA - Stage 1,Anyone's Legend,Esperança,2,1,1,0.5
+EMEA - Stage 1,Geekay Esports,Esperança,2,0,2,0.0
+EMEA - Stage 1,Team Peps,Esperança,1,0,1,0.0
+EMEA - Stage 1,Twisted Minds,Havana,2,2,0,1.0
+EMEA - Stage 1,Geekay Esports,Havana,6,4,2,0.6667
+EMEA - Stage 1,Virtus.pro,Havana,5,3,2,0.6
+EMEA - Stage 1,Anyone's Legend,Havana,2,1,1,0.5
+EMEA - Stage 1,Al Qadsiah,Havana,4,0,4,0.0
+EMEA - Stage 1,Team Peps,Havana,1,0,1,0.0
+EMEA - Stage 1,Twisted Minds,Lijiang Tower,6,6,0,1.0
+EMEA - Stage 1,Geekay Esports,Lijiang Tower,6,4,2,0.6667
+EMEA - Stage 1,Virtus.pro,Lijiang Tower,8,5,3,0.625
+EMEA - Stage 1,Team Peps,Lijiang Tower,3,1,2,0.3333
+EMEA - Stage 1,Al Qadsiah,Lijiang Tower,6,1,5,0.1667
+EMEA - Stage 1,Anyone's Legend,Lijiang Tower,5,0,5,0.0
+EMEA - Stage 1,Geekay Esports,Midtown,2,2,0,1.0
+EMEA - Stage 1,Twisted Minds,Midtown,1,1,0,1.0
+EMEA - Stage 1,Al Qadsiah,Midtown,3,2,1,0.6667
+EMEA - Stage 1,Team Peps,Midtown,2,0,2,0.0
+EMEA - Stage 1,Virtus.pro,Midtown,2,0,2,0.0
+EMEA - Stage 1,Al Qadsiah,Numbani,1,1,0,1.0
+EMEA - Stage 1,Anyone's Legend,Numbani,1,0,1,0.0
+EMEA - Stage 1,Al Qadsiah,Oasis,1,1,0,1.0
+EMEA - Stage 1,Geekay Esports,Oasis,1,1,0,1.0
+EMEA - Stage 1,Team Peps,Oasis,1,0,1,0.0
+EMEA - Stage 1,Virtus.pro,Oasis,1,0,1,0.0
+EMEA - Stage 1,Al Qadsiah,Rialto,1,1,0,1.0
+EMEA - Stage 1,Twisted Minds,Rialto,2,2,0,1.0
+EMEA - Stage 1,Anyone's Legend,Rialto,1,0,1,0.0
+EMEA - Stage 1,Team Peps,Rialto,1,0,1,0.0
+EMEA - Stage 1,Virtus.pro,Rialto,1,0,1,0.0
+EMEA - Stage 1,Twisted Minds,Runasapi,5,5,0,1.0
+EMEA - Stage 1,Virtus.pro,Runasapi,8,6,2,0.75
+EMEA - Stage 1,Al Qadsiah,Runasapi,5,2,3,0.4
+EMEA - Stage 1,Team Peps,Runasapi,3,1,2,0.3333
+EMEA - Stage 1,Anyone's Legend,Runasapi,2,0,2,0.0
+EMEA - Stage 1,Geekay Esports,Runasapi,5,0,5,0.0
+EMEA - Stage 1,Twisted Minds,Suravasa,1,1,0,1.0
+EMEA - Stage 1,Virtus.pro,Suravasa,3,2,1,0.6667
+EMEA - Stage 1,Anyone's Legend,Suravasa,2,1,1,0.5
+EMEA - Stage 1,Geekay Esports,Suravasa,5,2,3,0.4
+EMEA - Stage 1,Team Peps,Suravasa,1,0,1,0.0
+EMEA - Stage 1,Twisted Minds,Watchpoint: Gibraltar,1,1,0,1.0
+EMEA - Stage 1,Virtus.pro,Watchpoint: Gibraltar,1,0,1,0.0
+Japan - Stage 1,TAKYO TA1YOs,Aatlis,1,1,0,1.0
+Japan - Stage 1,VARREL,Aatlis,3,3,0,1.0
+Japan - Stage 1,ENTER FORCE.36,Aatlis,3,2,1,0.6667
+Japan - Stage 1,99DIVINE,Aatlis,2,1,1,0.5
+Japan - Stage 1,Please Not Hero Ban,Aatlis,2,1,1,0.5
+Japan - Stage 1,Telomere,Aatlis,4,2,2,0.5
+Japan - Stage 1,Nyam Gaming,Aatlis,4,0,4,0.0
+Japan - Stage 1,ENTER FORCE.36,Blizzard World,4,4,0,1.0
+Japan - Stage 1,Lazuli,Blizzard World,1,1,0,1.0
+Japan - Stage 1,TAKYO TA1YOs,Blizzard World,1,1,0,1.0
+Japan - Stage 1,VARREL,Blizzard World,2,2,0,1.0
+Japan - Stage 1,TOKYO TAIYOs,Blizzard World,3,2,1,0.6667
+Japan - Stage 1,Please Not Hero Ban,Blizzard World,6,2,4,0.3333
+Japan - Stage 1,99DIVINE,Blizzard World,4,1,3,0.25
+Japan - Stage 1,Nyam Gaming,Blizzard World,2,0,2,0.0
+Japan - Stage 1,Telomere,Blizzard World,2,0,2,0.0
+Japan - Stage 1,VARREL,Busan,5,5,0,1.0
+Japan - Stage 1,Please Not Hero Ban,Busan,3,2,1,0.6667
+Japan - Stage 1,Nyam Gaming,Busan,2,1,1,0.5
+Japan - Stage 1,Telomere,Busan,3,1,2,0.3333
+Japan - Stage 1,99DIVINE,Busan,3,0,3,0.0
+Japan - Stage 1,Lazuli,Busan,1,0,1,0.0
+Japan - Stage 1,TOKYO TAIYOs,Busan,1,0,1,0.0
+Japan - Stage 1,TAKYO TA1YOs,Esperança,1,1,0,1.0
+Japan - Stage 1,ENTER FORCE.36,Esperança,5,4,1,0.8
+Japan - Stage 1,VARREL,Esperança,4,3,1,0.75
+Japan - Stage 1,Lazuli,Esperança,2,1,1,0.5
+Japan - Stage 1,Please Not Hero Ban,Esperança,6,3,3,0.5
+Japan - Stage 1,99DIVINE,Esperança,6,2,4,0.3333
+Japan - Stage 1,Nyam Gaming,Esperança,1,0,1,0.0
+Japan - Stage 1,TOKYO TAIYOs,Esperança,2,0,2,0.0
+Japan - Stage 1,ENTER FORCE.36,Havana,1,1,0,1.0
+Japan - Stage 1,VARREL,Havana,2,2,0,1.0
+Japan - Stage 1,Nyam Gaming,Havana,2,1,1,0.5
+Japan - Stage 1,Lazuli,Havana,2,0,2,0.0
+Japan - Stage 1,TOKYO TAIYOs,Havana,1,0,1,0.0
+Japan - Stage 1,Nyam Gaming,Lijiang Tower,2,2,0,1.0
+Japan - Stage 1,TAKYO TA1YOs,Lijiang Tower,2,2,0,1.0
+Japan - Stage 1,VARREL,Lijiang Tower,3,3,0,1.0
+Japan - Stage 1,Lazuli,Lijiang Tower,3,2,1,0.6667
+Japan - Stage 1,ENTER FORCE.36,Lijiang Tower,5,3,2,0.6
+Japan - Stage 1,99DIVINE,Lijiang Tower,3,1,2,0.3333
+Japan - Stage 1,Please Not Hero Ban,Lijiang Tower,2,0,2,0.0
+Japan - Stage 1,TOKYO TAIYOs,Lijiang Tower,2,0,2,0.0
+Japan - Stage 1,Telomere,Lijiang Tower,2,0,2,0.0
+Japan - Stage 1,Please Not Hero Ban,Midtown,1,1,0,1.0
+Japan - Stage 1,ENTER FORCE.36,Midtown,2,1,0,0.5
+Japan - Stage 1,99DIVINE,Midtown,1,0,1,0.0
+Japan - Stage 1,Nyam Gaming,Midtown,1,0,1,0.0
+Japan - Stage 1,VARREL,Midtown,1,0,0,0.0
+Japan - Stage 1,99DIVINE,Numbani,1,1,0,1.0
+Japan - Stage 1,Nyam Gaming,Numbani,2,2,0,1.0
+Japan - Stage 1,TAKYO TA1YOs,Numbani,1,1,0,1.0
+Japan - Stage 1,VARREL,Numbani,2,2,0,1.0
+Japan - Stage 1,Lazuli,Numbani,2,1,1,0.5
+Japan - Stage 1,ENTER FORCE.36,Numbani,1,0,1,0.0
+Japan - Stage 1,TOKYO TAIYOs,Numbani,1,0,1,0.0
+Japan - Stage 1,Telomere,Numbani,3,0,3,0.0
+Japan - Stage 1,ENTER FORCE.36,Oasis,3,3,0,1.0
+Japan - Stage 1,Please Not Hero Ban,Oasis,4,4,0,1.0
+Japan - Stage 1,VARREL,Oasis,1,1,0,1.0
+Japan - Stage 1,99DIVINE,Oasis,3,1,2,0.3333
+Japan - Stage 1,Nyam Gaming,Oasis,3,1,2,0.3333
+Japan - Stage 1,Lazuli,Oasis,3,0,3,0.0
+Japan - Stage 1,TOKYO TAIYOs,Oasis,2,0,2,0.0
+Japan - Stage 1,Telomere,Oasis,1,0,1,0.0
+Japan - Stage 1,VARREL,Rialto,4,4,0,1.0
+Japan - Stage 1,Please Not Hero Ban,Rialto,5,4,1,0.8
+Japan - Stage 1,99DIVINE,Rialto,6,3,3,0.5
+Japan - Stage 1,ENTER FORCE.36,Rialto,1,0,1,0.0
+Japan - Stage 1,Lazuli,Rialto,1,0,1,0.0
+Japan - Stage 1,Nyam Gaming,Rialto,2,0,2,0.0
+Japan - Stage 1,TOKYO TAIYOs,Rialto,1,0,1,0.0
+Japan - Stage 1,Telomere,Rialto,2,0,2,0.0
+Japan - Stage 1,ENTER FORCE.36,Runasapi,1,1,0,1.0
+Japan - Stage 1,Please Not Hero Ban,Runasapi,1,1,0,1.0
+Japan - Stage 1,VARREL,Runasapi,2,2,0,1.0
+Japan - Stage 1,Lazuli,Runasapi,3,1,2,0.3333
+Japan - Stage 1,TOKYO TAIYOs,Runasapi,1,0,1,0.0
+Japan - Stage 1,Telomere,Runasapi,2,0,2,0.0
+Japan - Stage 1,99DIVINE,Suravasa,1,1,0,1.0
+Japan - Stage 1,Lazuli,Suravasa,1,1,0,1.0
+Japan - Stage 1,TAKYO TA1YOs,Suravasa,2,2,0,1.0
+Japan - Stage 1,TOKYO TAIYOs,Suravasa,1,1,0,1.0
+Japan - Stage 1,Nyam Gaming,Suravasa,2,0,2,0.0
+Japan - Stage 1,Please Not Hero Ban,Suravasa,1,0,1,0.0
+Japan - Stage 1,Nyam Gaming,Watchpoint: Gibraltar,2,2,0,1.0
+Japan - Stage 1,TAKYO TA1YOs,Watchpoint: Gibraltar,1,1,0,1.0
+Japan - Stage 1,VARREL,Watchpoint: Gibraltar,2,2,0,1.0
+Japan - Stage 1,ENTER FORCE.36,Watchpoint: Gibraltar,4,3,1,0.75
+Japan - Stage 1,99DIVINE,Watchpoint: Gibraltar,3,2,1,0.6667
+Japan - Stage 1,Please Not Hero Ban,Watchpoint: Gibraltar,2,1,1,0.5
+Japan - Stage 1,Lazuli,Watchpoint: Gibraltar,2,0,2,0.0
+Japan - Stage 1,TOKYO TAIYOs,Watchpoint: Gibraltar,3,0,3,0.0
+Japan - Stage 1,Telomere,Watchpoint: Gibraltar,2,0,2,0.0
+Korea - Stage 1,T1,Aatlis,2,2,0,1.0
+Korea - Stage 1,Team Falcons,Aatlis,1,1,0,1.0
+Korea - Stage 1,RØDE ONSIDE GAMING,Aatlis,4,3,1,0.75
+Korea - Stage 1,Crazy Raccoon,Aatlis,3,2,1,0.6667
+Korea - Stage 1,ZAN Esports,Aatlis,3,2,1,0.6667
+Korea - Stage 1,Cheeseburger,Aatlis,3,0,3,0.0
+Korea - Stage 1,Poker Face,Aatlis,4,0,4,0.0
+Korea - Stage 1,ZETA DIVISION,Blizzard World,6,6,0,1.0
+Korea - Stage 1,T1,Blizzard World,5,3,2,0.6
+Korea - Stage 1,Team Falcons,Blizzard World,4,2,2,0.5
+Korea - Stage 1,RØDE ONSIDE GAMING,Blizzard World,7,3,4,0.4286
+Korea - Stage 1,Crazy Raccoon,Blizzard World,5,2,3,0.4
+Korea - Stage 1,Cheeseburger,Blizzard World,4,1,3,0.25
+Korea - Stage 1,New Era,Blizzard World,3,0,3,0.0
+Korea - Stage 1,ZETA DIVISION,Busan,4,4,0,1.0
+Korea - Stage 1,Cheeseburger,Busan,3,2,1,0.6667
+Korea - Stage 1,Poker Face,Busan,3,2,1,0.6667
+Korea - Stage 1,ZAN Esports,Busan,3,2,1,0.6667
+Korea - Stage 1,RØDE ONSIDE GAMING,Busan,4,2,2,0.5
+Korea - Stage 1,Crazy Raccoon,Busan,3,1,2,0.3333
+Korea - Stage 1,T1,Busan,3,1,2,0.3333
+Korea - Stage 1,New Era,Busan,3,0,3,0.0
+Korea - Stage 1,Team Falcons,Busan,2,0,2,0.0
+Korea - Stage 1,RØDE ONSIDE GAMING,Esperança,1,1,0,1.0
+Korea - Stage 1,T1,Esperança,4,3,1,0.75
+Korea - Stage 1,ZAN Esports,Esperança,5,3,2,0.6
+Korea - Stage 1,Crazy Raccoon,Esperança,2,1,1,0.5
+Korea - Stage 1,Team Falcons,Esperança,4,2,2,0.5
+Korea - Stage 1,ZETA DIVISION,Esperança,2,1,1,0.5
+Korea - Stage 1,Poker Face,Esperança,3,1,2,0.3333
+Korea - Stage 1,Cheeseburger,Esperança,2,0,2,0.0
+Korea - Stage 1,New Era,Esperança,1,0,1,0.0
+Korea - Stage 1,Team Falcons,Havana,2,2,0,1.0
+Korea - Stage 1,Crazy Raccoon,Havana,6,5,1,0.8333
+Korea - Stage 1,ZETA DIVISION,Havana,6,5,1,0.8333
+Korea - Stage 1,T1,Havana,5,2,3,0.4
+Korea - Stage 1,ZAN Esports,Havana,5,2,3,0.4
+Korea - Stage 1,RØDE ONSIDE GAMING,Havana,4,1,3,0.25
+Korea - Stage 1,Cheeseburger,Havana,2,0,2,0.0
+Korea - Stage 1,New Era,Havana,4,0,4,0.0
+Korea - Stage 1,T1,Lijiang Tower,3,3,0,1.0
+Korea - Stage 1,ZETA DIVISION,Lijiang Tower,6,6,0,1.0
+Korea - Stage 1,Crazy Raccoon,Lijiang Tower,6,5,1,0.8333
+Korea - Stage 1,Team Falcons,Lijiang Tower,6,3,3,0.5
+Korea - Stage 1,ZAN Esports,Lijiang Tower,5,2,3,0.4
+Korea - Stage 1,RØDE ONSIDE GAMING,Lijiang Tower,5,1,4,0.2
+Korea - Stage 1,Cheeseburger,Lijiang Tower,4,0,4,0.0
+Korea - Stage 1,New Era,Lijiang Tower,2,0,2,0.0
+Korea - Stage 1,Poker Face,Lijiang Tower,3,0,3,0.0
+Korea - Stage 1,Crazy Raccoon,Midtown,1,1,0,1.0
+Korea - Stage 1,Poker Face,Midtown,1,1,0,1.0
+Korea - Stage 1,RØDE ONSIDE GAMING,Midtown,1,1,0,1.0
+Korea - Stage 1,Team Falcons,Midtown,1,1,0,1.0
+Korea - Stage 1,New Era,Midtown,2,0,2,0.0
+Korea - Stage 1,ZAN Esports,Midtown,2,0,2,0.0
+Korea - Stage 1,Crazy Raccoon,Numbani,1,1,0,1.0
+Korea - Stage 1,RØDE ONSIDE GAMING,Numbani,2,2,0,1.0
+Korea - Stage 1,Team Falcons,Numbani,4,3,1,0.75
+Korea - Stage 1,Cheeseburger,Numbani,2,1,1,0.5
+Korea - Stage 1,T1,Numbani,2,1,1,0.5
+Korea - Stage 1,Poker Face,Numbani,5,1,4,0.2
+Korea - Stage 1,ZETA DIVISION,Numbani,2,0,2,0.0
+Korea - Stage 1,Crazy Raccoon,Oasis,2,2,0,1.0
+Korea - Stage 1,RØDE ONSIDE GAMING,Oasis,3,3,0,1.0
+Korea - Stage 1,Team Falcons,Oasis,3,3,0,1.0
+Korea - Stage 1,T1,Oasis,3,2,1,0.6667
+Korea - Stage 1,ZAN Esports,Oasis,2,1,1,0.5
+Korea - Stage 1,ZETA DIVISION,Oasis,2,1,1,0.5
+Korea - Stage 1,Cheeseburger,Oasis,3,0,3,0.0
+Korea - Stage 1,New Era,Oasis,3,0,3,0.0
+Korea - Stage 1,Poker Face,Oasis,3,0,3,0.0
+Korea - Stage 1,Crazy Raccoon,Rialto,3,3,0,1.0
+Korea - Stage 1,T1,Rialto,1,1,0,1.0
+Korea - Stage 1,ZAN Esports,Rialto,2,2,0,1.0
+Korea - Stage 1,ZETA DIVISION,Rialto,2,2,0,1.0
+Korea - Stage 1,Poker Face,Rialto,5,2,3,0.4
+Korea - Stage 1,RØDE ONSIDE GAMING,Rialto,3,1,2,0.3333
+Korea - Stage 1,Cheeseburger,Rialto,2,0,2,0.0
+Korea - Stage 1,New Era,Rialto,2,0,2,0.0
+Korea - Stage 1,Team Falcons,Rialto,2,0,2,0.0
+Korea - Stage 1,Crazy Raccoon,Runasapi,3,3,0,1.0
+Korea - Stage 1,Cheeseburger,Runasapi,2,1,1,0.5
+Korea - Stage 1,Poker Face,Runasapi,2,1,1,0.5
+Korea - Stage 1,RØDE ONSIDE GAMING,Runasapi,8,4,4,0.5
+Korea - Stage 1,Team Falcons,Runasapi,4,2,2,0.5
+Korea - Stage 1,ZETA DIVISION,Runasapi,4,2,2,0.5
+Korea - Stage 1,New Era,Runasapi,1,0,1,0.0
+Korea - Stage 1,T1,Runasapi,1,0,1,0.0
+Korea - Stage 1,ZAN Esports,Runasapi,1,0,1,0.0
+Korea - Stage 1,T1,Suravasa,3,3,0,1.0
+Korea - Stage 1,Team Falcons,Suravasa,2,2,0,1.0
+Korea - Stage 1,ZETA DIVISION,Suravasa,4,3,1,0.75
+Korea - Stage 1,Crazy Raccoon,Suravasa,4,1,3,0.25
+Korea - Stage 1,Cheeseburger,Suravasa,1,0,1,0.0
+Korea - Stage 1,New Era,Suravasa,2,0,2,0.0
+Korea - Stage 1,ZAN Esports,Suravasa,2,0,2,0.0
+Korea - Stage 1,T1,Watchpoint: Gibraltar,1,1,0,1.0
+Korea - Stage 1,ZETA DIVISION,Watchpoint: Gibraltar,3,3,0,1.0
+Korea - Stage 1,RØDE ONSIDE GAMING,Watchpoint: Gibraltar,2,1,1,0.5
+Korea - Stage 1,Team Falcons,Watchpoint: Gibraltar,4,2,2,0.5
+Korea - Stage 1,ZAN Esports,Watchpoint: Gibraltar,3,1,2,0.3333
+Korea - Stage 1,Cheeseburger,Watchpoint: Gibraltar,4,1,3,0.25
+Korea - Stage 1,New Era,Watchpoint: Gibraltar,1,0,1,0.0
+Non-Partner Team Index,Anyone's Legend,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,ENTER FORCE.36,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Geekay Esports,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Homie E,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Lazuli,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,LuneX Gaming,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,MMY,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Milk Tea,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Naive Piggy,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,New Era,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Nyam Gaming,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Please Not Hero Ban,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Poker Face,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Quasar Esports,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Rankers,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,RØDE ONSIDE GAMING,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Solus Victorem,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Team Secret,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,Telomere,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,The Gatos Guapos,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,ZAN Esports,Lijiang Tower,1,1,0,1.0
+Non-Partner Team Index,99DIVINE,Lijiang Tower,2,1,1,0.5
+Non-Partner Team Index,Al Qadsiah,Lijiang Tower,2,1,1,0.5
+Non-Partner Team Index,Cheeseburger,Lijiang Tower,2,1,1,0.5
+Non-Partner Team Index,DEG,Lijiang Tower,2,1,1,0.5
+Non-Partner Team Index,Extinction,Lijiang Tower,2,1,1,0.5
+Non-Partner Team Index,FURY,Lijiang Tower,2,1,1,0.5
+North America - Stage 1,Extinction,Aatlis,1,1,0,1.0
+North America - Stage 1,Spacestation Gaming,Aatlis,4,3,1,0.75
+North America - Stage 1,Dallas Fuel,Aatlis,4,2,2,0.5
+North America - Stage 1,Disguised,Aatlis,2,1,1,0.5
+North America - Stage 1,LuneX Gaming,Aatlis,2,1,1,0.5
+North America - Stage 1,Team Liquid,Aatlis,3,0,3,0.0
+North America - Stage 1,Dallas Fuel,Blizzard World,2,2,0,1.0
+North America - Stage 1,Team Liquid,Blizzard World,4,2,1,0.5
+North America - Stage 1,Spacestation Gaming,Blizzard World,3,1,2,0.3333
+North America - Stage 1,Disguised,Blizzard World,1,0,0,0.0
+North America - Stage 1,Extinction,Blizzard World,1,0,1,0.0
+North America - Stage 1,LuneX Gaming,Blizzard World,1,0,1,0.0
+North America - Stage 1,Dallas Fuel,Busan,4,4,0,1.0
+North America - Stage 1,Spacestation Gaming,Busan,4,2,2,0.5
+North America - Stage 1,Extinction,Busan,1,0,1,0.0
+North America - Stage 1,LuneX Gaming,Busan,1,0,1,0.0
+North America - Stage 1,Team Liquid,Busan,2,0,2,0.0
+North America - Stage 1,Dallas Fuel,Esperança,2,2,0,1.0
+North America - Stage 1,Disguised,Esperança,1,1,0,1.0
+North America - Stage 1,LuneX Gaming,Esperança,1,1,0,1.0
+North America - Stage 1,Team Liquid,Esperança,2,1,1,0.5
+North America - Stage 1,Spacestation Gaming,Esperança,3,1,2,0.3333
+North America - Stage 1,Extinction,Esperança,3,0,3,0.0
+North America - Stage 1,Disguised,Havana,1,1,0,1.0
+North America - Stage 1,Team Liquid,Havana,2,1,1,0.5
+North America - Stage 1,LuneX Gaming,Havana,1,0,1,0.0
+North America - Stage 1,Spacestation Gaming,Lijiang Tower,5,4,1,0.8
+North America - Stage 1,Dallas Fuel,Lijiang Tower,3,2,1,0.6667
+North America - Stage 1,LuneX Gaming,Lijiang Tower,4,2,2,0.5
+North America - Stage 1,Disguised,Lijiang Tower,5,2,3,0.4
+North America - Stage 1,Extinction,Lijiang Tower,3,1,2,0.3333
+North America - Stage 1,Team Liquid,Lijiang Tower,4,1,3,0.25
+North America - Stage 1,Dallas Fuel,Midtown,2,2,0,1.0
+North America - Stage 1,Disguised,Midtown,1,0,1,0.0
+North America - Stage 1,Spacestation Gaming,Midtown,1,0,1,0.0
+North America - Stage 1,Dallas Fuel,Numbani,2,1,0,0.5
+North America - Stage 1,Spacestation Gaming,Numbani,2,1,0,0.5
+North America - Stage 1,Disguised,Numbani,1,0,1,0.0
+North America - Stage 1,Extinction,Numbani,1,0,1,0.0
+North America - Stage 1,Dallas Fuel,Oasis,1,1,0,1.0
+North America - Stage 1,Extinction,Oasis,1,1,0,1.0
+North America - Stage 1,Team Liquid,Oasis,2,1,1,0.5
+North America - Stage 1,LuneX Gaming,Oasis,2,0,2,0.0
+North America - Stage 1,Extinction,Rialto,1,1,0,1.0
+North America - Stage 1,Spacestation Gaming,Rialto,3,2,1,0.6667
+North America - Stage 1,Dallas Fuel,Rialto,3,1,2,0.3333
+North America - Stage 1,Disguised,Rialto,3,1,2,0.3333
+North America - Stage 1,Team Liquid,Runasapi,4,3,1,0.75
+North America - Stage 1,Dallas Fuel,Runasapi,3,2,1,0.6667
+North America - Stage 1,Disguised,Runasapi,2,1,1,0.5
+North America - Stage 1,LuneX Gaming,Runasapi,5,2,3,0.4
+North America - Stage 1,Spacestation Gaming,Runasapi,4,1,3,0.25
+North America - Stage 1,Spacestation Gaming,Suravasa,5,4,1,0.8
+North America - Stage 1,Dallas Fuel,Suravasa,4,3,1,0.75
+North America - Stage 1,LuneX Gaming,Suravasa,4,3,1,0.75
+North America - Stage 1,Extinction,Suravasa,4,1,3,0.25
+North America - Stage 1,Disguised,Suravasa,2,0,2,0.0
+North America - Stage 1,Team Liquid,Suravasa,3,0,3,0.0
+North America - Stage 1,Dallas Fuel,Watchpoint: Gibraltar,3,3,0,1.0
+North America - Stage 1,Disguised,Watchpoint: Gibraltar,1,1,0,1.0
+North America - Stage 1,Team Liquid,Watchpoint: Gibraltar,5,4,1,0.8
+North America - Stage 1,Spacestation Gaming,Watchpoint: Gibraltar,4,1,3,0.25
+North America - Stage 1,Extinction,Watchpoint: Gibraltar,1,0,1,0.0
+North America - Stage 1,LuneX Gaming,Watchpoint: Gibraltar,4,0,4,0.0
+Pacific - Stage 1,Rankers,Aatlis,1,1,0,1.0
+Pacific - Stage 1,Team Secret,Aatlis,2,2,0,1.0
+Pacific - Stage 1,The Gatos Guapos,Aatlis,2,1,1,0.5
+Pacific - Stage 1,FURY,Aatlis,2,0,2,0.0
+Pacific - Stage 1,MieMieYang,Aatlis,1,0,1,0.0
+Pacific - Stage 1,Quasar Esports,Blizzard World,1,1,0,1.0
+Pacific - Stage 1,Rankers,Blizzard World,1,1,0,1.0
+Pacific - Stage 1,The Gatos Guapos,Blizzard World,1,1,0,1.0
+Pacific - Stage 1,MieMieYang,Blizzard World,2,0,2,0.0
+Pacific - Stage 1,Team Secret,Blizzard World,1,0,1,0.0
+Pacific - Stage 1,MieMieYang,Busan,1,1,0,1.0
+Pacific - Stage 1,Team Secret,Busan,2,2,0,1.0
+Pacific - Stage 1,Rankers,Busan,3,2,1,0.6667
+Pacific - Stage 1,The Gatos Guapos,Busan,2,1,1,0.5
+Pacific - Stage 1,FURY,Busan,1,0,1,0.0
+Pacific - Stage 1,Quasar Esports,Busan,3,0,3,0.0
+Pacific - Stage 1,MieMieYang,Esperança,1,1,0,1.0
+Pacific - Stage 1,Team Secret,Esperança,1,1,0,1.0
+Pacific - Stage 1,The Gatos Guapos,Esperança,1,1,0,1.0
+Pacific - Stage 1,Rankers,Esperança,4,2,2,0.5
+Pacific - Stage 1,FURY,Esperança,1,0,1,0.0
+Pacific - Stage 1,Quasar Esports,Esperança,2,0,2,0.0
+Pacific - Stage 1,Rankers,Lijiang Tower,3,3,0,1.0
+Pacific - Stage 1,Team Secret,Lijiang Tower,1,1,0,1.0
+Pacific - Stage 1,The Gatos Guapos,Lijiang Tower,2,2,0,1.0
+Pacific - Stage 1,FURY,Lijiang Tower,2,1,1,0.5
+Pacific - Stage 1,MieMieYang,Lijiang Tower,4,0,4,0.0
+Pacific - Stage 1,Quasar Esports,Lijiang Tower,2,0,2,0.0
+Pacific - Stage 1,Team Secret,Midtown,1,1,0,1.0
+Pacific - Stage 1,FURY,Midtown,2,1,1,0.5
+Pacific - Stage 1,Quasar Esports,Midtown,1,0,1,0.0
+Pacific - Stage 1,The Gatos Guapos,Numbani,1,1,0,1.0
+Pacific - Stage 1,Quasar Esports,Numbani,2,1,1,0.5
+Pacific - Stage 1,Rankers,Numbani,2,1,1,0.5
+Pacific - Stage 1,FURY,Numbani,1,0,1,0.0
+Pacific - Stage 1,MieMieYang,Oasis,1,1,0,1.0
+Pacific - Stage 1,Quasar Esports,Oasis,1,1,0,1.0
+Pacific - Stage 1,The Gatos Guapos,Oasis,1,1,0,1.0
+Pacific - Stage 1,Team Secret,Oasis,2,1,1,0.5
+Pacific - Stage 1,FURY,Oasis,2,0,2,0.0
+Pacific - Stage 1,Rankers,Oasis,1,0,1,0.0
+Pacific - Stage 1,FURY,Rialto,1,1,0,1.0
+Pacific - Stage 1,Team Secret,Rialto,2,2,0,1.0
+Pacific - Stage 1,Rankers,Rialto,3,2,1,0.6667
+Pacific - Stage 1,The Gatos Guapos,Rialto,2,1,1,0.5
+Pacific - Stage 1,MieMieYang,Rialto,4,0,4,0.0
+Pacific - Stage 1,FURY,Runasapi,1,1,0,1.0
+Pacific - Stage 1,Quasar Esports,Runasapi,1,1,0,1.0
+Pacific - Stage 1,MieMieYang,Runasapi,2,0,2,0.0
+Pacific - Stage 1,The Gatos Guapos,Suravasa,2,2,0,1.0
+Pacific - Stage 1,Quasar Esports,Suravasa,2,1,1,0.5
+Pacific - Stage 1,Team Secret,Suravasa,2,1,1,0.5
+Pacific - Stage 1,FURY,Suravasa,1,0,1,0.0
+Pacific - Stage 1,MieMieYang,Suravasa,1,0,1,0.0
+Pacific - Stage 1,Team Secret,Watchpoint: Gibraltar,1,1,0,1.0
+Pacific - Stage 1,The Gatos Guapos,Watchpoint: Gibraltar,1,1,0,1.0
+Pacific - Stage 1,Quasar Esports,Watchpoint: Gibraltar,4,3,1,0.75
+Pacific - Stage 1,FURY,Watchpoint: Gibraltar,2,0,2,0.0
+Pacific - Stage 1,MieMieYang,Watchpoint: Gibraltar,1,0,1,0.0
+Pacific - Stage 1,Rankers,Watchpoint: Gibraltar,1,0,1,0.0
+Partner Team Index,Disguised,Lijiang Tower,1,1,0,1.0
+Partner Team Index,JD Gaming,Lijiang Tower,1,1,0,1.0
+Partner Team Index,Spacestation Gaming,Lijiang Tower,1,1,0,1.0
+Partner Team Index,T1,Lijiang Tower,1,1,0,1.0
+Partner Team Index,Team Falcons,Lijiang Tower,1,1,0,1.0
+Partner Team Index,Team Liquid,Lijiang Tower,1,1,0,1.0
+Partner Team Index,Twisted Minds,Lijiang Tower,1,1,0,1.0
+Partner Team Index,Virtus.pro,Lijiang Tower,1,1,0,1.0
+Partner Team Index,Weibo Gaming,Lijiang Tower,1,1,0,1.0
+Partner Team Index,ZETA DIVISION,Lijiang Tower,1,1,0,1.0
+Partner Team Index,All Gamers,Lijiang Tower,2,1,1,0.5
+Partner Team Index,Crazy Raccoon,Lijiang Tower,2,1,1,0.5
+Partner Team Index,Dallas Fuel,Lijiang Tower,2,1,1,0.5
+Partner Team Index,Team Peps,Lijiang Tower,2,1,1,0.5
+Pre-Season Bootcamp,Twisted Minds,Blizzard World,2,2,0,1.0
+Pre-Season Bootcamp,Crazy Raccoon,Blizzard World,3,2,1,0.6667
+Pre-Season Bootcamp,T1,Blizzard World,1,0,1,0.0
+Pre-Season Bootcamp,Team Falcons,Blizzard World,1,0,1,0.0
+Pre-Season Bootcamp,Team Peps,Blizzard World,1,0,1,0.0
+Pre-Season Bootcamp,Twisted Minds,Busan,2,2,0,1.0
+Pre-Season Bootcamp,Crazy Raccoon,Busan,3,2,1,0.6667
+Pre-Season Bootcamp,T1,Busan,1,0,1,0.0
+Pre-Season Bootcamp,Team Falcons,Busan,1,0,1,0.0
+Pre-Season Bootcamp,Team Peps,Busan,1,0,1,0.0
+Pre-Season Bootcamp,Twisted Minds,Colosseo,2,2,0,1.0
+Pre-Season Bootcamp,Crazy Raccoon,Colosseo,1,0,1,0.0
+Pre-Season Bootcamp,Team Liquid,Colosseo,1,0,1,0.0
+Pre-Season Bootcamp,Twisted Minds,Eichenwalde,1,1,0,1.0
+Pre-Season Bootcamp,Team Liquid,Eichenwalde,2,1,1,0.5
+Pre-Season Bootcamp,Virtus.pro,Eichenwalde,2,1,1,0.5
+Pre-Season Bootcamp,All Gamers,Eichenwalde,1,0,1,0.0
+Pre-Season Bootcamp,Team Falcons,Esperança,2,2,0,1.0
+Pre-Season Bootcamp,Team Liquid,Esperança,1,1,0,1.0
+Pre-Season Bootcamp,Team Peps,Esperança,2,2,0,1.0
+Pre-Season Bootcamp,Twisted Minds,Esperança,2,1,1,0.5
+Pre-Season Bootcamp,Crazy Raccoon,Esperança,3,0,3,0.0
+Pre-Season Bootcamp,Disguised,Esperança,1,0,1,0.0
+Pre-Season Bootcamp,Weibo Gaming,Esperança,1,0,1,0.0
+Pre-Season Bootcamp,Dallas Fuel,Havana,1,1,0,1.0
+Pre-Season Bootcamp,Twisted Minds,Havana,1,1,0,1.0
+Pre-Season Bootcamp,Weibo Gaming,Havana,1,1,0,1.0
+Pre-Season Bootcamp,Team Liquid,Havana,2,1,1,0.5
+Pre-Season Bootcamp,T1,Havana,1,0,1,0.0
+Pre-Season Bootcamp,Team Falcons,Havana,1,0,1,0.0
+Pre-Season Bootcamp,Virtus.pro,Havana,1,0,1,0.0
+Pre-Season Bootcamp,Disguised,Ilios,1,1,0,1.0
+Pre-Season Bootcamp,Team Falcons,Ilios,1,1,0,1.0
+Pre-Season Bootcamp,Virtus.pro,Ilios,1,1,0,1.0
+Pre-Season Bootcamp,All Gamers,Ilios,1,0,1,0.0
+Pre-Season Bootcamp,Team Peps,Ilios,1,0,1,0.0
+Pre-Season Bootcamp,Weibo Gaming,Ilios,1,0,1,0.0
+Pre-Season Bootcamp,Crazy Raccoon,Lijiang Tower,1,1,0,1.0
+Pre-Season Bootcamp,T1,Lijiang Tower,1,1,0,1.0
+Pre-Season Bootcamp,Team Liquid,Lijiang Tower,2,2,0,1.0
+Pre-Season Bootcamp,Team Falcons,Lijiang Tower,2,1,1,0.5
+Pre-Season Bootcamp,Dallas Fuel,Lijiang Tower,1,0,1,0.0
+Pre-Season Bootcamp,Twisted Minds,Lijiang Tower,1,0,1,0.0
+Pre-Season Bootcamp,VARREL,Lijiang Tower,1,0,1,0.0
+Pre-Season Bootcamp,Virtus.pro,Lijiang Tower,1,0,1,0.0
+Pre-Season Bootcamp,T1,Midtown,1,1,0,1.0
+Pre-Season Bootcamp,Weibo Gaming,Midtown,1,1,0,1.0
+Pre-Season Bootcamp,Team Falcons,Midtown,2,1,1,0.5
+Pre-Season Bootcamp,Dallas Fuel,Midtown,1,0,1,0.0
+Pre-Season Bootcamp,Disguised,Midtown,1,0,0,0.0
+Pre-Season Bootcamp,Team Peps,Midtown,1,0,0,0.0
+Pre-Season Bootcamp,VARREL,Midtown,1,0,1,0.0
+Pre-Season Bootcamp,Team Peps,New Junk City,1,1,0,1.0
+Pre-Season Bootcamp,Twisted Minds,New Junk City,1,1,0,1.0
+Pre-Season Bootcamp,Virtus.pro,New Junk City,1,1,0,1.0
+Pre-Season Bootcamp,T1,New Junk City,2,1,1,0.5
+Pre-Season Bootcamp,Dallas Fuel,New Junk City,1,0,1,0.0
+Pre-Season Bootcamp,Disguised,New Junk City,1,0,1,0.0
+Pre-Season Bootcamp,Team Liquid,New Junk City,1,0,1,0.0
+Pre-Season Bootcamp,Crazy Raccoon,Shambali Monastery,2,2,0,1.0
+Pre-Season Bootcamp,Disguised,Shambali Monastery,1,1,0,1.0
+Pre-Season Bootcamp,Team Falcons,Shambali Monastery,2,2,0,1.0
+Pre-Season Bootcamp,Virtus.pro,Shambali Monastery,1,1,0,1.0
+Pre-Season Bootcamp,All Gamers,Shambali Monastery,1,0,1,0.0
+Pre-Season Bootcamp,Team Peps,Shambali Monastery,2,0,2,0.0
+Pre-Season Bootcamp,Twisted Minds,Shambali Monastery,1,0,1,0.0
+Pre-Season Bootcamp,VARREL,Shambali Monastery,1,0,1,0.0
+Pre-Season Bootcamp,Weibo Gaming,Shambali Monastery,1,0,1,0.0
+Pre-Season Bootcamp,Team Falcons,Watchpoint: Gibraltar,1,1,0,1.0
+Pre-Season Bootcamp,Team Peps,Watchpoint: Gibraltar,1,1,0,1.0
+Pre-Season Bootcamp,Crazy Raccoon,Watchpoint: Gibraltar,1,0,1,0.0
+Pre-Season Bootcamp,Disguised,Watchpoint: Gibraltar,1,0,1,0.0

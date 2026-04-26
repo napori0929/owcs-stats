@@ -1,0 +1,332 @@
+tournament_sheet,hero_name,matches_played,wins,losses,win_rate
+China - Stage 1,Lifeweaver,3,3,0,1.0
+China - Stage 1,Reinhardt,9,6,3,0.6667
+China - Stage 1,Winston,21,12,9,0.5714
+China - Stage 1,Wrecking Ball,23,13,10,0.5652
+China - Stage 1,Widowmaker,43,24,19,0.5581
+China - Stage 1,Jetpack Cat,51,28,23,0.549
+China - Stage 1,Hanzo,11,6,5,0.5455
+China - Stage 1,Ana,59,32,27,0.5424
+China - Stage 1,Zarya,78,40,38,0.5128
+China - Stage 1,Emre,144,73,71,0.5069
+China - Stage 1,Lúcio,155,78,77,0.5032
+China - Stage 1,Echo,10,5,5,0.5
+China - Stage 1,Freja,6,3,3,0.5
+China - Stage 1,Bastion,41,20,21,0.4878
+China - Stage 1,Kiriko,206,100,106,0.4854
+China - Stage 1,Mauga,33,16,17,0.4848
+China - Stage 1,Symmetra,137,66,71,0.4818
+China - Stage 1,Vendetta,106,51,55,0.4811
+China - Stage 1,Reaper,25,12,13,0.48
+China - Stage 1,Sojourn,96,46,50,0.4792
+China - Stage 1,Hazard,38,18,20,0.4737
+China - Stage 1,Juno,112,53,59,0.4732
+China - Stage 1,D.Va,91,43,48,0.4725
+China - Stage 1,Tracer,144,66,78,0.4583
+China - Stage 1,Brigitte,62,28,34,0.4516
+China - Stage 1,Genji,14,6,8,0.4286
+China - Stage 1,Sierra,7,3,4,0.4286
+China - Stage 1,Pharah,36,15,21,0.4167
+China - Stage 1,Wuyang,34,14,20,0.4118
+China - Stage 1,Orisa,39,15,24,0.3846
+China - Stage 1,Soldier: 76,8,3,5,0.375
+China - Stage 1,Baptiste,30,11,19,0.3667
+China - Stage 1,Illari,28,10,18,0.3571
+China - Stage 1,Ramattra,29,10,19,0.3448
+China - Stage 1,Mercy,9,3,6,0.3333
+China - Stage 1,Zenyatta,3,1,2,0.3333
+China - Stage 1,Cassidy,46,15,31,0.3261
+China - Stage 1,Mei,28,9,19,0.3214
+China - Stage 1,Venture,15,4,11,0.2667
+China - Stage 1,Anran,4,1,3,0.25
+China - Stage 1,Doomfist,25,6,19,0.24
+China - Stage 1,Sigma,22,5,17,0.2273
+China - Stage 1,Junker Queen,6,1,5,0.1667
+China - Stage 1,Ashe,6,0,6,0.0
+China - Stage 1,Mizuki,3,0,3,0.0
+China - Stage 1,Roadhog,4,0,4,0.0
+EMEA - Stage 1,Bastion,2,2,0,1.0
+EMEA - Stage 1,Cassidy,2,2,0,1.0
+EMEA - Stage 1,Hanzo,1,1,0,1.0
+EMEA - Stage 1,Mercy,3,3,0,1.0
+EMEA - Stage 1,Sombra,1,1,0,1.0
+EMEA - Stage 1,Orisa,6,4,2,0.6667
+EMEA - Stage 1,Ramattra,3,2,1,0.6667
+EMEA - Stage 1,Ana,11,7,4,0.6364
+EMEA - Stage 1,Baptiste,5,3,2,0.6
+EMEA - Stage 1,Pharah,37,21,16,0.5676
+EMEA - Stage 1,Widowmaker,36,19,17,0.5278
+EMEA - Stage 1,Lúcio,117,61,56,0.5214
+EMEA - Stage 1,Kiriko,126,64,62,0.5079
+EMEA - Stage 1,Emre,138,70,68,0.5072
+EMEA - Stage 1,D.Va,50,25,25,0.5
+EMEA - Stage 1,Illari,12,6,6,0.5
+EMEA - Stage 1,Lifeweaver,4,2,2,0.5
+EMEA - Stage 1,Sigma,4,2,2,0.5
+EMEA - Stage 1,Zenyatta,6,3,3,0.5
+EMEA - Stage 1,Zarya,104,51,53,0.4904
+EMEA - Stage 1,Vendetta,94,44,50,0.4681
+EMEA - Stage 1,Juno,89,40,49,0.4494
+EMEA - Stage 1,Tracer,95,42,53,0.4421
+EMEA - Stage 1,Symmetra,42,18,24,0.4286
+EMEA - Stage 1,Brigitte,38,16,22,0.4211
+EMEA - Stage 1,Jetpack Cat,15,6,9,0.4
+EMEA - Stage 1,Mauga,26,10,16,0.3846
+EMEA - Stage 1,Wrecking Ball,23,8,15,0.3478
+EMEA - Stage 1,Domina,3,1,2,0.3333
+EMEA - Stage 1,Genji,3,1,2,0.3333
+EMEA - Stage 1,Hazard,13,4,9,0.3077
+EMEA - Stage 1,Sojourn,30,8,22,0.2667
+EMEA - Stage 1,Echo,10,2,8,0.2
+EMEA - Stage 1,Wuyang,6,1,5,0.1667
+EMEA - Stage 1,Doomfist,8,1,7,0.125
+EMEA - Stage 1,Freja,1,0,1,0.0
+EMEA - Stage 1,Mizuki,1,0,1,0.0
+EMEA - Stage 1,Reaper,1,0,1,0.0
+EMEA - Stage 1,Soldier: 76,1,0,1,0.0
+EMEA - Stage 1,Winston,5,0,5,0.0
+Japan - Stage 1,Anran,1,1,0,1.0
+Japan - Stage 1,Pharah,11,7,4,0.6364
+Japan - Stage 1,Hanzo,5,3,2,0.6
+Japan - Stage 1,Jetpack Cat,35,21,14,0.6
+Japan - Stage 1,Orisa,42,25,17,0.5952
+Japan - Stage 1,Illari,26,15,11,0.5769
+Japan - Stage 1,Genji,14,8,6,0.5714
+Japan - Stage 1,Hazard,44,25,19,0.5682
+Japan - Stage 1,Vendetta,95,48,47,0.5053
+Japan - Stage 1,Ana,58,29,29,0.5
+Japan - Stage 1,Domina,2,1,1,0.5
+Japan - Stage 1,Venture,4,2,2,0.5
+Japan - Stage 1,Wrecking Ball,22,11,11,0.5
+Japan - Stage 1,Emre,140,69,71,0.4929
+Japan - Stage 1,Echo,29,14,15,0.4828
+Japan - Stage 1,D.Va,96,45,51,0.4688
+Japan - Stage 1,Symmetra,135,61,74,0.4519
+Japan - Stage 1,Mizuki,18,8,10,0.4444
+Japan - Stage 1,Wuyang,55,24,31,0.4364
+Japan - Stage 1,Tracer,137,59,78,0.4307
+Japan - Stage 1,Kiriko,170,73,97,0.4294
+Japan - Stage 1,Winston,36,15,21,0.4167
+Japan - Stage 1,Lifeweaver,10,4,6,0.4
+Japan - Stage 1,Ramattra,40,16,24,0.4
+Japan - Stage 1,Torbjörn,5,2,3,0.4
+Japan - Stage 1,Widowmaker,40,16,24,0.4
+Japan - Stage 1,Cassidy,78,31,47,0.3974
+Japan - Stage 1,Zarya,50,19,31,0.38
+Japan - Stage 1,Juno,84,31,53,0.369
+Japan - Stage 1,Mauga,18,6,12,0.3333
+Japan - Stage 1,Lúcio,100,33,67,0.33
+Japan - Stage 1,Brigitte,67,21,46,0.3134
+Japan - Stage 1,Doomfist,10,3,7,0.3
+Japan - Stage 1,Baptiste,34,10,24,0.2941
+Japan - Stage 1,Ashe,7,2,5,0.2857
+Japan - Stage 1,Roadhog,7,2,5,0.2857
+Japan - Stage 1,Sojourn,65,17,48,0.2615
+Japan - Stage 1,Sigma,24,6,18,0.25
+Japan - Stage 1,Mei,18,4,14,0.2222
+Japan - Stage 1,Freja,5,1,4,0.2
+Japan - Stage 1,Mercy,5,1,4,0.2
+Japan - Stage 1,Reinhardt,6,1,5,0.1667
+Japan - Stage 1,Bastion,11,1,10,0.0909
+Japan - Stage 1,Junker Queen,1,0,1,0.0
+Japan - Stage 1,Moira,6,0,6,0.0
+Japan - Stage 1,Reaper,3,0,3,0.0
+Japan - Stage 1,Soldier: 76,3,0,3,0.0
+Japan - Stage 1,Sombra,3,0,3,0.0
+Japan - Stage 1,Zenyatta,2,0,2,0.0
+Korea - Stage 1,Ashe,2,2,0,1.0
+Korea - Stage 1,Mercy,4,3,1,0.75
+Korea - Stage 1,Roadhog,4,3,1,0.75
+Korea - Stage 1,Mizuki,3,2,1,0.6667
+Korea - Stage 1,Pharah,53,34,19,0.6415
+Korea - Stage 1,Illari,25,15,10,0.6
+Korea - Stage 1,Bastion,48,28,20,0.5833
+Korea - Stage 1,Jetpack Cat,73,42,31,0.5753
+Korea - Stage 1,Sierra,7,4,3,0.5714
+Korea - Stage 1,Mei,30,17,13,0.5667
+Korea - Stage 1,Juno,115,65,50,0.5652
+Korea - Stage 1,Echo,24,13,11,0.5417
+Korea - Stage 1,Ana,91,49,42,0.5385
+Korea - Stage 1,Ramattra,26,14,12,0.5385
+Korea - Stage 1,D.Va,131,70,61,0.5344
+Korea - Stage 1,Symmetra,180,94,86,0.5222
+Korea - Stage 1,Domina,6,3,3,0.5
+Korea - Stage 1,Freja,2,1,1,0.5
+Korea - Stage 1,Hanzo,14,7,7,0.5
+Korea - Stage 1,Junker Queen,2,1,1,0.5
+Korea - Stage 1,Moira,2,1,1,0.5
+Korea - Stage 1,Reinhardt,4,2,2,0.5
+Korea - Stage 1,Sombra,10,5,5,0.5
+Korea - Stage 1,Emre,163,80,83,0.4908
+Korea - Stage 1,Wuyang,31,15,16,0.4839
+Korea - Stage 1,Tracer,189,91,98,0.4815
+Korea - Stage 1,Vendetta,121,58,63,0.4793
+Korea - Stage 1,Mauga,38,18,20,0.4737
+Korea - Stage 1,Genji,36,17,19,0.4722
+Korea - Stage 1,Lúcio,206,97,109,0.4709
+Korea - Stage 1,Sigma,15,7,8,0.4667
+Korea - Stage 1,Kiriko,223,104,119,0.4664
+Korea - Stage 1,Zarya,108,50,58,0.463
+Korea - Stage 1,Reaper,13,6,7,0.4615
+Korea - Stage 1,Winston,29,13,16,0.4483
+Korea - Stage 1,Wrecking Ball,43,19,24,0.4419
+Korea - Stage 1,Sojourn,121,53,68,0.438
+Korea - Stage 1,Widowmaker,53,23,30,0.434
+Korea - Stage 1,Lifeweaver,7,3,4,0.4286
+Korea - Stage 1,Cassidy,50,21,29,0.42
+Korea - Stage 1,Orisa,31,13,18,0.4194
+Korea - Stage 1,Hazard,49,20,29,0.4082
+Korea - Stage 1,Baptiste,20,8,12,0.4
+Korea - Stage 1,Brigitte,68,25,43,0.3676
+Korea - Stage 1,Zenyatta,6,2,4,0.3333
+Korea - Stage 1,Doomfist,31,10,21,0.3226
+Korea - Stage 1,Venture,17,5,12,0.2941
+Korea - Stage 1,Torbjörn,4,1,3,0.25
+Korea - Stage 1,Anran,5,1,4,0.2
+Korea - Stage 1,Soldier: 76,1,0,1,0.0
+Non-Partner Team Index,Ana,54,12,42,0.2222
+Non-Partner Team Index,Genji,54,12,42,0.2222
+Non-Partner Team Index,Lúcio,54,12,42,0.2222
+Non-Partner Team Index,Tracer,54,12,42,0.2222
+Non-Partner Team Index,Winston,54,12,42,0.2222
+North America - Stage 1,Anran,1,1,0,1.0
+North America - Stage 1,Bastion,2,2,0,1.0
+North America - Stage 1,Junkrat,1,1,0,1.0
+North America - Stage 1,Mercy,4,4,0,1.0
+North America - Stage 1,Torbjörn,1,1,0,1.0
+North America - Stage 1,Hanzo,7,5,2,0.7143
+North America - Stage 1,Venture,7,5,2,0.7143
+North America - Stage 1,Wuyang,21,15,6,0.7143
+North America - Stage 1,Winston,19,13,6,0.6842
+North America - Stage 1,Ana,21,14,7,0.6667
+North America - Stage 1,Domina,6,4,2,0.6667
+North America - Stage 1,Mizuki,3,2,1,0.6667
+North America - Stage 1,Sombra,3,2,1,0.6667
+North America - Stage 1,Sigma,11,7,4,0.6364
+North America - Stage 1,Illari,17,10,7,0.5882
+North America - Stage 1,Widowmaker,36,19,17,0.5278
+North America - Stage 1,Pharah,19,10,9,0.5263
+North America - Stage 1,Wrecking Ball,25,13,12,0.52
+North America - Stage 1,Sojourn,64,33,31,0.5156
+North America - Stage 1,Ashe,4,2,2,0.5
+North America - Stage 1,Hazard,4,2,2,0.5
+North America - Stage 1,Reinhardt,4,2,2,0.5
+North America - Stage 1,Symmetra,79,39,40,0.4937
+North America - Stage 1,Kiriko,124,61,63,0.4919
+North America - Stage 1,Brigitte,51,25,26,0.4902
+North America - Stage 1,Cassidy,42,20,22,0.4762
+North America - Stage 1,Vendetta,53,25,28,0.4717
+North America - Stage 1,Genji,11,5,6,0.4545
+North America - Stage 1,Ramattra,22,10,12,0.4545
+North America - Stage 1,Lúcio,100,45,55,0.45
+North America - Stage 1,Emre,94,41,53,0.4362
+North America - Stage 1,D.Va,69,30,39,0.4348
+North America - Stage 1,Juno,79,34,45,0.4304
+North America - Stage 1,Zarya,35,15,20,0.4286
+North America - Stage 1,Tracer,115,49,66,0.4261
+North America - Stage 1,Reaper,5,2,3,0.4
+North America - Stage 1,Baptiste,13,5,8,0.3846
+North America - Stage 1,Mauga,13,5,8,0.3846
+North America - Stage 1,Jetpack Cat,29,11,18,0.3793
+North America - Stage 1,Orisa,32,12,20,0.375
+North America - Stage 1,Echo,11,4,7,0.3636
+North America - Stage 1,Moira,3,1,2,0.3333
+North America - Stage 1,Zenyatta,4,1,3,0.25
+North America - Stage 1,Doomfist,11,2,9,0.1818
+North America - Stage 1,Freja,6,1,5,0.1667
+North America - Stage 1,Lifeweaver,1,0,1,0.0
+North America - Stage 1,Mei,1,0,1,0.0
+North America - Stage 1,Roadhog,1,0,1,0.0
+North America - Stage 1,Soldier: 76,1,0,1,0.0
+Pacific - Stage 1,Moira,1,1,0,1.0
+Pacific - Stage 1,Reinhardt,2,2,0,1.0
+Pacific - Stage 1,Roadhog,1,1,0,1.0
+Pacific - Stage 1,Sierra,1,1,0,1.0
+Pacific - Stage 1,Hazard,6,5,1,0.8333
+Pacific - Stage 1,Anran,5,4,1,0.8
+Pacific - Stage 1,Genji,5,4,1,0.8
+Pacific - Stage 1,Ashe,3,2,1,0.6667
+Pacific - Stage 1,Illari,34,22,12,0.6471
+Pacific - Stage 1,Baptiste,14,9,5,0.6429
+Pacific - Stage 1,Wrecking Ball,16,10,6,0.625
+Pacific - Stage 1,Cassidy,21,12,9,0.5714
+Pacific - Stage 1,Symmetra,53,30,23,0.566
+Pacific - Stage 1,Ana,36,20,16,0.5556
+Pacific - Stage 1,Reaper,18,10,8,0.5556
+Pacific - Stage 1,Mizuki,17,9,8,0.5294
+Pacific - Stage 1,Juno,21,11,10,0.5238
+Pacific - Stage 1,Emre,55,28,27,0.5091
+Pacific - Stage 1,Domina,2,1,1,0.5
+Pacific - Stage 1,Mei,2,1,1,0.5
+Pacific - Stage 1,Mercy,2,1,1,0.5
+Pacific - Stage 1,Soldier: 76,2,1,1,0.5
+Pacific - Stage 1,Zenyatta,2,1,1,0.5
+Pacific - Stage 1,Tracer,76,37,39,0.4868
+Pacific - Stage 1,Zarya,28,13,15,0.4643
+Pacific - Stage 1,Kiriko,82,38,44,0.4634
+Pacific - Stage 1,Brigitte,20,9,11,0.45
+Pacific - Stage 1,D.Va,60,27,33,0.45
+Pacific - Stage 1,Wuyang,9,4,5,0.4444
+Pacific - Stage 1,Lúcio,52,23,29,0.4423
+Pacific - Stage 1,Echo,14,6,8,0.4286
+Pacific - Stage 1,Winston,12,5,7,0.4167
+Pacific - Stage 1,Widowmaker,17,7,10,0.4118
+Pacific - Stage 1,Sojourn,47,18,29,0.383
+Pacific - Stage 1,Vendetta,21,8,13,0.381
+Pacific - Stage 1,Hanzo,9,3,6,0.3333
+Pacific - Stage 1,Mauga,6,2,4,0.3333
+Pacific - Stage 1,Venture,3,1,2,0.3333
+Pacific - Stage 1,Jetpack Cat,13,4,9,0.3077
+Pacific - Stage 1,Pharah,11,3,8,0.2727
+Pacific - Stage 1,Ramattra,9,2,7,0.2222
+Pacific - Stage 1,Doomfist,5,1,4,0.2
+Pacific - Stage 1,Orisa,8,1,7,0.125
+Pacific - Stage 1,Bastion,4,0,4,0.0
+Pacific - Stage 1,Sigma,1,0,1,0.0
+Pacific - Stage 1,Sombra,4,0,4,0.0
+Pacific - Stage 1,Torbjörn,2,0,2,0.0
+Partner Team Index,Ana,28,8,20,0.2857
+Partner Team Index,Genji,28,8,20,0.2857
+Partner Team Index,Lúcio,28,8,20,0.2857
+Partner Team Index,Tracer,28,8,20,0.2857
+Partner Team Index,Winston,28,8,20,0.2857
+Pre-Season Bootcamp,Lifeweaver,2,2,0,1.0
+Pre-Season Bootcamp,Hanzo,5,3,2,0.6
+Pre-Season Bootcamp,Juno,15,9,6,0.6
+Pre-Season Bootcamp,Pharah,5,3,2,0.6
+Pre-Season Bootcamp,Wrecking Ball,7,4,3,0.5714
+Pre-Season Bootcamp,Symmetra,15,8,7,0.5333
+Pre-Season Bootcamp,Lúcio,47,25,22,0.5319
+Pre-Season Bootcamp,D.Va,33,17,16,0.5152
+Pre-Season Bootcamp,Echo,8,4,4,0.5
+Pre-Season Bootcamp,Genji,6,3,3,0.5
+Pre-Season Bootcamp,Illari,8,4,4,0.5
+Pre-Season Bootcamp,Kiriko,64,32,32,0.5
+Pre-Season Bootcamp,Mercy,2,1,1,0.5
+Pre-Season Bootcamp,Reinhardt,2,1,1,0.5
+Pre-Season Bootcamp,Sigma,8,4,4,0.5
+Pre-Season Bootcamp,Torbjörn,2,1,1,0.5
+Pre-Season Bootcamp,Venture,2,1,1,0.5
+Pre-Season Bootcamp,Widowmaker,18,9,9,0.5
+Pre-Season Bootcamp,Zarya,16,8,8,0.5
+Pre-Season Bootcamp,Sojourn,63,31,32,0.4921
+Pre-Season Bootcamp,Anran,23,11,12,0.4783
+Pre-Season Bootcamp,Emre,23,11,12,0.4783
+Pre-Season Bootcamp,Mizuki,23,11,12,0.4783
+Pre-Season Bootcamp,Tracer,44,21,23,0.4773
+Pre-Season Bootcamp,Jetpack Cat,47,22,25,0.4681
+Pre-Season Bootcamp,Domina,57,26,31,0.4561
+Pre-Season Bootcamp,Vendetta,33,15,18,0.4545
+Pre-Season Bootcamp,Brigitte,7,3,4,0.4286
+Pre-Season Bootcamp,Cassidy,14,6,8,0.4286
+Pre-Season Bootcamp,Wuyang,17,7,10,0.4118
+Pre-Season Bootcamp,Ashe,5,2,3,0.4
+Pre-Season Bootcamp,Freja,5,2,3,0.4
+Pre-Season Bootcamp,Ana,9,3,6,0.3333
+Pre-Season Bootcamp,Winston,3,1,2,0.3333
+Pre-Season Bootcamp,Baptiste,11,3,8,0.2727
+Pre-Season Bootcamp,Zenyatta,4,1,3,0.25
+Pre-Season Bootcamp,Bastion,1,0,1,0.0
+Pre-Season Bootcamp,Mei,1,0,1,0.0
+Pre-Season Bootcamp,Ramattra,4,0,4,0.0
+Pre-Season Bootcamp,Sombra,2,0,2,0.0

@@ -1,0 +1,1407 @@
+team_name,hero_name,matches_played,wins,losses,win_rate
+99DIVINE,Roadhog,1,1,0,1.0
+99DIVINE,Pharah,3,2,1,0.6667
+99DIVINE,Echo,7,4,3,0.5714
+99DIVINE,Mizuki,4,2,2,0.5
+99DIVINE,Orisa,4,2,2,0.5
+99DIVINE,Wuyang,9,4,5,0.4444
+99DIVINE,Kiriko,28,12,16,0.4286
+99DIVINE,Ana,20,8,12,0.4
+99DIVINE,Winston,18,7,11,0.3889
+99DIVINE,Emre,26,10,16,0.3846
+99DIVINE,Vendetta,8,3,5,0.375
+99DIVINE,Tracer,30,11,19,0.3667
+99DIVINE,Symmetra,12,4,8,0.3333
+99DIVINE,Wrecking Ball,6,2,4,0.3333
+99DIVINE,D.Va,13,4,9,0.3077
+99DIVINE,Cassidy,10,3,7,0.3
+99DIVINE,Jetpack Cat,7,2,5,0.2857
+99DIVINE,Mauga,4,1,3,0.25
+99DIVINE,Juno,13,3,10,0.2308
+99DIVINE,Lúcio,19,4,15,0.2105
+99DIVINE,Hazard,10,2,8,0.2
+99DIVINE,Genji,6,1,5,0.1667
+99DIVINE,Sojourn,7,1,6,0.1429
+99DIVINE,Brigitte,9,1,8,0.1111
+99DIVINE,Zarya,7,0,7,0.0
+99DIVINE,Widowmaker,3,0,3,0.0
+99DIVINE,Baptiste,1,0,1,0.0
+99DIVINE,Sigma,1,0,1,0.0
+99DIVINE,Zenyatta,1,0,1,0.0
+99DIVINE,Venture,1,0,1,0.0
+99DIVINE,Sombra,1,0,1,0.0
+99DIVINE,Soldier: 76,1,0,1,0.0
+Al Qadsiah,Bastion,1,1,0,1.0
+Al Qadsiah,Sombra,1,1,0,1.0
+Al Qadsiah,Baptiste,1,1,0,1.0
+Al Qadsiah,Orisa,4,3,1,0.75
+Al Qadsiah,D.Va,8,5,3,0.625
+Al Qadsiah,Zenyatta,5,3,2,0.6
+Al Qadsiah,Ana,5,3,2,0.6
+Al Qadsiah,Lúcio,21,10,11,0.4762
+Al Qadsiah,Kiriko,20,9,11,0.45
+Al Qadsiah,Vendetta,18,8,10,0.4444
+Al Qadsiah,Pharah,10,4,6,0.4
+Al Qadsiah,Emre,24,9,15,0.375
+Al Qadsiah,Zarya,17,6,11,0.3529
+Al Qadsiah,Widowmaker,9,3,6,0.3333
+Al Qadsiah,Domina,3,1,2,0.3333
+Al Qadsiah,Winston,3,1,2,0.3333
+Al Qadsiah,Brigitte,7,2,5,0.2857
+Al Qadsiah,Juno,18,5,13,0.2778
+Al Qadsiah,Symmetra,12,3,9,0.25
+Al Qadsiah,Genji,4,1,3,0.25
+Al Qadsiah,Tracer,15,3,12,0.2
+Al Qadsiah,Sojourn,7,1,6,0.1429
+Al Qadsiah,Illari,7,1,6,0.1429
+Al Qadsiah,Mauga,7,0,7,0.0
+Al Qadsiah,Echo,2,0,2,0.0
+Al Qadsiah,Sigma,2,0,2,0.0
+Al Qadsiah,Jetpack Cat,2,0,2,0.0
+Al Qadsiah,Wrecking Ball,1,0,1,0.0
+All Gamers,Lifeweaver,3,3,0,1.0
+All Gamers,Orisa,2,2,0,1.0
+All Gamers,Wuyang,2,2,0,1.0
+All Gamers,Vendetta,12,9,3,0.75
+All Gamers,Zarya,11,8,3,0.7273
+All Gamers,D.Va,24,17,7,0.7083
+All Gamers,Juno,24,16,8,0.6667
+All Gamers,Brigitte,12,8,4,0.6667
+All Gamers,Genji,6,4,2,0.6667
+All Gamers,Widowmaker,17,11,6,0.6471
+All Gamers,Emre,32,20,12,0.625
+All Gamers,Ana,16,10,6,0.625
+All Gamers,Symmetra,29,18,11,0.6207
+All Gamers,Lúcio,34,21,13,0.6176
+All Gamers,Kiriko,40,24,16,0.6
+All Gamers,Reinhardt,5,3,2,0.6
+All Gamers,Baptiste,7,4,3,0.5714
+All Gamers,Tracer,38,21,17,0.5526
+All Gamers,Cassidy,12,6,6,0.5
+All Gamers,Bastion,12,6,6,0.5
+All Gamers,Pharah,8,4,4,0.5
+All Gamers,Wrecking Ball,6,3,3,0.5
+All Gamers,Reaper,6,3,3,0.5
+All Gamers,Hanzo,4,2,2,0.5
+All Gamers,Winston,4,2,2,0.5
+All Gamers,Jetpack Cat,21,10,11,0.4762
+All Gamers,Sojourn,9,4,5,0.4444
+All Gamers,Soldier: 76,7,3,4,0.4286
+All Gamers,Mauga,17,7,10,0.4118
+All Gamers,Echo,5,2,3,0.4
+All Gamers,Illari,3,1,2,0.3333
+All Gamers,Sigma,3,1,2,0.3333
+All Gamers,Mercy,3,1,2,0.3333
+All Gamers,Venture,4,1,3,0.25
+All Gamers,Ramattra,5,1,4,0.2
+All Gamers,Mei,6,1,5,0.1667
+All Gamers,Domina,3,0,3,0.0
+All Gamers,Anran,2,0,2,0.0
+All Gamers,Mizuki,2,0,2,0.0
+All Gamers,Hazard,2,0,2,0.0
+All Gamers,Doomfist,1,0,1,0.0
+Anyone's Legend,Symmetra,1,1,0,1.0
+Anyone's Legend,Illari,1,1,0,1.0
+Anyone's Legend,Mauga,7,4,3,0.5714
+Anyone's Legend,D.Va,4,2,2,0.5
+Anyone's Legend,Lifeweaver,2,1,1,0.5
+Anyone's Legend,Widowmaker,5,2,3,0.4
+Anyone's Legend,Brigitte,3,1,2,0.3333
+Anyone's Legend,Sojourn,7,2,5,0.2857
+Anyone's Legend,Tracer,11,3,8,0.2727
+Anyone's Legend,Pharah,4,1,3,0.25
+Anyone's Legend,Kiriko,17,4,13,0.2353
+Anyone's Legend,Emre,13,3,10,0.2308
+Anyone's Legend,Lúcio,15,3,12,0.2
+Anyone's Legend,Juno,10,2,8,0.2
+Anyone's Legend,Wrecking Ball,5,1,4,0.2
+Anyone's Legend,Vendetta,9,1,8,0.1111
+Anyone's Legend,Zarya,7,0,7,0.0
+Anyone's Legend,Echo,5,0,5,0.0
+Anyone's Legend,Winston,5,0,5,0.0
+Anyone's Legend,Doomfist,2,0,2,0.0
+Anyone's Legend,Ana,2,0,2,0.0
+Anyone's Legend,Orisa,1,0,1,0.0
+Anyone's Legend,Freja,1,0,1,0.0
+Anyone's Legend,Reaper,1,0,1,0.0
+Anyone's Legend,Jetpack Cat,1,0,1,0.0
+Cheeseburger,Bastion,6,3,3,0.5
+Cheeseburger,Freja,2,1,1,0.5
+Cheeseburger,Mei,2,1,1,0.5
+Cheeseburger,Zenyatta,2,1,1,0.5
+Cheeseburger,Jetpack Cat,9,3,6,0.3333
+Cheeseburger,Ana,20,5,15,0.25
+Cheeseburger,Winston,12,3,9,0.25
+Cheeseburger,D.Va,8,2,6,0.25
+Cheeseburger,Echo,4,1,3,0.25
+Cheeseburger,Brigitte,9,2,7,0.2222
+Cheeseburger,Tracer,28,6,22,0.2143
+Cheeseburger,Cassidy,6,1,5,0.1667
+Cheeseburger,Mauga,6,1,5,0.1667
+Cheeseburger,Pharah,6,1,5,0.1667
+Cheeseburger,Symmetra,14,2,12,0.1429
+Cheeseburger,Genji,7,1,6,0.1429
+Cheeseburger,Widowmaker,8,1,7,0.125
+Cheeseburger,Juno,8,1,7,0.125
+Cheeseburger,Kiriko,18,2,16,0.1111
+Cheeseburger,Zarya,10,1,9,0.1
+Cheeseburger,Lúcio,24,2,22,0.0833
+Cheeseburger,Sojourn,12,1,11,0.0833
+Cheeseburger,Emre,12,1,11,0.0833
+Cheeseburger,Vendetta,9,0,9,0.0
+Cheeseburger,Hazard,7,0,7,0.0
+Cheeseburger,Doomfist,6,0,6,0.0
+Cheeseburger,Wuyang,4,0,4,0.0
+Cheeseburger,Orisa,3,0,3,0.0
+Cheeseburger,Sigma,3,0,3,0.0
+Cheeseburger,Anran,2,0,2,0.0
+Cheeseburger,Hanzo,2,0,2,0.0
+Cheeseburger,Ramattra,1,0,1,0.0
+Cheeseburger,Reaper,1,0,1,0.0
+Cheeseburger,Roadhog,1,0,1,0.0
+Cheeseburger,Lifeweaver,1,0,1,0.0
+Crazy Raccoon,Ramattra,6,6,0,1.0
+Crazy Raccoon,Hanzo,2,2,0,1.0
+Crazy Raccoon,Echo,2,2,0,1.0
+Crazy Raccoon,Venture,1,1,0,1.0
+Crazy Raccoon,Sierra,1,1,0,1.0
+Crazy Raccoon,Roadhog,1,1,0,1.0
+Crazy Raccoon,Zarya,14,13,1,0.9286
+Crazy Raccoon,Pharah,12,11,1,0.9167
+Crazy Raccoon,Widowmaker,6,5,1,0.8333
+Crazy Raccoon,Juno,15,12,3,0.8
+Crazy Raccoon,Mei,5,4,1,0.8
+Crazy Raccoon,Mizuki,4,3,1,0.75
+Crazy Raccoon,Bastion,7,5,2,0.7143
+Crazy Raccoon,Emre,19,13,6,0.6842
+Crazy Raccoon,Mauga,9,6,3,0.6667
+Crazy Raccoon,Anran,3,2,1,0.6667
+Crazy Raccoon,Ashe,3,2,1,0.6667
+Crazy Raccoon,Reaper,3,2,1,0.6667
+Crazy Raccoon,Kiriko,38,25,13,0.6579
+Crazy Raccoon,D.Va,25,16,9,0.64
+Crazy Raccoon,Brigitte,8,5,3,0.625
+Crazy Raccoon,Tracer,41,25,16,0.6098
+Crazy Raccoon,Symmetra,30,18,12,0.6
+Crazy Raccoon,Vendetta,20,12,8,0.6
+Crazy Raccoon,Orisa,5,3,2,0.6
+Crazy Raccoon,Lúcio,37,22,15,0.5946
+Crazy Raccoon,Jetpack Cat,22,13,9,0.5909
+Crazy Raccoon,Wuyang,7,4,3,0.5714
+Crazy Raccoon,Ana,16,8,8,0.5
+Crazy Raccoon,Genji,8,4,4,0.5
+Crazy Raccoon,Sigma,4,2,2,0.5
+Crazy Raccoon,Hazard,4,2,2,0.5
+Crazy Raccoon,Sojourn,23,10,13,0.4348
+Crazy Raccoon,Domina,7,3,4,0.4286
+Crazy Raccoon,Wrecking Ball,7,3,4,0.4286
+Crazy Raccoon,Cassidy,8,3,5,0.375
+Crazy Raccoon,Sombra,3,1,2,0.3333
+Crazy Raccoon,Baptiste,4,1,3,0.25
+Crazy Raccoon,Winston,8,1,7,0.125
+Crazy Raccoon,Illari,2,0,2,0.0
+Crazy Raccoon,Torbjörn,1,0,1,0.0
+Crazy Raccoon,Reinhardt,1,0,1,0.0
+Crazy Raccoon,Soldier: 76,1,0,1,0.0
+Crazy Raccoon,Lifeweaver,1,0,1,0.0
+DEG,Juno,2,1,1,0.5
+DEG,Hazard,3,1,2,0.3333
+DEG,Emre,3,1,2,0.3333
+DEG,Genji,5,1,4,0.2
+DEG,Lúcio,5,1,4,0.2
+DEG,Winston,6,1,5,0.1667
+DEG,Ana,7,1,6,0.1429
+DEG,Symmetra,8,1,7,0.125
+DEG,Vendetta,8,1,7,0.125
+DEG,Brigitte,10,1,9,0.1
+DEG,Tracer,11,1,10,0.0909
+DEG,Doomfist,7,0,7,0.0
+DEG,Kiriko,7,0,7,0.0
+DEG,Sojourn,4,0,4,0.0
+DEG,Cassidy,4,0,4,0.0
+DEG,Wuyang,3,0,3,0.0
+DEG,Venture,2,0,2,0.0
+DEG,Anran,2,0,2,0.0
+DEG,Baptiste,2,0,2,0.0
+DEG,Zarya,1,0,1,0.0
+DEG,Widowmaker,1,0,1,0.0
+Dallas Fuel,Sigma,5,5,0,1.0
+Dallas Fuel,Mercy,5,5,0,1.0
+Dallas Fuel,Hanzo,2,2,0,1.0
+Dallas Fuel,Torbjörn,1,1,0,1.0
+Dallas Fuel,Sombra,1,1,0,1.0
+Dallas Fuel,Junkrat,1,1,0,1.0
+Dallas Fuel,Freja,1,1,0,1.0
+Dallas Fuel,Moira,1,1,0,1.0
+Dallas Fuel,Brigitte,11,9,2,0.8182
+Dallas Fuel,Widowmaker,10,8,2,0.8
+Dallas Fuel,Cassidy,10,8,2,0.8
+Dallas Fuel,Wuyang,9,7,2,0.7778
+Dallas Fuel,Symmetra,13,10,3,0.7692
+Dallas Fuel,Wrecking Ball,13,10,3,0.7692
+Dallas Fuel,Juno,12,9,3,0.75
+Dallas Fuel,Emre,8,6,2,0.75
+Dallas Fuel,Sojourn,23,16,7,0.6957
+Dallas Fuel,Kiriko,23,16,7,0.6957
+Dallas Fuel,Illari,13,9,4,0.6923
+Dallas Fuel,Tracer,24,16,8,0.6667
+Dallas Fuel,D.Va,6,4,2,0.6667
+Dallas Fuel,Ramattra,6,4,2,0.6667
+Dallas Fuel,Zarya,3,2,1,0.6667
+Dallas Fuel,Baptiste,3,2,1,0.6667
+Dallas Fuel,Ashe,3,2,1,0.6667
+Dallas Fuel,Ana,20,13,7,0.65
+Dallas Fuel,Jetpack Cat,11,7,4,0.6364
+Dallas Fuel,Winston,17,10,7,0.5882
+Dallas Fuel,Pharah,7,4,3,0.5714
+Dallas Fuel,Vendetta,9,5,4,0.5556
+Dallas Fuel,Lúcio,16,8,8,0.5
+Dallas Fuel,Anran,2,1,1,0.5
+Dallas Fuel,Reinhardt,2,1,1,0.5
+Dallas Fuel,Genji,7,3,4,0.4286
+Dallas Fuel,Echo,5,2,3,0.4
+Dallas Fuel,Mizuki,3,1,2,0.3333
+Dallas Fuel,Domina,3,0,3,0.0
+Dallas Fuel,Bastion,1,0,1,0.0
+Dallas Fuel,Mei,1,0,1,0.0
+Disguised,Mizuki,2,2,0,1.0
+Disguised,Anran,1,1,0,1.0
+Disguised,Hazard,1,1,0,1.0
+Disguised,Bastion,1,1,0,1.0
+Disguised,Winston,1,1,0,1.0
+Disguised,Venture,4,3,1,0.75
+Disguised,Sojourn,9,5,4,0.5556
+Disguised,Lúcio,16,8,8,0.5
+Disguised,Zarya,6,3,3,0.5
+Disguised,Domina,4,2,2,0.5
+Disguised,Baptiste,4,2,2,0.5
+Disguised,Hanzo,2,1,1,0.5
+Disguised,Emre,20,9,11,0.45
+Disguised,Widowmaker,7,3,4,0.4286
+Disguised,Vendetta,13,5,8,0.3846
+Disguised,Kiriko,16,6,10,0.375
+Disguised,D.Va,15,5,10,0.3333
+Disguised,Brigitte,6,2,4,0.3333
+Disguised,Doomfist,3,1,2,0.3333
+Disguised,Tracer,16,5,11,0.3125
+Disguised,Cassidy,10,3,7,0.3
+Disguised,Ramattra,10,3,7,0.3
+Disguised,Symmetra,10,3,7,0.3
+Disguised,Juno,11,2,9,0.1818
+Disguised,Jetpack Cat,6,1,5,0.1667
+Disguised,Wrecking Ball,3,0,3,0.0
+Disguised,Ashe,1,0,1,0.0
+Disguised,Soldier: 76,1,0,1,0.0
+Disguised,Zenyatta,1,0,1,0.0
+Disguised,Genji,1,0,1,0.0
+ENTER FORCE.36,Mauga,4,4,0,1.0
+ENTER FORCE.36,Doomfist,2,2,0,1.0
+ENTER FORCE.36,Lifeweaver,2,2,0,1.0
+ENTER FORCE.36,Hanzo,1,1,0,1.0
+ENTER FORCE.36,Torbjörn,1,1,0,1.0
+ENTER FORCE.36,Roadhog,1,1,0,1.0
+ENTER FORCE.36,Widowmaker,9,8,1,0.8889
+ENTER FORCE.36,Orisa,8,7,1,0.875
+ENTER FORCE.36,Juno,17,14,3,0.8235
+ENTER FORCE.36,Hazard,9,7,2,0.7778
+ENTER FORCE.36,Pharah,4,3,1,0.75
+ENTER FORCE.36,Lúcio,15,11,4,0.7333
+ENTER FORCE.36,Vendetta,18,13,5,0.7222
+ENTER FORCE.36,Tracer,21,15,6,0.7143
+ENTER FORCE.36,Kiriko,21,15,6,0.7143
+ENTER FORCE.36,Genji,7,5,2,0.7143
+ENTER FORCE.36,Brigitte,10,7,3,0.7
+ENTER FORCE.36,Emre,24,16,8,0.6667
+ENTER FORCE.36,Symmetra,15,10,5,0.6667
+ENTER FORCE.36,Zarya,10,6,4,0.6
+ENTER FORCE.36,Sojourn,12,7,5,0.5833
+ENTER FORCE.36,D.Va,14,7,7,0.5
+ENTER FORCE.36,Wuyang,10,5,5,0.5
+ENTER FORCE.36,Wrecking Ball,6,3,3,0.5
+ENTER FORCE.36,Winston,6,3,3,0.5
+ENTER FORCE.36,Sigma,4,2,2,0.5
+ENTER FORCE.36,Ramattra,2,1,1,0.5
+ENTER FORCE.36,Domina,2,1,1,0.5
+ENTER FORCE.36,Ana,7,3,4,0.4286
+ENTER FORCE.36,Echo,6,2,4,0.3333
+ENTER FORCE.36,Jetpack Cat,2,0,2,0.0
+ENTER FORCE.36,Mizuki,2,0,2,0.0
+ENTER FORCE.36,Baptiste,2,0,2,0.0
+ENTER FORCE.36,Illari,2,0,2,0.0
+ENTER FORCE.36,Reaper,1,0,1,0.0
+ENTER FORCE.36,Sombra,1,0,1,0.0
+ENTER FORCE.36,Mei,1,0,1,0.0
+Extinction,Brigitte,3,2,1,0.6667
+Extinction,Ana,3,2,1,0.6667
+Extinction,Juno,10,5,5,0.5
+Extinction,Wuyang,4,2,2,0.5
+Extinction,Genji,2,1,1,0.5
+Extinction,Winston,2,1,1,0.5
+Extinction,D.Va,15,5,10,0.3333
+Extinction,Symmetra,9,3,6,0.3333
+Extinction,Vendetta,3,1,2,0.3333
+Extinction,Widowmaker,3,1,2,0.3333
+Extinction,Tracer,16,5,11,0.3125
+Extinction,Lúcio,13,4,9,0.3077
+Extinction,Sojourn,10,3,7,0.3
+Extinction,Emre,8,2,6,0.25
+Extinction,Jetpack Cat,4,1,3,0.25
+Extinction,Kiriko,14,3,11,0.2143
+Extinction,Cassidy,3,0,3,0.0
+Extinction,Wrecking Ball,2,0,2,0.0
+Extinction,Sigma,2,0,2,0.0
+Extinction,Echo,2,0,2,0.0
+Extinction,Moira,2,0,2,0.0
+Extinction,Freja,1,0,1,0.0
+Extinction,Domina,1,0,1,0.0
+Extinction,Zarya,1,0,1,0.0
+Extinction,Ashe,1,0,1,0.0
+Extinction,Hanzo,1,0,1,0.0
+Extinction,Doomfist,1,0,1,0.0
+Extinction,Roadhog,1,0,1,0.0
+Extinction,Reinhardt,1,0,1,0.0
+Extinction,Mauga,1,0,1,0.0
+Extinction,Orisa,1,0,1,0.0
+Extinction,Mizuki,1,0,1,0.0
+Extinction,Lifeweaver,1,0,1,0.0
+Extinction,Zenyatta,1,0,1,0.0
+Extinction,Baptiste,1,0,1,0.0
+FURY,Pharah,2,1,1,0.5
+FURY,Wuyang,5,2,3,0.4
+FURY,Winston,9,3,6,0.3333
+FURY,Widowmaker,3,1,2,0.3333
+FURY,Kiriko,14,4,10,0.2857
+FURY,Sojourn,8,2,6,0.25
+FURY,Zarya,8,2,6,0.25
+FURY,Ana,8,2,6,0.25
+FURY,Tracer,17,4,13,0.2353
+FURY,Lúcio,19,4,15,0.2105
+FURY,Symmetra,5,1,4,0.2
+FURY,Emre,11,2,9,0.1818
+FURY,Genji,6,1,5,0.1667
+FURY,Vendetta,7,1,6,0.1429
+FURY,D.Va,10,1,9,0.1
+FURY,Sombra,4,0,4,0.0
+FURY,Wrecking Ball,4,0,4,0.0
+FURY,Juno,3,0,3,0.0
+FURY,Brigitte,3,0,3,0.0
+FURY,Venture,2,0,2,0.0
+FURY,Orisa,2,0,2,0.0
+FURY,Doomfist,1,0,1,0.0
+FURY,Mercy,1,0,1,0.0
+FURY,Cassidy,1,0,1,0.0
+FURY,Sigma,1,0,1,0.0
+Geekay Esports,Widowmaker,2,2,0,1.0
+Geekay Esports,Lifeweaver,1,1,0,1.0
+Geekay Esports,Echo,1,1,0,1.0
+Geekay Esports,Illari,1,1,0,1.0
+Geekay Esports,Pharah,7,4,3,0.5714
+Geekay Esports,Juno,16,8,8,0.5
+Geekay Esports,Wrecking Ball,8,4,4,0.5
+Geekay Esports,Sojourn,6,3,3,0.5
+Geekay Esports,Ana,4,2,2,0.5
+Geekay Esports,Zarya,29,14,15,0.4828
+Geekay Esports,Lúcio,25,11,14,0.44
+Geekay Esports,Emre,28,12,16,0.4286
+Geekay Esports,Kiriko,28,12,16,0.4286
+Geekay Esports,Symmetra,14,6,8,0.4286
+Geekay Esports,Brigitte,7,3,4,0.4286
+Geekay Esports,Tracer,19,8,11,0.4211
+Geekay Esports,Vendetta,17,7,10,0.4118
+Geekay Esports,Jetpack Cat,6,2,4,0.3333
+Geekay Esports,Wuyang,3,1,2,0.3333
+Geekay Esports,D.Va,10,3,7,0.3
+Geekay Esports,Genji,1,0,1,0.0
+Geekay Esports,Doomfist,1,0,1,0.0
+Homie E,Wuyang,4,2,2,0.5
+Homie E,Zarya,9,3,6,0.3333
+Homie E,Tracer,8,2,6,0.25
+Homie E,Symmetra,4,1,3,0.25
+Homie E,Kiriko,13,3,10,0.2308
+Homie E,Sojourn,9,2,7,0.2222
+Homie E,Emre,5,1,4,0.2
+Homie E,Hazard,5,1,4,0.2
+Homie E,Vendetta,11,2,9,0.1818
+Homie E,Juno,11,2,9,0.1818
+Homie E,Lúcio,10,1,9,0.1
+Homie E,Orisa,3,0,3,0.0
+Homie E,Venture,2,0,2,0.0
+Homie E,Genji,1,0,1,0.0
+Homie E,Widowmaker,1,0,1,0.0
+Homie E,Ramattra,1,0,1,0.0
+Homie E,Sigma,1,0,1,0.0
+Homie E,Doomfist,1,0,1,0.0
+Homie E,Ana,1,0,1,0.0
+Homie E,D.Va,1,0,1,0.0
+Homie E,Baptiste,1,0,1,0.0
+Homie E,Brigitte,1,0,1,0.0
+Homie E,Pharah,1,0,1,0.0
+JD Gaming,Venture,3,3,0,1.0
+JD Gaming,Reinhardt,2,2,0,1.0
+JD Gaming,Illari,1,1,0,1.0
+JD Gaming,Junker Queen,1,1,0,1.0
+JD Gaming,Mercy,1,1,0,1.0
+JD Gaming,Widowmaker,6,5,1,0.8333
+JD Gaming,Wrecking Ball,12,8,4,0.6667
+JD Gaming,Hazard,12,8,4,0.6667
+JD Gaming,Hanzo,3,2,1,0.6667
+JD Gaming,Mei,3,2,1,0.6667
+JD Gaming,Emre,24,15,9,0.625
+JD Gaming,Orisa,5,3,2,0.6
+JD Gaming,Kiriko,31,18,13,0.5806
+JD Gaming,Symmetra,19,11,8,0.5789
+JD Gaming,Tracer,30,17,13,0.5667
+JD Gaming,Lúcio,27,15,12,0.5556
+JD Gaming,Brigitte,9,5,4,0.5556
+JD Gaming,Jetpack Cat,9,5,4,0.5556
+JD Gaming,Sojourn,15,8,7,0.5333
+JD Gaming,D.Va,16,8,8,0.5
+JD Gaming,Ana,12,6,6,0.5
+JD Gaming,Wuyang,8,4,4,0.5
+JD Gaming,Juno,6,3,3,0.5
+JD Gaming,Cassidy,4,2,2,0.5
+JD Gaming,Echo,2,1,1,0.5
+JD Gaming,Zenyatta,2,1,1,0.5
+JD Gaming,Baptiste,2,1,1,0.5
+JD Gaming,Freja,2,1,1,0.5
+JD Gaming,Vendetta,11,5,6,0.4545
+JD Gaming,Winston,11,5,6,0.4545
+JD Gaming,Bastion,10,4,6,0.4
+JD Gaming,Ramattra,8,3,5,0.375
+JD Gaming,Sigma,3,1,2,0.3333
+JD Gaming,Doomfist,8,2,6,0.25
+JD Gaming,Pharah,5,1,4,0.2
+JD Gaming,Reaper,5,1,4,0.2
+JD Gaming,Genji,3,0,3,0.0
+JD Gaming,Anran,1,0,1,0.0
+JD Gaming,Mizuki,1,0,1,0.0
+Lazuli,Genji,1,1,0,1.0
+Lazuli,Vendetta,12,5,7,0.4167
+Lazuli,Ramattra,15,6,9,0.4
+Lazuli,Brigitte,16,6,10,0.375
+Lazuli,Juno,16,6,10,0.375
+Lazuli,Sojourn,15,5,10,0.3333
+Lazuli,Winston,3,1,2,0.3333
+Lazuli,Jetpack Cat,3,1,2,0.3333
+Lazuli,Symmetra,13,4,9,0.3077
+Lazuli,Ana,4,1,3,0.25
+Lazuli,Wuyang,4,1,3,0.25
+Lazuli,Emre,10,2,8,0.2
+Lazuli,Cassidy,10,2,8,0.2
+Lazuli,Baptiste,5,1,4,0.2
+Lazuli,Tracer,12,2,10,0.1667
+Lazuli,Widowmaker,6,1,5,0.1667
+Lazuli,Orisa,9,1,8,0.1111
+Lazuli,Kiriko,11,1,10,0.0909
+Lazuli,Lúcio,6,0,6,0.0
+Lazuli,Doomfist,5,0,5,0.0
+Lazuli,Freja,3,0,3,0.0
+Lazuli,Reinhardt,3,0,3,0.0
+Lazuli,Mizuki,2,0,2,0.0
+Lazuli,Moira,2,0,2,0.0
+Lazuli,Hanzo,2,0,2,0.0
+Lazuli,Sombra,1,0,1,0.0
+Lazuli,Roadhog,1,0,1,0.0
+Lazuli,Wrecking Ball,1,0,1,0.0
+Lazuli,Sigma,1,0,1,0.0
+Lazuli,Lifeweaver,1,0,1,0.0
+Lazuli,Illari,1,0,1,0.0
+Lazuli,Mercy,1,0,1,0.0
+Lazuli,Hazard,1,0,1,0.0
+LuneX Gaming,Domina,4,3,1,0.75
+LuneX Gaming,Vendetta,10,5,5,0.5
+LuneX Gaming,Zarya,7,3,4,0.4286
+LuneX Gaming,Sojourn,12,5,7,0.4167
+LuneX Gaming,Lúcio,20,8,12,0.4
+LuneX Gaming,Juno,10,4,6,0.4
+LuneX Gaming,Reaper,5,2,3,0.4
+LuneX Gaming,Kiriko,21,8,13,0.381
+LuneX Gaming,Orisa,13,4,9,0.3077
+LuneX Gaming,Symmetra,10,3,7,0.3
+LuneX Gaming,Emre,11,3,8,0.2727
+LuneX Gaming,Tracer,17,4,13,0.2353
+LuneX Gaming,Brigitte,8,1,7,0.125
+LuneX Gaming,Jetpack Cat,4,0,4,0.0
+LuneX Gaming,Freja,4,0,4,0.0
+LuneX Gaming,Doomfist,3,0,3,0.0
+LuneX Gaming,Illari,2,0,2,0.0
+LuneX Gaming,Cassidy,2,0,2,0.0
+LuneX Gaming,Wrecking Ball,2,0,2,0.0
+LuneX Gaming,Widowmaker,1,0,1,0.0
+LuneX Gaming,Zenyatta,1,0,1,0.0
+LuneX Gaming,Baptiste,1,0,1,0.0
+LuneX Gaming,Pharah,1,0,1,0.0
+MieMieYang,Wrecking Ball,1,1,0,1.0
+MieMieYang,Illari,8,3,5,0.375
+MieMieYang,Symmetra,10,3,7,0.3
+MieMieYang,Sojourn,11,3,8,0.2727
+MieMieYang,Tracer,15,3,12,0.2
+MieMieYang,Orisa,5,1,4,0.2
+MieMieYang,D.Va,12,2,10,0.1667
+MieMieYang,Kiriko,13,2,11,0.1538
+MieMieYang,Ana,7,1,6,0.1429
+MieMieYang,Emre,9,1,8,0.1111
+MieMieYang,Lúcio,8,0,8,0.0
+MieMieYang,Widowmaker,7,0,7,0.0
+MieMieYang,Pharah,5,0,5,0.0
+MieMieYang,Echo,5,0,5,0.0
+MieMieYang,Hanzo,4,0,4,0.0
+MieMieYang,Zarya,4,0,4,0.0
+MieMieYang,Jetpack Cat,4,0,4,0.0
+MieMieYang,Ramattra,3,0,3,0.0
+MieMieYang,Brigitte,2,0,2,0.0
+MieMieYang,Baptiste,2,0,2,0.0
+MieMieYang,Mizuki,1,0,1,0.0
+MieMieYang,Winston,1,0,1,0.0
+MieMieYang,Doomfist,1,0,1,0.0
+MieMieYang,Reaper,1,0,1,0.0
+MieMieYang,Torbjörn,1,0,1,0.0
+MieMieYang,Bastion,1,0,1,0.0
+Milk Tea,Genji,1,1,0,1.0
+Milk Tea,Widowmaker,2,1,1,0.5
+Milk Tea,Reaper,2,1,1,0.5
+Milk Tea,Ramattra,11,5,6,0.4545
+Milk Tea,Sojourn,15,6,9,0.4
+Milk Tea,Mei,13,5,8,0.3846
+Milk Tea,Lúcio,24,9,15,0.375
+Milk Tea,Ana,6,2,4,0.3333
+Milk Tea,Freja,3,1,2,0.3333
+Milk Tea,Echo,3,1,2,0.3333
+Milk Tea,Baptiste,3,1,2,0.3333
+Milk Tea,Kiriko,32,10,22,0.3125
+Milk Tea,Juno,23,7,16,0.3043
+Milk Tea,Sigma,10,3,7,0.3
+Milk Tea,Zarya,11,3,8,0.2727
+Milk Tea,Emre,15,4,11,0.2667
+Milk Tea,Hazard,4,1,3,0.25
+Milk Tea,Wrecking Ball,4,1,3,0.25
+Milk Tea,Cassidy,15,3,12,0.2
+Milk Tea,Vendetta,10,2,8,0.2
+Milk Tea,Doomfist,5,1,4,0.2
+Milk Tea,Illari,5,1,4,0.2
+Milk Tea,Symmetra,16,3,13,0.1875
+Milk Tea,Tracer,7,1,6,0.1429
+Milk Tea,D.Va,8,1,7,0.125
+Milk Tea,Orisa,5,0,5,0.0
+Milk Tea,Jetpack Cat,4,0,4,0.0
+Milk Tea,Brigitte,4,0,4,0.0
+Milk Tea,Ashe,3,0,3,0.0
+Milk Tea,Wuyang,3,0,3,0.0
+Milk Tea,Pharah,3,0,3,0.0
+Milk Tea,Mauga,3,0,3,0.0
+Milk Tea,Bastion,3,0,3,0.0
+Milk Tea,Venture,2,0,2,0.0
+Milk Tea,Roadhog,2,0,2,0.0
+Milk Tea,Sierra,2,0,2,0.0
+Milk Tea,Mercy,2,0,2,0.0
+Milk Tea,Mizuki,1,0,1,0.0
+Milk Tea,Soldier: 76,1,0,1,0.0
+Milk Tea,Winston,1,0,1,0.0
+Naive Piggy,Reinhardt,1,1,0,1.0
+Naive Piggy,Ramattra,1,1,0,1.0
+Naive Piggy,Baptiste,5,3,2,0.6
+Naive Piggy,Orisa,16,9,7,0.5625
+Naive Piggy,Bastion,2,1,1,0.5
+Naive Piggy,Widowmaker,2,1,1,0.5
+Naive Piggy,Vendetta,24,11,13,0.4583
+Naive Piggy,Sojourn,18,8,10,0.4444
+Naive Piggy,Juno,23,10,13,0.4348
+Naive Piggy,Reaper,5,2,3,0.4
+Naive Piggy,Brigitte,16,6,10,0.375
+Naive Piggy,Tracer,19,7,12,0.3684
+Naive Piggy,Kiriko,24,8,16,0.3333
+Naive Piggy,D.Va,18,6,12,0.3333
+Naive Piggy,Wuyang,3,1,2,0.3333
+Naive Piggy,Lúcio,17,5,12,0.2941
+Naive Piggy,Emre,21,6,15,0.2857
+Naive Piggy,Zarya,14,4,10,0.2857
+Naive Piggy,Illari,7,2,5,0.2857
+Naive Piggy,Cassidy,8,2,6,0.25
+Naive Piggy,Ana,4,1,3,0.25
+Naive Piggy,Symmetra,18,4,14,0.2222
+Naive Piggy,Pharah,6,1,5,0.1667
+Naive Piggy,Ashe,3,0,3,0.0
+Naive Piggy,Hazard,3,0,3,0.0
+Naive Piggy,Genji,2,0,2,0.0
+Naive Piggy,Winston,1,0,1,0.0
+Naive Piggy,Sigma,1,0,1,0.0
+Naive Piggy,Zenyatta,1,0,1,0.0
+New Era,Tracer,15,0,15,0.0
+New Era,Kiriko,15,0,15,0.0
+New Era,Emre,14,0,14,0.0
+New Era,Brigitte,13,0,13,0.0
+New Era,Sojourn,11,0,11,0.0
+New Era,Lúcio,11,0,11,0.0
+New Era,Ana,10,0,10,0.0
+New Era,Vendetta,9,0,9,0.0
+New Era,Symmetra,9,0,9,0.0
+New Era,D.Va,9,0,9,0.0
+New Era,Genji,8,0,8,0.0
+New Era,Juno,8,0,8,0.0
+New Era,Zarya,6,0,6,0.0
+New Era,Cassidy,6,0,6,0.0
+New Era,Widowmaker,6,0,6,0.0
+New Era,Wuyang,4,0,4,0.0
+New Era,Orisa,4,0,4,0.0
+New Era,Hazard,4,0,4,0.0
+New Era,Wrecking Ball,4,0,4,0.0
+New Era,Illari,3,0,3,0.0
+New Era,Venture,2,0,2,0.0
+New Era,Zenyatta,2,0,2,0.0
+New Era,Domina,1,0,1,0.0
+New Era,Mercy,1,0,1,0.0
+New Era,Jetpack Cat,1,0,1,0.0
+New Era,Anran,1,0,1,0.0
+New Era,Baptiste,1,0,1,0.0
+New Era,Mizuki,1,0,1,0.0
+New Era,Hanzo,1,0,1,0.0
+New Era,Winston,1,0,1,0.0
+New Era,Doomfist,1,0,1,0.0
+Nyam Gaming,Mizuki,2,2,0,1.0
+Nyam Gaming,Wrecking Ball,1,1,0,1.0
+Nyam Gaming,Freja,1,1,0,1.0
+Nyam Gaming,Venture,2,1,1,0.5
+Nyam Gaming,Orisa,2,1,1,0.5
+Nyam Gaming,Cassidy,2,1,1,0.5
+Nyam Gaming,Sigma,2,1,1,0.5
+Nyam Gaming,Emre,20,8,12,0.4
+Nyam Gaming,Tracer,15,6,9,0.4
+Nyam Gaming,D.Va,13,5,8,0.3846
+Nyam Gaming,Brigitte,8,3,5,0.375
+Nyam Gaming,Vendetta,19,7,12,0.3684
+Nyam Gaming,Kiriko,22,8,14,0.3636
+Nyam Gaming,Hazard,6,2,4,0.3333
+Nyam Gaming,Widowmaker,6,2,4,0.3333
+Nyam Gaming,Zarya,16,5,11,0.3125
+Nyam Gaming,Juno,7,2,5,0.2857
+Nyam Gaming,Lúcio,15,4,11,0.2667
+Nyam Gaming,Symmetra,16,4,12,0.25
+Nyam Gaming,Wuyang,11,2,9,0.1818
+Nyam Gaming,Ana,6,1,5,0.1667
+Nyam Gaming,Sojourn,7,1,6,0.1429
+Nyam Gaming,Echo,4,0,4,0.0
+Nyam Gaming,Lifeweaver,2,0,2,0.0
+Nyam Gaming,Pharah,1,0,1,0.0
+Nyam Gaming,Torbjörn,1,0,1,0.0
+Nyam Gaming,Mercy,1,0,1,0.0
+Nyam Gaming,Jetpack Cat,1,0,1,0.0
+Please Not Hero Ban,Winston,2,2,0,1.0
+Please Not Hero Ban,Hazard,2,2,0,1.0
+Please Not Hero Ban,Ashe,1,1,0,1.0
+Please Not Hero Ban,Sigma,1,1,0,1.0
+Please Not Hero Ban,Wuyang,1,1,0,1.0
+Please Not Hero Ban,Wrecking Ball,3,2,1,0.6667
+Please Not Hero Ban,Jetpack Cat,3,2,1,0.6667
+Please Not Hero Ban,Symmetra,25,16,9,0.64
+Please Not Hero Ban,Orisa,11,7,4,0.6364
+Please Not Hero Ban,Kiriko,27,17,10,0.6296
+Please Not Hero Ban,Cassidy,24,15,9,0.625
+Please Not Hero Ban,Illari,8,5,3,0.625
+Please Not Hero Ban,Mizuki,5,3,2,0.6
+Please Not Hero Ban,Zarya,5,3,2,0.6
+Please Not Hero Ban,Ana,5,3,2,0.6
+Please Not Hero Ban,Lúcio,17,10,7,0.5882
+Please Not Hero Ban,Baptiste,7,4,3,0.5714
+Please Not Hero Ban,Vendetta,9,5,4,0.5556
+Please Not Hero Ban,Widowmaker,2,1,1,0.5
+Please Not Hero Ban,D.Va,18,8,10,0.4444
+Please Not Hero Ban,Emre,17,7,10,0.4118
+Please Not Hero Ban,Tracer,12,4,8,0.3333
+Please Not Hero Ban,Ramattra,3,1,2,0.3333
+Please Not Hero Ban,Echo,3,1,2,0.3333
+Please Not Hero Ban,Torbjörn,3,1,2,0.3333
+Please Not Hero Ban,Brigitte,4,1,3,0.25
+Please Not Hero Ban,Mauga,4,1,3,0.25
+Please Not Hero Ban,Juno,7,1,6,0.1429
+Please Not Hero Ban,Sojourn,4,0,4,0.0
+Please Not Hero Ban,Reaper,2,0,2,0.0
+Please Not Hero Ban,Mei,1,0,1,0.0
+Poker Face,Baptiste,1,1,0,1.0
+Poker Face,D.Va,9,5,4,0.5556
+Poker Face,Hanzo,4,2,2,0.5
+Poker Face,Mei,2,1,1,0.5
+Poker Face,Vendetta,12,5,7,0.4167
+Poker Face,Wuyang,5,2,3,0.4
+Poker Face,Ana,6,2,4,0.3333
+Poker Face,Jetpack Cat,6,2,4,0.3333
+Poker Face,Ramattra,3,1,2,0.3333
+Poker Face,Widowmaker,14,4,10,0.2857
+Poker Face,Emre,18,5,13,0.2778
+Poker Face,Kiriko,22,6,16,0.2727
+Poker Face,Lúcio,22,6,16,0.2727
+Poker Face,Symmetra,15,4,11,0.2667
+Poker Face,Zarya,12,3,9,0.25
+Poker Face,Juno,8,2,6,0.25
+Poker Face,Echo,4,1,3,0.25
+Poker Face,Pharah,4,1,3,0.25
+Poker Face,Bastion,4,1,3,0.25
+Poker Face,Wrecking Ball,5,1,4,0.2
+Poker Face,Tracer,15,2,13,0.1333
+Poker Face,Sojourn,8,1,7,0.125
+Poker Face,Hazard,10,1,9,0.1
+Poker Face,Mauga,5,0,5,0.0
+Poker Face,Cassidy,3,0,3,0.0
+Poker Face,Illari,2,0,2,0.0
+Poker Face,Brigitte,2,0,2,0.0
+Poker Face,Winston,2,0,2,0.0
+Poker Face,Sierra,2,0,2,0.0
+Poker Face,Orisa,1,0,1,0.0
+Poker Face,Zenyatta,1,0,1,0.0
+Poker Face,Venture,1,0,1,0.0
+Poker Face,Doomfist,1,0,1,0.0
+Poker Face,Reaper,1,0,1,0.0
+Quasar Esports,Ashe,2,2,0,1.0
+Quasar Esports,Illari,1,1,0,1.0
+Quasar Esports,Soldier: 76,1,1,0,1.0
+Quasar Esports,Roadhog,1,1,0,1.0
+Quasar Esports,Baptiste,3,2,1,0.6667
+Quasar Esports,Ana,8,5,3,0.625
+Quasar Esports,Emre,8,4,4,0.5
+Quasar Esports,Winston,6,3,3,0.5
+Quasar Esports,Hanzo,2,1,1,0.5
+Quasar Esports,Widowmaker,2,1,1,0.5
+Quasar Esports,Genji,2,1,1,0.5
+Quasar Esports,Ramattra,2,1,1,0.5
+Quasar Esports,Mei,2,1,1,0.5
+Quasar Esports,Domina,2,1,1,0.5
+Quasar Esports,Sojourn,13,6,7,0.4615
+Quasar Esports,Cassidy,9,4,5,0.4444
+Quasar Esports,Tracer,17,7,10,0.4118
+Quasar Esports,Kiriko,17,7,10,0.4118
+Quasar Esports,Mizuki,5,2,3,0.4
+Quasar Esports,D.Va,11,4,7,0.3636
+Quasar Esports,Symmetra,10,3,7,0.3
+Quasar Esports,Lúcio,11,3,8,0.2727
+Quasar Esports,Juno,4,1,3,0.25
+Quasar Esports,Vendetta,3,0,3,0.0
+Quasar Esports,Jetpack Cat,3,0,3,0.0
+Quasar Esports,Zarya,2,0,2,0.0
+Quasar Esports,Bastion,2,0,2,0.0
+Quasar Esports,Wuyang,1,0,1,0.0
+Quasar Esports,Orisa,1,0,1,0.0
+Quasar Esports,Mauga,1,0,1,0.0
+Quasar Esports,Reaper,1,0,1,0.0
+Rankers,Lúcio,2,2,0,1.0
+Rankers,Symmetra,9,7,2,0.7778
+Rankers,Zarya,11,8,3,0.7273
+Rankers,Tracer,10,7,3,0.7
+Rankers,D.Va,12,8,4,0.6667
+Rankers,Wuyang,3,2,1,0.6667
+Rankers,Baptiste,3,2,1,0.6667
+Rankers,Illari,13,8,5,0.6154
+Rankers,Ana,10,6,4,0.6
+Rankers,Emre,5,3,2,0.6
+Rankers,Cassidy,5,3,2,0.6
+Rankers,Reaper,14,8,6,0.5714
+Rankers,Echo,7,4,3,0.5714
+Rankers,Brigitte,7,4,3,0.5714
+Rankers,Kiriko,16,9,7,0.5625
+Rankers,Sojourn,6,3,3,0.5
+Rankers,Mauga,4,2,2,0.5
+Rankers,Pharah,2,1,1,0.5
+Rankers,Mizuki,3,1,2,0.3333
+Rankers,Ashe,1,0,1,0.0
+Rankers,Juno,1,0,1,0.0
+Rankers,Torbjörn,1,0,1,0.0
+Rankers,Hanzo,1,0,1,0.0
+Rankers,Winston,1,0,1,0.0
+RØDE ONSIDE GAMING,Mercy,2,2,0,1.0
+RØDE ONSIDE GAMING,Mizuki,1,1,0,1.0
+RØDE ONSIDE GAMING,Genji,7,5,2,0.7143
+RØDE ONSIDE GAMING,Hazard,10,7,3,0.7
+RØDE ONSIDE GAMING,Brigitte,12,8,4,0.6667
+RØDE ONSIDE GAMING,Juno,8,5,3,0.625
+RØDE ONSIDE GAMING,Symmetra,27,16,11,0.5926
+RØDE ONSIDE GAMING,D.Va,22,13,9,0.5909
+RØDE ONSIDE GAMING,Pharah,12,7,5,0.5833
+RØDE ONSIDE GAMING,Sojourn,19,11,8,0.5789
+RØDE ONSIDE GAMING,Wuyang,7,4,3,0.5714
+RØDE ONSIDE GAMING,Ana,9,5,4,0.5556
+RØDE ONSIDE GAMING,Emre,31,17,14,0.5484
+RØDE ONSIDE GAMING,Vendetta,16,8,8,0.5
+RØDE ONSIDE GAMING,Winston,4,2,2,0.5
+RØDE ONSIDE GAMING,Orisa,2,1,1,0.5
+RØDE ONSIDE GAMING,Torbjörn,2,1,1,0.5
+RØDE ONSIDE GAMING,Sierra,2,1,1,0.5
+RØDE ONSIDE GAMING,Lúcio,31,15,16,0.4839
+RØDE ONSIDE GAMING,Tracer,26,12,14,0.4615
+RØDE ONSIDE GAMING,Kiriko,37,17,20,0.4595
+RØDE ONSIDE GAMING,Widowmaker,7,3,4,0.4286
+RØDE ONSIDE GAMING,Jetpack Cat,6,2,4,0.3333
+RØDE ONSIDE GAMING,Cassidy,3,1,2,0.3333
+RØDE ONSIDE GAMING,Ramattra,3,1,2,0.3333
+RØDE ONSIDE GAMING,Zarya,18,5,13,0.2778
+RØDE ONSIDE GAMING,Doomfist,4,1,3,0.25
+RØDE ONSIDE GAMING,Mauga,4,1,3,0.25
+RØDE ONSIDE GAMING,Mei,5,1,4,0.2
+RØDE ONSIDE GAMING,Bastion,6,1,5,0.1667
+RØDE ONSIDE GAMING,Venture,2,0,2,0.0
+RØDE ONSIDE GAMING,Reaper,2,0,2,0.0
+RØDE ONSIDE GAMING,Sombra,2,0,2,0.0
+RØDE ONSIDE GAMING,Baptiste,2,0,2,0.0
+RØDE ONSIDE GAMING,Wrecking Ball,1,0,1,0.0
+RØDE ONSIDE GAMING,Anran,1,0,1,0.0
+RØDE ONSIDE GAMING,Reinhardt,1,0,1,0.0
+SV,Freja,1,1,0,1.0
+SV,Vendetta,19,10,9,0.5263
+SV,Brigitte,2,1,1,0.5
+SV,Zarya,17,8,9,0.4706
+SV,Wuyang,9,4,5,0.4444
+SV,Sojourn,12,5,7,0.4167
+SV,Symmetra,17,7,10,0.4118
+SV,D.Va,18,7,11,0.3889
+SV,Kiriko,28,10,18,0.3571
+SV,Lúcio,23,8,15,0.3478
+SV,Emre,24,8,16,0.3333
+SV,Hanzo,3,1,2,0.3333
+SV,Juno,8,2,6,0.25
+SV,Ana,4,1,3,0.25
+SV,Pharah,4,1,3,0.25
+SV,Widowmaker,7,1,6,0.1429
+SV,Tracer,16,2,14,0.125
+SV,Illari,6,0,6,0.0
+SV,Orisa,6,0,6,0.0
+SV,Junker Queen,5,0,5,0.0
+SV,Baptiste,4,0,4,0.0
+SV,Mei,3,0,3,0.0
+SV,Bastion,3,0,3,0.0
+SV,Sigma,2,0,2,0.0
+SV,Ramattra,2,0,2,0.0
+SV,Cassidy,2,0,2,0.0
+SV,Mauga,2,0,2,0.0
+SV,Roadhog,2,0,2,0.0
+SV,Jetpack Cat,2,0,2,0.0
+SV,Mercy,1,0,1,0.0
+SV,Reaper,1,0,1,0.0
+SV,Genji,1,0,1,0.0
+SV,Sierra,1,0,1,0.0
+SV,Reinhardt,1,0,1,0.0
+SV,Hazard,1,0,1,0.0
+Spacestation Gaming,Sigma,2,2,0,1.0
+Spacestation Gaming,Hanzo,1,1,0,1.0
+Spacestation Gaming,Zenyatta,1,1,0,1.0
+Spacestation Gaming,Symmetra,21,14,7,0.6667
+Spacestation Gaming,Brigitte,9,6,3,0.6667
+Spacestation Gaming,Orisa,6,4,2,0.6667
+Spacestation Gaming,Ramattra,5,3,2,0.6
+Spacestation Gaming,Wuyang,5,3,2,0.6
+Spacestation Gaming,Juno,16,9,7,0.5625
+Spacestation Gaming,Vendetta,9,5,4,0.5556
+Spacestation Gaming,Cassidy,11,6,5,0.5455
+Spacestation Gaming,Kiriko,28,15,13,0.5357
+Spacestation Gaming,D.Va,25,13,12,0.52
+Spacestation Gaming,Emre,27,14,13,0.5185
+Spacestation Gaming,Tracer,26,13,13,0.5
+Spacestation Gaming,Pharah,4,2,2,0.5
+Spacestation Gaming,Echo,4,2,2,0.5
+Spacestation Gaming,Baptiste,4,2,2,0.5
+Spacestation Gaming,Mauga,4,2,2,0.5
+Spacestation Gaming,Jetpack Cat,4,2,2,0.5
+Spacestation Gaming,Lúcio,30,14,16,0.4667
+Spacestation Gaming,Zarya,16,7,9,0.4375
+Spacestation Gaming,Sojourn,10,4,6,0.4
+Spacestation Gaming,Widowmaker,10,4,6,0.4
+Spacestation Gaming,Hazard,3,1,2,0.3333
+Spacestation Gaming,Genji,3,1,2,0.3333
+Spacestation Gaming,Ana,4,1,3,0.25
+Spacestation Gaming,Doomfist,4,1,3,0.25
+Spacestation Gaming,Venture,1,0,1,0.0
+T1,Hazard,4,4,0,1.0
+T1,Pharah,3,3,0,1.0
+T1,Doomfist,2,2,0,1.0
+T1,Ramattra,2,2,0,1.0
+T1,Roadhog,2,2,0,1.0
+T1,Bastion,2,2,0,1.0
+T1,Reinhardt,1,1,0,1.0
+T1,Mercy,1,1,0,1.0
+T1,Lifeweaver,1,1,0,1.0
+T1,Reaper,1,1,0,1.0
+T1,Jetpack Cat,6,5,1,0.8333
+T1,Echo,5,4,1,0.8
+T1,Mauga,5,4,1,0.8
+T1,Symmetra,20,15,5,0.75
+T1,Widowmaker,4,3,1,0.75
+T1,Lúcio,29,20,9,0.6897
+T1,Wrecking Ball,9,6,3,0.6667
+T1,Kiriko,29,19,10,0.6552
+T1,Emre,20,13,7,0.65
+T1,Tracer,17,11,6,0.6471
+T1,Wuyang,8,5,3,0.625
+T1,Vendetta,21,13,8,0.619
+T1,Sigma,5,3,2,0.6
+T1,Zarya,14,8,6,0.5714
+T1,Domina,7,4,3,0.5714
+T1,Ana,9,5,4,0.5556
+T1,Juno,13,7,6,0.5385
+T1,Sojourn,18,9,9,0.5
+T1,Anran,2,1,1,0.5
+T1,Mizuki,2,1,1,0.5
+T1,Sombra,2,1,1,0.5
+T1,Junker Queen,2,1,1,0.5
+T1,D.Va,14,6,8,0.4286
+T1,Orisa,5,2,3,0.4
+T1,Genji,3,1,2,0.3333
+T1,Venture,3,1,2,0.3333
+T1,Baptiste,4,1,3,0.25
+T1,Brigitte,4,0,4,0.0
+T1,Moira,1,0,1,0.0
+T1,Illari,1,0,1,0.0
+T1,Winston,1,0,1,0.0
+TOKYO TAIYOs,Hanzo,1,1,0,1.0
+TOKYO TAIYOs,Doomfist,2,1,1,0.5
+TOKYO TAIYOs,Lifeweaver,5,2,3,0.4
+TOKYO TAIYOs,Ramattra,9,3,6,0.3333
+TOKYO TAIYOs,Mercy,3,1,2,0.3333
+TOKYO TAIYOs,Sojourn,4,1,3,0.25
+TOKYO TAIYOs,Widowmaker,9,2,7,0.2222
+TOKYO TAIYOs,Mei,11,2,9,0.1818
+TOKYO TAIYOs,D.Va,12,2,10,0.1667
+TOKYO TAIYOs,Juno,6,1,5,0.1667
+TOKYO TAIYOs,Lúcio,19,3,16,0.1579
+TOKYO TAIYOs,Emre,7,1,6,0.1429
+TOKYO TAIYOs,Kiriko,22,3,19,0.1364
+TOKYO TAIYOs,Cassidy,18,2,16,0.1111
+TOKYO TAIYOs,Tracer,17,1,16,0.0588
+TOKYO TAIYOs,Symmetra,19,1,18,0.0526
+TOKYO TAIYOs,Sigma,12,0,12,0.0
+TOKYO TAIYOs,Bastion,10,0,10,0.0
+TOKYO TAIYOs,Baptiste,10,0,10,0.0
+TOKYO TAIYOs,Wuyang,6,0,6,0.0
+TOKYO TAIYOs,Roadhog,4,0,4,0.0
+TOKYO TAIYOs,Mauga,4,0,4,0.0
+TOKYO TAIYOs,Illari,4,0,4,0.0
+TOKYO TAIYOs,Brigitte,4,0,4,0.0
+TOKYO TAIYOs,Jetpack Cat,3,0,3,0.0
+TOKYO TAIYOs,Ana,3,0,3,0.0
+TOKYO TAIYOs,Vendetta,3,0,3,0.0
+TOKYO TAIYOs,Ashe,2,0,2,0.0
+TOKYO TAIYOs,Soldier: 76,2,0,2,0.0
+TOKYO TAIYOs,Zarya,2,0,2,0.0
+TOKYO TAIYOs,Hazard,2,0,2,0.0
+TOKYO TAIYOs,Winston,1,0,1,0.0
+TOKYO TAIYOs,Wrecking Ball,1,0,1,0.0
+TOKYO TAIYOs,Mizuki,1,0,1,0.0
+TOKYO TAIYOs,Pharah,1,0,1,0.0
+TOKYO TAIYOs,Zenyatta,1,0,1,0.0
+TOKYO TAIYOs,Genji,1,0,1,0.0
+Team Falcons,Lifeweaver,2,2,0,1.0
+Team Falcons,Winston,2,2,0,1.0
+Team Falcons,Illari,1,1,0,1.0
+Team Falcons,Moira,1,1,0,1.0
+Team Falcons,Reinhardt,1,1,0,1.0
+Team Falcons,Doomfist,1,1,0,1.0
+Team Falcons,Hanzo,5,4,1,0.8
+Team Falcons,Vendetta,18,13,5,0.7222
+Team Falcons,Anran,3,2,1,0.6667
+Team Falcons,Mizuki,3,2,1,0.6667
+Team Falcons,Juno,33,21,12,0.6364
+Team Falcons,Emre,22,14,8,0.6364
+Team Falcons,Symmetra,32,20,12,0.625
+Team Falcons,Zarya,16,10,6,0.625
+Team Falcons,Bastion,8,5,3,0.625
+Team Falcons,Lúcio,35,21,14,0.6
+Team Falcons,Brigitte,10,6,4,0.6
+Team Falcons,D.Va,27,16,11,0.5926
+Team Falcons,Kiriko,44,26,18,0.5909
+Team Falcons,Domina,9,5,4,0.5556
+Team Falcons,Cassidy,15,8,7,0.5333
+Team Falcons,Jetpack Cat,18,9,9,0.5
+Team Falcons,Tracer,18,9,9,0.5
+Team Falcons,Pharah,6,3,3,0.5
+Team Falcons,Ramattra,6,3,3,0.5
+Team Falcons,Genji,4,2,2,0.5
+Team Falcons,Wuyang,2,1,1,0.5
+Team Falcons,Echo,2,1,1,0.5
+Team Falcons,Orisa,2,1,1,0.5
+Team Falcons,Sojourn,20,9,11,0.45
+Team Falcons,Widowmaker,7,3,4,0.4286
+Team Falcons,Ana,5,2,3,0.4
+Team Falcons,Torbjörn,3,1,2,0.3333
+Team Falcons,Mauga,3,1,2,0.3333
+Team Falcons,Mei,4,1,3,0.25
+Team Falcons,Baptiste,4,1,3,0.25
+Team Falcons,Reaper,2,0,2,0.0
+Team Falcons,Sigma,2,0,2,0.0
+Team Falcons,Venture,1,0,1,0.0
+Team Falcons,Wrecking Ball,1,0,1,0.0
+Team Liquid,Anran,2,2,0,1.0
+Team Liquid,Mizuki,2,2,0,1.0
+Team Liquid,Venture,2,2,0,1.0
+Team Liquid,Lifeweaver,1,1,0,1.0
+Team Liquid,Hanzo,1,1,0,1.0
+Team Liquid,Bastion,1,1,0,1.0
+Team Liquid,Reinhardt,1,1,0,1.0
+Team Liquid,Wuyang,5,4,1,0.8
+Team Liquid,Domina,7,5,2,0.7143
+Team Liquid,Ana,3,2,1,0.6667
+Team Liquid,Wrecking Ball,10,6,4,0.6
+Team Liquid,Winston,5,3,2,0.6
+Team Liquid,Widowmaker,12,7,5,0.5833
+Team Liquid,Genji,7,4,3,0.5714
+Team Liquid,Pharah,7,4,3,0.5714
+Team Liquid,Jetpack Cat,8,4,4,0.5
+Team Liquid,Illari,4,2,2,0.5
+Team Liquid,Sombra,2,1,1,0.5
+Team Liquid,Kiriko,29,13,16,0.4483
+Team Liquid,Cassidy,7,3,4,0.4286
+Team Liquid,Emre,24,10,14,0.4167
+Team Liquid,D.Va,12,5,7,0.4167
+Team Liquid,Lúcio,20,8,12,0.4
+Team Liquid,Sojourn,13,5,8,0.3846
+Team Liquid,Mauga,8,3,5,0.375
+Team Liquid,Symmetra,14,5,9,0.3571
+Team Liquid,Vendetta,17,6,11,0.3529
+Team Liquid,Tracer,26,9,17,0.3462
+Team Liquid,Brigitte,15,5,10,0.3333
+Team Liquid,Orisa,12,4,8,0.3333
+Team Liquid,Echo,3,1,2,0.3333
+Team Liquid,Juno,16,5,11,0.3125
+Team Liquid,Sigma,4,1,3,0.25
+Team Liquid,Zarya,5,1,4,0.2
+Team Liquid,Ramattra,2,0,2,0.0
+Team Liquid,Baptiste,1,0,1,0.0
+Team Peps,Ashe,1,1,0,1.0
+Team Peps,Sojourn,14,5,9,0.3571
+Team Peps,Freja,3,1,2,0.3333
+Team Peps,Symmetra,3,1,2,0.3333
+Team Peps,Pharah,3,1,2,0.3333
+Team Peps,Genji,3,1,2,0.3333
+Team Peps,Winston,3,1,2,0.3333
+Team Peps,Kiriko,20,6,14,0.3
+Team Peps,Mauga,7,2,5,0.2857
+Team Peps,Tracer,18,5,13,0.2778
+Team Peps,Lúcio,22,6,16,0.2727
+Team Peps,Vendetta,20,5,15,0.25
+Team Peps,Ana,4,1,3,0.25
+Team Peps,Domina,5,1,4,0.2
+Team Peps,Zarya,13,2,11,0.1538
+Team Peps,Jetpack Cat,7,1,6,0.1429
+Team Peps,Hazard,8,1,7,0.125
+Team Peps,Brigitte,8,1,7,0.125
+Team Peps,Emre,18,2,16,0.1111
+Team Peps,D.Va,10,1,9,0.1
+Team Peps,Juno,13,1,12,0.0769
+Team Peps,Wrecking Ball,6,0,6,0.0
+Team Peps,Widowmaker,4,0,4,0.0
+Team Peps,Mizuki,3,0,3,0.0
+Team Peps,Baptiste,3,0,3,0.0
+Team Peps,Zenyatta,3,0,3,0.0
+Team Peps,Hanzo,2,0,2,0.0
+Team Peps,Anran,2,0,2,0.0
+Team Peps,Ramattra,2,0,2,0.0
+Team Peps,Wuyang,2,0,2,0.0
+Team Peps,Mercy,1,0,1,0.0
+Team Peps,Lifeweaver,1,0,1,0.0
+Team Peps,Soldier: 76,1,0,1,0.0
+Team Secret,Baptiste,5,5,0,1.0
+Team Secret,Widowmaker,3,3,0,1.0
+Team Secret,Cassidy,2,2,0,1.0
+Team Secret,Genji,2,2,0,1.0
+Team Secret,Echo,2,2,0,1.0
+Team Secret,Hazard,2,2,0,1.0
+Team Secret,Reaper,1,1,0,1.0
+Team Secret,Ramattra,1,1,0,1.0
+Team Secret,Moira,1,1,0,1.0
+Team Secret,Mercy,1,1,0,1.0
+Team Secret,Sierra,1,1,0,1.0
+Team Secret,Hanzo,1,1,0,1.0
+Team Secret,Symmetra,10,9,1,0.9
+Team Secret,Illari,7,6,1,0.8571
+Team Secret,Brigitte,6,5,1,0.8333
+Team Secret,Lúcio,6,5,1,0.8333
+Team Secret,Wrecking Ball,11,9,2,0.8182
+Team Secret,Emre,10,8,2,0.8
+Team Secret,Mizuki,5,4,1,0.8
+Team Secret,Tracer,13,10,3,0.7692
+Team Secret,Sojourn,4,3,1,0.75
+Team Secret,Ana,4,3,1,0.75
+Team Secret,Kiriko,7,5,2,0.7143
+Team Secret,Juno,7,5,2,0.7143
+Team Secret,D.Va,3,2,1,0.6667
+Team Secret,Vendetta,4,2,2,0.5
+Team Secret,Jetpack Cat,2,1,1,0.5
+Team Secret,Zenyatta,2,1,1,0.5
+Team Secret,Doomfist,1,0,1,0.0
+Team Secret,Winston,1,0,1,0.0
+Telomere,Cassidy,9,3,6,0.3333
+Telomere,Reinhardt,3,1,2,0.3333
+Telomere,Ramattra,8,2,6,0.25
+Telomere,Mei,4,1,3,0.25
+Telomere,Baptiste,5,1,4,0.2
+Telomere,Juno,11,2,9,0.1818
+Telomere,Ana,6,1,5,0.1667
+Telomere,Brigitte,14,2,12,0.1429
+Telomere,Tracer,16,2,14,0.125
+Telomere,D.Va,8,1,7,0.125
+Telomere,Vendetta,11,1,10,0.0909
+Telomere,Emre,11,1,10,0.0909
+Telomere,Symmetra,12,1,11,0.0833
+Telomere,Lúcio,13,1,12,0.0769
+Telomere,Kiriko,15,0,15,0.0
+Telomere,Sojourn,13,0,13,0.0
+Telomere,Winston,9,0,9,0.0
+Telomere,Zarya,4,0,4,0.0
+Telomere,Moira,4,0,4,0.0
+Telomere,Genji,3,0,3,0.0
+Telomere,Ashe,2,0,2,0.0
+Telomere,Wuyang,2,0,2,0.0
+Telomere,Echo,2,0,2,0.0
+Telomere,Widowmaker,2,0,2,0.0
+Telomere,Hazard,2,0,2,0.0
+Telomere,Mauga,2,0,2,0.0
+Telomere,Sigma,1,0,1,0.0
+Telomere,Mizuki,1,0,1,0.0
+Telomere,Doomfist,1,0,1,0.0
+Telomere,Wrecking Ball,1,0,1,0.0
+Telomere,Illari,1,0,1,0.0
+Telomere,Orisa,1,0,1,0.0
+Telomere,Junker Queen,1,0,1,0.0
+The Gatos Guapos,Zarya,3,3,0,1.0
+The Gatos Guapos,Widowmaker,2,2,0,1.0
+The Gatos Guapos,Reinhardt,2,2,0,1.0
+The Gatos Guapos,Mizuki,1,1,0,1.0
+The Gatos Guapos,Hanzo,1,1,0,1.0
+The Gatos Guapos,Venture,1,1,0,1.0
+The Gatos Guapos,Reaper,1,1,0,1.0
+The Gatos Guapos,Genji,1,1,0,1.0
+The Gatos Guapos,Emre,12,10,2,0.8333
+The Gatos Guapos,D.Va,12,10,2,0.8333
+The Gatos Guapos,Juno,6,5,1,0.8333
+The Gatos Guapos,Lúcio,10,8,2,0.8
+The Gatos Guapos,Anran,5,4,1,0.8
+The Gatos Guapos,Ana,5,4,1,0.8
+The Gatos Guapos,Illari,5,4,1,0.8
+The Gatos Guapos,Tracer,9,7,2,0.7778
+The Gatos Guapos,Kiriko,12,9,3,0.75
+The Gatos Guapos,Hazard,4,3,1,0.75
+The Gatos Guapos,Jetpack Cat,4,3,1,0.75
+The Gatos Guapos,Vendetta,7,5,2,0.7143
+The Gatos Guapos,Symmetra,7,5,2,0.7143
+The Gatos Guapos,Cassidy,3,2,1,0.6667
+The Gatos Guapos,Pharah,2,1,1,0.5
+The Gatos Guapos,Doomfist,2,1,1,0.5
+The Gatos Guapos,Sojourn,4,1,3,0.25
+The Gatos Guapos,Ramattra,3,0,3,0.0
+The Gatos Guapos,Brigitte,2,0,2,0.0
+The Gatos Guapos,Bastion,1,0,1,0.0
+The Gatos Guapos,Soldier: 76,1,0,1,0.0
+The Gatos Guapos,Mauga,1,0,1,0.0
+Twisted Minds,Pharah,7,7,0,1.0
+Twisted Minds,Brigitte,4,4,0,1.0
+Twisted Minds,Ana,3,3,0,1.0
+Twisted Minds,Symmetra,3,3,0,1.0
+Twisted Minds,Illari,3,3,0,1.0
+Twisted Minds,Wrecking Ball,2,2,0,1.0
+Twisted Minds,Wuyang,2,2,0,1.0
+Twisted Minds,Genji,2,2,0,1.0
+Twisted Minds,Mercy,2,2,0,1.0
+Twisted Minds,Sigma,2,2,0,1.0
+Twisted Minds,Baptiste,2,2,0,1.0
+Twisted Minds,Cassidy,1,1,0,1.0
+Twisted Minds,Echo,1,1,0,1.0
+Twisted Minds,Orisa,1,1,0,1.0
+Twisted Minds,Ramattra,1,1,0,1.0
+Twisted Minds,Hanzo,1,1,0,1.0
+Twisted Minds,Mauga,1,1,0,1.0
+Twisted Minds,Hazard,1,1,0,1.0
+Twisted Minds,Emre,28,27,1,0.9643
+Twisted Minds,Zarya,19,18,1,0.9474
+Twisted Minds,Vendetta,17,16,1,0.9412
+Twisted Minds,Juno,23,21,2,0.913
+Twisted Minds,Kiriko,29,26,3,0.8966
+Twisted Minds,Lúcio,28,25,3,0.8929
+Twisted Minds,D.Va,17,15,2,0.8824
+Twisted Minds,Tracer,23,20,3,0.8696
+Twisted Minds,Widowmaker,7,6,1,0.8571
+Twisted Minds,Domina,5,4,1,0.8
+Twisted Minds,Jetpack Cat,4,3,1,0.75
+Twisted Minds,Sojourn,11,8,3,0.7273
+Twisted Minds,Anran,3,2,1,0.6667
+Twisted Minds,Mizuki,3,2,1,0.6667
+Twisted Minds,Sombra,1,0,1,0.0
+Twisted Minds,Zenyatta,1,0,1,0.0
+VARREL,Symmetra,18,18,0,1.0
+VARREL,Ana,12,12,0,1.0
+VARREL,Hazard,12,12,0,1.0
+VARREL,Echo,7,7,0,1.0
+VARREL,Orisa,7,7,0,1.0
+VARREL,Winston,3,3,0,1.0
+VARREL,Wrecking Ball,3,3,0,1.0
+VARREL,Genji,2,2,0,1.0
+VARREL,Pharah,2,2,0,1.0
+VARREL,Sigma,2,2,0,1.0
+VARREL,Ashe,1,1,0,1.0
+VARREL,Bastion,1,1,0,1.0
+VARREL,Mei,1,1,0,1.0
+VARREL,Lúcio,1,1,0,1.0
+VARREL,Hanzo,1,1,0,1.0
+VARREL,D.Va,19,18,1,0.9474
+VARREL,Tracer,17,16,1,0.9412
+VARREL,Emre,26,24,2,0.9231
+VARREL,Illari,11,10,1,0.9091
+VARREL,Kiriko,18,16,2,0.8889
+VARREL,Jetpack Cat,17,15,2,0.8824
+VARREL,Vendetta,15,13,2,0.8667
+VARREL,Wuyang,13,11,2,0.8462
+VARREL,Cassidy,6,5,1,0.8333
+VARREL,Baptiste,5,4,1,0.8
+VARREL,Ramattra,4,3,1,0.75
+VARREL,Zarya,7,5,2,0.7143
+VARREL,Widowmaker,3,2,1,0.6667
+VARREL,Juno,3,2,1,0.6667
+VARREL,Anran,2,1,1,0.5
+VARREL,Venture,2,1,1,0.5
+VARREL,Mizuki,2,1,1,0.5
+VARREL,Sojourn,5,2,3,0.4
+VARREL,Brigitte,3,1,2,0.3333
+VARREL,Freja,2,0,2,0.0
+VARREL,Domina,2,0,2,0.0
+Virtus.pro,Cassidy,4,4,0,1.0
+Virtus.pro,Hanzo,1,1,0,1.0
+Virtus.pro,Reinhardt,1,1,0,1.0
+Virtus.pro,Zenyatta,1,1,0,1.0
+Virtus.pro,Illari,1,1,0,1.0
+Virtus.pro,Ramattra,1,1,0,1.0
+Virtus.pro,Mercy,1,1,0,1.0
+Virtus.pro,Bastion,1,1,0,1.0
+Virtus.pro,Ana,1,1,0,1.0
+Virtus.pro,Mauga,4,3,1,0.75
+Virtus.pro,Pharah,7,5,2,0.7143
+Virtus.pro,Jetpack Cat,10,7,3,0.7
+Virtus.pro,Echo,3,2,1,0.6667
+Virtus.pro,Wrecking Ball,3,2,1,0.6667
+Virtus.pro,Vendetta,20,13,7,0.65
+Virtus.pro,Kiriko,31,20,11,0.6452
+Virtus.pro,Lúcio,28,18,10,0.6429
+Virtus.pro,Brigitte,11,7,4,0.6364
+Virtus.pro,Emre,34,20,14,0.5882
+Virtus.pro,Domina,7,4,3,0.5714
+Virtus.pro,Zarya,25,14,11,0.56
+Virtus.pro,Tracer,27,15,12,0.5556
+Virtus.pro,Symmetra,9,5,4,0.5556
+Virtus.pro,Widowmaker,9,5,4,0.5556
+Virtus.pro,Juno,11,6,5,0.5455
+Virtus.pro,Sojourn,6,3,3,0.5
+Virtus.pro,Hazard,4,2,2,0.5
+Virtus.pro,Anran,2,1,1,0.5
+Virtus.pro,Mizuki,2,1,1,0.5
+Virtus.pro,D.Va,13,6,7,0.4615
+Virtus.pro,Baptiste,3,1,2,0.3333
+Virtus.pro,Doomfist,5,1,4,0.2
+Virtus.pro,Wuyang,1,0,1,0.0
+Weibo Gaming,Winston,6,6,0,1.0
+Weibo Gaming,Widowmaker,4,4,0,1.0
+Weibo Gaming,Doomfist,3,3,0,1.0
+Weibo Gaming,Reaper,3,3,0,1.0
+Weibo Gaming,Cassidy,2,2,0,1.0
+Weibo Gaming,Freja,1,1,0,1.0
+Weibo Gaming,Mercy,1,1,0,1.0
+Weibo Gaming,Hanzo,1,1,0,1.0
+Weibo Gaming,Echo,1,1,0,1.0
+Weibo Gaming,Wrecking Ball,1,1,0,1.0
+Weibo Gaming,Zarya,16,15,1,0.9375
+Weibo Gaming,Symmetra,21,19,2,0.9048
+Weibo Gaming,Brigitte,8,7,1,0.875
+Weibo Gaming,Hazard,8,7,1,0.875
+Weibo Gaming,Vendetta,14,12,2,0.8571
+Weibo Gaming,Juno,14,12,2,0.8571
+Weibo Gaming,Illari,7,6,1,0.8571
+Weibo Gaming,Tracer,19,16,3,0.8421
+Weibo Gaming,Lúcio,25,21,4,0.84
+Weibo Gaming,Emre,22,18,4,0.8182
+Weibo Gaming,Mauga,11,9,2,0.8182
+Weibo Gaming,Kiriko,32,26,6,0.8125
+Weibo Gaming,Ana,15,12,3,0.8
+Weibo Gaming,Pharah,10,8,2,0.8
+Weibo Gaming,Bastion,10,8,2,0.8
+Weibo Gaming,Sojourn,19,15,4,0.7895
+Weibo Gaming,Sierra,4,3,1,0.75
+Weibo Gaming,Jetpack Cat,19,14,5,0.7368
+Weibo Gaming,Genji,3,2,1,0.6667
+Weibo Gaming,D.Va,9,5,4,0.5556
+Weibo Gaming,Baptiste,6,3,3,0.5
+Weibo Gaming,Sigma,4,2,2,0.5
+Weibo Gaming,Wuyang,4,2,2,0.5
+Weibo Gaming,Anran,2,1,1,0.5
+Weibo Gaming,Orisa,2,1,1,0.5
+Weibo Gaming,Mei,2,1,1,0.5
+Weibo Gaming,Venture,3,1,2,0.3333
+Weibo Gaming,Domina,2,0,2,0.0
+Weibo Gaming,Ramattra,2,0,2,0.0
+Weibo Gaming,Ashe,1,0,1,0.0
+Weibo Gaming,Mizuki,1,0,1,0.0
+ZAN Esports,Illari,2,2,0,1.0
+ZAN Esports,Wuyang,1,1,0,1.0
+ZAN Esports,Anran,1,1,0,1.0
+ZAN Esports,Pharah,6,4,2,0.6667
+ZAN Esports,Ana,6,4,2,0.6667
+ZAN Esports,Orisa,3,2,1,0.6667
+ZAN Esports,Widowmaker,3,2,1,0.6667
+ZAN Esports,D.Va,15,9,6,0.6
+ZAN Esports,Jetpack Cat,5,3,2,0.6
+ZAN Esports,Bastion,7,4,3,0.5714
+ZAN Esports,Sojourn,16,9,7,0.5625
+ZAN Esports,Hazard,9,5,4,0.5556
+ZAN Esports,Tracer,15,8,7,0.5333
+ZAN Esports,Juno,14,7,7,0.5
+ZAN Esports,Winston,2,1,1,0.5
+ZAN Esports,Sigma,2,1,1,0.5
+ZAN Esports,Kiriko,27,11,16,0.4074
+ZAN Esports,Brigitte,5,2,3,0.4
+ZAN Esports,Lúcio,26,10,16,0.3846
+ZAN Esports,Emre,16,6,10,0.375
+ZAN Esports,Vendetta,17,6,11,0.3529
+ZAN Esports,Zarya,12,4,8,0.3333
+ZAN Esports,Symmetra,12,4,8,0.3333
+ZAN Esports,Cassidy,3,1,2,0.3333
+ZAN Esports,Mei,3,1,2,0.3333
+ZAN Esports,Doomfist,11,1,10,0.0909
+ZAN Esports,Wrecking Ball,5,0,5,0.0
+ZAN Esports,Genji,3,0,3,0.0
+ZAN Esports,Venture,2,0,2,0.0
+ZAN Esports,Ramattra,2,0,2,0.0
+ZAN Esports,Lifeweaver,2,0,2,0.0
+ZAN Esports,Echo,1,0,1,0.0
+ZAN Esports,Baptiste,1,0,1,0.0
+ZAN Esports,Reinhardt,1,0,1,0.0
+ZAN Esports,Mauga,1,0,1,0.0
+ZETA DIVISION,Widowmaker,6,6,0,1.0
+ZETA DIVISION,Doomfist,5,5,0,1.0
+ZETA DIVISION,Mauga,5,5,0,1.0
+ZETA DIVISION,Reaper,3,3,0,1.0
+ZETA DIVISION,Domina,2,2,0,1.0
+ZETA DIVISION,Sierra,2,2,0,1.0
+ZETA DIVISION,Hazard,1,1,0,1.0
+ZETA DIVISION,Wuyang,1,1,0,1.0
+ZETA DIVISION,Hanzo,1,1,0,1.0
+ZETA DIVISION,Zenyatta,1,1,0,1.0
+ZETA DIVISION,Lifeweaver,1,1,0,1.0
+ZETA DIVISION,Ashe,1,1,0,1.0
+ZETA DIVISION,Ana,22,20,2,0.9091
+ZETA DIVISION,Jetpack Cat,16,14,2,0.875
+ZETA DIVISION,Mei,8,7,1,0.875
+ZETA DIVISION,Illari,15,13,2,0.8667
+ZETA DIVISION,Juno,14,12,2,0.8571
+ZETA DIVISION,Pharah,7,6,1,0.8571
+ZETA DIVISION,Genji,7,6,1,0.8571
+ZETA DIVISION,Bastion,7,6,1,0.8571
+ZETA DIVISION,Emre,19,16,3,0.8421
+ZETA DIVISION,Cassidy,11,9,2,0.8182
+ZETA DIVISION,Zarya,11,9,2,0.8182
+ZETA DIVISION,Wrecking Ball,11,9,2,0.8182
+ZETA DIVISION,Sojourn,15,12,3,0.8
+ZETA DIVISION,Winston,9,7,2,0.7778
+ZETA DIVISION,Tracer,30,23,7,0.7667
+ZETA DIVISION,Symmetra,24,18,6,0.75
+ZETA DIVISION,Sombra,4,3,1,0.75
+ZETA DIVISION,Echo,7,5,2,0.7143
+ZETA DIVISION,Kiriko,16,11,5,0.6875
+ZETA DIVISION,D.Va,15,10,5,0.6667
+ZETA DIVISION,Orisa,6,4,2,0.6667
+ZETA DIVISION,Baptiste,6,4,2,0.6667
+ZETA DIVISION,Sigma,3,2,1,0.6667
+ZETA DIVISION,Lúcio,14,9,5,0.6429
+ZETA DIVISION,Vendetta,8,5,3,0.625
+ZETA DIVISION,Venture,5,3,2,0.6
+ZETA DIVISION,Brigitte,7,3,4,0.4286
+ZETA DIVISION,Ramattra,3,1,2,0.3333

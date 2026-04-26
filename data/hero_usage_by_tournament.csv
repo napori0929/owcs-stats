@@ -1,0 +1,332 @@
+tournament_sheet,hero_name,role,usage_count,pick_count,pick_rate
+China - Stage 1,Kiriko,Support,206,202,0.2726
+China - Stage 1,D.Va,Tank,91,91,0.2177
+China - Stage 1,Lúcio,Support,155,153,0.2065
+China - Stage 1,Zarya,Tank,78,78,0.1866
+China - Stage 1,Emre,DPS,144,143,0.1578
+China - Stage 1,Tracer,DPS,144,138,0.1523
+China - Stage 1,Juno,Support,112,111,0.1498
+China - Stage 1,Symmetra,DPS,137,132,0.1457
+China - Stage 1,Vendetta,DPS,106,106,0.117
+China - Stage 1,Sojourn,DPS,96,96,0.106
+China - Stage 1,Orisa,Tank,39,39,0.0933
+China - Stage 1,Hazard,Tank,38,38,0.0909
+China - Stage 1,Brigitte,Support,62,62,0.0837
+China - Stage 1,Mauga,Tank,33,33,0.0789
+China - Stage 1,Ana,Support,59,57,0.0769
+China - Stage 1,Ramattra,Tank,29,29,0.0694
+China - Stage 1,Jetpack Cat,Support,51,50,0.0675
+China - Stage 1,Doomfist,Tank,25,25,0.0598
+China - Stage 1,Wrecking Ball,Tank,23,23,0.055
+China - Stage 1,Sigma,Tank,22,22,0.0526
+China - Stage 1,Winston,Tank,21,21,0.0502
+China - Stage 1,Cassidy,DPS,46,45,0.0497
+China - Stage 1,Wuyang,Support,34,34,0.0459
+China - Stage 1,Widowmaker,DPS,43,40,0.0442
+China - Stage 1,Bastion,DPS,41,40,0.0442
+China - Stage 1,Pharah,DPS,36,36,0.0397
+China - Stage 1,Baptiste,Support,30,28,0.0378
+China - Stage 1,Illari,Support,28,27,0.0364
+China - Stage 1,Mei,DPS,28,27,0.0298
+China - Stage 1,Reaper,DPS,25,22,0.0243
+China - Stage 1,Reinhardt,Tank,9,9,0.0215
+China - Stage 1,Venture,DPS,15,15,0.0166
+China - Stage 1,Genji,DPS,14,14,0.0155
+China - Stage 1,Junker Queen,Tank,6,6,0.0144
+China - Stage 1,Hanzo,DPS,11,11,0.0121
+China - Stage 1,Echo,DPS,10,10,0.011
+China - Stage 1,Mercy,Support,9,8,0.0108
+China - Stage 1,Roadhog,Tank,4,4,0.0096
+China - Stage 1,Soldier: 76,DPS,8,8,0.0088
+China - Stage 1,Sierra,DPS,7,7,0.0077
+China - Stage 1,Freja,DPS,6,6,0.0066
+China - Stage 1,Ashe,DPS,6,6,0.0066
+China - Stage 1,Anran,DPS,4,4,0.0044
+China - Stage 1,Mizuki,Support,3,3,0.004
+China - Stage 1,Zenyatta,Support,3,3,0.004
+China - Stage 1,Lifeweaver,Support,3,3,0.004
+EMEA - Stage 1,Zarya,Tank,104,104,0.4245
+EMEA - Stage 1,Kiriko,Support,126,126,0.2944
+EMEA - Stage 1,Emre,DPS,138,138,0.2851
+EMEA - Stage 1,Lúcio,Support,117,116,0.271
+EMEA - Stage 1,D.Va,Tank,50,50,0.2041
+EMEA - Stage 1,Juno,Support,89,86,0.2009
+EMEA - Stage 1,Tracer,DPS,95,91,0.188
+EMEA - Stage 1,Vendetta,DPS,94,91,0.188
+EMEA - Stage 1,Mauga,Tank,26,26,0.1061
+EMEA - Stage 1,Wrecking Ball,Tank,23,23,0.0939
+EMEA - Stage 1,Brigitte,Support,38,38,0.0888
+EMEA - Stage 1,Symmetra,DPS,42,41,0.0847
+EMEA - Stage 1,Pharah,DPS,37,37,0.0764
+EMEA - Stage 1,Widowmaker,DPS,36,35,0.0723
+EMEA - Stage 1,Sojourn,DPS,30,30,0.062
+EMEA - Stage 1,Hazard,Tank,13,13,0.0531
+EMEA - Stage 1,Jetpack Cat,Support,15,15,0.035
+EMEA - Stage 1,Doomfist,Tank,8,8,0.0327
+EMEA - Stage 1,Illari,Support,12,12,0.028
+EMEA - Stage 1,Ana,Support,11,11,0.0257
+EMEA - Stage 1,Orisa,Tank,6,6,0.0245
+EMEA - Stage 1,Winston,Tank,5,5,0.0204
+EMEA - Stage 1,Echo,DPS,10,9,0.0186
+EMEA - Stage 1,Sigma,Tank,4,4,0.0163
+EMEA - Stage 1,Zenyatta,Support,6,6,0.014
+EMEA - Stage 1,Ramattra,Tank,3,3,0.0122
+EMEA - Stage 1,Domina,Tank,3,3,0.0122
+EMEA - Stage 1,Baptiste,Support,5,5,0.0117
+EMEA - Stage 1,Wuyang,Support,6,5,0.0117
+EMEA - Stage 1,Lifeweaver,Support,4,4,0.0093
+EMEA - Stage 1,Mercy,Support,3,3,0.007
+EMEA - Stage 1,Genji,DPS,3,3,0.0062
+EMEA - Stage 1,Bastion,DPS,2,2,0.0041
+EMEA - Stage 1,Cassidy,DPS,2,2,0.0041
+EMEA - Stage 1,Mizuki,Support,1,1,0.0023
+EMEA - Stage 1,Sombra,DPS,1,1,0.0021
+EMEA - Stage 1,Hanzo,DPS,1,1,0.0021
+EMEA - Stage 1,Soldier: 76,DPS,1,1,0.0021
+EMEA - Stage 1,Freja,DPS,1,1,0.0021
+EMEA - Stage 1,Reaper,DPS,1,1,0.0021
+Japan - Stage 1,Kiriko,Support,173,166,0.2481
+Japan - Stage 1,D.Va,Tank,99,99,0.2444
+Japan - Stage 1,Emre,DPS,142,142,0.1751
+Japan - Stage 1,Tracer,DPS,139,135,0.1665
+Japan - Stage 1,Symmetra,DPS,136,131,0.1615
+Japan - Stage 1,Lúcio,Support,104,102,0.1525
+Japan - Stage 1,Zarya,Tank,50,50,0.1235
+Japan - Stage 1,Juno,Support,85,81,0.1211
+Japan - Stage 1,Vendetta,DPS,97,96,0.1184
+Japan - Stage 1,Hazard,Tank,45,45,0.1111
+Japan - Stage 1,Orisa,Tank,43,43,0.1062
+Japan - Stage 1,Ramattra,Tank,41,41,0.1012
+Japan - Stage 1,Brigitte,Support,67,67,0.1001
+Japan - Stage 1,Cassidy,DPS,79,79,0.0974
+Japan - Stage 1,Winston,Tank,36,36,0.0889
+Japan - Stage 1,Ana,Support,60,59,0.0882
+Japan - Stage 1,Wuyang,Support,58,57,0.0852
+Japan - Stage 1,Sojourn,DPS,66,66,0.0814
+Japan - Stage 1,Sigma,Tank,24,24,0.0593
+Japan - Stage 1,Wrecking Ball,Tank,22,22,0.0543
+Japan - Stage 1,Baptiste,Support,35,35,0.0523
+Japan - Stage 1,Jetpack Cat,Support,36,35,0.0523
+Japan - Stage 1,Widowmaker,DPS,41,40,0.0493
+Japan - Stage 1,Mauga,Tank,18,18,0.0444
+Japan - Stage 1,Illari,Support,26,26,0.0389
+Japan - Stage 1,Echo,DPS,30,30,0.037
+Japan - Stage 1,Doomfist,Tank,11,11,0.0272
+Japan - Stage 1,Mizuki,Support,18,18,0.0269
+Japan - Stage 1,Mei,DPS,19,19,0.0234
+Japan - Stage 1,Roadhog,Tank,7,7,0.0173
+Japan - Stage 1,Genji,DPS,14,14,0.0173
+Japan - Stage 1,Lifeweaver,Support,10,10,0.0149
+Japan - Stage 1,Reinhardt,Tank,6,6,0.0148
+Japan - Stage 1,Bastion,DPS,12,12,0.0148
+Japan - Stage 1,Pharah,DPS,11,11,0.0136
+Japan - Stage 1,Moira,Support,6,6,0.009
+Japan - Stage 1,Mercy,Support,5,5,0.0075
+Japan - Stage 1,Ashe,DPS,7,6,0.0074
+Japan - Stage 1,Freja,DPS,5,5,0.0062
+Japan - Stage 1,Hanzo,DPS,5,5,0.0062
+Japan - Stage 1,Torbjörn,DPS,5,5,0.0062
+Japan - Stage 1,Domina,Tank,2,2,0.0049
+Japan - Stage 1,Venture,DPS,4,4,0.0049
+Japan - Stage 1,Sombra,DPS,4,4,0.0049
+Japan - Stage 1,Reaper,DPS,3,3,0.0037
+Japan - Stage 1,Soldier: 76,DPS,3,3,0.0037
+Japan - Stage 1,Zenyatta,Support,2,2,0.003
+Japan - Stage 1,Junker Queen,Tank,1,1,0.0025
+Japan - Stage 1,Anran,DPS,1,1,0.0012
+Korea - Stage 1,Kiriko,Support,223,223,0.2575
+Korea - Stage 1,D.Va,Tank,131,131,0.2534
+Korea - Stage 1,Lúcio,Support,206,204,0.2356
+Korea - Stage 1,Zarya,Tank,108,108,0.2089
+Korea - Stage 1,Tracer,DPS,189,183,0.1637
+Korea - Stage 1,Symmetra,DPS,180,171,0.153
+Korea - Stage 1,Emre,DPS,163,163,0.1458
+Korea - Stage 1,Juno,Support,115,113,0.1305
+Korea - Stage 1,Sojourn,DPS,121,120,0.1073
+Korea - Stage 1,Vendetta,DPS,121,119,0.1064
+Korea - Stage 1,Ana,Support,91,90,0.1039
+Korea - Stage 1,Hazard,Tank,49,49,0.0948
+Korea - Stage 1,Wrecking Ball,Tank,43,43,0.0832
+Korea - Stage 1,Jetpack Cat,Support,73,72,0.0831
+Korea - Stage 1,Brigitte,Support,68,67,0.0774
+Korea - Stage 1,Mauga,Tank,38,38,0.0735
+Korea - Stage 1,Orisa,Tank,31,31,0.06
+Korea - Stage 1,Doomfist,Tank,31,31,0.06
+Korea - Stage 1,Winston,Tank,29,29,0.0561
+Korea - Stage 1,Ramattra,Tank,26,26,0.0503
+Korea - Stage 1,Pharah,DPS,53,53,0.0474
+Korea - Stage 1,Widowmaker,DPS,53,52,0.0465
+Korea - Stage 1,Cassidy,DPS,50,48,0.0429
+Korea - Stage 1,Bastion,DPS,48,47,0.042
+Korea - Stage 1,Wuyang,Support,31,31,0.0358
+Korea - Stage 1,Genji,DPS,36,36,0.0322
+Korea - Stage 1,Sigma,Tank,15,15,0.029
+Korea - Stage 1,Illari,Support,25,24,0.0277
+Korea - Stage 1,Mei,DPS,30,28,0.025
+Korea - Stage 1,Baptiste,Support,20,20,0.0231
+Korea - Stage 1,Echo,DPS,24,24,0.0215
+Korea - Stage 1,Venture,DPS,17,17,0.0152
+Korea - Stage 1,Hanzo,DPS,14,13,0.0116
+Korea - Stage 1,Domina,Tank,6,6,0.0116
+Korea - Stage 1,Reaper,DPS,13,13,0.0116
+Korea - Stage 1,Sombra,DPS,10,10,0.0089
+Korea - Stage 1,Lifeweaver,Support,7,7,0.0081
+Korea - Stage 1,Reinhardt,Tank,4,4,0.0077
+Korea - Stage 1,Roadhog,Tank,4,4,0.0077
+Korea - Stage 1,Zenyatta,Support,6,6,0.0069
+Korea - Stage 1,Sierra,DPS,7,7,0.0063
+Korea - Stage 1,Mercy,Support,4,4,0.0046
+Korea - Stage 1,Anran,DPS,5,5,0.0045
+Korea - Stage 1,Junker Queen,Tank,2,2,0.0039
+Korea - Stage 1,Torbjörn,DPS,4,4,0.0036
+Korea - Stage 1,Mizuki,Support,3,3,0.0035
+Korea - Stage 1,Moira,Support,2,2,0.0023
+Korea - Stage 1,Freja,DPS,2,2,0.0018
+Korea - Stage 1,Ashe,DPS,2,2,0.0018
+Korea - Stage 1,Soldier: 76,DPS,1,1,0.0009
+Non-Partner Team Index,Winston,Tank,54,27,1.0
+Non-Partner Team Index,Tracer,DPS,54,27,0.5
+Non-Partner Team Index,Genji,DPS,54,27,0.5
+Non-Partner Team Index,Lúcio,Support,54,27,0.5
+Non-Partner Team Index,Ana,Support,54,27,0.5
+North America - Stage 1,D.Va,Tank,72,72,0.2759
+North America - Stage 1,Kiriko,Support,129,123,0.2595
+North America - Stage 1,Lúcio,Support,102,101,0.2131
+North America - Stage 1,Tracer,DPS,117,112,0.1965
+North America - Stage 1,Emre,DPS,98,98,0.1719
+North America - Stage 1,Juno,Support,84,76,0.1603
+North America - Stage 1,Zarya,Tank,38,38,0.1456
+North America - Stage 1,Symmetra,DPS,81,77,0.1351
+North America - Stage 1,Orisa,Tank,32,32,0.1226
+North America - Stage 1,Sojourn,DPS,66,66,0.1158
+North America - Stage 1,Brigitte,Support,53,53,0.1118
+North America - Stage 1,Wrecking Ball,Tank,26,26,0.0996
+North America - Stage 1,Vendetta,DPS,55,55,0.0965
+North America - Stage 1,Ramattra,Tank,23,23,0.0881
+North America - Stage 1,Cassidy,DPS,42,42,0.0737
+North America - Stage 1,Winston,Tank,19,19,0.0728
+North America - Stage 1,Jetpack Cat,Support,31,31,0.0654
+North America - Stage 1,Widowmaker,DPS,37,37,0.0649
+North America - Stage 1,Mauga,Tank,13,13,0.0498
+North America - Stage 1,Wuyang,Support,22,22,0.0464
+North America - Stage 1,Ana,Support,22,22,0.0464
+North America - Stage 1,Sigma,Tank,11,11,0.0421
+North America - Stage 1,Doomfist,Tank,11,11,0.0421
+North America - Stage 1,Illari,Support,17,17,0.0359
+North America - Stage 1,Pharah,DPS,19,19,0.0333
+North America - Stage 1,Baptiste,Support,13,13,0.0274
+North America - Stage 1,Domina,Tank,6,6,0.023
+North America - Stage 1,Echo,DPS,12,12,0.0211
+North America - Stage 1,Genji,DPS,11,11,0.0193
+North America - Stage 1,Hazard,Tank,5,5,0.0192
+North America - Stage 1,Reinhardt,Tank,4,4,0.0153
+North America - Stage 1,Hanzo,DPS,8,8,0.014
+North America - Stage 1,Venture,DPS,8,8,0.014
+North America - Stage 1,Freja,DPS,6,6,0.0105
+North America - Stage 1,Reaper,DPS,5,5,0.0088
+North America - Stage 1,Zenyatta,Support,4,4,0.0084
+North America - Stage 1,Mercy,Support,4,4,0.0084
+North America - Stage 1,Ashe,DPS,4,4,0.007
+North America - Stage 1,Mizuki,Support,3,3,0.0063
+North America - Stage 1,Moira,Support,3,3,0.0063
+North America - Stage 1,Sombra,DPS,3,3,0.0053
+North America - Stage 1,Lifeweaver,Support,2,2,0.0042
+North America - Stage 1,Roadhog,Tank,1,1,0.0038
+North America - Stage 1,Bastion,DPS,2,2,0.0035
+North America - Stage 1,Soldier: 76,DPS,1,1,0.0018
+North America - Stage 1,Torbjörn,DPS,1,1,0.0018
+North America - Stage 1,Junkrat,DPS,1,1,0.0018
+North America - Stage 1,Anran,DPS,1,1,0.0018
+North America - Stage 1,Mei,DPS,1,1,0.0018
+Pacific - Stage 1,D.Va,Tank,60,60,0.3846
+Pacific - Stage 1,Kiriko,Support,82,79,0.2678
+Pacific - Stage 1,Tracer,DPS,76,75,0.2038
+Pacific - Stage 1,Zarya,Tank,28,28,0.1795
+Pacific - Stage 1,Lúcio,Support,52,50,0.1695
+Pacific - Stage 1,Emre,DPS,55,55,0.1495
+Pacific - Stage 1,Symmetra,DPS,53,51,0.1386
+Pacific - Stage 1,Sojourn,DPS,47,46,0.125
+Pacific - Stage 1,Ana,Support,36,36,0.122
+Pacific - Stage 1,Illari,Support,34,34,0.1153
+Pacific - Stage 1,Wrecking Ball,Tank,16,16,0.1026
+Pacific - Stage 1,Winston,Tank,12,12,0.0769
+Pacific - Stage 1,Juno,Support,21,21,0.0712
+Pacific - Stage 1,Brigitte,Support,20,20,0.0678
+Pacific - Stage 1,Ramattra,Tank,9,9,0.0577
+Pacific - Stage 1,Vendetta,DPS,21,21,0.0571
+Pacific - Stage 1,Cassidy,DPS,21,20,0.0543
+Pacific - Stage 1,Orisa,Tank,8,8,0.0513
+Pacific - Stage 1,Mizuki,Support,17,15,0.0508
+Pacific - Stage 1,Reaper,DPS,18,18,0.0489
+Pacific - Stage 1,Widowmaker,DPS,17,17,0.0462
+Pacific - Stage 1,Baptiste,Support,14,13,0.0441
+Pacific - Stage 1,Jetpack Cat,Support,13,13,0.0441
+Pacific - Stage 1,Hazard,Tank,6,6,0.0385
+Pacific - Stage 1,Mauga,Tank,6,6,0.0385
+Pacific - Stage 1,Echo,DPS,14,14,0.038
+Pacific - Stage 1,Doomfist,Tank,5,5,0.0321
+Pacific - Stage 1,Wuyang,Support,9,9,0.0305
+Pacific - Stage 1,Pharah,DPS,11,11,0.0299
+Pacific - Stage 1,Hanzo,DPS,9,9,0.0245
+Pacific - Stage 1,Genji,DPS,5,5,0.0136
+Pacific - Stage 1,Anran,DPS,5,5,0.0136
+Pacific - Stage 1,Reinhardt,Tank,2,2,0.0128
+Pacific - Stage 1,Domina,Tank,2,2,0.0128
+Pacific - Stage 1,Sombra,DPS,4,4,0.0109
+Pacific - Stage 1,Bastion,DPS,4,4,0.0109
+Pacific - Stage 1,Ashe,DPS,3,3,0.0082
+Pacific - Stage 1,Venture,DPS,3,3,0.0082
+Pacific - Stage 1,Mercy,Support,2,2,0.0068
+Pacific - Stage 1,Zenyatta,Support,2,2,0.0068
+Pacific - Stage 1,Roadhog,Tank,1,1,0.0064
+Pacific - Stage 1,Sigma,Tank,1,1,0.0064
+Pacific - Stage 1,Soldier: 76,DPS,2,2,0.0054
+Pacific - Stage 1,Torbjörn,DPS,2,2,0.0054
+Pacific - Stage 1,Mei,DPS,2,2,0.0054
+Pacific - Stage 1,Moira,Support,1,1,0.0034
+Pacific - Stage 1,Sierra,DPS,1,1,0.0027
+Partner Team Index,Winston,Tank,28,14,1.0
+Partner Team Index,Tracer,DPS,28,14,0.5
+Partner Team Index,Genji,DPS,28,14,0.5
+Partner Team Index,Lúcio,Support,28,14,0.5
+Partner Team Index,Ana,Support,28,14,0.5
+Pre-Season Bootcamp,Domina,Tank,58,58,0.4296
+Pre-Season Bootcamp,D.Va,Tank,33,33,0.2444
+Pre-Season Bootcamp,Kiriko,Support,66,62,0.2375
+Pre-Season Bootcamp,Sojourn,DPS,65,65,0.2321
+Pre-Season Bootcamp,Lúcio,Support,49,49,0.1877
+Pre-Season Bootcamp,Jetpack Cat,Support,48,48,0.1839
+Pre-Season Bootcamp,Tracer,DPS,46,43,0.1536
+Pre-Season Bootcamp,Zarya,Tank,18,18,0.1333
+Pre-Season Bootcamp,Vendetta,DPS,33,33,0.1179
+Pre-Season Bootcamp,Mizuki,Support,23,23,0.0881
+Pre-Season Bootcamp,Emre,DPS,23,23,0.0821
+Pre-Season Bootcamp,Anran,DPS,23,23,0.0821
+Pre-Season Bootcamp,Widowmaker,DPS,20,20,0.0714
+Pre-Season Bootcamp,Wuyang,Support,18,18,0.069
+Pre-Season Bootcamp,Juno,Support,16,16,0.0613
+Pre-Season Bootcamp,Wrecking Ball,Tank,8,8,0.0593
+Pre-Season Bootcamp,Sigma,Tank,8,8,0.0593
+Pre-Season Bootcamp,Symmetra,DPS,16,16,0.0571
+Pre-Season Bootcamp,Cassidy,DPS,14,14,0.05
+Pre-Season Bootcamp,Baptiste,Support,12,12,0.046
+Pre-Season Bootcamp,Ramattra,Tank,5,5,0.037
+Pre-Season Bootcamp,Ana,Support,9,9,0.0345
+Pre-Season Bootcamp,Illari,Support,8,8,0.0307
+Pre-Season Bootcamp,Echo,DPS,8,8,0.0286
+Pre-Season Bootcamp,Brigitte,Support,7,7,0.0268
+Pre-Season Bootcamp,Winston,Tank,3,3,0.0222
+Pre-Season Bootcamp,Hanzo,DPS,6,6,0.0214
+Pre-Season Bootcamp,Genji,DPS,6,6,0.0214
+Pre-Season Bootcamp,Zenyatta,Support,5,5,0.0192
+Pre-Season Bootcamp,Ashe,DPS,5,5,0.0179
+Pre-Season Bootcamp,Freja,DPS,5,5,0.0179
+Pre-Season Bootcamp,Pharah,DPS,5,5,0.0179
+Pre-Season Bootcamp,Reinhardt,Tank,2,2,0.0148
+Pre-Season Bootcamp,Mercy,Support,2,2,0.0077
+Pre-Season Bootcamp,Lifeweaver,Support,2,2,0.0077
+Pre-Season Bootcamp,Venture,DPS,2,2,0.0071
+Pre-Season Bootcamp,Sombra,DPS,2,2,0.0071
+Pre-Season Bootcamp,Torbjörn,DPS,2,2,0.0071
+Pre-Season Bootcamp,Bastion,DPS,1,1,0.0036
+Pre-Season Bootcamp,Mei,DPS,1,1,0.0036

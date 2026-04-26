@@ -1,0 +1,52 @@
+hero_name,role,usage_count,pick_count,pick_rate
+Kiriko,Support,1005,981,0.2571
+D.Va,Tank,536,536,0.2461
+Lúcio,Support,867,816,0.2138
+Zarya,Tank,424,424,0.1947
+Tracer,DPS,888,818,0.1771
+Emre,DPS,763,762,0.165
+Symmetra,DPS,645,619,0.134
+Juno,Support,522,504,0.1321
+Vendetta,DPS,527,521,0.1128
+Sojourn,DPS,491,489,0.1059
+Ana,Support,370,325,0.0852
+Brigitte,Support,315,314,0.0823
+Winston,Tank,207,166,0.0762
+Wrecking Ball,Tank,161,161,0.0739
+Orisa,Tank,159,159,0.073
+Hazard,Tank,156,156,0.0716
+Jetpack Cat,Support,267,264,0.0692
+Ramattra,Tank,136,136,0.0624
+Mauga,Tank,134,134,0.0615
+Cassidy,DPS,254,250,0.0541
+Widowmaker,DPS,247,241,0.0522
+Wuyang,Support,178,176,0.0461
+Doomfist,Tank,91,91,0.0418
+Sigma,Tank,85,85,0.039
+Illari,Support,150,148,0.0388
+Pharah,DPS,172,172,0.0372
+Domina,Tank,77,77,0.0354
+Baptiste,Support,129,126,0.033
+Genji,DPS,171,130,0.0281
+Bastion,DPS,110,108,0.0234
+Echo,DPS,108,107,0.0232
+Mizuki,Support,68,66,0.0173
+Mei,DPS,81,78,0.0169
+Reaper,DPS,65,62,0.0134
+Reinhardt,Tank,27,27,0.0124
+Hanzo,DPS,54,53,0.0115
+Venture,DPS,49,49,0.0106
+Anran,DPS,39,39,0.0084
+Roadhog,Tank,17,17,0.0078
+Zenyatta,Support,28,28,0.0073
+Mercy,Support,29,28,0.0073
+Lifeweaver,Support,28,28,0.0073
+Ashe,DPS,27,26,0.0056
+Freja,DPS,25,25,0.0054
+Sombra,DPS,24,24,0.0052
+Junker Queen,Tank,9,9,0.0041
+Soldier: 76,DPS,16,16,0.0035
+Sierra,DPS,15,15,0.0032
+Moira,Support,12,12,0.0031
+Torbjörn,DPS,14,14,0.003
+Junkrat,DPS,1,1,0.0002

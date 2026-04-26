@@ -1,0 +1,1408 @@
+team_name,hero_name,role,usage_count,pick_count,pick_rate
+99DIVINE,Winston,Tank,24,18,0.2812
+99DIVINE,Tracer,DPS,37,30,0.2609
+99DIVINE,Kiriko,Support,28,28,0.2523
+99DIVINE,Emre,DPS,26,26,0.2261
+99DIVINE,D.Va,Tank,13,13,0.2031
+99DIVINE,Ana,Support,26,20,0.1802
+99DIVINE,Lúcio,Support,25,19,0.1712
+99DIVINE,Hazard,Tank,10,10,0.1562
+99DIVINE,Juno,Support,14,13,0.1171
+99DIVINE,Zarya,Tank,7,7,0.1094
+99DIVINE,Symmetra,DPS,13,12,0.1043
+99DIVINE,Wrecking Ball,Tank,6,6,0.0938
+99DIVINE,Cassidy,DPS,10,10,0.087
+99DIVINE,Wuyang,Support,9,9,0.0811
+99DIVINE,Brigitte,Support,9,9,0.0811
+99DIVINE,Vendetta,DPS,8,8,0.0696
+99DIVINE,Jetpack Cat,Support,7,7,0.0631
+99DIVINE,Orisa,Tank,4,4,0.0625
+99DIVINE,Mauga,Tank,4,4,0.0625
+99DIVINE,Echo,DPS,7,7,0.0609
+99DIVINE,Sojourn,DPS,7,7,0.0609
+99DIVINE,Genji,DPS,12,6,0.0522
+99DIVINE,Mizuki,Support,4,4,0.036
+99DIVINE,Widowmaker,DPS,3,3,0.0261
+99DIVINE,Pharah,DPS,3,3,0.0261
+99DIVINE,Roadhog,Tank,1,1,0.0156
+99DIVINE,Sigma,Tank,1,1,0.0156
+99DIVINE,Baptiste,Support,1,1,0.009
+99DIVINE,Zenyatta,Support,1,1,0.009
+99DIVINE,Venture,DPS,1,1,0.0087
+99DIVINE,Sombra,DPS,1,1,0.0087
+99DIVINE,Soldier: 76,DPS,1,1,0.0087
+Al Qadsiah,Zarya,Tank,17,17,0.3778
+Al Qadsiah,Lúcio,Support,24,21,0.2442
+Al Qadsiah,Emre,DPS,24,24,0.233
+Al Qadsiah,Kiriko,Support,20,20,0.2326
+Al Qadsiah,Juno,Support,18,18,0.2093
+Al Qadsiah,D.Va,Tank,8,8,0.1778
+Al Qadsiah,Vendetta,DPS,21,18,0.1748
+Al Qadsiah,Mauga,Tank,7,7,0.1556
+Al Qadsiah,Tracer,DPS,19,15,0.1456
+Al Qadsiah,Symmetra,DPS,13,12,0.1165
+Al Qadsiah,Pharah,DPS,10,10,0.0971
+Al Qadsiah,Orisa,Tank,4,4,0.0889
+Al Qadsiah,Widowmaker,DPS,9,9,0.0874
+Al Qadsiah,Brigitte,Support,7,7,0.0814
+Al Qadsiah,Illari,Support,7,7,0.0814
+Al Qadsiah,Sojourn,DPS,7,7,0.068
+Al Qadsiah,Domina,Tank,3,3,0.0667
+Al Qadsiah,Winston,Tank,6,3,0.0667
+Al Qadsiah,Zenyatta,Support,5,5,0.0581
+Al Qadsiah,Ana,Support,8,5,0.0581
+Al Qadsiah,Sigma,Tank,2,2,0.0444
+Al Qadsiah,Genji,DPS,7,4,0.0388
+Al Qadsiah,Jetpack Cat,Support,2,2,0.0233
+Al Qadsiah,Wrecking Ball,Tank,1,1,0.0222
+Al Qadsiah,Echo,DPS,3,2,0.0194
+Al Qadsiah,Baptiste,Support,1,1,0.0116
+Al Qadsiah,Bastion,DPS,1,1,0.0097
+Al Qadsiah,Sombra,DPS,1,1,0.0097
+All Gamers,D.Va,Tank,24,24,0.2892
+All Gamers,Kiriko,Support,40,40,0.2395
+All Gamers,Mauga,Tank,17,17,0.2048
+All Gamers,Lúcio,Support,37,34,0.2036
+All Gamers,Tracer,DPS,41,38,0.1818
+All Gamers,Emre,DPS,32,32,0.1531
+All Gamers,Juno,Support,24,24,0.1437
+All Gamers,Symmetra,DPS,30,29,0.1388
+All Gamers,Zarya,Tank,11,11,0.1325
+All Gamers,Jetpack Cat,Support,21,21,0.1257
+All Gamers,Ana,Support,19,16,0.0958
+All Gamers,Widowmaker,DPS,17,17,0.0813
+All Gamers,Wrecking Ball,Tank,6,6,0.0723
+All Gamers,Brigitte,Support,12,12,0.0719
+All Gamers,Ramattra,Tank,5,5,0.0602
+All Gamers,Reinhardt,Tank,5,5,0.0602
+All Gamers,Cassidy,DPS,12,12,0.0574
+All Gamers,Vendetta,DPS,12,12,0.0574
+All Gamers,Bastion,DPS,13,12,0.0574
+All Gamers,Winston,Tank,7,4,0.0482
+All Gamers,Sojourn,DPS,9,9,0.0431
+All Gamers,Baptiste,Support,7,7,0.0419
+All Gamers,Pharah,DPS,8,8,0.0383
+All Gamers,Domina,Tank,3,3,0.0361
+All Gamers,Sigma,Tank,3,3,0.0361
+All Gamers,Soldier: 76,DPS,7,7,0.0335
+All Gamers,Mei,DPS,6,6,0.0287
+All Gamers,Reaper,DPS,8,6,0.0287
+All Gamers,Genji,DPS,9,6,0.0287
+All Gamers,Orisa,Tank,2,2,0.0241
+All Gamers,Hazard,Tank,2,2,0.0241
+All Gamers,Echo,DPS,5,5,0.0239
+All Gamers,Venture,DPS,4,4,0.0191
+All Gamers,Hanzo,DPS,4,4,0.0191
+All Gamers,Illari,Support,3,3,0.018
+All Gamers,Lifeweaver,Support,3,3,0.018
+All Gamers,Mercy,Support,3,3,0.018
+All Gamers,Mizuki,Support,2,2,0.012
+All Gamers,Wuyang,Support,2,2,0.012
+All Gamers,Doomfist,Tank,1,1,0.012
+All Gamers,Anran,DPS,2,2,0.0096
+Anyone's Legend,Kiriko,Support,17,17,0.3333
+Anyone's Legend,Lúcio,Support,15,15,0.2941
+Anyone's Legend,Emre,DPS,13,13,0.2281
+Anyone's Legend,Zarya,Tank,7,7,0.2258
+Anyone's Legend,Mauga,Tank,7,7,0.2258
+Anyone's Legend,Juno,Support,10,10,0.1961
+Anyone's Legend,Tracer,DPS,11,11,0.193
+Anyone's Legend,Winston,Tank,5,5,0.1613
+Anyone's Legend,Wrecking Ball,Tank,5,5,0.1613
+Anyone's Legend,Vendetta,DPS,9,9,0.1579
+Anyone's Legend,D.Va,Tank,4,4,0.129
+Anyone's Legend,Sojourn,DPS,7,7,0.1228
+Anyone's Legend,Widowmaker,DPS,5,5,0.0877
+Anyone's Legend,Echo,DPS,5,5,0.0877
+Anyone's Legend,Pharah,DPS,4,4,0.0702
+Anyone's Legend,Doomfist,Tank,2,2,0.0645
+Anyone's Legend,Brigitte,Support,3,3,0.0588
+Anyone's Legend,Lifeweaver,Support,2,2,0.0392
+Anyone's Legend,Ana,Support,2,2,0.0392
+Anyone's Legend,Orisa,Tank,1,1,0.0323
+Anyone's Legend,Illari,Support,1,1,0.0196
+Anyone's Legend,Jetpack Cat,Support,1,1,0.0196
+Anyone's Legend,Freja,DPS,1,1,0.0175
+Anyone's Legend,Symmetra,DPS,1,1,0.0175
+Anyone's Legend,Reaper,DPS,1,1,0.0175
+Cheeseburger,Lúcio,Support,29,24,0.2526
+Cheeseburger,Tracer,DPS,34,28,0.2314
+Cheeseburger,Winston,Tank,17,12,0.2105
+Cheeseburger,Ana,Support,25,20,0.2105
+Cheeseburger,Kiriko,Support,18,18,0.1895
+Cheeseburger,Zarya,Tank,10,10,0.1754
+Cheeseburger,D.Va,Tank,8,8,0.1404
+Cheeseburger,Hazard,Tank,7,7,0.1228
+Cheeseburger,Symmetra,DPS,16,14,0.1157
+Cheeseburger,Doomfist,Tank,6,6,0.1053
+Cheeseburger,Mauga,Tank,6,6,0.1053
+Cheeseburger,Sojourn,DPS,12,12,0.0992
+Cheeseburger,Emre,DPS,12,12,0.0992
+Cheeseburger,Brigitte,Support,9,9,0.0947
+Cheeseburger,Jetpack Cat,Support,9,9,0.0947
+Cheeseburger,Juno,Support,8,8,0.0842
+Cheeseburger,Vendetta,DPS,10,9,0.0744
+Cheeseburger,Widowmaker,DPS,8,8,0.0661
+Cheeseburger,Genji,DPS,12,7,0.0579
+Cheeseburger,Orisa,Tank,3,3,0.0526
+Cheeseburger,Sigma,Tank,3,3,0.0526
+Cheeseburger,Cassidy,DPS,6,6,0.0496
+Cheeseburger,Pharah,DPS,6,6,0.0496
+Cheeseburger,Bastion,DPS,6,6,0.0496
+Cheeseburger,Wuyang,Support,4,4,0.0421
+Cheeseburger,Echo,DPS,4,4,0.0331
+Cheeseburger,Zenyatta,Support,2,2,0.0211
+Cheeseburger,Ramattra,Tank,1,1,0.0175
+Cheeseburger,Roadhog,Tank,1,1,0.0175
+Cheeseburger,Freja,DPS,2,2,0.0165
+Cheeseburger,Anran,DPS,2,2,0.0165
+Cheeseburger,Hanzo,DPS,2,2,0.0165
+Cheeseburger,Mei,DPS,2,2,0.0165
+Cheeseburger,Lifeweaver,Support,1,1,0.0105
+Cheeseburger,Reaper,DPS,1,1,0.0083
+Crazy Raccoon,D.Va,Tank,25,25,0.2747
+Crazy Raccoon,Kiriko,Support,39,38,0.2468
+Crazy Raccoon,Lúcio,Support,41,37,0.2403
+Crazy Raccoon,Tracer,DPS,46,41,0.206
+Crazy Raccoon,Zarya,Tank,14,14,0.1538
+Crazy Raccoon,Symmetra,DPS,31,30,0.1508
+Crazy Raccoon,Jetpack Cat,Support,22,22,0.1429
+Crazy Raccoon,Sojourn,DPS,23,23,0.1156
+Crazy Raccoon,Ana,Support,20,16,0.1039
+Crazy Raccoon,Vendetta,DPS,21,20,0.1005
+Crazy Raccoon,Mauga,Tank,9,9,0.0989
+Crazy Raccoon,Juno,Support,16,15,0.0974
+Crazy Raccoon,Emre,DPS,19,19,0.0955
+Crazy Raccoon,Winston,Tank,12,8,0.0879
+Crazy Raccoon,Domina,Tank,7,7,0.0769
+Crazy Raccoon,Wrecking Ball,Tank,7,7,0.0769
+Crazy Raccoon,Ramattra,Tank,6,6,0.0659
+Crazy Raccoon,Pharah,DPS,12,12,0.0603
+Crazy Raccoon,Orisa,Tank,5,5,0.0549
+Crazy Raccoon,Brigitte,Support,8,8,0.0519
+Crazy Raccoon,Wuyang,Support,7,7,0.0455
+Crazy Raccoon,Sigma,Tank,4,4,0.044
+Crazy Raccoon,Hazard,Tank,4,4,0.044
+Crazy Raccoon,Cassidy,DPS,9,8,0.0402
+Crazy Raccoon,Genji,DPS,12,8,0.0402
+Crazy Raccoon,Bastion,DPS,7,7,0.0352
+Crazy Raccoon,Widowmaker,DPS,6,6,0.0302
+Crazy Raccoon,Mizuki,Support,4,4,0.026
+Crazy Raccoon,Baptiste,Support,4,4,0.026
+Crazy Raccoon,Mei,DPS,5,5,0.0251
+Crazy Raccoon,Anran,DPS,3,3,0.0151
+Crazy Raccoon,Ashe,DPS,3,3,0.0151
+Crazy Raccoon,Sombra,DPS,3,3,0.0151
+Crazy Raccoon,Reaper,DPS,3,3,0.0151
+Crazy Raccoon,Illari,Support,2,2,0.013
+Crazy Raccoon,Reinhardt,Tank,1,1,0.011
+Crazy Raccoon,Roadhog,Tank,1,1,0.011
+Crazy Raccoon,Hanzo,DPS,2,2,0.0101
+Crazy Raccoon,Echo,DPS,2,2,0.0101
+Crazy Raccoon,Lifeweaver,Support,1,1,0.0065
+Crazy Raccoon,Torbjörn,DPS,1,1,0.005
+Crazy Raccoon,Venture,DPS,1,1,0.005
+Crazy Raccoon,Soldier: 76,DPS,1,1,0.005
+Crazy Raccoon,Sierra,DPS,1,1,0.005
+DEG,Doomfist,Tank,7,7,0.4118
+DEG,Winston,Tank,11,6,0.3529
+DEG,Brigitte,Support,10,10,0.2778
+DEG,Tracer,DPS,16,11,0.2292
+DEG,Kiriko,Support,7,7,0.1944
+DEG,Ana,Support,12,7,0.1944
+DEG,Hazard,Tank,3,3,0.1765
+DEG,Symmetra,DPS,9,8,0.1667
+DEG,Vendetta,DPS,8,8,0.1667
+DEG,Lúcio,Support,10,5,0.1389
+DEG,Genji,DPS,10,5,0.1042
+DEG,Sojourn,DPS,4,4,0.0833
+DEG,Cassidy,DPS,4,4,0.0833
+DEG,Wuyang,Support,3,3,0.0833
+DEG,Emre,DPS,4,3,0.0625
+DEG,Zarya,Tank,1,1,0.0588
+DEG,Baptiste,Support,2,2,0.0556
+DEG,Juno,Support,2,2,0.0556
+DEG,Venture,DPS,2,2,0.0417
+DEG,Anran,DPS,2,2,0.0417
+DEG,Widowmaker,DPS,1,1,0.0208
+Dallas Fuel,Winston,Tank,21,17,0.2931
+Dallas Fuel,Wrecking Ball,Tank,14,14,0.2414
+Dallas Fuel,Tracer,DPS,29,25,0.188
+Dallas Fuel,Kiriko,Support,27,24,0.1832
+Dallas Fuel,Sojourn,DPS,24,24,0.1805
+Dallas Fuel,Ana,Support,25,21,0.1603
+Dallas Fuel,Lúcio,Support,20,16,0.1221
+Dallas Fuel,D.Va,Tank,7,7,0.1207
+Dallas Fuel,Ramattra,Tank,7,7,0.1207
+Dallas Fuel,Illari,Support,13,13,0.0992
+Dallas Fuel,Juno,Support,14,13,0.0992
+Dallas Fuel,Symmetra,DPS,15,13,0.0977
+Dallas Fuel,Brigitte,Support,12,12,0.0916
+Dallas Fuel,Sigma,Tank,5,5,0.0862
+Dallas Fuel,Jetpack Cat,Support,11,11,0.084
+Dallas Fuel,Widowmaker,DPS,10,10,0.0752
+Dallas Fuel,Cassidy,DPS,10,10,0.0752
+Dallas Fuel,Wuyang,Support,9,9,0.0687
+Dallas Fuel,Emre,DPS,9,9,0.0677
+Dallas Fuel,Vendetta,DPS,9,9,0.0677
+Dallas Fuel,Genji,DPS,11,7,0.0526
+Dallas Fuel,Pharah,DPS,7,7,0.0526
+Dallas Fuel,Domina,Tank,3,3,0.0517
+Dallas Fuel,Zarya,Tank,3,3,0.0517
+Dallas Fuel,Echo,DPS,6,6,0.0451
+Dallas Fuel,Mercy,Support,5,5,0.0382
+Dallas Fuel,Reinhardt,Tank,2,2,0.0345
+Dallas Fuel,Mizuki,Support,3,3,0.0229
+Dallas Fuel,Baptiste,Support,3,3,0.0229
+Dallas Fuel,Ashe,DPS,3,3,0.0226
+Dallas Fuel,Anran,DPS,2,2,0.015
+Dallas Fuel,Hanzo,DPS,2,2,0.015
+Dallas Fuel,Moira,Support,1,1,0.0076
+Dallas Fuel,Bastion,DPS,1,1,0.0075
+Dallas Fuel,Torbjörn,DPS,1,1,0.0075
+Dallas Fuel,Sombra,DPS,1,1,0.0075
+Dallas Fuel,Junkrat,DPS,1,1,0.0075
+Dallas Fuel,Freja,DPS,1,1,0.0075
+Dallas Fuel,Mei,DPS,1,1,0.0075
+Disguised,D.Va,Tank,16,16,0.3333
+Disguised,Kiriko,Support,18,18,0.2535
+Disguised,Lúcio,Support,18,18,0.2535
+Disguised,Ramattra,Tank,11,11,0.2292
+Disguised,Emre,DPS,21,21,0.2
+Disguised,Juno,Support,15,13,0.1831
+Disguised,Zarya,Tank,8,8,0.1667
+Disguised,Tracer,DPS,19,17,0.1619
+Disguised,Vendetta,DPS,14,14,0.1333
+Disguised,Symmetra,DPS,12,12,0.1143
+Disguised,Jetpack Cat,Support,8,8,0.1127
+Disguised,Sojourn,DPS,10,10,0.0952
+Disguised,Cassidy,DPS,10,10,0.0952
+Disguised,Widowmaker,DPS,9,9,0.0857
+Disguised,Brigitte,Support,6,6,0.0845
+Disguised,Domina,Tank,4,4,0.0833
+Disguised,Wrecking Ball,Tank,4,4,0.0833
+Disguised,Doomfist,Tank,3,3,0.0625
+Disguised,Baptiste,Support,4,4,0.0563
+Disguised,Venture,DPS,5,5,0.0476
+Disguised,Mizuki,Support,2,2,0.0282
+Disguised,Hazard,Tank,1,1,0.0208
+Disguised,Winston,Tank,1,1,0.0208
+Disguised,Hanzo,DPS,2,2,0.019
+Disguised,Zenyatta,Support,1,1,0.0141
+Disguised,Lifeweaver,Support,1,1,0.0141
+Disguised,Ashe,DPS,1,1,0.0095
+Disguised,Anran,DPS,1,1,0.0095
+Disguised,Soldier: 76,DPS,1,1,0.0095
+Disguised,Bastion,DPS,1,1,0.0095
+Disguised,Genji,DPS,1,1,0.0095
+ENTER FORCE.36,Kiriko,Support,23,22,0.234
+ENTER FORCE.36,D.Va,Tank,15,15,0.2113
+ENTER FORCE.36,Emre,DPS,25,25,0.1969
+ENTER FORCE.36,Juno,Support,17,17,0.1809
+ENTER FORCE.36,Tracer,DPS,24,22,0.1732
+ENTER FORCE.36,Lúcio,Support,16,16,0.1702
+ENTER FORCE.36,Vendetta,DPS,19,18,0.1417
+ENTER FORCE.36,Zarya,Tank,10,10,0.1408
+ENTER FORCE.36,Hazard,Tank,9,9,0.1268
+ENTER FORCE.36,Orisa,Tank,9,9,0.1268
+ENTER FORCE.36,Symmetra,DPS,17,16,0.126
+ENTER FORCE.36,Wuyang,Support,11,11,0.117
+ENTER FORCE.36,Brigitte,Support,10,10,0.1064
+ENTER FORCE.36,Sojourn,DPS,12,12,0.0945
+ENTER FORCE.36,Ana,Support,8,8,0.0851
+ENTER FORCE.36,Wrecking Ball,Tank,6,6,0.0845
+ENTER FORCE.36,Winston,Tank,6,6,0.0845
+ENTER FORCE.36,Widowmaker,DPS,10,10,0.0787
+ENTER FORCE.36,Sigma,Tank,4,4,0.0563
+ENTER FORCE.36,Mauga,Tank,4,4,0.0563
+ENTER FORCE.36,Echo,DPS,7,7,0.0551
+ENTER FORCE.36,Genji,DPS,7,7,0.0551
+ENTER FORCE.36,Doomfist,Tank,3,3,0.0423
+ENTER FORCE.36,Pharah,DPS,4,4,0.0315
+ENTER FORCE.36,Ramattra,Tank,2,2,0.0282
+ENTER FORCE.36,Domina,Tank,2,2,0.0282
+ENTER FORCE.36,Jetpack Cat,Support,2,2,0.0213
+ENTER FORCE.36,Mizuki,Support,2,2,0.0213
+ENTER FORCE.36,Baptiste,Support,2,2,0.0213
+ENTER FORCE.36,Lifeweaver,Support,2,2,0.0213
+ENTER FORCE.36,Illari,Support,2,2,0.0213
+ENTER FORCE.36,Sombra,DPS,2,2,0.0157
+ENTER FORCE.36,Roadhog,Tank,1,1,0.0141
+ENTER FORCE.36,Hanzo,DPS,1,1,0.0079
+ENTER FORCE.36,Torbjörn,DPS,1,1,0.0079
+ENTER FORCE.36,Reaper,DPS,1,1,0.0079
+ENTER FORCE.36,Mei,DPS,1,1,0.0079
+Extinction,D.Va,Tank,15,15,0.5357
+Extinction,Tracer,DPS,18,16,0.2712
+Extinction,Kiriko,Support,14,14,0.2456
+Extinction,Lúcio,Support,15,13,0.2281
+Extinction,Juno,Support,11,10,0.1754
+Extinction,Sojourn,DPS,10,10,0.1695
+Extinction,Symmetra,DPS,9,9,0.1525
+Extinction,Emre,DPS,8,8,0.1356
+Extinction,Wrecking Ball,Tank,2,2,0.0714
+Extinction,Sigma,Tank,2,2,0.0714
+Extinction,Winston,Tank,4,2,0.0714
+Extinction,Wuyang,Support,4,4,0.0702
+Extinction,Jetpack Cat,Support,4,4,0.0702
+Extinction,Brigitte,Support,3,3,0.0526
+Extinction,Ana,Support,5,3,0.0526
+Extinction,Cassidy,DPS,3,3,0.0508
+Extinction,Vendetta,DPS,3,3,0.0508
+Extinction,Widowmaker,DPS,3,3,0.0508
+Extinction,Domina,Tank,1,1,0.0357
+Extinction,Zarya,Tank,1,1,0.0357
+Extinction,Doomfist,Tank,1,1,0.0357
+Extinction,Roadhog,Tank,1,1,0.0357
+Extinction,Reinhardt,Tank,1,1,0.0357
+Extinction,Mauga,Tank,1,1,0.0357
+Extinction,Orisa,Tank,1,1,0.0357
+Extinction,Moira,Support,2,2,0.0351
+Extinction,Echo,DPS,2,2,0.0339
+Extinction,Genji,DPS,4,2,0.0339
+Extinction,Mizuki,Support,1,1,0.0175
+Extinction,Lifeweaver,Support,1,1,0.0175
+Extinction,Zenyatta,Support,1,1,0.0175
+Extinction,Baptiste,Support,1,1,0.0175
+Extinction,Freja,DPS,1,1,0.0169
+Extinction,Ashe,DPS,1,1,0.0169
+Extinction,Hanzo,DPS,1,1,0.0169
+FURY,Lúcio,Support,25,19,0.3585
+FURY,D.Va,Tank,10,10,0.2857
+FURY,Kiriko,Support,14,14,0.2642
+FURY,Tracer,DPS,23,17,0.2576
+FURY,Winston,Tank,15,9,0.2571
+FURY,Zarya,Tank,8,8,0.2286
+FURY,Emre,DPS,11,11,0.1667
+FURY,Ana,Support,14,8,0.1509
+FURY,Sojourn,DPS,8,8,0.1212
+FURY,Wrecking Ball,Tank,4,4,0.1143
+FURY,Vendetta,DPS,7,7,0.1061
+FURY,Wuyang,Support,5,5,0.0943
+FURY,Genji,DPS,12,6,0.0909
+FURY,Symmetra,DPS,5,5,0.0758
+FURY,Sombra,DPS,4,4,0.0606
+FURY,Orisa,Tank,2,2,0.0571
+FURY,Juno,Support,3,3,0.0566
+FURY,Brigitte,Support,3,3,0.0566
+FURY,Widowmaker,DPS,3,3,0.0455
+FURY,Venture,DPS,2,2,0.0303
+FURY,Pharah,DPS,2,2,0.0303
+FURY,Doomfist,Tank,1,1,0.0286
+FURY,Sigma,Tank,1,1,0.0286
+FURY,Mercy,Support,1,1,0.0189
+FURY,Cassidy,DPS,1,1,0.0152
+Geekay Esports,Zarya,Tank,29,29,0.6042
+Geekay Esports,Kiriko,Support,28,28,0.3077
+Geekay Esports,Emre,DPS,28,28,0.2947
+Geekay Esports,Lúcio,Support,25,25,0.2747
+Geekay Esports,D.Va,Tank,10,10,0.2083
+Geekay Esports,Tracer,DPS,19,19,0.2
+Geekay Esports,Vendetta,DPS,17,17,0.1789
+Geekay Esports,Juno,Support,16,16,0.1758
+Geekay Esports,Wrecking Ball,Tank,8,8,0.1667
+Geekay Esports,Symmetra,DPS,14,14,0.1474
+Geekay Esports,Brigitte,Support,7,7,0.0769
+Geekay Esports,Pharah,DPS,7,7,0.0737
+Geekay Esports,Jetpack Cat,Support,6,6,0.0659
+Geekay Esports,Sojourn,DPS,6,6,0.0632
+Geekay Esports,Ana,Support,4,4,0.044
+Geekay Esports,Wuyang,Support,3,3,0.033
+Geekay Esports,Widowmaker,DPS,2,2,0.0211
+Geekay Esports,Doomfist,Tank,1,1,0.0208
+Geekay Esports,Lifeweaver,Support,1,1,0.011
+Geekay Esports,Illari,Support,1,1,0.011
+Geekay Esports,Genji,DPS,1,1,0.0105
+Geekay Esports,Echo,DPS,1,1,0.0105
+Homie E,Zarya,Tank,9,9,0.4286
+Homie E,Kiriko,Support,13,13,0.3171
+Homie E,Juno,Support,11,11,0.2683
+Homie E,Vendetta,DPS,11,11,0.2619
+Homie E,Lúcio,Support,10,10,0.2439
+Homie E,Hazard,Tank,5,5,0.2381
+Homie E,Sojourn,DPS,9,9,0.2143
+Homie E,Tracer,DPS,9,8,0.1905
+Homie E,Orisa,Tank,3,3,0.1429
+Homie E,Emre,DPS,5,5,0.119
+Homie E,Wuyang,Support,4,4,0.0976
+Homie E,Symmetra,DPS,4,4,0.0952
+Homie E,Ramattra,Tank,1,1,0.0476
+Homie E,Sigma,Tank,1,1,0.0476
+Homie E,Doomfist,Tank,1,1,0.0476
+Homie E,D.Va,Tank,1,1,0.0476
+Homie E,Venture,DPS,2,2,0.0476
+Homie E,Ana,Support,1,1,0.0244
+Homie E,Baptiste,Support,1,1,0.0244
+Homie E,Brigitte,Support,1,1,0.0244
+Homie E,Genji,DPS,1,1,0.0238
+Homie E,Widowmaker,DPS,1,1,0.0238
+Homie E,Pharah,DPS,1,1,0.0238
+JD Gaming,Kiriko,Support,32,31,0.2844
+JD Gaming,Lúcio,Support,27,27,0.2477
+JD Gaming,Tracer,DPS,31,30,0.2055
+JD Gaming,D.Va,Tank,16,16,0.2051
+JD Gaming,Emre,DPS,24,24,0.1644
+JD Gaming,Wrecking Ball,Tank,12,12,0.1538
+JD Gaming,Hazard,Tank,12,12,0.1538
+JD Gaming,Winston,Tank,11,11,0.141
+JD Gaming,Symmetra,DPS,19,19,0.1301
+JD Gaming,Ana,Support,13,12,0.1101
+JD Gaming,Sojourn,DPS,15,15,0.1027
+JD Gaming,Doomfist,Tank,8,8,0.1026
+JD Gaming,Ramattra,Tank,8,8,0.1026
+JD Gaming,Brigitte,Support,9,9,0.0826
+JD Gaming,Jetpack Cat,Support,9,9,0.0826
+JD Gaming,Vendetta,DPS,11,11,0.0753
+JD Gaming,Wuyang,Support,8,8,0.0734
+JD Gaming,Bastion,DPS,10,10,0.0685
+JD Gaming,Orisa,Tank,5,5,0.0641
+JD Gaming,Juno,Support,6,6,0.055
+JD Gaming,Widowmaker,DPS,6,6,0.0411
+JD Gaming,Sigma,Tank,3,3,0.0385
+JD Gaming,Pharah,DPS,5,5,0.0342
+JD Gaming,Reaper,DPS,6,5,0.0342
+JD Gaming,Cassidy,DPS,4,4,0.0274
+JD Gaming,Reinhardt,Tank,2,2,0.0256
+JD Gaming,Hanzo,DPS,3,3,0.0205
+JD Gaming,Venture,DPS,3,3,0.0205
+JD Gaming,Mei,DPS,3,3,0.0205
+JD Gaming,Genji,DPS,3,3,0.0205
+JD Gaming,Zenyatta,Support,2,2,0.0183
+JD Gaming,Baptiste,Support,2,2,0.0183
+JD Gaming,Echo,DPS,2,2,0.0137
+JD Gaming,Freja,DPS,2,2,0.0137
+JD Gaming,Junker Queen,Tank,1,1,0.0128
+JD Gaming,Illari,Support,1,1,0.0092
+JD Gaming,Mercy,Support,1,1,0.0092
+JD Gaming,Mizuki,Support,1,1,0.0092
+JD Gaming,Anran,DPS,1,1,0.0068
+Lazuli,Ramattra,Tank,15,15,0.3846
+Lazuli,Orisa,Tank,9,9,0.2308
+Lazuli,Brigitte,Support,16,16,0.2222
+Lazuli,Juno,Support,16,16,0.2222
+Lazuli,Sojourn,DPS,15,15,0.1765
+Lazuli,Symmetra,DPS,14,13,0.1529
+Lazuli,Kiriko,Support,11,11,0.1528
+Lazuli,Tracer,DPS,12,12,0.1412
+Lazuli,Vendetta,DPS,12,12,0.1412
+Lazuli,Doomfist,Tank,5,5,0.1282
+Lazuli,Emre,DPS,10,10,0.1176
+Lazuli,Cassidy,DPS,10,10,0.1176
+Lazuli,Lúcio,Support,6,6,0.0833
+Lazuli,Winston,Tank,3,3,0.0769
+Lazuli,Reinhardt,Tank,3,3,0.0769
+Lazuli,Widowmaker,DPS,6,6,0.0706
+Lazuli,Baptiste,Support,5,5,0.0694
+Lazuli,Ana,Support,4,4,0.0556
+Lazuli,Wuyang,Support,4,4,0.0556
+Lazuli,Jetpack Cat,Support,3,3,0.0417
+Lazuli,Freja,DPS,3,3,0.0353
+Lazuli,Mizuki,Support,2,2,0.0278
+Lazuli,Moira,Support,2,2,0.0278
+Lazuli,Roadhog,Tank,1,1,0.0256
+Lazuli,Wrecking Ball,Tank,1,1,0.0256
+Lazuli,Sigma,Tank,1,1,0.0256
+Lazuli,Hazard,Tank,1,1,0.0256
+Lazuli,Hanzo,DPS,2,2,0.0235
+Lazuli,Lifeweaver,Support,1,1,0.0139
+Lazuli,Illari,Support,1,1,0.0139
+Lazuli,Mercy,Support,1,1,0.0139
+Lazuli,Sombra,DPS,1,1,0.0118
+Lazuli,Genji,DPS,1,1,0.0118
+LuneX Gaming,Orisa,Tank,13,13,0.4483
+LuneX Gaming,Kiriko,Support,21,21,0.3134
+LuneX Gaming,Lúcio,Support,20,20,0.2985
+LuneX Gaming,Zarya,Tank,7,7,0.2414
+LuneX Gaming,Tracer,DPS,17,17,0.2329
+LuneX Gaming,Sojourn,DPS,12,12,0.1644
+LuneX Gaming,Emre,DPS,11,11,0.1507
+LuneX Gaming,Juno,Support,11,10,0.1493
+LuneX Gaming,Domina,Tank,4,4,0.1379
+LuneX Gaming,Vendetta,DPS,10,10,0.137
+LuneX Gaming,Symmetra,DPS,10,10,0.137
+LuneX Gaming,Brigitte,Support,8,8,0.1194
+LuneX Gaming,Doomfist,Tank,3,3,0.1034
+LuneX Gaming,Wrecking Ball,Tank,2,2,0.069
+LuneX Gaming,Reaper,DPS,5,5,0.0685
+LuneX Gaming,Jetpack Cat,Support,4,4,0.0597
+LuneX Gaming,Freja,DPS,4,4,0.0548
+LuneX Gaming,Illari,Support,2,2,0.0299
+LuneX Gaming,Cassidy,DPS,2,2,0.0274
+LuneX Gaming,Zenyatta,Support,1,1,0.0149
+LuneX Gaming,Baptiste,Support,1,1,0.0149
+LuneX Gaming,Widowmaker,DPS,1,1,0.0137
+LuneX Gaming,Pharah,DPS,1,1,0.0137
+MieMieYang,D.Va,Tank,12,12,0.4444
+MieMieYang,Kiriko,Support,13,13,0.2889
+MieMieYang,Tracer,DPS,15,15,0.2174
+MieMieYang,Orisa,Tank,5,5,0.1852
+MieMieYang,Lúcio,Support,8,8,0.1778
+MieMieYang,Illari,Support,8,8,0.1778
+MieMieYang,Sojourn,DPS,12,11,0.1594
+MieMieYang,Ana,Support,7,7,0.1556
+MieMieYang,Zarya,Tank,4,4,0.1481
+MieMieYang,Symmetra,DPS,10,10,0.1449
+MieMieYang,Emre,DPS,9,9,0.1304
+MieMieYang,Ramattra,Tank,3,3,0.1111
+MieMieYang,Widowmaker,DPS,7,7,0.1014
+MieMieYang,Jetpack Cat,Support,4,4,0.0889
+MieMieYang,Pharah,DPS,5,5,0.0725
+MieMieYang,Echo,DPS,5,5,0.0725
+MieMieYang,Hanzo,DPS,4,4,0.058
+MieMieYang,Brigitte,Support,2,2,0.0444
+MieMieYang,Baptiste,Support,2,2,0.0444
+MieMieYang,Winston,Tank,1,1,0.037
+MieMieYang,Wrecking Ball,Tank,1,1,0.037
+MieMieYang,Doomfist,Tank,1,1,0.037
+MieMieYang,Mizuki,Support,1,1,0.0222
+MieMieYang,Reaper,DPS,1,1,0.0145
+MieMieYang,Torbjörn,DPS,1,1,0.0145
+MieMieYang,Bastion,DPS,1,1,0.0145
+Milk Tea,Kiriko,Support,33,32,0.2991
+Milk Tea,Lúcio,Support,24,24,0.2243
+Milk Tea,Juno,Support,24,23,0.215
+Milk Tea,Zarya,Tank,11,11,0.1719
+Milk Tea,Ramattra,Tank,11,11,0.1719
+Milk Tea,Sigma,Tank,10,10,0.1562
+Milk Tea,Symmetra,DPS,18,16,0.1379
+Milk Tea,Sojourn,DPS,15,15,0.1293
+Milk Tea,Emre,DPS,15,15,0.1293
+Milk Tea,Cassidy,DPS,16,15,0.1293
+Milk Tea,D.Va,Tank,8,8,0.125
+Milk Tea,Mei,DPS,13,13,0.1121
+Milk Tea,Vendetta,DPS,10,10,0.0862
+Milk Tea,Orisa,Tank,5,5,0.0781
+Milk Tea,Doomfist,Tank,5,5,0.0781
+Milk Tea,Hazard,Tank,4,4,0.0625
+Milk Tea,Wrecking Ball,Tank,4,4,0.0625
+Milk Tea,Tracer,DPS,8,7,0.0603
+Milk Tea,Ana,Support,7,6,0.0561
+Milk Tea,Mauga,Tank,3,3,0.0469
+Milk Tea,Illari,Support,6,5,0.0467
+Milk Tea,Jetpack Cat,Support,5,4,0.0374
+Milk Tea,Brigitte,Support,4,4,0.0374
+Milk Tea,Roadhog,Tank,2,2,0.0312
+Milk Tea,Baptiste,Support,3,3,0.028
+Milk Tea,Wuyang,Support,3,3,0.028
+Milk Tea,Freja,DPS,3,3,0.0259
+Milk Tea,Echo,DPS,3,3,0.0259
+Milk Tea,Ashe,DPS,3,3,0.0259
+Milk Tea,Pharah,DPS,3,3,0.0259
+Milk Tea,Bastion,DPS,3,3,0.0259
+Milk Tea,Mercy,Support,3,2,0.0187
+Milk Tea,Widowmaker,DPS,3,2,0.0172
+Milk Tea,Reaper,DPS,2,2,0.0172
+Milk Tea,Venture,DPS,2,2,0.0172
+Milk Tea,Sierra,DPS,2,2,0.0172
+Milk Tea,Winston,Tank,1,1,0.0156
+Milk Tea,Mizuki,Support,1,1,0.0093
+Milk Tea,Genji,DPS,1,1,0.0086
+Milk Tea,Soldier: 76,DPS,1,1,0.0086
+Naive Piggy,D.Va,Tank,18,18,0.3273
+Naive Piggy,Orisa,Tank,16,16,0.2909
+Naive Piggy,Zarya,Tank,14,14,0.2545
+Naive Piggy,Kiriko,Support,24,24,0.24
+Naive Piggy,Juno,Support,23,23,0.23
+Naive Piggy,Vendetta,DPS,24,24,0.1875
+Naive Piggy,Lúcio,Support,17,17,0.17
+Naive Piggy,Emre,DPS,21,21,0.1641
+Naive Piggy,Brigitte,Support,16,16,0.16
+Naive Piggy,Tracer,DPS,21,19,0.1484
+Naive Piggy,Sojourn,DPS,18,18,0.1406
+Naive Piggy,Symmetra,DPS,18,18,0.1406
+Naive Piggy,Illari,Support,7,7,0.07
+Naive Piggy,Cassidy,DPS,8,8,0.0625
+Naive Piggy,Hazard,Tank,3,3,0.0545
+Naive Piggy,Baptiste,Support,6,5,0.05
+Naive Piggy,Pharah,DPS,6,6,0.0469
+Naive Piggy,Ana,Support,4,4,0.04
+Naive Piggy,Reaper,DPS,5,5,0.0391
+Naive Piggy,Wuyang,Support,3,3,0.03
+Naive Piggy,Ashe,DPS,3,3,0.0234
+Naive Piggy,Reinhardt,Tank,1,1,0.0182
+Naive Piggy,Winston,Tank,1,1,0.0182
+Naive Piggy,Ramattra,Tank,1,1,0.0182
+Naive Piggy,Sigma,Tank,1,1,0.0182
+Naive Piggy,Bastion,DPS,2,2,0.0156
+Naive Piggy,Genji,DPS,2,2,0.0156
+Naive Piggy,Widowmaker,DPS,2,2,0.0156
+Naive Piggy,Zenyatta,Support,1,1,0.01
+New Era,D.Va,Tank,9,9,0.3
+New Era,Kiriko,Support,15,15,0.2143
+New Era,Zarya,Tank,6,6,0.2
+New Era,Brigitte,Support,13,13,0.1857
+New Era,Tracer,DPS,15,15,0.1829
+New Era,Emre,DPS,14,14,0.1707
+New Era,Lúcio,Support,11,11,0.1571
+New Era,Ana,Support,11,10,0.1429
+New Era,Sojourn,DPS,11,11,0.1341
+New Era,Orisa,Tank,4,4,0.1333
+New Era,Hazard,Tank,4,4,0.1333
+New Era,Wrecking Ball,Tank,4,4,0.1333
+New Era,Juno,Support,8,8,0.1143
+New Era,Vendetta,DPS,9,9,0.1098
+New Era,Symmetra,DPS,10,9,0.1098
+New Era,Genji,DPS,8,8,0.0976
+New Era,Cassidy,DPS,6,6,0.0732
+New Era,Widowmaker,DPS,6,6,0.0732
+New Era,Wuyang,Support,4,4,0.0571
+New Era,Illari,Support,4,3,0.0429
+New Era,Domina,Tank,1,1,0.0333
+New Era,Winston,Tank,1,1,0.0333
+New Era,Doomfist,Tank,1,1,0.0333
+New Era,Zenyatta,Support,2,2,0.0286
+New Era,Venture,DPS,2,2,0.0244
+New Era,Mercy,Support,1,1,0.0143
+New Era,Jetpack Cat,Support,1,1,0.0143
+New Era,Baptiste,Support,1,1,0.0143
+New Era,Mizuki,Support,1,1,0.0143
+New Era,Anran,DPS,1,1,0.0122
+New Era,Hanzo,DPS,2,1,0.0122
+Nyam Gaming,Zarya,Tank,16,16,0.3902
+Nyam Gaming,D.Va,Tank,14,14,0.3415
+Nyam Gaming,Kiriko,Support,23,23,0.2911
+Nyam Gaming,Emre,DPS,20,20,0.2083
+Nyam Gaming,Vendetta,DPS,20,20,0.2083
+Nyam Gaming,Lúcio,Support,18,16,0.2025
+Nyam Gaming,Symmetra,DPS,18,16,0.1667
+Nyam Gaming,Tracer,DPS,16,15,0.1562
+Nyam Gaming,Wuyang,Support,12,12,0.1519
+Nyam Gaming,Hazard,Tank,6,6,0.1463
+Nyam Gaming,Juno,Support,10,8,0.1013
+Nyam Gaming,Brigitte,Support,8,8,0.1013
+Nyam Gaming,Sojourn,DPS,8,8,0.0833
+Nyam Gaming,Ana,Support,7,6,0.0759
+Nyam Gaming,Widowmaker,DPS,7,6,0.0625
+Nyam Gaming,Orisa,Tank,2,2,0.0488
+Nyam Gaming,Sigma,Tank,2,2,0.0488
+Nyam Gaming,Echo,DPS,4,4,0.0417
+Nyam Gaming,Mizuki,Support,2,2,0.0253
+Nyam Gaming,Lifeweaver,Support,2,2,0.0253
+Nyam Gaming,Wrecking Ball,Tank,1,1,0.0244
+Nyam Gaming,Venture,DPS,2,2,0.0208
+Nyam Gaming,Cassidy,DPS,2,2,0.0208
+Nyam Gaming,Mercy,Support,1,1,0.0127
+Nyam Gaming,Jetpack Cat,Support,1,1,0.0127
+Nyam Gaming,Pharah,DPS,1,1,0.0104
+Nyam Gaming,Torbjörn,DPS,1,1,0.0104
+Nyam Gaming,Freja,DPS,1,1,0.0104
+Please Not Hero Ban,D.Va,Tank,18,18,0.3673
+Please Not Hero Ban,Kiriko,Support,28,27,0.3214
+Please Not Hero Ban,Symmetra,DPS,25,25,0.2427
+Please Not Hero Ban,Cassidy,DPS,24,24,0.233
+Please Not Hero Ban,Orisa,Tank,11,11,0.2245
+Please Not Hero Ban,Lúcio,Support,17,17,0.2024
+Please Not Hero Ban,Emre,DPS,17,17,0.165
+Please Not Hero Ban,Tracer,DPS,12,12,0.1165
+Please Not Hero Ban,Zarya,Tank,5,5,0.102
+Please Not Hero Ban,Illari,Support,8,8,0.0952
+Please Not Hero Ban,Vendetta,DPS,9,9,0.0874
+Please Not Hero Ban,Baptiste,Support,7,7,0.0833
+Please Not Hero Ban,Juno,Support,7,7,0.0833
+Please Not Hero Ban,Mauga,Tank,4,4,0.0816
+Please Not Hero Ban,Ramattra,Tank,3,3,0.0612
+Please Not Hero Ban,Wrecking Ball,Tank,3,3,0.0612
+Please Not Hero Ban,Mizuki,Support,5,5,0.0595
+Please Not Hero Ban,Ana,Support,5,5,0.0595
+Please Not Hero Ban,Brigitte,Support,4,4,0.0476
+Please Not Hero Ban,Winston,Tank,2,2,0.0408
+Please Not Hero Ban,Hazard,Tank,2,2,0.0408
+Please Not Hero Ban,Sojourn,DPS,4,4,0.0388
+Please Not Hero Ban,Jetpack Cat,Support,3,3,0.0357
+Please Not Hero Ban,Echo,DPS,3,3,0.0291
+Please Not Hero Ban,Torbjörn,DPS,3,3,0.0291
+Please Not Hero Ban,Sigma,Tank,1,1,0.0204
+Please Not Hero Ban,Reaper,DPS,2,2,0.0194
+Please Not Hero Ban,Widowmaker,DPS,2,2,0.0194
+Please Not Hero Ban,Wuyang,Support,1,1,0.0119
+Please Not Hero Ban,Ashe,DPS,1,1,0.0097
+Please Not Hero Ban,Mei,DPS,1,1,0.0097
+Poker Face,Kiriko,Support,22,22,0.2933
+Poker Face,Lúcio,Support,22,22,0.2933
+Poker Face,Zarya,Tank,12,12,0.25
+Poker Face,Hazard,Tank,10,10,0.2083
+Poker Face,D.Va,Tank,9,9,0.1875
+Poker Face,Emre,DPS,18,18,0.1682
+Poker Face,Symmetra,DPS,16,15,0.1402
+Poker Face,Tracer,DPS,16,15,0.1402
+Poker Face,Widowmaker,DPS,14,14,0.1308
+Poker Face,Vendetta,DPS,12,12,0.1121
+Poker Face,Juno,Support,8,8,0.1067
+Poker Face,Wrecking Ball,Tank,5,5,0.1042
+Poker Face,Mauga,Tank,5,5,0.1042
+Poker Face,Ana,Support,6,6,0.08
+Poker Face,Jetpack Cat,Support,6,6,0.08
+Poker Face,Sojourn,DPS,8,8,0.0748
+Poker Face,Wuyang,Support,5,5,0.0667
+Poker Face,Ramattra,Tank,3,3,0.0625
+Poker Face,Winston,Tank,2,2,0.0417
+Poker Face,Hanzo,DPS,4,4,0.0374
+Poker Face,Echo,DPS,4,4,0.0374
+Poker Face,Pharah,DPS,4,4,0.0374
+Poker Face,Bastion,DPS,4,4,0.0374
+Poker Face,Cassidy,DPS,3,3,0.028
+Poker Face,Illari,Support,2,2,0.0267
+Poker Face,Brigitte,Support,2,2,0.0267
+Poker Face,Orisa,Tank,1,1,0.0208
+Poker Face,Doomfist,Tank,1,1,0.0208
+Poker Face,Mei,DPS,2,2,0.0187
+Poker Face,Sierra,DPS,2,2,0.0187
+Poker Face,Baptiste,Support,1,1,0.0133
+Poker Face,Zenyatta,Support,1,1,0.0133
+Poker Face,Venture,DPS,1,1,0.0093
+Poker Face,Reaper,DPS,1,1,0.0093
+Quasar Esports,D.Va,Tank,11,11,0.4231
+Quasar Esports,Kiriko,Support,19,17,0.3208
+Quasar Esports,Winston,Tank,6,6,0.2308
+Quasar Esports,Tracer,DPS,18,17,0.2297
+Quasar Esports,Lúcio,Support,11,11,0.2075
+Quasar Esports,Sojourn,DPS,13,13,0.1757
+Quasar Esports,Ana,Support,8,8,0.1509
+Quasar Esports,Symmetra,DPS,10,10,0.1351
+Quasar Esports,Cassidy,DPS,10,9,0.1216
+Quasar Esports,Emre,DPS,8,8,0.1081
+Quasar Esports,Mizuki,Support,6,5,0.0943
+Quasar Esports,Zarya,Tank,2,2,0.0769
+Quasar Esports,Ramattra,Tank,2,2,0.0769
+Quasar Esports,Domina,Tank,2,2,0.0769
+Quasar Esports,Juno,Support,4,4,0.0755
+Quasar Esports,Jetpack Cat,Support,3,3,0.0566
+Quasar Esports,Baptiste,Support,3,3,0.0566
+Quasar Esports,Vendetta,DPS,3,3,0.0405
+Quasar Esports,Roadhog,Tank,1,1,0.0385
+Quasar Esports,Orisa,Tank,1,1,0.0385
+Quasar Esports,Mauga,Tank,1,1,0.0385
+Quasar Esports,Hanzo,DPS,2,2,0.027
+Quasar Esports,Widowmaker,DPS,2,2,0.027
+Quasar Esports,Genji,DPS,2,2,0.027
+Quasar Esports,Ashe,DPS,2,2,0.027
+Quasar Esports,Mei,DPS,2,2,0.027
+Quasar Esports,Bastion,DPS,2,2,0.027
+Quasar Esports,Illari,Support,1,1,0.0189
+Quasar Esports,Wuyang,Support,1,1,0.0189
+Quasar Esports,Soldier: 76,DPS,1,1,0.0135
+Quasar Esports,Reaper,DPS,1,1,0.0135
+Rankers,D.Va,Tank,12,12,0.4286
+Rankers,Zarya,Tank,11,11,0.3929
+Rankers,Kiriko,Support,17,16,0.2759
+Rankers,Reaper,DPS,14,14,0.2295
+Rankers,Illari,Support,13,13,0.2241
+Rankers,Ana,Support,10,10,0.1724
+Rankers,Tracer,DPS,10,10,0.1639
+Rankers,Symmetra,DPS,10,9,0.1475
+Rankers,Mauga,Tank,4,4,0.1429
+Rankers,Brigitte,Support,7,7,0.1207
+Rankers,Echo,DPS,7,7,0.1148
+Rankers,Sojourn,DPS,6,6,0.0984
+Rankers,Emre,DPS,5,5,0.082
+Rankers,Cassidy,DPS,5,5,0.082
+Rankers,Wuyang,Support,3,3,0.0517
+Rankers,Mizuki,Support,3,3,0.0517
+Rankers,Baptiste,Support,4,3,0.0517
+Rankers,Winston,Tank,1,1,0.0357
+Rankers,Lúcio,Support,2,2,0.0345
+Rankers,Pharah,DPS,2,2,0.0328
+Rankers,Juno,Support,1,1,0.0172
+Rankers,Ashe,DPS,1,1,0.0164
+Rankers,Torbjörn,DPS,1,1,0.0164
+Rankers,Hanzo,DPS,1,1,0.0164
+RØDE ONSIDE GAMING,Kiriko,Support,37,37,0.3217
+RØDE ONSIDE GAMING,D.Va,Tank,22,22,0.3188
+RØDE ONSIDE GAMING,Lúcio,Support,31,31,0.2696
+RØDE ONSIDE GAMING,Zarya,Tank,18,18,0.2609
+RØDE ONSIDE GAMING,Emre,DPS,31,31,0.1824
+RØDE ONSIDE GAMING,Symmetra,DPS,27,27,0.1588
+RØDE ONSIDE GAMING,Tracer,DPS,27,26,0.1529
+RØDE ONSIDE GAMING,Hazard,Tank,10,10,0.1449
+RØDE ONSIDE GAMING,Sojourn,DPS,19,19,0.1118
+RØDE ONSIDE GAMING,Brigitte,Support,12,12,0.1043
+RØDE ONSIDE GAMING,Vendetta,DPS,16,16,0.0941
+RØDE ONSIDE GAMING,Ana,Support,9,9,0.0783
+RØDE ONSIDE GAMING,Pharah,DPS,12,12,0.0706
+RØDE ONSIDE GAMING,Juno,Support,8,8,0.0696
+RØDE ONSIDE GAMING,Wuyang,Support,7,7,0.0609
+RØDE ONSIDE GAMING,Doomfist,Tank,4,4,0.058
+RØDE ONSIDE GAMING,Winston,Tank,4,4,0.058
+RØDE ONSIDE GAMING,Mauga,Tank,4,4,0.058
+RØDE ONSIDE GAMING,Jetpack Cat,Support,6,6,0.0522
+RØDE ONSIDE GAMING,Ramattra,Tank,3,3,0.0435
+RØDE ONSIDE GAMING,Genji,DPS,7,7,0.0412
+RØDE ONSIDE GAMING,Widowmaker,DPS,7,7,0.0412
+RØDE ONSIDE GAMING,Bastion,DPS,6,6,0.0353
+RØDE ONSIDE GAMING,Mei,DPS,5,5,0.0294
+RØDE ONSIDE GAMING,Orisa,Tank,2,2,0.029
+RØDE ONSIDE GAMING,Cassidy,DPS,3,3,0.0176
+RØDE ONSIDE GAMING,Mercy,Support,2,2,0.0174
+RØDE ONSIDE GAMING,Baptiste,Support,2,2,0.0174
+RØDE ONSIDE GAMING,Wrecking Ball,Tank,1,1,0.0145
+RØDE ONSIDE GAMING,Reinhardt,Tank,1,1,0.0145
+RØDE ONSIDE GAMING,Venture,DPS,2,2,0.0118
+RØDE ONSIDE GAMING,Torbjörn,DPS,2,2,0.0118
+RØDE ONSIDE GAMING,Sierra,DPS,2,2,0.0118
+RØDE ONSIDE GAMING,Reaper,DPS,2,2,0.0118
+RØDE ONSIDE GAMING,Sombra,DPS,2,2,0.0118
+RØDE ONSIDE GAMING,Mizuki,Support,1,1,0.0087
+RØDE ONSIDE GAMING,Anran,DPS,1,1,0.0059
+SV,Kiriko,Support,29,28,0.3218
+SV,D.Va,Tank,18,18,0.3214
+SV,Zarya,Tank,17,17,0.3036
+SV,Lúcio,Support,23,23,0.2644
+SV,Emre,DPS,24,24,0.2105
+SV,Vendetta,DPS,19,19,0.1667
+SV,Symmetra,DPS,17,17,0.1491
+SV,Tracer,DPS,16,16,0.1404
+SV,Orisa,Tank,6,6,0.1071
+SV,Sojourn,DPS,12,12,0.1053
+SV,Wuyang,Support,9,9,0.1034
+SV,Juno,Support,8,8,0.092
+SV,Junker Queen,Tank,5,5,0.0893
+SV,Illari,Support,6,6,0.069
+SV,Widowmaker,DPS,9,7,0.0614
+SV,Baptiste,Support,5,4,0.046
+SV,Ana,Support,4,4,0.046
+SV,Sigma,Tank,2,2,0.0357
+SV,Ramattra,Tank,2,2,0.0357
+SV,Mauga,Tank,2,2,0.0357
+SV,Roadhog,Tank,2,2,0.0357
+SV,Pharah,DPS,4,4,0.0351
+SV,Hanzo,DPS,3,3,0.0263
+SV,Mei,DPS,4,3,0.0263
+SV,Bastion,DPS,3,3,0.0263
+SV,Brigitte,Support,2,2,0.023
+SV,Jetpack Cat,Support,2,2,0.023
+SV,Reinhardt,Tank,1,1,0.0179
+SV,Hazard,Tank,1,1,0.0179
+SV,Cassidy,DPS,2,2,0.0175
+SV,Mercy,Support,1,1,0.0115
+SV,Freja,DPS,1,1,0.0088
+SV,Reaper,DPS,1,1,0.0088
+SV,Genji,DPS,1,1,0.0088
+SV,Sierra,DPS,1,1,0.0088
+Spacestation Gaming,D.Va,Tank,26,26,0.3824
+Spacestation Gaming,Lúcio,Support,31,30,0.283
+Spacestation Gaming,Kiriko,Support,30,29,0.2736
+Spacestation Gaming,Zarya,Tank,17,17,0.25
+Spacestation Gaming,Emre,DPS,28,28,0.2121
+Spacestation Gaming,Tracer,DPS,27,27,0.2045
+Spacestation Gaming,Symmetra,DPS,22,22,0.1667
+Spacestation Gaming,Juno,Support,19,17,0.1604
+Spacestation Gaming,Brigitte,Support,10,10,0.0943
+Spacestation Gaming,Orisa,Tank,6,6,0.0882
+Spacestation Gaming,Cassidy,DPS,11,11,0.0833
+Spacestation Gaming,Sojourn,DPS,11,11,0.0833
+Spacestation Gaming,Widowmaker,DPS,10,10,0.0758
+Spacestation Gaming,Ramattra,Tank,5,5,0.0735
+Spacestation Gaming,Vendetta,DPS,9,9,0.0682
+Spacestation Gaming,Hazard,Tank,4,4,0.0588
+Spacestation Gaming,Mauga,Tank,4,4,0.0588
+Spacestation Gaming,Doomfist,Tank,4,4,0.0588
+Spacestation Gaming,Wuyang,Support,6,6,0.0566
+Spacestation Gaming,Jetpack Cat,Support,5,5,0.0472
+Spacestation Gaming,Baptiste,Support,4,4,0.0377
+Spacestation Gaming,Ana,Support,4,4,0.0377
+Spacestation Gaming,Pharah,DPS,4,4,0.0303
+Spacestation Gaming,Echo,DPS,4,4,0.0303
+Spacestation Gaming,Sigma,Tank,2,2,0.0294
+Spacestation Gaming,Genji,DPS,3,3,0.0227
+Spacestation Gaming,Hanzo,DPS,2,2,0.0152
+Spacestation Gaming,Zenyatta,Support,1,1,0.0094
+Spacestation Gaming,Venture,DPS,1,1,0.0076
+T1,Kiriko,Support,29,29,0.2685
+T1,Lúcio,Support,29,29,0.2685
+T1,D.Va,Tank,14,14,0.1918
+T1,Zarya,Tank,14,14,0.1918
+T1,Vendetta,DPS,21,21,0.1736
+T1,Emre,DPS,20,20,0.1653
+T1,Symmetra,DPS,20,20,0.1653
+T1,Sojourn,DPS,18,18,0.1488
+T1,Tracer,DPS,18,17,0.1405
+T1,Wrecking Ball,Tank,9,9,0.1233
+T1,Juno,Support,13,13,0.1204
+T1,Domina,Tank,7,7,0.0959
+T1,Ana,Support,9,9,0.0833
+T1,Wuyang,Support,8,8,0.0741
+T1,Sigma,Tank,5,5,0.0685
+T1,Orisa,Tank,5,5,0.0685
+T1,Mauga,Tank,5,5,0.0685
+T1,Jetpack Cat,Support,7,6,0.0556
+T1,Hazard,Tank,4,4,0.0548
+T1,Echo,DPS,5,5,0.0413
+T1,Baptiste,Support,4,4,0.037
+T1,Brigitte,Support,4,4,0.037
+T1,Widowmaker,DPS,4,4,0.0331
+T1,Doomfist,Tank,2,2,0.0274
+T1,Ramattra,Tank,2,2,0.0274
+T1,Roadhog,Tank,2,2,0.0274
+T1,Junker Queen,Tank,2,2,0.0274
+T1,Genji,DPS,3,3,0.0248
+T1,Pharah,DPS,3,3,0.0248
+T1,Venture,DPS,3,3,0.0248
+T1,Mizuki,Support,2,2,0.0185
+T1,Anran,DPS,2,2,0.0165
+T1,Sombra,DPS,2,2,0.0165
+T1,Bastion,DPS,2,2,0.0165
+T1,Reinhardt,Tank,1,1,0.0137
+T1,Winston,Tank,1,1,0.0137
+T1,Mercy,Support,1,1,0.0093
+T1,Moira,Support,1,1,0.0093
+T1,Illari,Support,1,1,0.0093
+T1,Lifeweaver,Support,1,1,0.0093
+T1,Reaper,DPS,1,1,0.0083
+TOKYO TAIYOs,Kiriko,Support,25,23,0.2556
+TOKYO TAIYOs,D.Va,Tank,12,12,0.24
+TOKYO TAIYOs,Sigma,Tank,12,12,0.24
+TOKYO TAIYOs,Lúcio,Support,20,20,0.2222
+TOKYO TAIYOs,Ramattra,Tank,10,10,0.2
+TOKYO TAIYOs,Cassidy,DPS,19,19,0.1776
+TOKYO TAIYOs,Symmetra,DPS,19,19,0.1776
+TOKYO TAIYOs,Tracer,DPS,17,17,0.1589
+TOKYO TAIYOs,Baptiste,Support,11,11,0.1222
+TOKYO TAIYOs,Mei,DPS,12,12,0.1121
+TOKYO TAIYOs,Bastion,DPS,10,10,0.0935
+TOKYO TAIYOs,Widowmaker,DPS,9,9,0.0841
+TOKYO TAIYOs,Roadhog,Tank,4,4,0.08
+TOKYO TAIYOs,Mauga,Tank,4,4,0.08
+TOKYO TAIYOs,Wuyang,Support,6,6,0.0667
+TOKYO TAIYOs,Juno,Support,6,6,0.0667
+TOKYO TAIYOs,Emre,DPS,7,7,0.0654
+TOKYO TAIYOs,Lifeweaver,Support,5,5,0.0556
+TOKYO TAIYOs,Illari,Support,4,4,0.0444
+TOKYO TAIYOs,Brigitte,Support,4,4,0.0444
+TOKYO TAIYOs,Zarya,Tank,2,2,0.04
+TOKYO TAIYOs,Doomfist,Tank,2,2,0.04
+TOKYO TAIYOs,Hazard,Tank,2,2,0.04
+TOKYO TAIYOs,Sojourn,DPS,4,4,0.0374
+TOKYO TAIYOs,Jetpack Cat,Support,3,3,0.0333
+TOKYO TAIYOs,Ana,Support,3,3,0.0333
+TOKYO TAIYOs,Mercy,Support,3,3,0.0333
+TOKYO TAIYOs,Vendetta,DPS,3,3,0.028
+TOKYO TAIYOs,Winston,Tank,1,1,0.02
+TOKYO TAIYOs,Wrecking Ball,Tank,1,1,0.02
+TOKYO TAIYOs,Ashe,DPS,3,2,0.0187
+TOKYO TAIYOs,Soldier: 76,DPS,2,2,0.0187
+TOKYO TAIYOs,Mizuki,Support,1,1,0.0111
+TOKYO TAIYOs,Zenyatta,Support,1,1,0.0111
+TOKYO TAIYOs,Hanzo,DPS,1,1,0.0093
+TOKYO TAIYOs,Pharah,DPS,1,1,0.0093
+TOKYO TAIYOs,Genji,DPS,1,1,0.0093
+Team Falcons,D.Va,Tank,27,27,0.3857
+Team Falcons,Kiriko,Support,44,44,0.2785
+Team Falcons,Zarya,Tank,16,16,0.2286
+Team Falcons,Lúcio,Support,36,35,0.2215
+Team Falcons,Juno,Support,34,33,0.2089
+Team Falcons,Symmetra,DPS,33,32,0.1882
+Team Falcons,Emre,DPS,22,22,0.1294
+Team Falcons,Domina,Tank,9,9,0.1286
+Team Falcons,Sojourn,DPS,20,20,0.1176
+Team Falcons,Jetpack Cat,Support,18,18,0.1139
+Team Falcons,Vendetta,DPS,18,18,0.1059
+Team Falcons,Tracer,DPS,18,18,0.1059
+Team Falcons,Cassidy,DPS,15,15,0.0882
+Team Falcons,Ramattra,Tank,6,6,0.0857
+Team Falcons,Brigitte,Support,11,10,0.0633
+Team Falcons,Bastion,DPS,8,8,0.0471
+Team Falcons,Mauga,Tank,3,3,0.0429
+Team Falcons,Widowmaker,DPS,7,7,0.0412
+Team Falcons,Pharah,DPS,6,6,0.0353
+Team Falcons,Ana,Support,5,5,0.0316
+Team Falcons,Hanzo,DPS,5,5,0.0294
+Team Falcons,Winston,Tank,2,2,0.0286
+Team Falcons,Sigma,Tank,2,2,0.0286
+Team Falcons,Orisa,Tank,2,2,0.0286
+Team Falcons,Baptiste,Support,4,4,0.0253
+Team Falcons,Mei,DPS,4,4,0.0235
+Team Falcons,Genji,DPS,4,4,0.0235
+Team Falcons,Mizuki,Support,3,3,0.019
+Team Falcons,Anran,DPS,3,3,0.0176
+Team Falcons,Torbjörn,DPS,3,3,0.0176
+Team Falcons,Wrecking Ball,Tank,1,1,0.0143
+Team Falcons,Reinhardt,Tank,1,1,0.0143
+Team Falcons,Doomfist,Tank,1,1,0.0143
+Team Falcons,Wuyang,Support,2,2,0.0127
+Team Falcons,Lifeweaver,Support,2,2,0.0127
+Team Falcons,Reaper,DPS,2,2,0.0118
+Team Falcons,Echo,DPS,2,2,0.0118
+Team Falcons,Illari,Support,1,1,0.0063
+Team Falcons,Moira,Support,1,1,0.0063
+Team Falcons,Venture,DPS,1,1,0.0059
+Team Liquid,Kiriko,Support,33,30,0.283
+Team Liquid,Lúcio,Support,21,21,0.1981
+Team Liquid,Tracer,DPS,29,26,0.1857
+Team Liquid,D.Va,Tank,12,12,0.1791
+Team Liquid,Orisa,Tank,12,12,0.1791
+Team Liquid,Emre,DPS,25,25,0.1786
+Team Liquid,Juno,Support,17,16,0.1509
+Team Liquid,Wrecking Ball,Tank,10,10,0.1493
+Team Liquid,Brigitte,Support,15,15,0.1415
+Team Liquid,Vendetta,DPS,18,18,0.1286
+Team Liquid,Mauga,Tank,8,8,0.1194
+Team Liquid,Domina,Tank,7,7,0.1045
+Team Liquid,Symmetra,DPS,16,14,0.1
+Team Liquid,Sojourn,DPS,13,13,0.0929
+Team Liquid,Zarya,Tank,6,6,0.0896
+Team Liquid,Widowmaker,DPS,12,12,0.0857
+Team Liquid,Jetpack Cat,Support,8,8,0.0755
+Team Liquid,Winston,Tank,5,5,0.0746
+Team Liquid,Sigma,Tank,4,4,0.0597
+Team Liquid,Genji,DPS,7,7,0.05
+Team Liquid,Pharah,DPS,7,7,0.05
+Team Liquid,Cassidy,DPS,7,7,0.05
+Team Liquid,Wuyang,Support,5,5,0.0472
+Team Liquid,Illari,Support,4,4,0.0377
+Team Liquid,Ramattra,Tank,2,2,0.0299
+Team Liquid,Ana,Support,3,3,0.0283
+Team Liquid,Echo,DPS,3,3,0.0214
+Team Liquid,Mizuki,Support,2,2,0.0189
+Team Liquid,Reinhardt,Tank,1,1,0.0149
+Team Liquid,Anran,DPS,2,2,0.0143
+Team Liquid,Sombra,DPS,2,2,0.0143
+Team Liquid,Venture,DPS,2,2,0.0143
+Team Liquid,Lifeweaver,Support,1,1,0.0094
+Team Liquid,Baptiste,Support,1,1,0.0094
+Team Liquid,Hanzo,DPS,1,1,0.0071
+Team Liquid,Bastion,DPS,1,1,0.0071
+Team Peps,Zarya,Tank,14,14,0.25
+Team Peps,Lúcio,Support,26,23,0.25
+Team Peps,Kiriko,Support,21,21,0.2283
+Team Peps,Vendetta,DPS,20,20,0.2083
+Team Peps,Tracer,DPS,24,19,0.1979
+Team Peps,Emre,DPS,18,18,0.1875
+Team Peps,D.Va,Tank,10,10,0.1786
+Team Peps,Sojourn,DPS,15,15,0.1562
+Team Peps,Hazard,Tank,8,8,0.1429
+Team Peps,Juno,Support,15,13,0.1413
+Team Peps,Mauga,Tank,7,7,0.125
+Team Peps,Domina,Tank,6,6,0.1071
+Team Peps,Wrecking Ball,Tank,6,6,0.1071
+Team Peps,Brigitte,Support,8,8,0.087
+Team Peps,Jetpack Cat,Support,7,7,0.0761
+Team Peps,Winston,Tank,6,3,0.0536
+Team Peps,Widowmaker,DPS,5,5,0.0521
+Team Peps,Baptiste,Support,4,4,0.0435
+Team Peps,Zenyatta,Support,4,4,0.0435
+Team Peps,Ana,Support,7,4,0.0435
+Team Peps,Ramattra,Tank,2,2,0.0357
+Team Peps,Wuyang,Support,4,3,0.0326
+Team Peps,Mizuki,Support,3,3,0.0326
+Team Peps,Freja,DPS,3,3,0.0312
+Team Peps,Hanzo,DPS,3,3,0.0312
+Team Peps,Symmetra,DPS,3,3,0.0312
+Team Peps,Pharah,DPS,3,3,0.0312
+Team Peps,Genji,DPS,6,3,0.0312
+Team Peps,Anran,DPS,2,2,0.0208
+Team Peps,Mercy,Support,1,1,0.0109
+Team Peps,Lifeweaver,Support,1,1,0.0109
+Team Peps,Ashe,DPS,1,1,0.0104
+Team Peps,Soldier: 76,DPS,1,1,0.0104
+Team Secret,Wrecking Ball,Tank,11,11,0.5789
+Team Secret,Tracer,DPS,13,13,0.2453
+Team Secret,Emre,DPS,10,10,0.1887
+Team Secret,Symmetra,DPS,10,10,0.1887
+Team Secret,D.Va,Tank,3,3,0.1579
+Team Secret,Kiriko,Support,7,7,0.1321
+Team Secret,Juno,Support,7,7,0.1321
+Team Secret,Illari,Support,7,7,0.1321
+Team Secret,Brigitte,Support,6,6,0.1132
+Team Secret,Lúcio,Support,7,6,0.1132
+Team Secret,Hazard,Tank,2,2,0.1053
+Team Secret,Mizuki,Support,6,5,0.0943
+Team Secret,Baptiste,Support,5,5,0.0943
+Team Secret,Sojourn,DPS,4,4,0.0755
+Team Secret,Ana,Support,4,4,0.0755
+Team Secret,Vendetta,DPS,4,4,0.0755
+Team Secret,Widowmaker,DPS,3,3,0.0566
+Team Secret,Ramattra,Tank,1,1,0.0526
+Team Secret,Doomfist,Tank,1,1,0.0526
+Team Secret,Winston,Tank,1,1,0.0526
+Team Secret,Cassidy,DPS,2,2,0.0377
+Team Secret,Genji,DPS,2,2,0.0377
+Team Secret,Echo,DPS,2,2,0.0377
+Team Secret,Jetpack Cat,Support,2,2,0.0377
+Team Secret,Zenyatta,Support,2,2,0.0377
+Team Secret,Reaper,DPS,1,1,0.0189
+Team Secret,Moira,Support,1,1,0.0189
+Team Secret,Mercy,Support,1,1,0.0189
+Team Secret,Sierra,DPS,1,1,0.0189
+Team Secret,Hanzo,DPS,1,1,0.0189
+Telomere,Winston,Tank,9,9,0.2195
+Telomere,Kiriko,Support,18,15,0.2083
+Telomere,D.Va,Tank,8,8,0.1951
+Telomere,Ramattra,Tank,8,8,0.1951
+Telomere,Brigitte,Support,14,14,0.1944
+Telomere,Tracer,DPS,16,16,0.1882
+Telomere,Lúcio,Support,13,13,0.1806
+Telomere,Sojourn,DPS,13,13,0.1529
+Telomere,Juno,Support,11,11,0.1528
+Telomere,Symmetra,DPS,12,12,0.1412
+Telomere,Vendetta,DPS,11,11,0.1294
+Telomere,Emre,DPS,11,11,0.1294
+Telomere,Cassidy,DPS,9,9,0.1059
+Telomere,Zarya,Tank,4,4,0.0976
+Telomere,Ana,Support,6,6,0.0833
+Telomere,Reinhardt,Tank,3,3,0.0732
+Telomere,Baptiste,Support,5,5,0.0694
+Telomere,Moira,Support,4,4,0.0556
+Telomere,Hazard,Tank,2,2,0.0488
+Telomere,Mauga,Tank,2,2,0.0488
+Telomere,Mei,DPS,4,4,0.0471
+Telomere,Genji,DPS,3,3,0.0353
+Telomere,Wuyang,Support,3,2,0.0278
+Telomere,Sigma,Tank,1,1,0.0244
+Telomere,Doomfist,Tank,1,1,0.0244
+Telomere,Wrecking Ball,Tank,1,1,0.0244
+Telomere,Orisa,Tank,1,1,0.0244
+Telomere,Junker Queen,Tank,1,1,0.0244
+Telomere,Ashe,DPS,2,2,0.0235
+Telomere,Echo,DPS,2,2,0.0235
+Telomere,Widowmaker,DPS,2,2,0.0235
+Telomere,Mizuki,Support,1,1,0.0139
+Telomere,Illari,Support,1,1,0.0139
+The Gatos Guapos,D.Va,Tank,12,12,0.4444
+The Gatos Guapos,Kiriko,Support,12,12,0.2667
+The Gatos Guapos,Lúcio,Support,11,10,0.2222
+The Gatos Guapos,Emre,DPS,12,12,0.2105
+The Gatos Guapos,Tracer,DPS,9,9,0.1579
+The Gatos Guapos,Hazard,Tank,4,4,0.1481
+The Gatos Guapos,Juno,Support,6,6,0.1333
+The Gatos Guapos,Vendetta,DPS,7,7,0.1228
+The Gatos Guapos,Symmetra,DPS,8,7,0.1228
+The Gatos Guapos,Zarya,Tank,3,3,0.1111
+The Gatos Guapos,Ana,Support,5,5,0.1111
+The Gatos Guapos,Illari,Support,5,5,0.1111
+The Gatos Guapos,Ramattra,Tank,3,3,0.1111
+The Gatos Guapos,Jetpack Cat,Support,4,4,0.0889
+The Gatos Guapos,Anran,DPS,5,5,0.0877
+The Gatos Guapos,Reinhardt,Tank,2,2,0.0741
+The Gatos Guapos,Doomfist,Tank,2,2,0.0741
+The Gatos Guapos,Sojourn,DPS,4,4,0.0702
+The Gatos Guapos,Cassidy,DPS,3,3,0.0526
+The Gatos Guapos,Brigitte,Support,2,2,0.0444
+The Gatos Guapos,Mauga,Tank,1,1,0.037
+The Gatos Guapos,Widowmaker,DPS,2,2,0.0351
+The Gatos Guapos,Pharah,DPS,2,2,0.0351
+The Gatos Guapos,Mizuki,Support,1,1,0.0222
+The Gatos Guapos,Hanzo,DPS,1,1,0.0175
+The Gatos Guapos,Venture,DPS,1,1,0.0175
+The Gatos Guapos,Reaper,DPS,1,1,0.0175
+The Gatos Guapos,Genji,DPS,1,1,0.0175
+The Gatos Guapos,Bastion,DPS,1,1,0.0175
+The Gatos Guapos,Soldier: 76,DPS,1,1,0.0175
+Twisted Minds,Zarya,Tank,19,19,0.3878
+Twisted Minds,D.Va,Tank,17,17,0.3469
+Twisted Minds,Kiriko,Support,29,29,0.2788
+Twisted Minds,Lúcio,Support,29,28,0.2692
+Twisted Minds,Emre,DPS,28,28,0.2667
+Twisted Minds,Juno,Support,24,23,0.2212
+Twisted Minds,Tracer,DPS,25,23,0.219
+Twisted Minds,Vendetta,DPS,17,17,0.1619
+Twisted Minds,Sojourn,DPS,11,11,0.1048
+Twisted Minds,Domina,Tank,5,5,0.102
+Twisted Minds,Pharah,DPS,7,7,0.0667
+Twisted Minds,Widowmaker,DPS,8,7,0.0667
+Twisted Minds,Wrecking Ball,Tank,2,2,0.0408
+Twisted Minds,Sigma,Tank,2,2,0.0408
+Twisted Minds,Jetpack Cat,Support,4,4,0.0385
+Twisted Minds,Brigitte,Support,4,4,0.0385
+Twisted Minds,Mizuki,Support,3,3,0.0288
+Twisted Minds,Ana,Support,3,3,0.0288
+Twisted Minds,Illari,Support,3,3,0.0288
+Twisted Minds,Anran,DPS,3,3,0.0286
+Twisted Minds,Symmetra,DPS,3,3,0.0286
+Twisted Minds,Orisa,Tank,1,1,0.0204
+Twisted Minds,Ramattra,Tank,1,1,0.0204
+Twisted Minds,Mauga,Tank,1,1,0.0204
+Twisted Minds,Hazard,Tank,1,1,0.0204
+Twisted Minds,Wuyang,Support,2,2,0.0192
+Twisted Minds,Mercy,Support,2,2,0.0192
+Twisted Minds,Baptiste,Support,2,2,0.0192
+Twisted Minds,Genji,DPS,2,2,0.019
+Twisted Minds,Zenyatta,Support,1,1,0.0096
+Twisted Minds,Cassidy,DPS,1,1,0.0095
+Twisted Minds,Sombra,DPS,1,1,0.0095
+Twisted Minds,Echo,DPS,1,1,0.0095
+Twisted Minds,Hanzo,DPS,1,1,0.0095
+VARREL,D.Va,Tank,20,20,0.3279
+VARREL,Emre,DPS,27,27,0.2348
+VARREL,Hazard,Tank,13,13,0.2131
+VARREL,Jetpack Cat,Support,19,18,0.2045
+VARREL,Kiriko,Support,18,18,0.2045
+VARREL,Wuyang,Support,14,14,0.1591
+VARREL,Tracer,DPS,19,18,0.1565
+VARREL,Symmetra,DPS,18,18,0.1565
+VARREL,Ana,Support,13,13,0.1477
+VARREL,Vendetta,DPS,16,16,0.1391
+VARREL,Illari,Support,11,11,0.125
+VARREL,Zarya,Tank,7,7,0.1148
+VARREL,Orisa,Tank,7,7,0.1148
+VARREL,Ramattra,Tank,4,4,0.0656
+VARREL,Echo,DPS,7,7,0.0609
+VARREL,Baptiste,Support,5,5,0.0568
+VARREL,Cassidy,DPS,6,6,0.0522
+VARREL,Winston,Tank,3,3,0.0492
+VARREL,Wrecking Ball,Tank,3,3,0.0492
+VARREL,Sojourn,DPS,5,5,0.0435
+VARREL,Brigitte,Support,3,3,0.0341
+VARREL,Juno,Support,4,3,0.0341
+VARREL,Domina,Tank,2,2,0.0328
+VARREL,Sigma,Tank,2,2,0.0328
+VARREL,Widowmaker,DPS,3,3,0.0261
+VARREL,Mizuki,Support,2,2,0.0227
+VARREL,Freja,DPS,2,2,0.0174
+VARREL,Anran,DPS,2,2,0.0174
+VARREL,Venture,DPS,2,2,0.0174
+VARREL,Bastion,DPS,2,2,0.0174
+VARREL,Genji,DPS,2,2,0.0174
+VARREL,Pharah,DPS,2,2,0.0174
+VARREL,Lúcio,Support,1,1,0.0114
+VARREL,Ashe,DPS,1,1,0.0087
+VARREL,Mei,DPS,1,1,0.0087
+VARREL,Hanzo,DPS,1,1,0.0087
+Virtus.pro,Zarya,Tank,25,25,0.3968
+Virtus.pro,Kiriko,Support,31,31,0.3069
+Virtus.pro,Lúcio,Support,28,28,0.2772
+Virtus.pro,Emre,DPS,34,34,0.2764
+Virtus.pro,Tracer,DPS,28,27,0.2195
+Virtus.pro,D.Va,Tank,13,13,0.2063
+Virtus.pro,Vendetta,DPS,20,20,0.1626
+Virtus.pro,Domina,Tank,7,7,0.1111
+Virtus.pro,Juno,Support,11,11,0.1089
+Virtus.pro,Brigitte,Support,11,11,0.1089
+Virtus.pro,Jetpack Cat,Support,10,10,0.099
+Virtus.pro,Doomfist,Tank,5,5,0.0794
+Virtus.pro,Symmetra,DPS,9,9,0.0732
+Virtus.pro,Widowmaker,DPS,9,9,0.0732
+Virtus.pro,Hazard,Tank,4,4,0.0635
+Virtus.pro,Mauga,Tank,4,4,0.0635
+Virtus.pro,Pharah,DPS,7,7,0.0569
+Virtus.pro,Sojourn,DPS,6,6,0.0488
+Virtus.pro,Wrecking Ball,Tank,3,3,0.0476
+Virtus.pro,Cassidy,DPS,4,4,0.0325
+Virtus.pro,Baptiste,Support,3,3,0.0297
+Virtus.pro,Echo,DPS,3,3,0.0244
+Virtus.pro,Mizuki,Support,2,2,0.0198
+Virtus.pro,Anran,DPS,2,2,0.0163
+Virtus.pro,Reinhardt,Tank,1,1,0.0159
+Virtus.pro,Ramattra,Tank,1,1,0.0159
+Virtus.pro,Zenyatta,Support,1,1,0.0099
+Virtus.pro,Illari,Support,1,1,0.0099
+Virtus.pro,Wuyang,Support,1,1,0.0099
+Virtus.pro,Mercy,Support,1,1,0.0099
+Virtus.pro,Ana,Support,1,1,0.0099
+Virtus.pro,Hanzo,DPS,1,1,0.0081
+Virtus.pro,Bastion,DPS,1,1,0.0081
+Weibo Gaming,Zarya,Tank,16,16,0.25
+Weibo Gaming,Kiriko,Support,35,32,0.2424
+Weibo Gaming,Lúcio,Support,27,25,0.1894
+Weibo Gaming,Mauga,Tank,11,11,0.1719
+Weibo Gaming,Emre,DPS,22,22,0.1549
+Weibo Gaming,Symmetra,DPS,22,21,0.1479
+Weibo Gaming,Jetpack Cat,Support,19,19,0.1439
+Weibo Gaming,D.Va,Tank,9,9,0.1406
+Weibo Gaming,Sojourn,DPS,19,19,0.1338
+Weibo Gaming,Tracer,DPS,20,19,0.1338
+Weibo Gaming,Hazard,Tank,8,8,0.125
+Weibo Gaming,Ana,Support,15,15,0.1136
+Weibo Gaming,Juno,Support,14,14,0.1061
+Weibo Gaming,Vendetta,DPS,14,14,0.0986
+Weibo Gaming,Winston,Tank,6,6,0.0938
+Weibo Gaming,Pharah,DPS,10,10,0.0704
+Weibo Gaming,Bastion,DPS,10,10,0.0704
+Weibo Gaming,Sigma,Tank,4,4,0.0625
+Weibo Gaming,Brigitte,Support,8,8,0.0606
+Weibo Gaming,Illari,Support,7,7,0.053
+Weibo Gaming,Doomfist,Tank,3,3,0.0469
+Weibo Gaming,Baptiste,Support,6,6,0.0455
+Weibo Gaming,Domina,Tank,2,2,0.0312
+Weibo Gaming,Orisa,Tank,2,2,0.0312
+Weibo Gaming,Ramattra,Tank,2,2,0.0312
+Weibo Gaming,Wuyang,Support,4,4,0.0303
+Weibo Gaming,Widowmaker,DPS,4,4,0.0282
+Weibo Gaming,Sierra,DPS,4,4,0.0282
+Weibo Gaming,Venture,DPS,3,3,0.0211
+Weibo Gaming,Genji,DPS,3,3,0.0211
+Weibo Gaming,Reaper,DPS,3,3,0.0211
+Weibo Gaming,Wrecking Ball,Tank,1,1,0.0156
+Weibo Gaming,Anran,DPS,2,2,0.0141
+Weibo Gaming,Mei,DPS,2,2,0.0141
+Weibo Gaming,Cassidy,DPS,2,2,0.0141
+Weibo Gaming,Mizuki,Support,1,1,0.0076
+Weibo Gaming,Mercy,Support,1,1,0.0076
+Weibo Gaming,Ashe,DPS,1,1,0.007
+Weibo Gaming,Freja,DPS,1,1,0.007
+Weibo Gaming,Hanzo,DPS,1,1,0.007
+Weibo Gaming,Echo,DPS,1,1,0.007
+ZAN Esports,Kiriko,Support,27,27,0.3034
+ZAN Esports,Lúcio,Support,26,26,0.2921
+ZAN Esports,D.Va,Tank,15,15,0.2381
+ZAN Esports,Zarya,Tank,12,12,0.1905
+ZAN Esports,Doomfist,Tank,11,11,0.1746
+ZAN Esports,Vendetta,DPS,17,17,0.1619
+ZAN Esports,Juno,Support,14,14,0.1573
+ZAN Esports,Sojourn,DPS,16,16,0.1524
+ZAN Esports,Emre,DPS,16,16,0.1524
+ZAN Esports,Tracer,DPS,15,15,0.1429
+ZAN Esports,Hazard,Tank,9,9,0.1429
+ZAN Esports,Symmetra,DPS,13,12,0.1143
+ZAN Esports,Wrecking Ball,Tank,5,5,0.0794
+ZAN Esports,Ana,Support,6,6,0.0674
+ZAN Esports,Bastion,DPS,7,7,0.0667
+ZAN Esports,Pharah,DPS,6,6,0.0571
+ZAN Esports,Brigitte,Support,5,5,0.0562
+ZAN Esports,Jetpack Cat,Support,5,5,0.0562
+ZAN Esports,Orisa,Tank,3,3,0.0476
+ZAN Esports,Ramattra,Tank,2,2,0.0317
+ZAN Esports,Winston,Tank,2,2,0.0317
+ZAN Esports,Sigma,Tank,2,2,0.0317
+ZAN Esports,Genji,DPS,3,3,0.0286
+ZAN Esports,Cassidy,DPS,3,3,0.0286
+ZAN Esports,Mei,DPS,3,3,0.0286
+ZAN Esports,Widowmaker,DPS,3,3,0.0286
+ZAN Esports,Lifeweaver,Support,2,2,0.0225
+ZAN Esports,Illari,Support,2,2,0.0225
+ZAN Esports,Venture,DPS,2,2,0.019
+ZAN Esports,Reinhardt,Tank,1,1,0.0159
+ZAN Esports,Mauga,Tank,1,1,0.0159
+ZAN Esports,Wuyang,Support,1,1,0.0112
+ZAN Esports,Baptiste,Support,1,1,0.0112
+ZAN Esports,Echo,DPS,1,1,0.0095
+ZAN Esports,Anran,DPS,1,1,0.0095
+ZETA DIVISION,D.Va,Tank,15,15,0.2113
+ZETA DIVISION,Ana,Support,22,22,0.1947
+ZETA DIVISION,Tracer,DPS,31,30,0.1818
+ZETA DIVISION,Zarya,Tank,11,11,0.1549
+ZETA DIVISION,Wrecking Ball,Tank,11,11,0.1549
+ZETA DIVISION,Symmetra,DPS,26,24,0.1455
+ZETA DIVISION,Kiriko,Support,16,16,0.1416
+ZETA DIVISION,Jetpack Cat,Support,16,16,0.1416
+ZETA DIVISION,Illari,Support,15,15,0.1327
+ZETA DIVISION,Winston,Tank,9,9,0.1268
+ZETA DIVISION,Lúcio,Support,15,14,0.1239
+ZETA DIVISION,Juno,Support,14,14,0.1239
+ZETA DIVISION,Emre,DPS,19,19,0.1152
+ZETA DIVISION,Sojourn,DPS,16,15,0.0909
+ZETA DIVISION,Orisa,Tank,6,6,0.0845
+ZETA DIVISION,Doomfist,Tank,5,5,0.0704
+ZETA DIVISION,Mauga,Tank,5,5,0.0704
+ZETA DIVISION,Cassidy,DPS,12,11,0.0667
+ZETA DIVISION,Brigitte,Support,7,7,0.0619
+ZETA DIVISION,Baptiste,Support,6,6,0.0531
+ZETA DIVISION,Vendetta,DPS,8,8,0.0485
+ZETA DIVISION,Mei,DPS,10,8,0.0485
+ZETA DIVISION,Pharah,DPS,7,7,0.0424
+ZETA DIVISION,Echo,DPS,7,7,0.0424
+ZETA DIVISION,Genji,DPS,7,7,0.0424
+ZETA DIVISION,Bastion,DPS,8,7,0.0424
+ZETA DIVISION,Sigma,Tank,3,3,0.0423
+ZETA DIVISION,Ramattra,Tank,3,3,0.0423
+ZETA DIVISION,Widowmaker,DPS,7,6,0.0364
+ZETA DIVISION,Venture,DPS,5,5,0.0303
+ZETA DIVISION,Domina,Tank,2,2,0.0282
+ZETA DIVISION,Sombra,DPS,4,4,0.0242
+ZETA DIVISION,Reaper,DPS,3,3,0.0182
+ZETA DIVISION,Hazard,Tank,1,1,0.0141
+ZETA DIVISION,Sierra,DPS,2,2,0.0121
+ZETA DIVISION,Wuyang,Support,1,1,0.0088
+ZETA DIVISION,Zenyatta,Support,1,1,0.0088
+ZETA DIVISION,Lifeweaver,Support,1,1,0.0088
+ZETA DIVISION,Hanzo,DPS,1,1,0.0061
+ZETA DIVISION,Ashe,DPS,1,1,0.0061
